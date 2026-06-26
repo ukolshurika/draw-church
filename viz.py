@@ -627,9 +627,6 @@ document.getElementById('save-btn').addEventListener('click', function() {{
 
 // ── startup ─────────────────────────────────────────────────────────
 var defaultIdx = 0;
-for (var j = 0; j < COMPONENTS.length; j++) {{
-  if (COMPONENTS[j].size <= 40) {{ defaultIdx = j; break; }}
-}}
 document.getElementById('comp').value = defaultIdx;
 loadComponent(defaultIdx);
 </script>
