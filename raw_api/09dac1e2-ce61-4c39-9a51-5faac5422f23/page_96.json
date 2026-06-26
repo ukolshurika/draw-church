@@ -1,0 +1,346 @@
+{
+  "year": 1882,
+  "page": 96,
+  "node_id": "ba6ab633-8c2f-4446-b46a-af4ad9b1b972",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 538,
+        "width": 3796,
+        "x": 752,
+        "y": 1062
+      },
+      "entry_id": "ba6ab633-8c2f-4446-b46a-af4ad9b1b972_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Клейменово",
+          "info": "крестьянин",
+          "name": "Исидор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Агафоников",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Агафоников",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Клейменово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "24",
+          "geo": "Серпуховский уезд, Алексеевская волость, деревня Клейменово",
+          "info": "крестьянская дочь",
+          "name": "Марья",
+          "second_name": "Сидорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "36",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 523,
+        "width": 3717,
+        "x": 732,
+        "y": 1782
+      },
+      "entry_id": "ba6ab633-8c2f-4446-b46a-af4ad9b1b972_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Екатериновка",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Екатериновка",
+          "info": "крестьянин",
+          "name": "Тарас",
+          "second_name": "Арефьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Тарусский уезд, Троицкая волость, деревня Екатериновка",
+          "info": "крестьянская дочь",
+          "name": "Дарья",
+          "second_name": "Филипова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "27",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Мокрово",
+          "info": "крестьянин",
+          "name": "Лавр",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мокрово",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мокрово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 708,
+        "width": 3701,
+        "x": 735,
+        "y": 2397
+      },
+      "entry_id": "ba6ab633-8c2f-4446-b46a-af4ad9b1b972_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "107-й пехотный Троицкий полк, ефрейтор",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Орлов"
+        },
+        {
+          "age": "22",
+          "geo": "Тульская губерния, Одоевский уезд, Ясеновская волость",
+          "info": "причисленный крестьянин",
+          "name": "Ефим",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Глазово",
+          "info": "сельца Дронова крестьянин",
+          "name": "Павел",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Глазово",
+          "info": "сельца Дронова крестьянин",
+          "name": "Епифан",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Уткин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Забалуев"
+        },
+        {
+          "age": "17",
+          "geo": "Тульская губерния, Алексинский уезд, Сотинская волость, сельцо Егнышевка",
+          "info": "причисленная крестьянка",
+          "name": "Дарья",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Капцева"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 861,
+        "width": 3701,
+        "x": 741,
+        "y": 3007
+      },
+      "entry_id": "ba6ab633-8c2f-4446-b46a-af4ad9b1b972_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "107-й пехотный Троицкий полк",
+          "info": "ефрейтор, временно отпускной",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Орлов"
+        },
+        {
+          "age": "18",
+          "geo": "Туровская волость, сельцо Соймоново",
+          "info": "крестьянская дочь",
+          "name": "Ольга",
+          "second_name": "Флорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Дроново",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "21",
+          "geo": "Тульская губерния, Алексинский уезд, Сотинская волость, сельцо Егнышевка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Забалуев"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Соймоново",
+          "info": "крестьянин",
+          "name": "Флор",
+          "second_name": "Федосеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазово",
+          "info": "крестьянин",
+          "name": "Епифан",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Уткин"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазово",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Брежнев"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечна",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "27-й Симбирский полк",
+          "info": "безсрочно отпускной рядовой",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Качалкин"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

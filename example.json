@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "first_name": "Татиана",
+    "patronymic": null,
+    "year": 1882,
+    "relation_type": "Родившийся",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "сельцо Злобино"
+  },
+  {
+    "id": 2,
+    "first_name": "Феодосия",
+    "patronymic": "Павлова",
+    "year": 1882,
+    "relation_type": "Родитель",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "сельцо Злобино"
+  },
+  {
+    "id": 3,
+    "first_name": "Алексей",
+    "patronymic": "Михайлов",
+    "year": 1882,
+    "relation_type": "Восприемник",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "сельцо Злобино"
+  },
+  {
+    "id": 4,
+    "first_name": "Варвара",
+    "patronymic": "Андреева",
+    "year": 1882,
+    "relation_type": "Восприемник",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": null
+  },
+  {
+    "id": 5,
+    "first_name": "Иоанн",
+    "patronymic": "Феодоров",
+    "year": 1882,
+    "relation_type": "Родившийся",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "Алексинский уезд, Кошкинская волость, село"
+  },
+  {
+    "id": 6,
+    "first_name": "Феодор",
+    "patronymic": "Дмитриев",
+    "year": 1882,
+    "relation_type": "Родитель",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "Алексинский уезд, Кошкинская волость, село"
+  },
+  {
+    "id": 7,
+    "first_name": "Евдокия",
+    "patronymic": "Иванова",
+    "year": 1882,
+    "relation_type": "Родитель",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": null
+  },
+  {
+    "id": 8,
+    "first_name": "Василий",
+    "patronymic": "Михайлов",
+    "year": 1882,
+    "relation_type": "Восприемник",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "Высотская волость, деревня Борисово"
+  },
+  {
+    "id": 9,
+    "first_name": "Домника",
+    "patronymic": "Иванова",
+    "year": 1882,
+    "relation_type": "Восприемник",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "Серпухов"
+  },
+  {
+    "id": 10,
+    "first_name": "Иван",
+    "patronymic": "Павлов",
+    "year": 1882,
+    "relation_type": "Жених",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Серпуховский уезд, Пущинская волость, сельцо Злобино"
+  },
+  {
+    "id": 11,
+    "first_name": "Анна",
+    "patronymic": "Николаева",
+    "year": 1882,
+    "relation_type": "Невеста",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Пущинская волость, сельцо Тверизино"
+  },
+  {
+    "id": 12,
+    "first_name": "Николай",
+    "patronymic": "Алексеев",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "сельцо Тверизино"
+  },
+  {
+    "id": 13,
+    "first_name": "Сергей",
+    "patronymic": "Алексеев",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "сельцо Тверизино"
+  },
+  {
+    "id": 14,
+    "first_name": "Фотий",
+    "patronymic": "Данилов",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Серпуховский уезд, сельцо Злобино"
+  },
+  {
+    "id": 15,
+    "first_name": "Николай",
+    "patronymic": "Данилов",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Серпуховский уезд, сельцо Злобино"
+  },
+  {
+    "id": 16,
+    "first_name": "Алексей",
+    "patronymic": "Семенов",
+    "year": 1882,
+    "relation_type": "Жених",
+    "record_type": "Бракосочетание",
+    "landowner": "Новосильцева",
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 17,
+    "first_name": "Елисавета",
+    "patronymic": "Тимофеева",
+    "year": 1882,
+    "relation_type": "Невеста",
+    "record_type": "Бракосочетание",
+    "landowner": "Новосильцева",
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 18,
+    "first_name": "Иван",
+    "patronymic": "Никифоров",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 19,
+    "first_name": "Александр",
+    "patronymic": "Семенов",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": "Новосильцева",
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 20,
+    "first_name": "Яков",
+    "patronymic": "Стефанов",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": "Новосильцева",
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 21,
+    "first_name": "Гавриил",
+    "patronymic": "Феодоров",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": "Новосильцева",
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  },
+  {
+    "id": 22,
+    "first_name": "Аверкий",
+    "patronymic": "Андреев",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "сельцо Пущино"
+  },
+  {
+    "id": 23,
+    "first_name": "Алексей",
+    "patronymic": "Алексеев",
+    "year": 1882,
+    "relation_type": "Свидетель",
+    "record_type": "Бракосочетание",
+    "landowner": null,
+    "settlement": "Серпуховский уезд, деревня Гавшино"
+  }
+]

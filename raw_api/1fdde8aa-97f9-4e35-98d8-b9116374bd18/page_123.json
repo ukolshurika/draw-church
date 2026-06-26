@@ -1,0 +1,443 @@
+{
+  "year": 1883,
+  "page": 123,
+  "node_id": "d9156bd0-aab0-4e70-896f-a348f0449b21",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 322,
+        "width": 3014,
+        "x": 924,
+        "y": 1098
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "запасный унтер-офицер",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Суслова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Пелагея",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "запасный рядовой",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Суслов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Суслова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 340,
+        "width": 2982,
+        "x": 942,
+        "y": 1427
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "запасный рядовой",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Суслов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Суслова"
+        },
+        {
+          "age": "",
+          "geo": "город Серпухов",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васюков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Суслов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 3015,
+        "x": 936,
+        "y": 1803
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Богдановская волость, деревня Халина",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховская мещанка",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Татьяна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Бортниковская волость, село Лопатина",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 392,
+        "width": 2989,
+        "x": 943,
+        "y": 2286
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Малоярославская мещанка",
+          "name": "Анна",
+          "second_name": "Сократова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Веневский уезд, Юдинская волость, деревня Прудки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Калиново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Архипов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 333,
+        "width": 3002,
+        "x": 934,
+        "y": 2705
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Агрипина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Серинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Серинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Серинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Дамиан",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бердоносов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 2992,
+        "x": 948,
+        "y": 3101
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Стромилово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Спасоношкинская волость, сельцо Лодырево",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 467,
+        "width": 3003,
+        "x": 951,
+        "y": 3531
+      },
+      "entry_id": "d9156bd0-aab0-4e70-896f-a348f0449b21_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Савинский уезд, село Татьянинское",
+          "info": "солдатка",
+          "name": "Анна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Спасская волость, сельцо Никольское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "Савинский уезд, деревня Чигодаево",
+          "info": "запасный рядовой",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

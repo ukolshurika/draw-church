@@ -1,0 +1,380 @@
+{
+  "year": 1883,
+  "page": 137,
+  "node_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 370,
+        "width": 3038,
+        "x": 1013,
+        "y": 1112
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Богдановская волость, село Халина",
+          "info": "крестьянская вдова",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сурина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сурин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Артемьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хозмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антоний",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сурин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 3021,
+        "x": 1012,
+        "y": 1537
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мавра",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Широкова"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Испанская волость, сельцо Юрятино, 5-я дивизия, 19-й Костромской полк",
+          "info": "запасный рядовой",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Широков"
+        },
+        {
+          "age": "",
+          "geo": "село Волковское",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Широкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 325,
+        "width": 3022,
+        "x": 1009,
+        "y": 2105
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Евтропиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Ящерово",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Ховики",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Филипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 392,
+        "width": 3038,
+        "x": 1004,
+        "y": 2480
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бронная Слобода",
+          "info": "московский мещанин",
+          "name": "Федот",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щинков"
+        },
+        {
+          "age": "",
+          "geo": "Серпухов",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Забалуев"
+        },
+        {
+          "age": "",
+          "geo": "Серпухов",
+          "info": "мещанка",
+          "name": "Васса",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Забалуева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щинкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Щинкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 362,
+        "width": 3039,
+        "x": 1009,
+        "y": 2912
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховской уезд",
+          "info": "мещанка",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагея",
+          "second_name": "Евграфова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, село Вязищево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Филипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховской уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 515,
+        "width": 3058,
+        "x": 996,
+        "y": 3355
+      },
+      "entry_id": "2aa94bd7-0f3f-4f98-a284-c36a0371b40f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Козельский уезд, Губинская волость, деревня Клюксы",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Дементьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чижов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховской уезд",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "Тульский уезд, село Татевское",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Муромцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Хрисанфова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чижова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Илия",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чижов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

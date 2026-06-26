@@ -1,0 +1,452 @@
+{
+  "year": 1882,
+  "page": 71,
+  "node_id": "0471b841-9899-4629-bc69-619a93120596",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 352,
+        "width": 3056,
+        "x": 931,
+        "y": 1504
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Исканская волость, село Игнатовское",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Панкино",
+          "info": "крестьянка",
+          "name": "Стефанида",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Яковлевская волость, деревня Панкино",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 3060,
+        "x": 921,
+        "y": 1847
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лукина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Косьма",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "Васильевская волость, село Лукино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феофилактов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лукин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Косьмина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузьмина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 338,
+        "width": 3042,
+        "x": 946,
+        "y": 2187
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Косьма",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "каширский мещанин",
+          "name": "Алексей",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "каширский мещанин",
+          "name": "Василий",
+          "second_name": "Розанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Заборье",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кочергина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Косьмина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузьмина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 347,
+        "width": 3053,
+        "x": 939,
+        "y": 2518
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Кошкинская волость, село Волкович",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хайдинин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сидорова",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хайдинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "исправник",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Испр."
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Антон",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хайдинин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 369,
+        "width": 3043,
+        "x": 944,
+        "y": 2918
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Ершово",
+          "info": "",
+          "name": "Праскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сударева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Праскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сударева"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Симоновская волость, сельцо Желѣзнин",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Желѣзнин"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сударев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 3075,
+        "x": 923,
+        "y": 3259
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Рождествино",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, Липицкая волость, деревня Мещерино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденный",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Яковлевская волость, село Рождествино",
+          "info": "крестьянская девица",
+          "name": "Ирина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 381,
+        "width": 3074,
+        "x": 924,
+        "y": 3620
+      },
+      "entry_id": "0471b841-9899-4629-bc69-619a93120596_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Вантиново",
+          "info": "крестьянская девица",
+          "name": "Праскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "город Серпухов",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бескадаров"
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, Большегрызловская волость, деревня Харина",
+          "info": "405 Оренбургского полка запасный рядовой",
+          "name": "Иван",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Оленчиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Оленчикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Оленчиков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

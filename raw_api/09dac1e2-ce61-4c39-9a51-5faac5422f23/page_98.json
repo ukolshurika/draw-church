@@ -1,0 +1,296 @@
+{
+  "year": 1882,
+  "page": 98,
+  "node_id": "c33b62ec-4347-4895-bfd7-f2d72a6ce5b9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 445,
+        "width": 3699,
+        "x": 762,
+        "y": 1153
+      },
+      "entry_id": "c33b62ec-4347-4895-bfd7-f2d72a6ce5b9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Широких"
+        },
+        {
+          "age": "21",
+          "geo": "",
+          "info": "купеческая дочь",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Широких (Успенская)"
+        },
+        {
+          "age": "32",
+          "geo": "Гостиная слобода",
+          "info": "московский мещанин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Широких"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Панин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Александр",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский советник",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Бегачев"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 475,
+        "width": 3684,
+        "x": 782,
+        "y": 1658
+      },
+      "entry_id": "c33b62ec-4347-4895-bfd7-f2d72a6ce5b9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Толбосов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Толбосов"
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Высоково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд, село Капустино",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Порфириев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "21",
+          "geo": "Серпухоский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Логинов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 694,
+        "width": 3707,
+        "x": 759,
+        "y": 2353
+      },
+      "entry_id": "c33b62ec-4347-4895-bfd7-f2d72a6ce5b9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Рыблова",
+          "info": "безсрочноотпускной рядовой",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Байдаков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мартьяново",
+          "info": "крестьянин",
+          "name": "Антип",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Рыбкова",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "28",
+          "geo": "деревня Иванчаково",
+          "info": "резервного пехотного кадрового батальона рядовой",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Иванов"
+        },
+        {
+          "age": "24",
+          "geo": "Высотская волость, Серпуховский уезд",
+          "info": "крестьянская девица",
+          "name": "Варвара",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Глазечки",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 3702,
+        "x": 767,
+        "y": 3352
+      },
+      "entry_id": "c33b62ec-4347-4895-bfd7-f2d72a6ce5b9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Ивантиново",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Ивантиново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Мокрово",
+          "info": "крестьянский сын",
+          "name": "Григорий",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Мокрово",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Серпуховский уезд, деревня Ивантиново",
+          "info": "крестьянская девица",
+          "name": "Мавра",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Мокрово",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Ананьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

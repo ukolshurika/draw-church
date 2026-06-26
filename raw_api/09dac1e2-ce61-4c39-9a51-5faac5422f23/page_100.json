@@ -1,0 +1,314 @@
+{
+  "year": 1882,
+  "page": 100,
+  "node_id": "a1d3ff62-8a8c-45f5-a139-e39cff0e53d7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 490,
+        "width": 3697,
+        "x": 753,
+        "y": 1061
+      },
+      "entry_id": "a1d3ff62-8a8c-45f5-a139-e39cff0e53d7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Алексей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Гоголин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Беляев"
+        },
+        {
+          "age": "22",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Беляев"
+        },
+        {
+          "age": "21",
+          "geo": "",
+          "info": "серпуховская мещанская дочь",
+          "name": "Варвара",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Юркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Юрков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 3697,
+        "x": 744,
+        "y": 1465
+      },
+      "entry_id": "a1d3ff62-8a8c-45f5-a139-e39cff0e53d7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Алексей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Беляев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Коблунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Валентин",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Митрофанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Юрков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Каблунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Андрей",
+          "second_name": "Митриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Трофимов"
+        },
+        {
+          "age": "19",
+          "geo": "",
+          "info": "серпуховская мещанка",
+          "name": "Агапия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Вислоусова (Коблукова)"
+        },
+        {
+          "age": "22",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Вислоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Гоголин"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 3665,
+        "x": 741,
+        "y": 2165
+      },
+      "entry_id": "a1d3ff62-8a8c-45f5-a139-e39cff0e53d7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Лукино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "21",
+          "geo": "Серпуховский уезд, деревня Лукино",
+          "info": "крестьянская девица",
+          "name": "Татиана",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "запасный рядовой",
+          "name": "Николай",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

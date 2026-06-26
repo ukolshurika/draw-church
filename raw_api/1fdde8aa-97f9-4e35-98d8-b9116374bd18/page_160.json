@@ -1,0 +1,224 @@
+{
+  "year": 1883,
+  "page": 160,
+  "node_id": "d786ac8c-2fac-44b3-9e0d-f93fd6e48c7d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 583,
+        "width": 3668,
+        "x": 768,
+        "y": 1105
+      },
+      "entry_id": "d786ac8c-2fac-44b3-9e0d-f93fd6e48c7d_0",
+      "people": [
+        {
+          "age": "20",
+          "geo": "Серпуховский уезд",
+          "info": "мещанка",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Капцова (Зенина)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Зенин"
+        },
+        {
+          "age": "24",
+          "geo": "Одоевский уезд, Ясеновская волость, Тульская губерния",
+          "info": "причисленный",
+          "name": "Петр",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Капцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Куприянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Шурунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Чернов"
+        },
+        {
+          "age": "",
+          "geo": "Ясеновская волость, Одоевский уезд, Тульская губерния",
+          "info": "причисленный",
+          "name": "Максим",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Капцов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 558,
+        "width": 3711,
+        "x": 790,
+        "y": 2180
+      },
+      "entry_id": "d786ac8c-2fac-44b3-9e0d-f93fd6e48c7d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Кандырин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Андрей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Шишков"
+        },
+        {
+          "age": "21",
+          "geo": "Хатунская волость, деревня Бардыбино",
+          "info": "крестьянская девица",
+          "name": "Праскева",
+          "second_name": "Фокина",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Дивилова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бардыбино",
+          "info": "крестьянин",
+          "name": "Андриан",
+          "second_name": "Лазарев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Тихон",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Шишков"
+        },
+        {
+          "age": "19",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Дивилов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 603,
+        "width": 3685,
+        "x": 774,
+        "y": 2983
+      },
+      "entry_id": "d786ac8c-2fac-44b3-9e0d-f93fd6e48c7d_2",
+      "people": [
+        {
+          "age": "21",
+          "geo": "Серпуховский уезд, Алексеевская волость, деревня Бутырки",
+          "info": "крестьянская девица",
+          "name": "Иустина",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Бутырки",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бутырки",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "32",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

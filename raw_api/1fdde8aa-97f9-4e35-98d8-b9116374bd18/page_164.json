@@ -1,0 +1,224 @@
+{
+  "year": 1883,
+  "page": 164,
+  "node_id": "eb7177ac-3cf2-4113-b093-5d9eb5c6e162",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 401,
+        "width": 3640,
+        "x": 804,
+        "y": 1123
+      },
+      "entry_id": "eb7177ac-3cf2-4113-b093-5d9eb5c6e162_2",
+      "people": [
+        {
+          "age": "20",
+          "geo": "Алексинский уезд, Яковлевская волость, деревня Костина",
+          "info": "крестьянская дочь",
+          "name": "Екатерина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Владычная Слобода",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Кубышкин"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазеево",
+          "info": "крестьянский сын",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 3685,
+        "x": 802,
+        "y": 1518
+      },
+      "entry_id": "eb7177ac-3cf2-4113-b093-5d9eb5c6e162_0",
+      "people": [
+        {
+          "age": "20",
+          "geo": "",
+          "info": "питомка Московского Воспитательного Дома",
+          "name": "Елизавета",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Конопаткина"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "27",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Конопаткин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Скребухово",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Скребухово",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 3659,
+        "x": 805,
+        "y": 2033
+      },
+      "entry_id": "eb7177ac-3cf2-4113-b093-5d9eb5c6e162_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Кузменки",
+          "info": "серпуховского уезда крестьянин",
+          "name": "Яков",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Ступин"
+        },
+        {
+          "age": "28",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Свиридов"
+        },
+        {
+          "age": "24",
+          "geo": "село Кузменки",
+          "info": "крестьянская дочь",
+          "name": "Матрона",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Спиридонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Никитский"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

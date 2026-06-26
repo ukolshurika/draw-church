@@ -1,0 +1,34 @@
+[
+  {"source_id": 1, "target_id": 2, "relation": "child_of"},
+  {"source_id": 3, "target_id": 1, "relation": "godparent_of"},
+  {"source_id": 4, "target_id": 1, "relation": "godparent_of"},
+
+  {"source_id": 5, "target_id": 6, "relation": "child_of"},
+  {"source_id": 5, "target_id": 7, "relation": "child_of"},
+  {"source_id": 8, "target_id": 5, "relation": "godparent_of"},
+  {"source_id": 9, "target_id": 5, "relation": "godparent_of"},
+
+  {"source_id": 10, "target_id": 11, "relation": "married_to"},
+  {"source_id": 12, "target_id": 10, "relation": "witnessed_for"},
+  {"source_id": 12, "target_id": 11, "relation": "witnessed_for"},
+  {"source_id": 13, "target_id": 10, "relation": "witnessed_for"},
+  {"source_id": 13, "target_id": 11, "relation": "witnessed_for"},
+  {"source_id": 14, "target_id": 10, "relation": "witnessed_for"},
+  {"source_id": 14, "target_id": 11, "relation": "witnessed_for"},
+  {"source_id": 15, "target_id": 10, "relation": "witnessed_for"},
+  {"source_id": 15, "target_id": 11, "relation": "witnessed_for"},
+
+  {"source_id": 16, "target_id": 17, "relation": "married_to"},
+  {"source_id": 18, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 18, "target_id": 17, "relation": "witnessed_for"},
+  {"source_id": 19, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 19, "target_id": 17, "relation": "witnessed_for"},
+  {"source_id": 20, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 20, "target_id": 17, "relation": "witnessed_for"},
+  {"source_id": 21, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 21, "target_id": 17, "relation": "witnessed_for"},
+  {"source_id": 22, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 22, "target_id": 17, "relation": "witnessed_for"},
+  {"source_id": 23, "target_id": 16, "relation": "witnessed_for"},
+  {"source_id": 23, "target_id": 17, "relation": "witnessed_for"}
+]

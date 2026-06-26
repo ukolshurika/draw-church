@@ -1,0 +1,306 @@
+{
+  "year": 1883,
+  "page": 158,
+  "node_id": "c0317fb8-60b7-4fff-a4dd-dd9348f32222",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 764,
+        "width": 3678,
+        "x": 783,
+        "y": 1185
+      },
+      "entry_id": "c0317fb8-60b7-4fff-a4dd-dd9348f32222_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, Ясеновская волость",
+          "info": "причисленный",
+          "name": "Прокопий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазино",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "30",
+          "geo": "Тульская губерния, Одоевский уезд, Ясеновская волость",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, Ясеновская волость",
+          "info": "причисленный",
+          "name": "Павел",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "38",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазино",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 645,
+        "width": 3717,
+        "x": 779,
+        "y": 2055
+      },
+      "entry_id": "c0317fb8-60b7-4fff-a4dd-dd9348f32222_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Илья",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Костяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Сергей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Савельев"
+        },
+        {
+          "age": "",
+          "geo": "Хатунская волость, деревня Тарбеево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Вавилов"
+        },
+        {
+          "age": "19",
+          "geo": "",
+          "info": "серпуховская мещанская дочь",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Вавилова (Дмитриева)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тарусский мещанин",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Губин"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 728,
+        "width": 3777,
+        "x": 784,
+        "y": 2751
+      },
+      "entry_id": "c0317fb8-60b7-4fff-a4dd-dd9348f32222_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Куртинская волость",
+          "info": "причисленный к Куртинской волости",
+          "name": "Илья",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Шубин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Заболуев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Хатунцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Александр",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "26",
+          "geo": "Калужская губерния, Мосальский уезд, деревня Проход",
+          "info": "девица",
+          "name": "Акилина",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Шубина (Смирнова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Семен",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "20",
+          "geo": "Коломенский уезд, Куртинская волость",
+          "info": "причисленный крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Шубин"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 3864,
+        "x": 795,
+        "y": 3438
+      },
+      "entry_id": "c0317fb8-60b7-4fff-a4dd-dd9348f32222_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Михаил",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Прозоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Леонид",
+          "second_name": "Кондратов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Чернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Василий",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "серпуховская мещанка",
+          "name": "Ксения",
+          "second_name": "Кондратова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Михайлова (Чернова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Петр",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Чернов"
+        },
+        {
+          "age": "27",
+          "geo": "",
+          "info": "младший унтер-офицер 7-го понтонного батальона",
+          "name": "Павел",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Михайлов"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

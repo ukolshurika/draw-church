@@ -1,0 +1,350 @@
+{
+  "year": 1885,
+  "page": 167,
+  "node_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 343,
+        "width": 3143,
+        "x": 1072,
+        "y": 1576
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Калиново",
+          "info": "крестьянская девица",
+          "name": "Дарья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанский уезд, Ямская волость, село Пущино",
+          "info": "запасный рядовой",
+          "name": "Петр",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, сельцо Дроново",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагея",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 400,
+        "width": 3122,
+        "x": 1068,
+        "y": 1979
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Шатово",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванкова"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Троицкая волость, деревня Больший",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Ирина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, сельцо Мокрово",
+          "info": "крестьянская вдова",
+          "name": "Гликерия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 387,
+        "width": 3141,
+        "x": 1056,
+        "y": 2326
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденный",
+          "name": "Георгіи",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, сельцо Мокрово",
+          "info": "крестьянская вдова",
+          "name": "Гликерія",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Троицкая волость, деревня Больчий",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трушин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "законная жена крестьянина Павла Никитина Трушина",
+          "name": "Праскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 384,
+        "width": 3138,
+        "x": 1051,
+        "y": 2729
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Косьмина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "запасный рядовой",
+          "name": "Петр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Купцов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Косьма",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 426,
+        "width": 3138,
+        "x": 1051,
+        "y": 3133
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макушина"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "запасный рядовой",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Конопаткин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянская девица",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 449,
+        "width": 3143,
+        "x": 1042,
+        "y": 3573
+      },
+      "entry_id": "1b7d6d82-68ce-41c0-b269-004072f73d6d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Агапия",
+          "second_name": "Агрипина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зеркалина"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховская",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Астанова"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечки",
+          "info": "крестьянская вдова",
+          "name": "Агрипина",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зеркалина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Ионин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зернов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}
