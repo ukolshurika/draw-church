@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Draw Church — граф метрических книг</title>
+<style>
+*,*::before,*::after{box-sizing:border-box}
+html{background:#0d1117;color:#c9d1d9;font-family:'Segoe UI',system-ui,sans-serif}
+body{max-width:820px;margin:0 auto;padding:32px 24px;line-height:1.7}
+h1{font-size:28px;color:#58a6ff;margin:0 0 4px}
+h1 span{color:#8b949e;font-size:16px;font-weight:normal}
+h2{color:#58a6ff;font-size:18px;margin:36px 0 12px;padding-bottom:6px;border-bottom:1px solid #21262d}
+h3{color:#c9d1d9;font-size:14px;margin:16px 0 8px}
+p{margin:8px 0}
+a{color:#58a6ff}
+a:hover{color:#79c0ff}
+kbd, .key{background:#21262d;border:1px solid #30363d;border-radius:4px;padding:1px 6px;font-size:11px;font-family:monospace;white-space:nowrap}
+code{background:#21262d;padding:1px 5px;border-radius:3px;font-size:13px}
+table{border-collapse:collapse;width:100%;margin:8px 0;font-size:13px}
+th,td{padding:6px 10px;text-align:left;border-bottom:1px solid #21262d}
+th{color:#8b949e;font-size:11px;text-transform:uppercase;letter-spacing:.05em}
+td code{font-size:12px}
+.swatch{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:6px;vertical-align:middle}
+.feat{display:flex;align-items:flex-start;gap:8px;margin:6px 0}
+.feat-icon{flex-shrink:0;width:20px;text-align:center;color:#58a6ff}
+.btn{display:inline-block;background:#1f6feb;color:#fff;padding:10px 24px;border-radius:6px;text-decoration:none;font-size:15px;font-weight:600;margin:12px 0}
+.btn:hover{background:#388bfd;color:#fff}
+.btn-row{display:flex;gap:12px;flex-wrap:wrap}
+.sub{color:#8b949e;font-size:12px}
+hr{border:none;border-top:1px solid #21262d;margin:32px 0}
+.stats{background:#161b22;border:1px solid #30363d;border-radius:6px;padding:12px 16px;font-size:13px;margin:12px 0}
+.stats b{color:#58a6ff}
+</style>
+</head>
+<body>
+
+<h1>Draw Church <span>— метрические книги Российской Империи</span></h1>
+
+<p>
+  Интерактивный граф 1958 персон и 2658 родственных связей из метрических книг
+  Богоявленской церкви г.&thinsp;Серпухова (1882–1883&nbsp;гг.).
+</p>
+
+<div class="btn-row">
+  <a class="btn" href="graph.html">Открыть граф</a>
+  <a class="btn" href="https://github.com/ukolshurika/draw-church" style="background:#21262d;border:1px solid #30363d;color:#c9d1d9">GitHub</a>
+</div>
+
+<p class="sub">Граф работает в любом современном браузере. Для больших компонент может потребоваться несколько секунд на загрузку.</p>
+
+<h2>Управление</h2>
+
+<h3>Навигация</h3>
+<table>
+<tr><td><kbd>Прокрутка</kbd></td><td>Масштаб (zoom)</td></tr>
+<tr><td><kbd>Перетаскивание</kbd> фона</td><td>Панорамирование</td></tr>
+<tr><td><kbd>Перетаскивание</kbd> узла</td><td>Переместить узел (при включённой физике)</td></tr>
+<tr><td>Кнопки <span class="key">+</span> <span class="key">−</span> (внизу справа)</td><td>Масштаб</td></tr>
+</table>
+
+<h3>Выделение и детали</h3>
+<table>
+<tr><td><kbd>Одиночный клик</kbd> по узлу</td><td>Показать детали персоны в боковой панели</td></tr>
+<tr><td><kbd>Клик</kbd> по фону</td><td>Снять выделение</td></tr>
+<tr><td>Строка <b>Роли</b> в сайдбаре</td><td>Показывает все роли, которые человек играл в разных записях<br><span class="sub">Например: «Родитель, Восприемник» — был и родителем, и крёстным</span></td></tr>
+</table>
+
+<h3>Режим фокуса</h3>
+<table>
+<tr><td><kbd>Двойной клик</kbd> по узлу</td><td>Сузить граф до персоны и её соседей в радиусе <i>N</i> рёбер</td></tr>
+<tr><td>Слайдер <b>Радиус фокуса</b> (1–10)</td><td>Настроить глубину фокуса (по умолчанию 3)</td></tr>
+<tr><td><kbd>Esc</kbd> или <span class="key">×</span> в плашке</td><td>Выйти из фокуса</td></tr>
+<tr><td>Повторный двойной клик</td><td>Переключить фокус на другую персону</td></tr>
+</table>
+
+<h3>Физика</h3>
+<table>
+<tr><td>Кнопка <span class="key">⚡</span> или клавиша <kbd>P</kbd></td><td>Включить / выключить физику графа</td></tr>
+<tr><td>По умолчанию</td><td>Включена — граф «дышит», узлы слегка расходятся</td></tr>
+</table>
+
+<h3>Сохранение</h3>
+<table>
+<tr><td>Кнопка <span class="key">💾</span></td><td>Сохранить текущий вид как PNG (с чёрным фоном)</td></tr>
+</table>
+
+<h2>Поиск и фильтры</h2>
+
+<table>
+<tr><td><kbd>Поиск</kbd> в тулбаре</td><td>Фильтр по имени, фамилии, отчеству или поселению</td></tr>
+<tr><td>Кнопка <b>Рождение</b></td><td>Только персоны из записей о рождении и их связи</td></tr>
+<tr><td>Кнопка <b>Брак</b></td><td>Только персоны из записей о браке и их связи</td></tr>
+<tr><td>Кнопка <b>Все</b></td><td>Показать все записи</td></tr>
+<tr><td>Клик по <b>поселению</b> в легенде</td><td>Показать / скрыть персон из этого поселения</td></tr>
+<tr><td><kbd>Правый клик</kbd> по легенде</td><td>Сбросить все фильтры поселений</td></tr>
+</table>
+
+<h2>Типы связей</h2>
+
+<table>
+<tr><th>Связь</th><th>Цвет</th><th>Значение</th></tr>
+<tr>
+  <td><code>child_of</code></td>
+  <td><span class="swatch" style="background:#e74c3c"></span> Красный</td>
+  <td>Ребёнок → родитель</td>
+</tr>
+<tr>
+  <td><code>married_to</code></td>
+  <td><span class="swatch" style="background:#e91e63"></span> Розовый</td>
+  <td>Жених ↔ невеста</td>
+</tr>
+<tr>
+  <td><code>godparent_of</code></td>
+  <td><span class="swatch" style="background:#f39c12"></span> Оранжевый</td>
+  <td>Восприемник (крёстный) → ребёнок</td>
+</tr>
+<tr>
+  <td><code>witnessed_for</code></td>
+  <td><span class="swatch" style="background:#95a5a6"></span> Серый</td>
+  <td>Свидетель на бракосочетании</td>
+</tr>
+</table>
+
+<h2>Раскраска узлов</h2>
+
+<p>Каждое поселение имеет свой цвет. Цвет узла = цвет поселения, к которому приписана персона.</p>
+<p>Размер узла пропорционален количеству связей: чем больше рёбер, тем крупнее точка.</p>
+
+<h2>Компоненты связности</h2>
+
+<p>Граф разбит на 106 компонент связности — персоны внутри одной компоненты
+связаны между собой (через цепочки рождений, браков, восприемничества).
+Выпадающий список в тулбаре переключает между компонентами.</p>
+
+<hr>
+
+<h2>Область данных</h2>
+
+<div class="stats">
+  <b>1958</b> персон &ensp;·&ensp; <b>2658</b> связей &ensp;·&ensp; <b>106</b> компонент связности<br>
+  Богоявленская церковь г.&thinsp;Серпухова, 1882–1883&nbsp;гг.<br>
+  Пущинская, Высотская, Туровская, Кошкинская волости
+</div>
+
+<p style="margin-top:32px;font-size:12px;color:#484f58">
+  <a href="README.md">README</a> · 
+  <a href="https://github.com/ukolshurika/draw-church">GitHub</a>
+</p>
+
+</body>
+</html>
