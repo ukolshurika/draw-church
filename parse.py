@@ -51,6 +51,10 @@ def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list
         for g in gp:
             for b in born:
                 edges.append({"source_id": g, "target_id": b, "relation": "godparent_of"})
+        others = people_by_status.get("OTHER", [])
+        for o in others:
+            for b in born:
+                edges.append({"source_id": o, "target_id": b, "relation": "other"})
     elif entry_type == "WEDDING":
         grooms = people_by_status.get("GROOM", [])
         brides = people_by_status.get("BRIDE", [])
@@ -299,6 +303,27 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
             if lp and le and lp != le:
                 conflict = True
             if surnp and surne and surnp != surne:
+                conflict = True
+
+            # Role-based conflict: a newborn cannot be a parent within 5-10 years
+            p_rt = p.get("relation_type", "")
+            ex_roles = existing.get("all_roles", [existing.get("relation_type", "")])
+            if p_rt == "Родившийся" and "Родитель" in ex_roles:
+                conflict = True
+            if p_rt == "Родитель" and "Родившийся" in ex_roles:
+                conflict = True
+            # Two newborns with the same name are different people — born once
+            if p_rt == "Родившийся" and "Родившийся" in ex_roles:
+                conflict = True
+            # A newborn cannot marry within 10 years
+            if p_rt == "Родившийся" and ("Жених" in ex_roles or "Невеста" in ex_roles):
+                conflict = True
+            if p_rt in ("Жених", "Невеста") and "Родившийся" in ex_roles:
+                conflict = True
+            # A child under ~5 cannot be a godparent
+            if p_rt == "Родившийся" and "Восприемник" in ex_roles:
+                conflict = True
+            if p_rt == "Восприемник" and "Родившийся" in ex_roles:
                 conflict = True
 
             if conflict:

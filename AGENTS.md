@@ -126,3 +126,11 @@ python3 viz.py              # построить graph.html
   Нормализация названий поселений, расширение словаря синонимов,
   разрешение контекстных ссылок. Использовать при проблемах с
   дедупликацией персон или при добавлении данных нового прихода.
+
+---
+
+## Notes for Agents
+
+- **NEVER commit** unless the user explicitly asks for a commit.
+  Do not `git commit` or `git push` after every prompt or every code change.
+  Only stage, commit, and push when the user instructs to do so.

@@ -21,6 +21,7 @@ RELATION_COLORS = {
     "godparent_of":   "#f39c12",
     "married_to":     "#e91e63",
     "witnessed_for":  "#95a5a6",
+    "other":          "#7f8c8d",
 }
 RECORD_COLORS = {
     "Родившийся":      "#3498db",
@@ -382,7 +383,7 @@ function makeNetwork(comp) {{
   }});
 
   // edges — merge multi-edges into one thick edge per pair
-  var REL_PRIORITY = ['child_of', 'married_to', 'godparent_of', 'witnessed_for'];
+  var REL_PRIORITY = ['child_of', 'married_to', 'godparent_of', 'witnessed_for', 'other'];
   var pairMap = {{}};
   comp.edges.forEach(function(e) {{
     var k = e.source_id + '|' + e.target_id;
