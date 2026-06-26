@@ -173,6 +173,7 @@ def resolve_context_settlement(
 
 
 def process_entry(entry: dict, year: int, temp_id_counter: list[int],
+                  archive_url: str,
                   global_ctx: dict | None = None
 ) -> tuple[list[dict], list[dict]]:
     entry_type = entry.get("type")
@@ -225,6 +226,7 @@ def process_entry(entry: dict, year: int, temp_id_counter: list[int],
 
         persons.append({
             "_temp_id": temp_id,
+            "_archive_url": archive_url,
             "first_name": name,
             "patronymic": second_name,
             "surname": surname,
@@ -241,12 +243,16 @@ def process_entry(entry: dict, year: int, temp_id_counter: list[int],
     return persons, edges
 
 
-def process_page_data(data: dict, year: int, temp_id_counter: list[int]) -> tuple[list[dict], list[dict]]:
+def process_page_data(data: dict, year: int, temp_id_counter: list[int],
+                      uuid: str = "", page: int = 0
+) -> tuple[list[dict], list[dict]]:
     all_persons = []
     all_edges = []
     global_ctx = {"uyezd": None, "selo": None, "selsco": None, "derevnya": None, "settlement": None}
     for entry in data.get("entries", []):
-        p, e = process_entry(entry, year, temp_id_counter, global_ctx)
+        entry_id = entry.get("entry_id", "")
+        archive_url = f"https://yandex.ru/archive/catalog/{uuid}/{page}?entry_id={entry_id}&tab=structured"
+        p, e = process_entry(entry, year, temp_id_counter, archive_url, global_ctx)
         all_persons.extend(p)
         all_edges.extend(e)
         # Update global context from this entry's resolved settlements
@@ -338,6 +344,9 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
             rct = p.get("record_type")
             if rct and rct not in existing.setdefault("all_record_types", [existing.get("record_type", "")]):
                 existing["all_record_types"].append(rct)
+            aurl = p.get("_archive_url")
+            if aurl and aurl not in existing.get("archive_urls", []):
+                existing.setdefault("archive_urls", []).append(aurl)
             break
 
         if matched:
@@ -349,6 +358,8 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
             rct = p.get("record_type")
             p.setdefault("all_roles", [rt] if rt else [])
             p.setdefault("all_record_types", [rct] if rct else [])
+            archive_url = p.get("_archive_url")
+            p["archive_urls"] = [archive_url] if archive_url else []
             unique.append({k: v for k, v in p.items() if not k.startswith("_")})
             temp_id_to_final[p["_temp_id"]] = new_id
 
@@ -404,7 +415,7 @@ def main():
             m = re.search(r"page_(\d+)", fpath.stem)
             page_num = int(m.group(1)) if m else 0
             data = {"entries": entries}
-            persons, edges = process_page_data(data, year, temp_id_counter)
+            persons, edges = process_page_data(data, year, temp_id_counter, uuid, page_num)
             print(f"  pg {page_num}: {len(persons)}p {len(edges)}e")
             all_persons.extend(persons)
             all_edges.extend(edges)

@@ -143,6 +143,9 @@ html,body{{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-
 #detail.visible{{display:block}}
 #detail b{{color:#58a6ff}}
 #detail .sett{{color:#f0c000}}
+.archive-box{{margin-top:8px;padding-top:6px;border-top:1px solid #30363d}}
+.archive-link{{display:block;color:#58a6ff;text-decoration:none;font-size:11px;padding:2px 0}}
+.archive-link:hover{{text-decoration:underline}}
 
 #focus-bar{{display:none;align-items:center;gap:6px;padding:3px 10px;background:#1f6feb22;border:1px solid #1f6feb66;border-radius:6px;font-size:12px;white-space:nowrap}}
 #focus-bar.visible{{display:flex}}
@@ -193,6 +196,7 @@ html,body{{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-
         <div id="det-type"></div>
         <div id="det-role"></div>
         <div id="det-owner"></div>
+        <div id="det-archive"></div>
       </div>
     </div>
     <div id="graph-container">
@@ -379,6 +383,7 @@ function makeNetwork(comp) {{
       _settlement: n.settlement,
       _record_type: n.record_type,
       _all_roles: roles,
+      _archive_urls: n.archive_urls || [],
     }};
   }});
 
@@ -455,6 +460,16 @@ function makeNetwork(comp) {{
       var roles = (node._all_roles || []).join(', ');
       document.getElementById('det-role').innerHTML  = '<b>Роли:</b> '+esc(roles);
       document.getElementById('det-owner').innerHTML = parts.filter(function(l){{ return l.includes('Помещик'); }})[0] || '';
+      var aurls = node._archive_urls || [];
+      var archiveHtml = '';
+      if (aurls.length > 0) {{
+        archiveHtml = '<div class="archive-box">';
+        aurls.forEach(function(url, i) {{
+          archiveHtml += '<a href="' + url + '" target="_blank" rel="noopener" class="archive-link">Запись ' + (i+1) + ' →</a>';
+        }});
+        archiveHtml += '</div>';
+      }}
+      document.getElementById('det-archive').innerHTML = archiveHtml;
     }} else {{
       detail.classList.remove('visible');
     }}
