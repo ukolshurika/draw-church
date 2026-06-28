@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 *.bak
 test-vis.html
+.merge-backups/

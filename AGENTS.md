@@ -131,6 +131,16 @@ python3 viz.py              # построить graph.html
 
 ## Notes for Agents
 
-- **NEVER commit** unless the user explicitly asks for a commit.
-  Do not `git commit` or `git push` after every prompt or every code change.
-  Only stage, commit, and push when the user instructs to do so.
+- **Автокоммит.** После каждого успешного изменения данных (`all-nodes.json`,
+  `all-edges.json`, `manual-merges.json`, `settlement-synonyms.json` и т.п.) —
+  автоматически создавай коммит с осмысленным сообщением. Если пользователь
+  явно просит не коммитить — не коммить.
+
+- **Откат изменений в данных.** Если агент испортил `all-nodes.json`,
+  `all-edges.json` или другие файлы — восстанови их через git:
+  1. Покажи пользователю последние коммиты: `git log --oneline -10`
+  2. Спроси, до какого состояния откатиться (название коммита, количество
+     шагов назад, или конкретные файлы).
+  3. Выполни откат — `git checkout <commit> -- <файлы>` для отдельных файлов
+     или `git reset --hard <commit>` для полного возврата.
+  Не выполняй `git reset --hard` без явного подтверждения пользователя.
