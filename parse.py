@@ -174,6 +174,8 @@ def resolve_context_settlement(
 
 def process_entry(entry: dict, year: int, temp_id_counter: list[int],
                   archive_url: str,
+                  archive_meta: dict | None = None,
+                  page: int = 0,
                   global_ctx: dict | None = None
 ) -> tuple[list[dict], list[dict]]:
     entry_type = entry.get("type")
@@ -224,9 +226,19 @@ def process_entry(entry: dict, year: int, temp_id_counter: list[int],
             else WEDDING_STATUS_TO_RELATION.get(status, status)
         )
 
+        source = {
+            "archive": (archive_meta or {}).get("archive"),
+            "fund": (archive_meta or {}).get("fund"),
+            "opis": (archive_meta or {}).get("opis"),
+            "delo": (archive_meta or {}).get("delo"),
+            "page": page,
+            "url": archive_url,
+        }
+
         persons.append({
             "_temp_id": temp_id,
             "_archive_url": archive_url,
+            "_source": source,
             "first_name": name,
             "patronymic": second_name,
             "surname": surname,
@@ -243,16 +255,24 @@ def process_entry(entry: dict, year: int, temp_id_counter: list[int],
     return persons, edges
 
 
+def load_archive_meta(uuid: str) -> dict | None:
+    meta_path = RAW_API_DIR / uuid / "_meta.json"
+    if meta_path.exists():
+        return json.loads(meta_path.read_text(encoding="utf-8"))
+    return None
+
+
 def process_page_data(data: dict, year: int, temp_id_counter: list[int],
                       uuid: str = "", page: int = 0
 ) -> tuple[list[dict], list[dict]]:
     all_persons = []
     all_edges = []
+    archive_meta = load_archive_meta(uuid)
     global_ctx = {"uyezd": None, "selo": None, "selsco": None, "derevnya": None, "settlement": None}
     for entry in data.get("entries", []):
         entry_id = entry.get("entry_id", "")
         archive_url = f"https://yandex.ru/archive/catalog/{uuid}/{page}?entry_id={entry_id}&tab=structured"
-        p, e = process_entry(entry, year, temp_id_counter, archive_url, global_ctx)
+        p, e = process_entry(entry, year, temp_id_counter, archive_url, archive_meta, page, global_ctx)
         all_persons.extend(p)
         all_edges.extend(e)
         # Update global context from this entry's resolved settlements
@@ -347,6 +367,9 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
             aurl = p.get("_archive_url")
             if aurl and aurl not in existing.get("archive_urls", []):
                 existing.setdefault("archive_urls", []).append(aurl)
+            src = p.get("_source")
+            if src and src not in existing.get("sources", []):
+                existing.setdefault("sources", []).append(src)
             break
 
         if matched:
@@ -360,6 +383,8 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
             p.setdefault("all_record_types", [rct] if rct else [])
             archive_url = p.get("_archive_url")
             p["archive_urls"] = [archive_url] if archive_url else []
+            source = p.get("_source")
+            p["sources"] = [source] if source else []
             unique.append({k: v for k, v in p.items() if not k.startswith("_")})
             temp_id_to_final[p["_temp_id"]] = new_id
 

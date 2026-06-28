@@ -26,6 +26,40 @@ def parse_links() -> list[dict]:
     return links
 
 
+def _extract_archive_meta(breadcrumbs: list[dict]) -> dict:
+    meta: dict[str, str | None] = {"archive": None, "fund": None, "opis": None, "delo": None}
+    for b in breadcrumbs:
+        t = b.get("type", "")
+        if t == "Archive":
+            meta["archive"] = b.get("name", "")
+        elif t == "Fund":
+            meta["fund"] = b.get("code", "")
+        elif t == "Inventory":
+            meta["opis"] = b.get("code", "")
+        elif t == "File":
+            meta["delo"] = b.get("code", "")
+    return meta
+
+
+def _ensure_meta(out_dir: Path, page) -> dict | None:
+    meta_path = out_dir / "_meta.json"
+    if meta_path.exists():
+        return json.loads(meta_path.read_text(encoding="utf-8"))
+    try:
+        pd = page.evaluate("""() => {
+            const s = JSON.parse(document.getElementById('__NEXT_DATA__').textContent);
+            return s.props.pageProps.breadcrumbs || [];
+        }""")
+    except Exception:
+        return None
+    meta = _extract_archive_meta(pd)
+    if any(v for v in meta.values()):
+        meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"    _meta.json: {meta}")
+        return meta
+    return None
+
+
 def download_link(browser, link: dict) -> None:
     uuid = link["uuid"]
     from_page = link["from"]
@@ -43,6 +77,16 @@ def download_link(browser, link: dict) -> None:
         viewport={"width": 1280, "height": 720},
     )
     page = context.new_page()
+
+    meta_path = out_dir / "_meta.json"
+    if not meta_path.exists():
+        # visit first page just to extract archive metadata from breadcrumbs
+        first_url = f"https://yandex.ru/archive/catalog/{uuid}/{from_page}"
+        try:
+            page.goto(first_url, wait_until="load", timeout=NAV_TIMEOUT)
+            _ensure_meta(out_dir, page)
+        except Exception:
+            pass
 
     for pn in range(from_page, to_page + 1):
         fpath = out_dir / f"page_{pn}.json"
@@ -70,6 +114,8 @@ def download_link(browser, link: dict) -> None:
                     hasMarkup: s.props.pageProps.currentNode.hasStructuredMarkup === true,
                 };
             }""")
+            if not meta_path.exists():
+                _ensure_meta(out_dir, page)
         except Exception:
             print("∅")
             time.sleep(random.uniform(4.0, 6.0))

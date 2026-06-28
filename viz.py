@@ -154,6 +154,24 @@ html,body{{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-
 #focus-bar button:hover{{color:#f85149}}
 #focus-bar .focus-hint{{color:#484f58;font-size:10px}}
 
+/* right panel */
+#right-panel{{width:320px;background:#161b22;border-left:1px solid #30363d;display:none;flex-direction:column;flex-shrink:0;font-size:12px;overflow:hidden}}
+#right-panel.visible{{display:flex}}
+#rp-header{{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid #30363d;flex-shrink:0}}
+#rp-title{{font-size:12px;font-weight:600;color:#c9d1d9}}
+#rp-close-btn{{background:none;border:none;color:#8b949e;cursor:pointer;font-size:16px;padding:0;line-height:1}}
+#rp-close-btn:hover{{color:#f85149}}
+#rp-csv-btn{{margin:8px 12px;padding:5px 10px;background:#1f6feb;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:11px;flex-shrink:0}}
+#rp-csv-btn:hover{{background:#388bfd}}
+#rp-list{{overflow-y:auto;flex:1;padding:4px 8px}}
+.rp-node-card{{background:#0d1117;border:1px solid #30363d;border-radius:6px;padding:8px 10px;margin-bottom:6px;font-size:11px;line-height:1.5}}
+.rp-node-card .rp-name{{color:#58a6ff;font-weight:600;font-size:12px}}
+.rp-node-card .rp-row{{color:#8b949e}}
+.rp-node-card .rp-row b{{color:#c9d1d9;font-weight:500}}
+.rp-node-card .rp-src{{margin-top:5px;padding-top:5px;border-top:1px solid #21262d;color:#484f58;font-size:10px}}
+.rp-node-card .rp-src a{{color:#58a6ff;text-decoration:none}}
+.rp-node-card .rp-src a:hover{{text-decoration:underline}}
+
 /* responsive: hide sidebar on narrow */
 @media(max-width:700px){{#side{{display:none}}}}
 </style>
@@ -198,6 +216,14 @@ html,body{{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-
         <div id="det-owner"></div>
         <div id="det-archive"></div>
       </div>
+    </div>
+    <div id="right-panel">
+      <div id="rp-header">
+        <span id="rp-title">Видимые персоны (0)</span>
+        <button id="rp-close-btn">&times;</button>
+      </div>
+      <div id="rp-list"></div>
+      <button id="rp-csv-btn">&#128190; Скачать CSV</button>
     </div>
     <div id="graph-container">
       <div id="loading">Загрузка</div>
@@ -270,6 +296,9 @@ function applyFocus(nodeId) {{
     }};
   }});
   allEdgesDs.update(edgeUpdate);
+
+  updateRightPanel();
+  showRightPanel();
 }}
 
 function exitFocus() {{
@@ -277,6 +306,7 @@ function exitFocus() {{
   focusNodeId = null;
   focusBar.classList.remove('visible');
   detail.classList.remove('visible');
+  hideRightPanel();
   doFilter();
 }}
 
@@ -312,6 +342,88 @@ function colorAlpha(hex, alpha) {{
       g = parseInt(hex.slice(3,5),16),
       b = parseInt(hex.slice(5,7),16);
   return 'rgba('+r+','+g+','+b+','+alpha+')';
+}}
+
+// ── right panel (visible nodes list) ───────────────────────────────
+var rightPanel = document.getElementById('right-panel');
+var rpList = document.getElementById('rp-list');
+var rpTitle = document.getElementById('rp-title');
+
+function showRightPanel() {{ rightPanel.classList.add('visible'); }}
+function hideRightPanel() {{ rightPanel.classList.remove('visible'); rpList.innerHTML = ''; rpTitle.textContent = 'Видимые персоны (0)'; }}
+
+function _buildNodeHTML(node) {{
+  var label = esc(node._first_name || '');
+  if (node._patronymic) label += ' ' + esc(node._patronymic);
+  if (node._surname) label += ' ' + esc(node._surname);
+  if (node._year) label += ' (' + node._year + ')';
+
+  var html = '<div class="rp-node-card">';
+  html += '<div class="rp-name">' + label + '</div>';
+  if (node._settlement) html += '<div class="rp-row"><b>Поселение:</b> ' + esc(node._settlement) + '</div>';
+  if (node._year) html += '<div class="rp-row"><b>Год:</b> ' + node._year + '</div>';
+  html += '<div class="rp-row"><b>Событие:</b> ' + esc(node._record_type || '') + '</div>';
+  var roles = (node._all_roles || [node._relation_type] || []).join(', ');
+  html += '<div class="rp-row"><b>Роли:</b> ' + esc(roles) + '</div>';
+  if (node._landowner) html += '<div class="rp-row"><b>Помещик:</b> ' + esc(node._landowner) + '</div>';
+
+  // archive sources
+  var srcs = node._sources || [];
+  var aurls = node._archive_urls || [];
+  if (srcs.length > 0 || aurls.length > 0) {{
+    html += '<div class="rp-src">';
+    srcs.forEach(function(s, i) {{
+      html += '<div>' + esc(s.archive || '') + ' (Ф. ' + esc(s.fund || '') + ', Оп. ' + esc(s.opis || '') + ', Д. ' + esc(s.delo || '') + ', стр. ' + (s.page || '') + ')</div>';
+      if (s.url) html += '<div><a href="' + s.url + '" target="_blank" rel="noopener">Запись ' + (i+1) + ' &rarr;</a></div>';
+    }});
+    if (srcs.length === 0 && aurls.length > 0) {{
+      aurls.forEach(function(url, i) {{
+        html += '<div><a href="' + url + '" target="_blank" rel="noopener">Запись ' + (i+1) + ' &rarr;</a></div>';
+      }});
+    }}
+    html += '</div>';
+  }}
+
+  html += '</div>';
+  return html;
+}}
+
+function updateRightPanel() {{
+  var nodes = allNodesDs ? allNodesDs.get().filter(function(n){{ return !n.hidden; }}) : [];
+  rpTitle.textContent = 'Видимые персоны (' + nodes.length + ')';
+  rpList.innerHTML = nodes.map(function(n) {{ return _buildNodeHTML(n); }}).join('');
+}}
+
+function csvEsc(v) {{ var s = String(v || ''); if (s.indexOf(',')>=0 || s.indexOf('"')>=0 || s.indexOf('\\n')>=0) return '"'+s.replace(/"/g,'""')+'"'; return s; }}
+
+function exportCSV() {{
+  var nodes = allNodesDs ? allNodesDs.get().filter(function(n){{ return !n.hidden; }}) : [];
+  if (nodes.length === 0) return;
+
+  var lines = ['Name,Settlement,Year,Record Type,Relation Type,Roles,Landowner,Archive,Fund,Opis,Delo,Page,URL'];
+  nodes.forEach(function(n) {{
+    var name = ((n._first_name||'')+' '+(n._patronymic||'')+' '+(n._surname||'')).trim();
+    var rowBase = [csvEsc(name), csvEsc(n._settlement), n._year||'', csvEsc(n._record_type||''), csvEsc(n._relation_type||''), csvEsc((n._all_roles||[n._relation_type]||[]).join('; ')), csvEsc(n._landowner)];
+
+    var srcs = n._sources || [];
+    if (srcs.length > 0) {{
+      srcs.forEach(function(s) {{
+        var r = rowBase.concat([csvEsc(s.archive), s.fund||'', s.opis||'', s.delo||'', s.page||'', csvEsc(s.url)]);
+        lines.push(r.join(','));
+      }});
+    }} else {{
+      var r = rowBase.concat(['','','','','', csvEsc((n._archive_urls||[])[0]||'')]);
+      lines.push(r.join(','));
+    }}
+  }});
+
+  var csv = '\\uFEFF' + lines.join('\\n');
+  var blob = new Blob([csv], {{ type: 'text/csv;charset=utf-8' }});
+  var link = document.createElement('a');
+  link.download = 'persons_' + (currentCompIdx + 1) + '.csv';
+  link.href = URL.createObjectURL(blob);
+  link.click();
+  URL.revokeObjectURL(link.href);
 }}
 
 // ── build legends ───────────────────────────────────────────────────
@@ -384,6 +496,13 @@ function makeNetwork(comp) {{
       _record_type: n.record_type,
       _all_roles: roles,
       _archive_urls: n.archive_urls || [],
+      _sources: n.sources || [],
+      _first_name: n.first_name,
+      _patronymic: n.patronymic,
+      _surname: n.surname,
+      _year: n.year,
+      _landowner: n.landowner,
+      _relation_type: n.relation_type,
     }};
   }});
 
@@ -451,6 +570,14 @@ function makeNetwork(comp) {{
   network.on('click', function(params) {{
     if (params.nodes.length === 1) {{
       var node = allNodesDs.get(params.nodes[0]);
+      // clear sidebar first
+      detail.classList.remove('visible');
+      ['det-name','det-sett','det-year','det-type','det-role','det-owner','det-archive'].forEach(function(id) {{ document.getElementById(id).innerHTML = ''; }});
+      // re-center focus if focus mode is active
+      if (focusNodeId !== null && focusNodeId !== params.nodes[0]) {{
+        applyFocus(params.nodes[0]);
+      }}
+      // show new data
       detail.classList.add('visible');
       document.getElementById('det-name').innerHTML = '<b>'+esc(node.label)+'</b>';
       document.getElementById('det-sett').innerHTML = node._tip.split('<br>').filter(function(l){{ return l.includes('Поселение'); }}).join('') || '';
@@ -486,6 +613,7 @@ function makeNetwork(comp) {{
 
 // ── load component ──────────────────────────────────────────────────
 function loadComponent(idx) {{
+  if (focusNodeId !== null) exitFocus();
   var comp = COMPONENTS[idx];
   if (!comp) return;
   currentCompIdx = idx;
@@ -615,6 +743,14 @@ document.getElementById('comp').addEventListener('change', function() {{
 // ── focus bar close button ───────────────────────────────────────────
 focusBar.querySelector('button').addEventListener('click', function() {{
   exitFocus();
+}});
+
+// ── right panel buttons ──────────────────────────────────────────────
+document.getElementById('rp-close-btn').addEventListener('click', function() {{
+  if (focusNodeId !== null) exitFocus();
+}});
+document.getElementById('rp-csv-btn').addEventListener('click', function() {{
+  exportCSV();
 }});
 
 // ── Esc key exits focus ──────────────────────────────────────────────
