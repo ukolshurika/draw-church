@@ -1,0 +1,284 @@
+{
+  "year": 1879,
+  "page": 88,
+  "node_id": "378faae5-b11e-45e2-9885-0bbd5fc671a2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 619,
+        "width": 4109,
+        "x": 834,
+        "y": 1245
+      },
+      "entry_id": "378faae5-b11e-45e2-9885-0bbd5fc671a2_1",
+      "people": [
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверитино",
+          "info": "крестьянский сын",
+          "name": "Петр",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Гурій",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 955,
+        "width": 4200,
+        "x": 822,
+        "y": 2346
+      },
+      "entry_id": "378faae5-b11e-45e2-9885-0bbd5fc671a2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Москва, Успенская на Овражках церковь",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Даниловский",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "город Москва, Иоанно-Предтеченская в старой Конюшенной церкви",
+          "info": "псаломщик",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "21",
+          "geo": "",
+          "info": "псаломщик Московской Троицкой в Сыромятниках церкви",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Митропольский"
+        },
+        {
+          "age": "",
+          "geo": "город Москва, Китайская сорока, Зачатіевская, в углу, церковь",
+          "info": "диакон",
+          "name": "Иван",
+          "second_name": "Розанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "город Серпухов, Богоявленская церковь",
+          "info": "священник",
+          "name": "Василий",
+          "second_name": "Розанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "город Москва, Иоанно-Предтеченская в старой Конюшенной церкви",
+          "info": "псаломщик",
+          "name": "Павел",
+          "second_name": "Поспелов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Богородский уезд, Покровская, село Карпово, церковь",
+          "info": "священник",
+          "name": "Михаил",
+          "second_name": "Розанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, село Тархово",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Телепиев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "священника Василия Розанова дочь",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Митропольская (Розанова)"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 4150,
+        "x": 834,
+        "y": 3650
+      },
+      "entry_id": "378faae5-b11e-45e2-9885-0bbd5fc671a2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пущинская волость",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Каллистратов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, сельцо Игнатьево",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Павел",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость",
+          "info": "крестьянин сельца Пущино",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

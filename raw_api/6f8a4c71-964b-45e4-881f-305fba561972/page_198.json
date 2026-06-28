@@ -1,0 +1,224 @@
+{
+  "year": 1885,
+  "page": 198,
+  "node_id": "6032fddb-634a-40b2-90e0-8519f6a647e0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 825,
+        "width": 3712,
+        "x": 1000,
+        "y": 1673
+      },
+      "entry_id": "6032fddb-634a-40b2-90e0-8519f6a647e0_0",
+      "people": [
+        {
+          "age": "19",
+          "geo": "Алексинский уезд, деревня Мухановки",
+          "info": "крестьянская дочь",
+          "name": "Федосья",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Дубровка",
+          "info": "отставной бомбардир",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "село Ивановское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазино",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Ермилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "20",
+          "geo": "Калужский уезд, Бобровская волость, деревня Кросны",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, село Подмоклово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 853,
+        "width": 3754,
+        "x": 996,
+        "y": 2474
+      },
+      "entry_id": "6032fddb-634a-40b2-90e0-8519f6a647e0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Игнатьевка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазенки",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Ивлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Любовь",
+          "second_name": "Климентова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Калугино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "запасный ефрейтор",
+          "name": "Герасим",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазенки",
+          "info": "крестьянский сын",
+          "name": "Федор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 853,
+        "width": 3733,
+        "x": 986,
+        "y": 3334
+      },
+      "entry_id": "6032fddb-634a-40b2-90e0-8519f6a647e0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "калужский мещанин",
+          "name": "Павел",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Коробовский"
+        },
+        {
+          "age": "",
+          "geo": "Высотская волость, деревня Заборье",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Гурков"
+        },
+        {
+          "age": "",
+          "geo": "Высотская волость, деревня Заборье",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Касатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "калужский мещанин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Коробовский"
+        },
+        {
+          "age": "47",
+          "geo": "",
+          "info": "серпуховская мещанка",
+          "name": "Праскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Серикова (Лазарева)"
+        },
+        {
+          "age": "54",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Сериков"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

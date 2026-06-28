@@ -1,0 +1,80 @@
+{
+  "year": 1884,
+  "page": 45,
+  "node_id": "afadedbb-38e8-4a9f-b3ef-534200fae907",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 685,
+        "width": 3747,
+        "x": 770,
+        "y": 1094
+      },
+      "entry_id": "afadedbb-38e8-4a9f-b3ef-534200fae907_0",
+      "people": [
+        {
+          "age": "38",
+          "geo": "Серпухоский уезд, Пущинская волость, сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Ермилов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд, сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Ермилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Кузьмищево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Кузьмищево",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Котов"
+        },
+        {
+          "age": "21",
+          "geo": "Серпухоский уезд, Васильевская волость, деревня Петровская",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Маркеллова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Кошелев"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

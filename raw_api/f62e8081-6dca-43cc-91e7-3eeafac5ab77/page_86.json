@@ -1,0 +1,172 @@
+{
+  "year": 1881,
+  "page": 86,
+  "node_id": "816b02af-ef7b-40d0-97ef-40bd02d6c981",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 490,
+        "width": 3706,
+        "x": 819,
+        "y": 1140
+      },
+      "entry_id": "816b02af-ef7b-40d0-97ef-40bd02d6c981_0",
+      "people": [
+        {
+          "age": "18",
+          "geo": "",
+          "info": "Тарусская мещанка",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Тарусский мещанин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Фадеев"
+        },
+        {
+          "age": "26",
+          "geo": "107-й пехотный Троицкий полк, 10-я рота",
+          "info": "ефрейтор",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, сельцо Дроково",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, сельцо Дроково",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Тарусский мещанин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Фадеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "диакон",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Розанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 488,
+        "width": 3717,
+        "x": 797,
+        "y": 1810
+      },
+      "entry_id": "816b02af-ef7b-40d0-97ef-40bd02d6c981_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Серпуховской мещанин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Хомяков"
+        },
+        {
+          "age": "36",
+          "geo": "",
+          "info": "Тарузский мещанин",
+          "name": "Егор",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Пащенко"
+        },
+        {
+          "age": "22",
+          "geo": "",
+          "info": "Серпуховская мещанка",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Пащенко (Хомякова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Серпуховской мещанин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Хомяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Серпуховской мещанин",
+          "name": "Григорий",
+          "second_name": "Харламов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Воронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Серпуховской купеческий сын",
+          "name": "Филипп",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "year": 1885,
+  "page": 189,
+  "node_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 476,
+        "width": 3081,
+        "x": 1066,
+        "y": 1277
+      },
+      "entry_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Верейский уезд, Рудневская волость, деревня Афанасовка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Гритьково",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Венедиктов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Дроково",
+          "info": "крестьянская девица",
+          "name": "Елена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 436,
+        "width": 3078,
+        "x": 1057,
+        "y": 1757
+      },
+      "entry_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Мартинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Калиново",
+          "info": "запасный рядовой",
+          "name": "Матвей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Александра",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 439,
+        "width": 3090,
+        "x": 1052,
+        "y": 2212
+      },
+      "entry_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Антипина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Антипа",
+          "second_name": "Евтропиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федосья",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 466,
+        "width": 3085,
+        "x": 1057,
+        "y": 2713
+      },
+      "entry_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мышляев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Зиброво",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Серпуховский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мышляева"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечня",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мышляев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 618,
+        "width": 3051,
+        "x": 1054,
+        "y": 3191
+      },
+      "entry_id": "aa342288-7a7c-4310-8349-8ce3cdabd60b_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вислоусова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Вислоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховского уезда крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вислоусов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховской уезд, село Щеглятьево",
+          "info": "серпуховской мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коблунов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

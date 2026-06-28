@@ -1,0 +1,388 @@
+{
+  "year": 1880,
+  "page": 141,
+  "node_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 492,
+        "width": 3992,
+        "x": 849,
+        "y": 1198
+      },
+      "entry_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44_4",
+      "people": [
+        {
+          "age": "29",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Ивантиново",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "26",
+          "geo": "Пущинская волость, деревня Ивантиново",
+          "info": "крестьянская девица",
+          "name": "Евдокия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Ивантиново",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 484,
+        "width": 4002,
+        "x": 838,
+        "y": 1875
+      },
+      "entry_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечки",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, сельцо Злобино",
+          "info": "крестьянская дочь",
+          "name": "Анисья",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазечки",
+          "info": "крестьянский сын",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 533,
+        "width": 4032,
+        "x": 822,
+        "y": 2423
+      },
+      "entry_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Алексинский уезд, Темьянская волость, сельцо Веселево",
+          "info": "крестьянская дочь",
+          "name": "Хиония",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, сельцо Веселево",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Искань",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "23",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазечка",
+          "info": "крестьянский сын",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 4043,
+        "x": 844,
+        "y": 3016
+      },
+      "entry_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Иона",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, сельцо Глазечка",
+          "info": "крестьянская дочь",
+          "name": "Евдокия",
+          "second_name": "Ионина",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Игнатий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Игнатовское",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 541,
+        "width": 4085,
+        "x": 851,
+        "y": 3776
+      },
+      "entry_id": "ad131f7f-30bd-4e9f-9a48-69d60f5a5e44_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тарузский уезд, деревня Малеево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарузский уезд, деревня Малеево",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Софронов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "самогитского полка унтер-офицер",
+          "name": "Федор",
+          "second_name": "Макушин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Тарузский уезд, Троицкая волость, деревня Малеево",
+          "info": "крестьянская дочь",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Петр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

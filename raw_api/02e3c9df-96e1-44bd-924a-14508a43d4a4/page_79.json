@@ -1,0 +1,404 @@
+{
+  "year": 1879,
+  "page": 79,
+  "node_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1835,
+        "x": 1028,
+        "y": 1366
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд",
+          "info": "мещанин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Крюков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крюкова"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Туровская волость, село Генино",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 409,
+        "width": 2018,
+        "x": 1021,
+        "y": 2016
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Гавшина, Тульская губерния, Алексинский уезд, Миротинская волость, село Щилово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Миротинская волость, село Щилово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Хотушь",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Хотушь",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 527,
+        "width": 2021,
+        "x": 1019,
+        "y": 2452
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Юдинская волость, деревня Прудков",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Начаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Новохоперский уезд, деревня Того",
+          "info": "коллежский регистратор",
+          "name": "Андрей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 371,
+        "width": 1907,
+        "x": 1014,
+        "y": 3011
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Киселева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Калинова",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Зотиков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Киселева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 390,
+        "width": 1919,
+        "x": 1007,
+        "y": 3401
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Пущино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "муж крестной матери",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Пущино",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Забалуев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иустина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Матфий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иаков",
+          "second_name": "Матфиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 1801,
+        "x": 1014,
+        "y": 3810
+      },
+      "entry_id": "1eb4afc8-5560-46d8-9be5-9c2231d15ac0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Калиново",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Васильевская волость, деревня Глубоково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владыченская слобода",
+          "info": "крестьянская жена",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иаков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

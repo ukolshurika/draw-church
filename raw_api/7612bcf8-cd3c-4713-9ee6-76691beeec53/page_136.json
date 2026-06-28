@@ -1,0 +1,143 @@
+{
+  "year": 1880,
+  "page": 136,
+  "node_id": "ab884502-8c06-4425-9dbb-1fddd3fd42ad",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1820,
+        "x": 952,
+        "y": 1152
+      },
+      "entry_id": "ab884502-8c06-4425-9dbb-1fddd3fd42ad_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Алексинский уезд",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грибанов"
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Самкинская волость",
+          "info": "крестьянская вдова",
+          "name": "Марфа",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Иерофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Машковская волость, деревня Череухи",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 1878,
+        "x": 952,
+        "y": 1651
+      },
+      "entry_id": "ab884502-8c06-4425-9dbb-1fddd3fd42ad_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Хатунская волость, село Мышкинское",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазино",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Ивлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Кушиловская волость, деревня Литиково",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

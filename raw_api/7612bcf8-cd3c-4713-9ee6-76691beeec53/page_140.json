@@ -1,0 +1,316 @@
+{
+  "year": 1880,
+  "page": 140,
+  "node_id": "189d831c-653e-4a85-af4d-7956a100b64c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 3946,
+        "x": 857,
+        "y": 1184
+      },
+      "entry_id": "189d831c-653e-4a85-af4d-7956a100b64c_2",
+      "people": [
+        {
+          "age": "21",
+          "geo": "",
+          "info": "серпуховская купеческая дочь",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Землянова (Бердоносова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский купец",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Бердоносов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский купеческий сын",
+          "name": "Косма",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Бердоносов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский купеческий сын",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Бердоносов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский купеческий сын",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской купец",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Землянов"
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "серпуховской купеческий сын",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Землянов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 3979,
+        "x": 843,
+        "y": 1886
+      },
+      "entry_id": "189d831c-653e-4a85-af4d-7956a100b64c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "21",
+          "geo": "Калужская губерния, Тарусский уезд, село Кузьмищево",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тульский мещанин",
+          "name": "Димитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Глазков"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, деревня Клеменово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Тульская губерния, Алексинский уезд, деревня Клеменово",
+          "info": "крестьянская девица",
+          "name": "Гликерия",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульский уезд, село Автуш",
+          "info": "крестьянин",
+          "name": "Сильвестр",
+          "second_name": "Климентов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 563,
+        "width": 4006,
+        "x": 842,
+        "y": 2586
+      },
+      "entry_id": "189d831c-653e-4a85-af4d-7956a100b64c_1",
+      "people": [
+        {
+          "age": "17",
+          "geo": "Пущинская волость, деревня Акулово",
+          "info": "крестьянская дочь",
+          "name": "Елизавета",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Павел",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Акулово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Ивлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "second_name": "Аникитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "second_name": "Львов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 693,
+        "width": 3992,
+        "x": 832,
+        "y": 3167
+      },
+      "entry_id": "189d831c-653e-4a85-af4d-7956a100b64c_3",
+      "people": [
+        {
+          "age": "19",
+          "geo": "Серпухоский уезд, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Гавриил",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Яковлевская волость, деревня Щеболово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд, деревня Гавшино",
+          "info": "мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Спиридонов"
+        },
+        {
+          "age": "22",
+          "geo": "Алексинский уезд, Яковлевская волость, деревня Щеболово",
+          "info": "солдатская дочь",
+          "name": "Варвара",
+          "second_name": "Филипова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпухоский уезд, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

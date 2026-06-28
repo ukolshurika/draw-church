@@ -1,0 +1,224 @@
+{
+  "year": 1884,
+  "page": 41,
+  "node_id": "a81e108e-6c16-4e8e-9d21-d14d4674adc8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 633,
+        "width": 3812,
+        "x": 666,
+        "y": 1377
+      },
+      "entry_id": "a81e108e-6c16-4e8e-9d21-d14d4674adc8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "second_name": "Аникитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечки",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "20",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Пущинская волость, сельцо Глазечки",
+          "info": "крестьянская дочь",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 734,
+        "width": 3837,
+        "x": 656,
+        "y": 2110
+      },
+      "entry_id": "a81e108e-6c16-4e8e-9d21-d14d4674adc8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, деревня Красная Слобода",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "26",
+          "geo": "Тульская губерния, Богородицкий уезд, Черняевская волость, деревня Красная Слобода",
+          "info": "15-го пехотного Шлиссельбургского полка 10-й роты ефрейтор",
+          "name": "Иван",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "17",
+          "geo": "Тульская губерния, Богородицкий уезд, Черняевская волость, деревня Красная Слобода",
+          "info": "крестьянская дочь",
+          "name": "Агрипина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 3814,
+        "x": 663,
+        "y": 2920
+      },
+      "entry_id": "a81e108e-6c16-4e8e-9d21-d14d4674adc8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Заборье",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Заборье",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, деревня Панкино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Ларионов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, деревня Панкино",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховской уезд",
+          "info": "мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Иванов"
+        },
+        {
+          "age": "17",
+          "geo": "деревня Заборье",
+          "info": "крестьянская дочь",
+          "name": "Марья",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

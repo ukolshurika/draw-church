@@ -1,0 +1,234 @@
+{
+  "year": 1884,
+  "page": 40,
+  "node_id": "32fe762b-a749-409b-bdee-0f594075c79d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 782,
+        "width": 3836,
+        "x": 712,
+        "y": 1059
+      },
+      "entry_id": "32fe762b-a749-409b-bdee-0f594075c79d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "31-й пехотный батальон, запасный рядовой",
+          "name": "Федор",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Нарышкин"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, село Семеновское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Антипов"
+        },
+        {
+          "age": "20",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Сергей",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Высоцкая волость",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Столовёров"
+        },
+        {
+          "age": "19",
+          "geo": "Алексинский уезд, село Нечаево",
+          "info": "крестьянская девица",
+          "name": "Елизавета",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Иванова (Кудрявцева)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "5-й саперный батальон, отставной рядовой",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Шелог"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 541,
+        "width": 3878,
+        "x": 690,
+        "y": 2144
+      },
+      "entry_id": "32fe762b-a749-409b-bdee-0f594075c79d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "22",
+          "geo": "Каширский уезд, сельцо Полозово",
+          "info": "крестьянская дочь",
+          "name": "Агафья",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Руднева"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Полозово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Пущино",
+          "info": "крестьянский сын",
+          "name": "Стефан",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 702,
+        "width": 3856,
+        "x": 692,
+        "y": 3264
+      },
+      "entry_id": "32fe762b-a749-409b-bdee-0f594075c79d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Спиридонов"
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазечка",
+          "info": "крестьянский сын",
+          "name": "Кирилл",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "сельцо Глазечка",
+          "info": "крестьянская дочь",
+          "name": "Наталья",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, деревня Шевырева",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

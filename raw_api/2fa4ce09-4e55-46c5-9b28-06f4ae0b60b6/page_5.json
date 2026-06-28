@@ -1,0 +1,391 @@
+{
+  "year": 1884,
+  "page": 5,
+  "node_id": "7f874f27-6384-4888-894b-23566fad6a5a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 359,
+        "width": 3095,
+        "x": 937,
+        "y": 1168
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Копченова"
+        },
+        {
+          "age": "",
+          "geo": "село Волковичи",
+          "info": "крестьянская вдова",
+          "name": "Евдокия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Ревшина",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Копченов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Филипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Копченова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "запасный унтер-офицер",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Морозов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 340,
+        "width": 3101,
+        "x": 936,
+        "y": 1608
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Разиньково",
+          "info": "солдатка",
+          "name": "Пелагея",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Брыкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Брыкина"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, село Немцово",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "запасный рядовой",
+          "name": "Андрей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Брыкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 355,
+        "width": 3096,
+        "x": 940,
+        "y": 2004
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Капцов"
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, Ясеновская волость, сельцо Дроново",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Капцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Капцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская купчиха",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зенина"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Капцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 359,
+        "width": 3087,
+        "x": 956,
+        "y": 2420
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Всходы",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Васильевская волость, деревня Рыблова",
+          "info": "запасный рядовой",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Лукино",
+          "info": "крестьянская вдова",
+          "name": "Праскева",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисья",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 389,
+        "width": 3120,
+        "x": 929,
+        "y": 2806
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Симеон",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Турово",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "муж крестной матери",
+          "second_name": "Мефодиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Высотская волость, деревня Заборье",
+          "info": "солдатка",
+          "name": "Пелагея",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 3135,
+        "x": 926,
+        "y": 3200
+      },
+      "entry_id": "7f874f27-6384-4888-894b-23566fad6a5a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Калиново",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "уволенный в запас старший фейерверкер 21 дивизии летучого полка артиллерийского парка",
+          "name": "Леонтий",
+          "second_name": "Фирсанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Губаев"
+        },
+        {
+          "age": "",
+          "geo": "Воскресенский посад",
+          "info": "исправник",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Губаев"
+        },
+        {
+          "age": "",
+          "geo": "село Калиново",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GODMOTHER",
+          "surname": "Дементьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Филипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Губаева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

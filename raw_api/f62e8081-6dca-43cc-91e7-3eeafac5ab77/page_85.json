@@ -1,0 +1,286 @@
+{
+  "year": 1881,
+  "page": 85,
+  "node_id": "dbdac963-c53d-4f82-b1d8-0cd9a3f96bf7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 486,
+        "width": 3721,
+        "x": 816,
+        "y": 1134
+      },
+      "entry_id": "dbdac963-c53d-4f82-b1d8-0cd9a3f96bf7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, сельцо Глазечно",
+          "info": "крестьянская дочь",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Глазечно",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазечно",
+          "info": "крестьянский сын",
+          "name": "Никита",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 3697,
+        "x": 792,
+        "y": 1687
+      },
+      "entry_id": "dbdac963-c53d-4f82-b1d8-0cd9a3f96bf7_0",
+      "people": [
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Пущино",
+          "info": "крестьянский сын",
+          "name": "Филипп",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "21",
+          "geo": "Пущинская волость, сельцо Злобино",
+          "info": "крестьянская дочь",
+          "name": "Агрипина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Уар",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "4-я бригада 2-й батареи",
+          "info": "канонир в отпуску",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Савельев"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 558,
+        "width": 3673,
+        "x": 810,
+        "y": 2324
+      },
+      "entry_id": "dbdac963-c53d-4f82-b1d8-0cd9a3f96bf7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Макар",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Кущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Алексей",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Бутырки",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Серпуховский уезд, Алексинская волость, деревня Бутырки",
+          "info": "крестьянская дочь",
+          "name": "Марья",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Кондратов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Бутырки",
+          "info": "серпуховской мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Спиридонов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 3741,
+        "x": 814,
+        "y": 2930
+      },
+      "entry_id": "dbdac963-c53d-4f82-b1d8-0cd9a3f96bf7_3",
+      "people": [
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Злобино",
+          "info": "крестьянский сын",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Серпуховский уезд, деревня Глубоково",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, деревня Глубоково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

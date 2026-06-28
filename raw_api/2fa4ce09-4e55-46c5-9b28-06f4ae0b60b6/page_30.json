@@ -1,0 +1,360 @@
+{
+  "year": 1884,
+  "page": 30,
+  "node_id": "43695a2c-ba93-4384-8b76-493486786b3a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 341,
+        "width": 3009,
+        "x": 927,
+        "y": 1122
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Семеновская волость, деревня Гритьково",
+          "info": "крестьянская девица",
+          "name": "Агрипина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Перервинского училища уволенный ученик",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грузов"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, деревня Чегодаево",
+          "info": "крестьянка",
+          "name": "Агафья",
+          "second_name": "Феофилактова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Стефанида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 350,
+        "width": 2984,
+        "x": 940,
+        "y": 1521
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кудряшева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кудряшева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшина",
+          "info": "запасный рядовой",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кудряшев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семенов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 345,
+        "width": 3016,
+        "x": 920,
+        "y": 1919
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Борис",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Корнеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Корнеева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Воронина",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Корнеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 3011,
+        "x": 921,
+        "y": 2312
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Шахлово",
+          "info": "солдатка",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд, Дисненская волость, деревня Марьино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Острожская волость, деревня Некрасово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 462,
+        "width": 3029,
+        "x": 911,
+        "y": 2765
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тарузский уезд, село Кузьмищево",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховской уезд",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Архангельская волость, село Бахметьево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 3040,
+        "x": 901,
+        "y": 3167
+      },
+      "entry_id": "43695a2c-ba93-4384-8b76-493486786b3a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Архангельская волость, село Бахметьева",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Кузмищево",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Власова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Екатерина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Калиново",
+          "info": "крестьянская вдова",
+          "name": "Васса",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

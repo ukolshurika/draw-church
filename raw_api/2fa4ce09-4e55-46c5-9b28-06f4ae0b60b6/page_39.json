@@ -1,0 +1,224 @@
+{
+  "year": 1884,
+  "page": 39,
+  "node_id": "6f80b65c-3dfe-4801-8e7d-80749ba817ae",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 574,
+        "width": 3778,
+        "x": 745,
+        "y": 1110
+      },
+      "entry_id": "6f80b65c-3dfe-4801-8e7d-80749ba817ae_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Калиново",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Калиново",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Злобино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "Пущинская волость, сельцо Калиново",
+          "info": "крестьянская дочь",
+          "name": "Дарья",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Злобино",
+          "info": "крестьянский сын",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 3794,
+        "x": 741,
+        "y": 1819
+      },
+      "entry_id": "6f80b65c-3dfe-4801-8e7d-80749ba817ae_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской купеческий внук",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Кернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Василий",
+          "second_name": "Семен",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской купеческий внук",
+          "name": "Михаил",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Кернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховской купец",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Каштанов"
+        },
+        {
+          "age": "22",
+          "geo": "",
+          "info": "серпуховская купеческая внучка",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Астапова (Карпова)"
+        },
+        {
+          "age": "26",
+          "geo": "",
+          "info": "серпуховской купеческий сын",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Астапов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 818,
+        "width": 3808,
+        "x": 759,
+        "y": 3151
+      },
+      "entry_id": "6f80b65c-3dfe-4801-8e7d-80749ba817ae_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, село Капустино",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Перфильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Пущинская волость, деревня Гавшина",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Брыкин"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, село Волковское",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Феофилактов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Обухов"
+        },
+        {
+          "age": "50",
+          "geo": "Серпуховской уезд",
+          "info": "мещанин",
+          "name": "Родион",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Степанов"
+        },
+        {
+          "age": "23",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшина",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Степанова (Гавшина)"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

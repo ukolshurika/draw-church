@@ -1,0 +1,70 @@
+{
+  "year": 1885,
+  "page": 190,
+  "node_id": "8be351bc-6cb9-4daf-ae53-f20fd4bdfbe2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 414,
+        "width": 3082,
+        "x": 1069,
+        "y": 1262
+      },
+      "entry_id": "8be351bc-6cb9-4daf-ae53-f20fd4bdfbe2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "тарусская мещанка",
+          "name": "Наталья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "отставной унтер-офицер",
+          "name": "Егор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "город Серпухов",
+          "info": "псаломщик Богоявленской церкви",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}

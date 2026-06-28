@@ -1,0 +1,80 @@
+{
+  "year": 1885,
+  "page": 201,
+  "node_id": "f78fa5c2-98ce-4400-a8b4-eb5472c2dc5b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 856,
+        "width": 3829,
+        "x": 953,
+        "y": 1157
+      },
+      "entry_id": "f78fa5c2-98ce-4400-a8b4-eb5472c2dc5b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Ивлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Пущинская волость, сельцо Глазеево",
+          "info": "крестьянская дочь",
+          "name": "Евдокия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Гавшино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Сизов"
+        },
+        {
+          "age": "20",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Гавшино",
+          "info": "крестьянский сын",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Пущино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Конопаткин"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

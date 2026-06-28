@@ -1,0 +1,244 @@
+{
+  "year": 1885,
+  "page": 197,
+  "node_id": "7da57eb0-81a5-4e1a-8a28-031efd583f08",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 598,
+        "width": 3767,
+        "x": 942,
+        "y": 1198
+      },
+      "entry_id": "7da57eb0-81a5-4e1a-8a28-031efd583f08_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Тверизино",
+          "info": "унтер-офицер",
+          "name": "Сергей",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "то же сельцо Тверизино",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверизино",
+          "info": "крестьянин",
+          "name": "Никанор",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверизино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Тверизино",
+          "info": "крестьянский сын",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверизино",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Гуриев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 674,
+        "width": 3733,
+        "x": 896,
+        "y": 2295
+      },
+      "entry_id": "7da57eb0-81a5-4e1a-8a28-031efd583f08_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Яков",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Крюков"
+        },
+        {
+          "age": "26",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Астапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Астапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Астапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Сергей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Савельев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Антонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховская мещанка",
+          "name": "Пелагея",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Астапова (Алешенкова)"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 769,
+        "width": 3781,
+        "x": 877,
+        "y": 3426
+      },
+      "entry_id": "7da57eb0-81a5-4e1a-8a28-031efd583f08_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Блинов"
+        },
+        {
+          "age": "40",
+          "geo": "Серпуховский уезд, Высотская волость, деревня Нефедово",
+          "info": "крестьянская дочь",
+          "name": "Ирина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Блинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Блинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "50",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Блинов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Пущинская волость, сельцо Глазеево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Блинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин",
+          "name": "Ефим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Спиридонов"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

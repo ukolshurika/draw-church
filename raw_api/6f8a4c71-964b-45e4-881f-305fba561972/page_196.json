@@ -1,0 +1,224 @@
+{
+  "year": 1885,
+  "page": 196,
+  "node_id": "c8bc6b59-904f-4e33-907b-7eb9cb5179fa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 591,
+        "width": 3721,
+        "x": 986,
+        "y": 1176
+      },
+      "entry_id": "c8bc6b59-904f-4e33-907b-7eb9cb5179fa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Малоярославец",
+          "info": "мещанин",
+          "name": "Ефим",
+          "second_name": "Андрианов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "",
+          "info": "малоярославецкая мещанка",
+          "name": "Любовь",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Свиридова (Розан)"
+        },
+        {
+          "age": "",
+          "geo": "город Малоярославец",
+          "info": "мещанин",
+          "name": "Матвей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Николай",
+          "second_name": "Капитонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "серпуховский мещанин",
+          "name": "Василий",
+          "second_name": "Капитонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "31",
+          "geo": "",
+          "info": "серпуховской мещанин",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Свиридов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 1030,
+        "width": 3809,
+        "x": 933,
+        "y": 2453
+      },
+      "entry_id": "c8bc6b59-904f-4e33-907b-7eb9cb5179fa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "запасный рядовой 140-го пехотного Зарайского полка",
+          "name": "Василий",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Квасников"
+        },
+        {
+          "age": "25",
+          "geo": "Серпуховский уезд, Пущинская волость, деревня Федина",
+          "info": "крестьянская дочь",
+          "name": "Евфимия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, село Кузьмищево",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Белозерского полка запасный рядовой",
+          "name": "Даниил",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Ниленов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Алексеевская волость, деревня Дубровка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "30",
+          "geo": "Богородский уезд, Московская губерния, Теренинская волость, деревня Козлова",
+          "info": "крестьянин",
+          "name": "Мартьян",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 737,
+        "width": 3721,
+        "x": 942,
+        "y": 3363
+      },
+      "entry_id": "c8bc6b59-904f-4e33-907b-7eb9cb5179fa_1",
+      "people": [
+        {
+          "age": "17",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянская дочь",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "сельцо Тверитино, Пущинская волость, Серпуховский уезд",
+          "info": "крестьянский сын",
+          "name": "Иван",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ]
+}

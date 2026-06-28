@@ -1,0 +1,373 @@
+{
+  "year": 1880,
+  "page": 127,
+  "node_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 386,
+        "width": 1878,
+        "x": 922,
+        "y": 1297
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "солдатка",
+          "name": "Дарья",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Тверитино",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Пименов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Вантеево",
+          "info": "Московского Воспитательного Дома воспитанник",
+          "name": "Яков",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 1865,
+        "x": 922,
+        "y": 1712
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Савинская волость, сельцо Чегодаево",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Памфилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Иванковская волость, сельцо Казарино",
+          "info": "солдатка",
+          "name": "Гликерия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Савино",
+          "info": "крестьянская вдова",
+          "name": "Акилина",
+          "second_name": "Филипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 451,
+        "width": 1934,
+        "x": 917,
+        "y": 2254
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Климентова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Высотская волость, село Лужки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Климентов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Туровская волость, деревня Сераксеево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Высотская волость, деревня Новая",
+          "info": "крестьянин",
+          "name": "Андриан",
+          "second_name": "Филипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 550,
+        "width": 1837,
+        "x": 919,
+        "y": 2702
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иустинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Верхоуженский завод",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Агапов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Архангельская волость, Верхоуженский завод",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Агапов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 504,
+        "width": 1829,
+        "x": 910,
+        "y": 3255
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Савинская волость, деревня Чегодоево",
+          "info": "солдатка",
+          "name": "Матрона",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Савинская волость, деревня Данилово",
+          "info": "41-й Артиллерийской бригады запасный бомбардир",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 506,
+        "width": 1812,
+        "x": 903,
+        "y": 3739
+      },
+      "entry_id": "e286fdda-bce4-4eaf-b635-e6ed9191ab5f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд, Моложанская волость, деревня Сергеева",
+          "info": "крестьянин",
+          "name": "Мартин",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Сергеева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Мартин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Бадевская волость, село Ивановское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ]
+}
