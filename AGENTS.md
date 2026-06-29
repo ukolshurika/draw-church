@@ -70,6 +70,22 @@ python3 normalize_geo.py    # нормализовать гео-названия
 python3 viz.py              # построить graph.html
 ```
 
+### parse.py options
+
+```
+--input-dir PATH     директория с raw API JSON (по умолчанию: raw_api/)
+--output-nodes PATH  выходной nodes JSON    (по умолчанию: all-nodes.json)
+--output-edges PATH  выходной edges JSON    (по умолчанию: all-edges.json)
+--dry-run            распарсить без записи выходных файлов
+```
+
+Примеры:
+```bash
+python3 parse.py --dry-run                          # проверка без сохранения
+python3 parse.py --input-dir raw_api_new            # другой входной каталог
+python3 parse.py --output-nodes nodes-test.json --output-edges edges-test.json
+```
+
 ---
 
 ## Key Flows
