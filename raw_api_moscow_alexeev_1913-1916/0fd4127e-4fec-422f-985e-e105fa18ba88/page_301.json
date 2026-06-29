@@ -1,0 +1,75 @@
+{
+  "year": 1914,
+  "page": 301,
+  "node_id": "6ebaf6f7-a901-4b45-a0a1-899834b6f440",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 423,
+        "width": 1411,
+        "x": 989,
+        "y": 891
+      },
+      "entry_id": "6ebaf6f7-a901-4b45-a0a1-899834b6f440_1",
+      "people": [
+        {
+          "age": "33",
+          "geo": "Рязанская губерния, Спасский уезд, Рясская волость",
+          "info": "причисленный крестьянин",
+          "name": "Константин",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 232,
+        "width": 1415,
+        "x": 991,
+        "y": 1539
+      },
+      "entry_id": "6ebaf6f7-a901-4b45-a0a1-899834b6f440_0",
+      "people": [
+        {
+          "age": "61",
+          "geo": "",
+          "info": "тульский мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жуков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 291,
+        "width": 1482,
+        "x": 990,
+        "y": 2001
+      },
+      "entry_id": "6ebaf6f7-a901-4b45-a0a1-899834b6f440_2",
+      "people": [
+        {
+          "age": "64",
+          "geo": "",
+          "info": "вдова личного почетного гражданина",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Опольке"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

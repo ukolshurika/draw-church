@@ -1,0 +1,103 @@
+{
+  "year": 1916,
+  "page": 132,
+  "node_id": "6f923979-31b5-44ce-ae20-e16c6773f611",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 844,
+        "width": 2648,
+        "x": 901,
+        "y": 1050
+      },
+      "entry_id": "6f923979-31b5-44ce-ae20-e16c6773f611_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Змиевская волость, село Мышенки",
+          "info": "крестьянская жена",
+          "name": "Агрипина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кабанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "вдова",
+          "name": "Евфросиния",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Степнева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 651,
+        "width": 2652,
+        "x": 923,
+        "y": 3108
+      },
+      "entry_id": "6f923979-31b5-44ce-ae20-e16c6773f611_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Троская волость, село Кондрово",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Русова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Воевская волость, село Плоское",
+          "info": "крестьянка, девица",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Мария",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Русова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Черкизовский уезд, Черкизовская волость, село Черкизово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

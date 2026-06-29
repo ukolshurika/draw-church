@@ -1,0 +1,185 @@
+{
+  "year": 1916,
+  "page": 322,
+  "node_id": "886642f8-e554-427d-8471-135a4559470a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 326,
+        "width": 1484,
+        "x": 1048,
+        "y": 999
+      },
+      "entry_id": "886642f8-e554-427d-8471-135a4559470a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, деревня Ивановка",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кульков"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кульков"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1503,
+        "x": 1049,
+        "y": 1459
+      },
+      "entry_id": "886642f8-e554-427d-8471-135a4559470a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волынская губерния, город Кременец",
+          "info": "мещанка",
+          "name": "Евдокия",
+          "other_status": "мать умершего",
+          "second_name": "Авксентиева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Валенюк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Яковлев",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 месяц 7 дней",
+          "geo": "",
+          "info": "незаконнорожденная дочь",
+          "name": "Надежда",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Валенюк"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 353,
+        "width": 1471,
+        "x": 1055,
+        "y": 1921
+      },
+      "entry_id": "886642f8-e554-427d-8471-135a4559470a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Арнищенская волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Назар",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стефаненков"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Стефаненкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 374,
+        "width": 1396,
+        "x": 1056,
+        "y": 2415
+      },
+      "entry_id": "886642f8-e554-427d-8471-135a4559470a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Суйская волость, деревня Никитино",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пронкин"
+        },
+        {
+          "age": "5 лет",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пронкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 1461,
+        "x": 1066,
+        "y": 2969
+      },
+      "entry_id": "886642f8-e554-427d-8471-135a4559470a_0",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Кобылина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Голубев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

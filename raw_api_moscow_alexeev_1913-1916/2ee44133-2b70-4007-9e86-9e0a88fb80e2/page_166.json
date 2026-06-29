@@ -1,0 +1,114 @@
+{
+  "year": 1915,
+  "page": 166,
+  "node_id": "9e5560ce-54a7-41ea-be97-c8b0e93e80f3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 742,
+        "width": 2840,
+        "x": 908,
+        "y": 1178
+      },
+      "entry_id": "9e5560ce-54a7-41ea-be97-c8b0e93e80f3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Семеновская слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шишкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, село Гари-Рождественское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алешин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 2832,
+        "x": 903,
+        "y": 1978
+      },
+      "entry_id": "9e5560ce-54a7-41ea-be97-c8b0e93e80f3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Леонидов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мальнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мальнева"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Сретенская слобода",
+          "info": "мещанская девица",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мальнева"
+        },
+        {
+          "age": "",
+          "geo": "Рязань",
+          "info": "мещанин",
+          "name": "Георгий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Сретенская слобода",
+          "info": "мещанин",
+          "name": "Леонид",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мальнев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

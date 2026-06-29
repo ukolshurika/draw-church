@@ -1,0 +1,269 @@
+{
+  "year": 1916,
+  "page": 109,
+  "node_id": "79a0e9bf-861d-48be-bc8a-f63383a1d1af",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2790,
+        "x": 881,
+        "y": 1043
+      },
+      "entry_id": "79a0e9bf-861d-48be-bc8a-f63383a1d1af_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Золотых"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троскуровская волость, село Тютчево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шавскій"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Золотых"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд",
+          "info": "медынская мещанка",
+          "name": "Вера",
+          "second_name": "Митрофанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Краснополянская волость, село Семеновское",
+          "info": "трусовой крестьянин",
+          "name": "Петр",
+          "second_name": "Полиевктов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Золотых"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2810,
+        "x": 885,
+        "y": 1772
+      },
+      "entry_id": "79a0e9bf-861d-48be-bc8a-f63383a1d1af_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Илюхин"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Шеншинский уезд, Кондровская волость, деревня Кондрово",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кутуковская волость, сельцо Белугино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Илюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Илюхина"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Климовская волость, деревня Картина",
+          "info": "жена крестьянина",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Грунчева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 648,
+        "width": 2808,
+        "x": 867,
+        "y": 2464
+      },
+      "entry_id": "79a0e9bf-861d-48be-bc8a-f63383a1d1af_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Стефанида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чиховский"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ведновская волость, деревня Гоголево",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гоголев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Минаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Минаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Долговская волость, деревня Сухой-Рожни",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Минаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 677,
+        "width": 2817,
+        "x": 876,
+        "y": 3223
+      },
+      "entry_id": "79a0e9bf-861d-48be-bc8a-f63383a1d1af_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Плащанская волость, деревня Ново-Михайлова",
+          "info": "жена крестьянина",
+          "name": "Евдокія",
+          "other_status": "муж крестной матери",
+          "second_name": "Феодоров",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Поповцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тихомірова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тихоміров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Столпянская волость, село Каленицы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пашкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Волоколамск",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тихоміров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

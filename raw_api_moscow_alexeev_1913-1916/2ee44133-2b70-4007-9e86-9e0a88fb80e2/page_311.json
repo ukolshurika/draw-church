@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 311,
+  "node_id": "fa423c0b-1408-4826-a630-27e084e2d588",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 300,
+        "width": 1480,
+        "x": 1099,
+        "y": 1104
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд",
+          "info": "мещанка",
+          "name": "Дария",
+          "other_status": "вдова",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1433,
+        "x": 1095,
+        "y": 1517
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Нагайская волость, деревня Райгинских хуторов",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кручинин"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кручинин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1420,
+        "x": 1096,
+        "y": 1965
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Вельский уезд, Никифоровская волость, деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Михалев"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Михалев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1408,
+        "x": 1099,
+        "y": 2418
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Кузинская волость, село",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Логвинов"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Логвинов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1485,
+        "x": 1095,
+        "y": 2809
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Сапожковский уезд, Пригородная волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бычкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 314,
+        "width": 1482,
+        "x": 1095,
+        "y": 3232
+      },
+      "entry_id": "fa423c0b-1408-4826-a630-27e084e2d588_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Хмельниковская волость, деревня Ермово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Логинов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Логинова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

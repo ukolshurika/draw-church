@@ -1,0 +1,206 @@
+{
+  "year": 1914,
+  "page": 45,
+  "node_id": "a58b680a-9919-4f8e-bff3-a2ba1870e853",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 422,
+        "width": 2882,
+        "x": 744,
+        "y": 917
+      },
+      "entry_id": "a58b680a-9919-4f8e-bff3-a2ba1870e853_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Чернский уезд, Покровская волость, село Никитское",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ионова"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Мещерская волость, деревня Починина",
+          "info": "крестьянин",
+          "name": "Иона",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ионов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "Сумской уезд, Нижне-Сыроватская волость, село Новая Сыроватка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 2866,
+        "x": 746,
+        "y": 2339
+      },
+      "entry_id": "a58b680a-9919-4f8e-bff3-a2ba1870e853_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Клыгина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Клыгин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Снежин",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шестаков"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Снежин",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шестакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Перово, Тульская губерния, Чернский уезд, Тургеневская волость, деревня Липиц",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Клыгин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2889,
+        "x": 741,
+        "y": 2847
+      },
+      "entry_id": "a58b680a-9919-4f8e-bff3-a2ba1870e853_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Штейн"
+        },
+        {
+          "age": "",
+          "geo": "деревня Волковичи, Витебская губерния",
+          "info": "Полоцкий мещанин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Штейн"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Штейн"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волкович"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Полоцкая мещанка, девица",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Штейн"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

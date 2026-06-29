@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 107,
+  "node_id": "e4960d4f-e621-417c-b207-48fa1ea8f5b5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 513,
+        "width": 2727,
+        "x": 897,
+        "y": 1007
+      },
+      "entry_id": "e4960d4f-e621-417c-b207-48fa1ea8f5b5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Калязин",
+          "info": "мещанин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новоселов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Юдова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новоселова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Гирьяевская волость, деревня Коняево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудряшов"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, город Кременец",
+          "info": "мещанка, девица",
+          "name": "Евдокія",
+          "second_name": "Авксентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волянюк"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2705,
+        "x": 896,
+        "y": 1595
+      },
+      "entry_id": "e4960d4f-e621-417c-b207-48fa1ea8f5b5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Ивановская волость, деревня Галахова",
+          "info": "крестьянка, девица",
+          "name": "Феодосия",
+          "second_name": "Арсеньева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гормакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Галахова",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Арсеньева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дроздова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Галахова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Негин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 675,
+        "width": 2723,
+        "x": 900,
+        "y": 2247
+      },
+      "entry_id": "e4960d4f-e621-417c-b207-48fa1ea8f5b5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Солопова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Касаревская волость, село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Солопов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Солопов"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергачский уезд, Покровская волость, село Исупово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сандов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Симоновская волость, деревня Балдовой",
+          "info": "крестьянка, вдова",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 621,
+        "width": 2739,
+        "x": 902,
+        "y": 2996
+      },
+      "entry_id": "e4960d4f-e621-417c-b207-48fa1ea8f5b5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сажин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сажина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, село Ловецкие Борки",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сажин"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Старо-Константиновский уезд, Купельская волость, село",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сажина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

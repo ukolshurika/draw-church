@@ -1,0 +1,71 @@
+{
+  "year": 1914,
+  "page": 164,
+  "node_id": "84e0cba5-7d31-48a3-abed-06c782f5e918",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 702,
+        "width": 2791,
+        "x": 740,
+        "y": 909
+      },
+      "entry_id": "84e0cba5-7d31-48a3-abed-06c782f5e918_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пирогова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Шеншинская волость, деревня Кондрева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пирогов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пирогова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Романо-Борисоглебский уезд, Пондиловская волость, деревня Михайлова",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Какаев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Шеншинская волость, деревня Кондрева",
+          "info": "крестьянка",
+          "name": "Домна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

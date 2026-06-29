@@ -1,0 +1,322 @@
+{
+  "year": 1914,
+  "page": 143,
+  "node_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 445,
+        "width": 2925,
+        "x": 794,
+        "y": 946
+      },
+      "entry_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матфей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Машиллистов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Беляй",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крутов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Мячковская волость, село",
+          "info": "крестьянка",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Игнатьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Кукина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Машиллистова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Братковская волость, деревня Максимова",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Машиллистов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 446,
+        "width": 2897,
+        "x": 794,
+        "y": 1469
+      },
+      "entry_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "other_status": "муж крестной матери",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Сафронова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ямская волость, село Никуличи",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Комаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Комарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Комарова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Макарій",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грушин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 2954,
+        "x": 774,
+        "y": 1997
+      },
+      "entry_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский мещанин",
+          "info": "мещанин",
+          "name": "Андрей",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Пятницкая волость, деревня Лапина",
+          "info": "мещанин",
+          "name": "Ольга",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Заоськина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Жиздринский мещанин",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2919,
+        "x": 779,
+        "y": 2527
+      },
+      "entry_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Костина"
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Петровский уезд, Вяземская волость, село Синильницы",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абросимова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Косимовский уезд, Телебукинская волость, деревня Бочкари",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Перовская волость, деревня Захарова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 487,
+        "width": 2914,
+        "x": 779,
+        "y": 3077
+      },
+      "entry_id": "0e3d8863-e36f-4fca-87cd-67d5622b0e8f_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Думенская волость, село Акинтьево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Флоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федин"
+        },
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Ильинская волость, деревня Семенниково",
+          "info": "крестьянка",
+          "name": "Ефросиния",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мухоярова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

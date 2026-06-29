@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 343,
+  "node_id": "d0c98451-619e-40dd-b086-2830c0cd8653",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 440,
+        "width": 1397,
+        "x": 1080,
+        "y": 1108
+      },
+      "entry_id": "d0c98451-619e-40dd-b086-2830c0cd8653_4",
+      "people": [
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смолевская волость, село Мостье",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Иовов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Митин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 428,
+        "width": 1407,
+        "x": 1084,
+        "y": 1704
+      },
+      "entry_id": "d0c98451-619e-40dd-b086-2830c0cd8653_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Алексеевская волость, деревня Чубарово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кочетков"
+        },
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кочетков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 393,
+        "width": 1415,
+        "x": 1093,
+        "y": 2276
+      },
+      "entry_id": "d0c98451-619e-40dd-b086-2830c0cd8653_2",
+      "people": [
+        {
+          "age": "53",
+          "geo": "Ярославская губерния, Ростовский уезд, Борисоглебская волость, деревня Старое Подборное",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 407,
+        "width": 1394,
+        "x": 1103,
+        "y": 2829
+      },
+      "entry_id": "d0c98451-619e-40dd-b086-2830c0cd8653_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Кривская волость, деревня Бабыкино",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Шилова"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "внебрачный сын Матроны Дмитриевой Шиловой",
+          "name": "Дмитрий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шилов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 321,
+        "width": 1439,
+        "x": 1109,
+        "y": 3355
+      },
+      "entry_id": "d0c98451-619e-40dd-b086-2830c0cd8653_1",
+      "people": [
+        {
+          "age": "10 дней",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Леонидов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "бывший почтово-телеграфный чиновник Московского почтамта, сын губернского секретаря",
+          "name": "Леонид",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

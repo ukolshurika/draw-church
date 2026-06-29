@@ -1,0 +1,288 @@
+{
+  "year": 1914,
+  "page": 56,
+  "node_id": "6e642f91-5ce7-48e5-9ced-a5f76c8331ef",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 439,
+        "width": 2846,
+        "x": 721,
+        "y": 922
+      },
+      "entry_id": "6e642f91-5ce7-48e5-9ced-a5f76c8331ef_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, деревня Акатьева",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Дария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Желобцова"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Соболевская волость, деревня Борис-Глеб",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Желобцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 608,
+        "width": 2894,
+        "x": 706,
+        "y": 1419
+      },
+      "entry_id": "6e642f91-5ce7-48e5-9ced-a5f76c8331ef_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Никулина",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коршунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Здрогова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, сельцо Введенское",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коршунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Коршунова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Устюжский уезд, Нестеферовская волость, деревня Михайловская",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Здрогов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 596,
+        "width": 2874,
+        "x": 704,
+        "y": 1984
+      },
+      "entry_id": "6e642f91-5ce7-48e5-9ced-a5f76c8331ef_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Бубновская волость, деревня Григорово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Коргошино",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ходаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, сельцо Введенское",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Коргошино",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Здрогова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Устюжский уезд, Нестеферовская волость, деревня Михайловская",
+          "info": "мещанка",
+          "name": "Лидия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Морозова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 686,
+        "width": 2948,
+        "x": 693,
+        "y": 2551
+      },
+      "entry_id": "6e642f91-5ce7-48e5-9ced-a5f76c8331ef_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Петровская волость, деревня Захарова",
+          "info": "крестьянская дочь, девица",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Волчье-Дубровская волость, село",
+          "info": "крестьянин",
+          "name": "Макарій",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сальников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Рохмачевская волость, деревня Свистово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дмитриев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

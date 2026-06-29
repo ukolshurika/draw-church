@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 261,
+  "node_id": "ca3f2c14-a436-4142-8516-4f5891cb75f6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1501,
+        "x": 1015,
+        "y": 1143
+      },
+      "entry_id": "ca3f2c14-a436-4142-8516-4f5891cb75f6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Мокровская волость, деревня Ащепково",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Байков"
+        },
+        {
+          "age": "4 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Байкова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1457,
+        "x": 1014,
+        "y": 1782
+      },
+      "entry_id": "ca3f2c14-a436-4142-8516-4f5891cb75f6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Долматовская волость, село Ромоданово",
+          "info": "из дома Нарышкина крестьянин",
+          "name": "Гавриил",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кулаков"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кулаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 480,
+        "width": 1458,
+        "x": 1011,
+        "y": 2438
+      },
+      "entry_id": "ca3f2c14-a436-4142-8516-4f5891cb75f6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня Черникова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ларин"
+        },
+        {
+          "age": "1 год 5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ларин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 1481,
+        "x": 1011,
+        "y": 3123
+      },
+      "entry_id": "ca3f2c14-a436-4142-8516-4f5891cb75f6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Суховская волость, деревня Язы",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баранов"
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Баранова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

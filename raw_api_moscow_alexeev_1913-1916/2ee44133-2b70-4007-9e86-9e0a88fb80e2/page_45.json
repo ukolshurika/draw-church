@@ -1,0 +1,259 @@
+{
+  "year": 1915,
+  "page": 45,
+  "node_id": "2020ffa0-638e-4aef-80c5-d795837c8733",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2809,
+        "x": 974,
+        "y": 1091
+      },
+      "entry_id": "2020ffa0-638e-4aef-80c5-d795837c8733_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Елисеевская волость, деревня Кочкова",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Скопинский уезд",
+          "info": "мещанка",
+          "name": "Матрона",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Титова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2797,
+        "x": 978,
+        "y": 1755
+      },
+      "entry_id": "2020ffa0-638e-4aef-80c5-d795837c8733_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Сергиевская волость, село Спасское",
+          "info": "девица",
+          "name": "Анастасия",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бабаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, деревня Носилово",
+          "info": "жена крестьянина",
+          "name": "Феодосия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Блескина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бабаев"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевская волость, деревня Молчаново",
+          "info": "крестьянин",
+          "name": "Захарій",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бабаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2813,
+        "x": 988,
+        "y": 2409
+      },
+      "entry_id": "2020ffa0-638e-4aef-80c5-d795837c8733_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Красносельская волость, деревня Малые Лужки",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Трифилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коротыгин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Казакова"
+        },
+        {
+          "age": "",
+          "geo": "Красносельская волость, деревня Малые Лужки",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Шубино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Казаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 648,
+        "width": 2782,
+        "x": 999,
+        "y": 3150
+      },
+      "entry_id": "2020ffa0-638e-4aef-80c5-d795837c8733_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бочаловская волость, деревня Ивановка",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Иволга, деревня Мазолово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Мазолово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рыбаков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,129 @@
+{
+  "year": 1916,
+  "page": 264,
+  "node_id": "cfa82d94-51ff-4203-88c6-3edd7a79074b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 446,
+        "width": 1408,
+        "x": 1106,
+        "y": 1119
+      },
+      "entry_id": "cfa82d94-51ff-4203-88c6-3edd7a79074b_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чупикин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Красногорская волость, деревня Лесок",
+          "info": "из дома Ярославской железной дороги крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чупикин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 470,
+        "width": 1377,
+        "x": 1114,
+        "y": 1774
+      },
+      "entry_id": "cfa82d94-51ff-4203-88c6-3edd7a79074b_2",
+      "people": [
+        {
+          "age": "77",
+          "geo": "Московская губерния, Звенигородский уезд, Шараповская волость, деревня Часовня",
+          "info": "крестьянин",
+          "name": "Макарій",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кудряшов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1458,
+        "x": 1119,
+        "y": 2434
+      },
+      "entry_id": "cfa82d94-51ff-4203-88c6-3edd7a79074b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Жилкина"
+        },
+        {
+          "age": "56",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жилкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 550,
+        "width": 1456,
+        "x": 1120,
+        "y": 3128
+      },
+      "entry_id": "cfa82d94-51ff-4203-88c6-3edd7a79074b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Заболотская волость, деревня Никифоровское",
+          "info": "крестьянин",
+          "name": "Елеазар",
+          "other_status": "муж умершего",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Богданов"
+        },
+        {
+          "age": "53",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Богданова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

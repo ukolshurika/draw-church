@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 67,
+  "node_id": "0a015537-02f9-4c2f-a67c-c52dd6ed5460",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 620,
+        "width": 2749,
+        "x": 910,
+        "y": 1107
+      },
+      "entry_id": "0a015537-02f9-4c2f-a67c-c52dd6ed5460_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Арсентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харитонова"
+        },
+        {
+          "age": "",
+          "geo": "Волочковская волость, деревня Петрикино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Володчинков"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Карытовская волость, село Вшеки",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Арсентьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Гаврюково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харитонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Арсентьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Харитонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2767,
+        "x": 901,
+        "y": 1846
+      },
+      "entry_id": "0a015537-02f9-4c2f-a67c-c52dd6ed5460_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Ростокинская волость",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Молчанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Клавдия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Молчанов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Ростокинская волость",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Молчанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2783,
+        "x": 909,
+        "y": 2556
+      },
+      "entry_id": "0a015537-02f9-4c2f-a67c-c52dd6ed5460_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Литвиновская волость, деревня Литвиново",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сизова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Апполонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ираида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Коровинская волость, деревня Костина",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2809,
+        "x": 909,
+        "y": 3195
+      },
+      "entry_id": "0a015537-02f9-4c2f-a67c-c52dd6ed5460_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Титовская волость, деревня Меньшикова",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хайров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хайрова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Даниловская волость, деревня Мичурина",
+          "info": "крестьянин",
+          "name": "Мичурин",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хайрова"
+        },
+        {
+          "age": "",
+          "geo": "Титовская волость, село Титово",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Драгунков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

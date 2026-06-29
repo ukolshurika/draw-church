@@ -1,0 +1,216 @@
+{
+  "year": 1915,
+  "page": 32,
+  "node_id": "7173fba8-26d9-4af8-824f-6051cf22ab3f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1091,
+        "width": 2789,
+        "x": 897,
+        "y": 1052
+      },
+      "entry_id": "7173fba8-26d9-4af8-824f-6051cf22ab3f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Бабичевская волость, деревня Голофтеево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Маркелов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Голофтеево",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Ардатовский уезд",
+          "info": "мещанка",
+          "name": "Екатерина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Синицына"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 799,
+        "width": 2770,
+        "x": 897,
+        "y": 2203
+      },
+      "entry_id": "7173fba8-26d9-4af8-824f-6051cf22ab3f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пикунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пикунова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовский уезд, Кондаковская волость",
+          "info": "вдова",
+          "name": "Екатерина",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, Троицкая слобода",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пикунов"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Гавеновская волость, деревня Красный Холм",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маслов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 631,
+        "width": 2818,
+        "x": 889,
+        "y": 3010
+      },
+      "entry_id": "7173fba8-26d9-4af8-824f-6051cf22ab3f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Москва, Мясницкая слобода",
+          "info": "мещанин",
+          "name": "Яков",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рубенков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "врач",
+          "name": "Серафим",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гурьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

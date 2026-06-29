@@ -1,0 +1,238 @@
+{
+  "year": 1914,
+  "page": 62,
+  "node_id": "62ac2b70-703b-493c-b9bd-78d34cf74ffd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 497,
+        "width": 2774,
+        "x": 765,
+        "y": 983
+      },
+      "entry_id": "62ac2b70-703b-493c-b9bd-78d34cf74ffd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Короболинская волость, село Фролищи",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "почетная гражданка",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шереметева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный дворянин, прапорщик запаса",
+          "name": "Виктор",
+          "other_status": "муж крестной матери",
+          "second_name": "Альфредов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Люллель"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 488,
+        "width": 2777,
+        "x": 760,
+        "y": 1517
+      },
+      "entry_id": "62ac2b70-703b-493c-b9bd-78d34cf74ffd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Поречская волость, деревня Курицина",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Курицина",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щербакова"
+        },
+        {
+          "age": "",
+          "geo": "город Вышний Волочек",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дмитриев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2796,
+        "x": 746,
+        "y": 2059
+      },
+      "entry_id": "62ac2b70-703b-493c-b9bd-78d34cf74ffd_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова, московская мещанка Кузнецкой слободы",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Топленинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Рыбинская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын надворного советника, московский мещанин",
+          "name": "Павел",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыбинская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Титова",
+          "info": "московский мещанин Больших слобод",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рыбинский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2789,
+        "x": 750,
+        "y": 2637
+      },
+      "entry_id": "62ac2b70-703b-493c-b9bd-78d34cf74ffd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Григорьевская волость",
+          "info": "рязанский мещанин",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Григорьевская волость, село",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маняхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Заседательева"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Григорьевская волость, сельцо Караево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егорович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Заседательев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Заседательев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

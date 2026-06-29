@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 117,
+  "node_id": "8a8dfa75-e5f5-479b-a26d-b616d18e6524",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 774,
+        "width": 2847,
+        "x": 902,
+        "y": 1116
+      },
+      "entry_id": "8a8dfa75-e5f5-479b-a26d-b616d18e6524_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Селенская волость, деревня Решеткино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Селенская волость, деревня Цеселева",
+          "info": "запасный старший унтер-офицер, из крестьян",
+          "name": "Владимир",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Миронова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Холохоленская волость, деревня Локтева",
+          "info": "запасный ефрейтор Либавской крепостной минной роты, из крестьян",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 679,
+        "width": 2851,
+        "x": 901,
+        "y": 2025
+      },
+      "entry_id": "8a8dfa75-e5f5-479b-a26d-b616d18e6524_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Кукаринская волость, деревня Рюрьково",
+          "info": "крестьянин",
+          "name": "Анисій",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Долнакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Долнакова"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Тетюшский уезд, Ильинско-Шонгутская волость",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Долнаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 705,
+        "width": 2869,
+        "x": 885,
+        "y": 2868
+      },
+      "entry_id": "8a8dfa75-e5f5-479b-a26d-b616d18e6524_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Архипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Синицына"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Синицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Архипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Синицына"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "приходский дьякон",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Кругловская волость, деревня Козловки",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Синицын"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

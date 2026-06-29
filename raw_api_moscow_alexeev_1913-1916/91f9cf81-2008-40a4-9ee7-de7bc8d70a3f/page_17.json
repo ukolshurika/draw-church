@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 17,
+  "node_id": "4dc78bce-69c5-465f-afb2-d39e292a4ac8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 445,
+        "width": 2743,
+        "x": 854,
+        "y": 1083
+      },
+      "entry_id": "4dc78bce-69c5-465f-afb2-d39e292a4ac8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шарашкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Починковская волость, деревня Денисова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шарашкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский Посад",
+          "info": "мещанин",
+          "name": "Феодор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Брендаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова, потомственная дворянка",
+          "name": "Инна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Янская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шарашкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2718,
+        "x": 864,
+        "y": 1743
+      },
+      "entry_id": "4dc78bce-69c5-465f-afb2-d39e292a4ac8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Двоенская волость, деревня Скобнево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерасов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Ласково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Нефедов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алферов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Герасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ерасова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 605,
+        "width": 2728,
+        "x": 871,
+        "y": 2436
+      },
+      "entry_id": "4dc78bce-69c5-465f-afb2-d39e292a4ac8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена потомственного дворянина",
+          "name": "Александра",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыбинская"
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Белянининская волость, деревня Шохово",
+          "info": "крестьянин Калужской губернии",
+          "name": "Владимир",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "Мытищинская волость, деревня Малые Мытищи",
+          "info": "крестьянин Московской губернии и уезда",
+          "name": "Симеон",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жаринов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2705,
+        "x": 870,
+        "y": 3243
+      },
+      "entry_id": "4dc78bce-69c5-465f-afb2-d39e292a4ac8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Подольск",
+          "info": "мещанка, девица",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фоминых"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Игнатовская волость, деревня Ковшово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Андреев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

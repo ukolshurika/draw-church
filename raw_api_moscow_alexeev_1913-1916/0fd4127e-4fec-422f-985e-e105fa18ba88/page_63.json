@@ -1,0 +1,249 @@
+{
+  "year": 1914,
+  "page": 63,
+  "node_id": "31b18f0d-7cc7-4b22-b487-4bac9a047688",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 486,
+        "width": 2799,
+        "x": 813,
+        "y": 913
+      },
+      "entry_id": "31b18f0d-7cc7-4b22-b487-4bac9a047688_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Никольская волость, село Жупани",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Понкратов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Какуринского уезда, Фроловская волость, село",
+          "info": "крестьянская дочь, девица",
+          "name": "Антонина",
+          "second_name": "Кононова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Какуринки",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Илюкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 2819,
+        "x": 812,
+        "y": 1503
+      },
+      "entry_id": "31b18f0d-7cc7-4b22-b487-4bac9a047688_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Епимиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Понкратов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Молодинская волость, село Молоди",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Громушкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, село Жупань",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Понкратова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, село Жупань",
+          "info": "крестьянин",
+          "name": "Епимий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Понкратов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митякинская волость, деревня Дугинка",
+          "info": "крестьянка",
+          "name": "Марья",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тихонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 2795,
+        "x": 815,
+        "y": 2084
+      },
+      "entry_id": "31b18f0d-7cc7-4b22-b487-4bac9a047688_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Костина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трусова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Усмерская волость, деревня Кладьково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Аннинская волость, деревня Борщевки",
+          "info": "запасный нижний чин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Костин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2753,
+        "x": 825,
+        "y": 2613
+      },
+      "entry_id": "31b18f0d-7cc7-4b22-b487-4bac9a047688_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Осташковский уезд, Дрыгомская волость, село Рытое",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Есенковская волость, деревня Старая Колта",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец крестной матери",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бондарев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

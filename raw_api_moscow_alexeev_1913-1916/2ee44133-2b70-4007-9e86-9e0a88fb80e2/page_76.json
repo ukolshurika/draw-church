@@ -1,0 +1,247 @@
+{
+  "year": 1915,
+  "page": 76,
+  "node_id": "59de9ac4-5002-4d7c-a9bd-d8efc56066a7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2713,
+        "x": 948,
+        "y": 1063
+      },
+      "entry_id": "59de9ac4-5002-4d7c-a9bd-d8efc56066a7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Давыдовская волость, село Софьино",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михеичев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Васильевская волость, деревня Сход",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михеичева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Михеичева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Рыбинский уезд, Николо-Задубровская волость",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 505,
+        "width": 2710,
+        "x": 946,
+        "y": 1728
+      },
+      "entry_id": "59de9ac4-5002-4d7c-a9bd-d8efc56066a7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Солдатская волость, деревня Ведьминова",
+          "info": "крестьянин",
+          "name": "Порфирий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Широбоков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Евгения",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кумянцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Порфириева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Широбокова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Широбокова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Глебов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Задонский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2735,
+        "x": 956,
+        "y": 2412
+      },
+      "entry_id": "59de9ac4-5002-4d7c-a9bd-d8efc56066a7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Намировская волость, село Мосейцево",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осиличев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Никольская волость, село Кузьмино",
+          "info": "крестьянка",
+          "name": "Евфимия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Введенская волость, село Троскурово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Павлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2709,
+        "x": 965,
+        "y": 3051
+      },
+      "entry_id": "59de9ac4-5002-4d7c-a9bd-d8efc56066a7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хватов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хватова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Холохоленская волость, деревня Новое Село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хватов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Борисов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

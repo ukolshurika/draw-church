@@ -1,0 +1,97 @@
+{
+  "year": 1915,
+  "page": 287,
+  "node_id": "20d98c14-4a67-40df-97ac-c1c5a83b80bb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 351,
+        "width": 1403,
+        "x": 1077,
+        "y": 1116
+      },
+      "entry_id": "20d98c14-4a67-40df-97ac-c1c5a83b80bb_2",
+      "people": [
+        {
+          "age": "48",
+          "geo": "Владимирская губерния, Суздальский уезд, Гаврилов Посад",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шарапов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 338,
+        "width": 1427,
+        "x": 1062,
+        "y": 2624
+      },
+      "entry_id": "20d98c14-4a67-40df-97ac-c1c5a83b80bb_1",
+      "people": [
+        {
+          "age": "1 час",
+          "geo": "Рязанская губерния, Пронский уезд, Домнаевская волость, деревня Налескино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Дементьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 404,
+        "width": 1449,
+        "x": 1057,
+        "y": 3105
+      },
+      "entry_id": "20d98c14-4a67-40df-97ac-c1c5a83b80bb_0",
+      "people": [
+        {
+          "age": "11 дней",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Звездин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Марчугово",
+          "info": "крестьянская девица",
+          "name": "Ксения",
+          "other_status": "мать умершего",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Звездина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

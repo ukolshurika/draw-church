@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 278,
+  "node_id": "98c131ff-87cd-431f-8284-a6ee034101d6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 455,
+        "width": 1444,
+        "x": 961,
+        "y": 870
+      },
+      "entry_id": "98c131ff-87cd-431f-8284-a6ee034101d6_2",
+      "people": [
+        {
+          "age": "1 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Переяславский уезд, Петровская волость, деревня Ростиново",
+          "info": "",
+          "name": "Ефим",
+          "other_status": "отец умершего",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 1516,
+        "x": 949,
+        "y": 1496
+      },
+      "entry_id": "98c131ff-87cd-431f-8284-a6ee034101d6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стопинская волость, деревня Карандышево",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Тюрина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 492,
+        "width": 1520,
+        "x": 951,
+        "y": 2126
+      },
+      "entry_id": "98c131ff-87cd-431f-8284-a6ee034101d6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кашинский уезд, Славковская волость, село Красный Бор",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Грачева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 384,
+        "width": 1462,
+        "x": 954,
+        "y": 2817
+      },
+      "entry_id": "98c131ff-87cd-431f-8284-a6ee034101d6_3",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Верейская",
+          "info": "мещанин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карасев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

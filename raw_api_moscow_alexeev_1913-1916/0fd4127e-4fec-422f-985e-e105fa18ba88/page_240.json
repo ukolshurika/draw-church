@@ -1,0 +1,196 @@
+{
+  "year": 1914,
+  "page": 240,
+  "node_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1500,
+        "x": 916,
+        "y": 836
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Устюжский уезд, Приводинская волость, деревня Прелой",
+          "info": "крестьянин",
+          "name": "Савватий",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Махин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Савватиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Махина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 226,
+        "width": 1433,
+        "x": 908,
+        "y": 1268
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_4",
+      "people": [
+        {
+          "age": "70",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 308,
+        "width": 1420,
+        "x": 905,
+        "y": 1640
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кармовская волость, деревня Меженовка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Ларионов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фирсов"
+        },
+        {
+          "age": "2",
+          "geo": "",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Фирсов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 384,
+        "width": 1510,
+        "x": 903,
+        "y": 2092
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_1",
+      "people": [
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Разиньково, Мосальский уезд, Калужская губерния",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Кузнецов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 328,
+        "width": 1527,
+        "x": 889,
+        "y": 2623
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Южевский уезд, Ильичроденская волость, деревня Селищи",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "other_status": "отец умершего",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "29 дней",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 327,
+        "width": 1437,
+        "x": 896,
+        "y": 3063
+      },
+      "entry_id": "b2cd0923-2dfb-4eac-8747-aa2494fafa0c_3",
+      "people": [
+        {
+          "age": "6 1/2 л.",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Аношин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Луховическая волость, Кулаковская округа",
+          "info": "",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Аношин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

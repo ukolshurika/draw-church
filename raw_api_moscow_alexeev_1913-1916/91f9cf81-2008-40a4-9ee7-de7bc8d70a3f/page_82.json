@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 82,
+  "node_id": "18f3caab-5278-44b1-9cde-267befe2f81b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 569,
+        "width": 2710,
+        "x": 899,
+        "y": 1029
+      },
+      "entry_id": "18f3caab-5278-44b1-9cde-267befe2f81b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Покровская волость, деревня Щепки",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Каземирова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Жуковская волость, деревня Савина",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Каземиров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, село Буда",
+          "info": "крестьянка, девица",
+          "name": "Иустиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баченкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Каземирова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2709,
+        "x": 904,
+        "y": 1653
+      },
+      "entry_id": "18f3caab-5278-44b1-9cde-267befe2f81b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Колодецкая волость, село Фроловское",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Челяденков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Роганова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Тотемский уезд, Харинская волость, деревня Подгорная",
+          "info": "крестьянка, девица",
+          "name": "Ирина",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дурнева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Телебукинская волость, деревня Шульгина",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Роганов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2711,
+        "x": 904,
+        "y": 2297
+      },
+      "entry_id": "18f3caab-5278-44b1-9cde-267befe2f81b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "Весьегонский уезд, Топалковская волость, деревня Нивищи",
+          "info": "жена крестьянина",
+          "name": "Матрона",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Весьегонский уезд, Лопатинская волость, деревня Свинцово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цветков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 670,
+        "width": 2660,
+        "x": 900,
+        "y": 3047
+      },
+      "entry_id": "18f3caab-5278-44b1-9cde-267befe2f81b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "девица",
+          "name": "Клавдия",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Емельянова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Щениковская волость, деревня Горяшино",
+          "info": "крестьянин, зачисленный во 2-й разряд ополчения",
+          "name": "Иван",
+          "second_name": "Арсенье",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бундин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бундин"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Гавриил",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бундина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

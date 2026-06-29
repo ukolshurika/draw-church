@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 294,
+  "node_id": "754a6541-64c5-41cb-be9b-78d4c339c833",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1425,
+        "x": 960,
+        "y": 909
+      },
+      "entry_id": "754a6541-64c5-41cb-be9b-78d4c339c833_3",
+      "people": [
+        {
+          "age": "42",
+          "geo": "Кузнецкая слобода",
+          "info": "московский мещанин",
+          "name": "Сергей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Андреев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 403,
+        "width": 1431,
+        "x": 961,
+        "y": 1438
+      },
+      "entry_id": "754a6541-64c5-41cb-be9b-78d4c339c833_2",
+      "people": [
+        {
+          "age": "54",
+          "geo": "Орловская губерния, Дмитровский уезд, Больше-Добровская волость, село Копенки",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сопичкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 1507,
+        "x": 951,
+        "y": 1984
+      },
+      "entry_id": "754a6541-64c5-41cb-be9b-78d4c339c833_1",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Февкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, село Киселево",
+          "info": "крестьянин",
+          "name": "Борис",
+          "other_status": "отец умершего",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Февкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 410,
+        "width": 1504,
+        "x": 942,
+        "y": 2704
+      },
+      "entry_id": "754a6541-64c5-41cb-be9b-78d4c339c833_0",
+      "people": [
+        {
+          "age": "72",
+          "geo": "Московская губерния, Подольский уезд, Домодедовская волость, село",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Маричева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

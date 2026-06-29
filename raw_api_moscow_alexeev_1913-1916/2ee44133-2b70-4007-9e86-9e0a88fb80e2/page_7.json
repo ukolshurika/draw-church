@@ -1,0 +1,289 @@
+{
+  "year": 1915,
+  "page": 7,
+  "node_id": "177b17bb-1618-4e73-8dae-621c11faf871",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 495,
+        "width": 2753,
+        "x": 963,
+        "y": 1050
+      },
+      "entry_id": "177b17bb-1618-4e73-8dae-621c11faf871_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский мещанин",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кирюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Усманский уезд, Хомутовская волость, село",
+          "info": "жена крестьянина",
+          "name": "Надежда",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прибыткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кирюхина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Сергиевская волость, деревня Губы",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кирюхин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 2792,
+        "x": 958,
+        "y": 1597
+      },
+      "entry_id": "177b17bb-1618-4e73-8dae-621c11faf871_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Дороховская волость, деревня Образцово",
+          "info": "крестьянка",
+          "name": "Фекла",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тузова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кирюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Сергиевская волость, деревня Губы",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кирюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кирюхина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Ильинская волость, деревня Ерыково",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 497,
+        "width": 2747,
+        "x": 956,
+        "y": 2126
+      },
+      "entry_id": "177b17bb-1618-4e73-8dae-621c11faf871_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Емельянова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куребинская волость, село Дудино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мельников"
+        },
+        {
+          "age": "",
+          "geo": "Елизаветпольская губерния, город Шуши",
+          "info": "купеческая дочь, девица",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петросова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Емельянова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 2718,
+        "x": 967,
+        "y": 2654
+      },
+      "entry_id": "177b17bb-1618-4e73-8dae-621c11faf871_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Пелагиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Артамонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Артамонов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Московская волость, село Скрыпино",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Артамонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 2758,
+        "x": 978,
+        "y": 3183
+      },
+      "entry_id": "177b17bb-1618-4e73-8dae-621c11faf871_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Семиревская волость, деревня Александровка",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кожемякин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Белая Кривца",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дорошенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Тертиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кожемякина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кожемякин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

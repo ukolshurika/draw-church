@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 153,
+  "node_id": "e34a2224-8aa4-4d1e-82b4-8c9e4da58aec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2787,
+        "x": 907,
+        "y": 1036
+      },
+      "entry_id": "e34a2224-8aa4-4d1e-82b4-8c9e4da58aec_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Розанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Розанов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Волоколамск",
+          "info": "мещанин",
+          "name": "Афанасий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Розанов"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Перхушковская волость, деревня Пыхтино",
+          "info": "вдова крестьянина",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корчагина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Асеевская волость, деревня Корпусово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дементьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 687,
+        "width": 2785,
+        "x": 908,
+        "y": 1802
+      },
+      "entry_id": "e34a2224-8aa4-4d1e-82b4-8c9e4da58aec_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Марфа",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Никитина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Макшеевская волость, деревня Китаева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гришин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Токаревская волость, деревня Петровская",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гришин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Богомолов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 698,
+        "width": 2792,
+        "x": 909,
+        "y": 2739
+      },
+      "entry_id": "e34a2224-8aa4-4d1e-82b4-8c9e4da58aec_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня, выселки",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Памферов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мазуров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мазурова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Белей",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Касинеров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Покровская волость, деревня Ново-Успенское, выселки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мазуров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мазурова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

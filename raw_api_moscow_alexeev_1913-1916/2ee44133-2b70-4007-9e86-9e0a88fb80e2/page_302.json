@@ -1,0 +1,229 @@
+{
+  "year": 1915,
+  "page": 302,
+  "node_id": "384d198c-2995-4f23-bbe9-ffe04d62653f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 281,
+        "width": 1479,
+        "x": 1084,
+        "y": 1109
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Логинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 286,
+        "width": 1434,
+        "x": 1081,
+        "y": 1496
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_4",
+      "people": [
+        {
+          "age": "7 1/2 часа",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Петровская волость, деревня Ростиново",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "other_status": "отец умершего",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 285,
+        "width": 1495,
+        "x": 1079,
+        "y": 1890
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_1",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Филиппова"
+        },
+        {
+          "age": "",
+          "geo": "Клинского уезда Круговская волость, деревня Свистукова",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филиппов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 218,
+        "width": 1471,
+        "x": 1094,
+        "y": 2312
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_5",
+      "people": [
+        {
+          "age": "78",
+          "geo": "",
+          "info": "монахиня Алексеевского монастыря",
+          "name": "Павла",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1424,
+        "x": 1092,
+        "y": 2616
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Никольская волость, деревня Иванцово",
+          "info": "крестьянка",
+          "name": "Любовь",
+          "other_status": "мать умершего",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зотов",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1381,
+        "x": 1099,
+        "y": 3042
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_3",
+      "people": [
+        {
+          "age": "46",
+          "geo": "Кошельная слобода",
+          "info": "московский мещанин",
+          "name": "Василий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соболев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 267,
+        "width": 1403,
+        "x": 1101,
+        "y": 3372
+      },
+      "entry_id": "384d198c-2995-4f23-bbe9-ffe04d62653f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, деревня Ряплово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Поликарпов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Поликарпов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

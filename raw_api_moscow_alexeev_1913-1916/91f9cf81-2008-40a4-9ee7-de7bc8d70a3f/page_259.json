@@ -1,0 +1,53 @@
+{
+  "year": 1916,
+  "page": 259,
+  "node_id": "3997fd02-8539-4a49-9670-5d32f99eb9c5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1481,
+        "x": 1046,
+        "y": 1207
+      },
+      "entry_id": "3997fd02-8539-4a49-9670-5d32f99eb9c5_1",
+      "people": [
+        {
+          "age": "74",
+          "geo": "Казенная слобода",
+          "info": "из дома Сорокина Московская мещанка, девица",
+          "name": "Анисья",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гусарева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1462,
+        "x": 1051,
+        "y": 1885
+      },
+      "entry_id": "3997fd02-8539-4a49-9670-5d32f99eb9c5_0",
+      "people": [
+        {
+          "age": "42",
+          "geo": "",
+          "info": "из дома Рубенкова, учительница начального училища, девица",
+          "name": "Анастасия",
+          "second_name": "Дорофеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Степаненко"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

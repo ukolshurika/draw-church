@@ -1,0 +1,185 @@
+{
+  "year": 1916,
+  "page": 323,
+  "node_id": "89164937-62f4-44ab-b53f-885a1dcf7b71",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 421,
+        "width": 1531,
+        "x": 1032,
+        "y": 1046
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Вертенская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Аржанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 289,
+        "width": 1408,
+        "x": 1040,
+        "y": 1650
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_5",
+      "people": [
+        {
+          "age": "33",
+          "geo": "Тверская губерния, Логиновский уезд, Логиновская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Сильверстов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Зимин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 435,
+        "width": 1513,
+        "x": 1035,
+        "y": 2119
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_2",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Садовская"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Ошмянский уезд, Забрязская волость, деревня Харитин",
+          "info": "из дома Ловенко, крестьянская девица",
+          "name": "Стефанида",
+          "other_status": "мать умершего",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Садовская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 352,
+        "width": 1512,
+        "x": 1043,
+        "y": 2690
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Золотарева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Золотарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 348,
+        "width": 1432,
+        "x": 1050,
+        "y": 3196
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_1",
+      "people": [
+        {
+          "age": "58",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, деревня Александрово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чупрунов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 275,
+        "width": 1463,
+        "x": 1060,
+        "y": 3665
+      },
+      "entry_id": "89164937-62f4-44ab-b53f-885a1dcf7b71_4",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Псковская губерния, Островский уезд, Толковская волость, деревня Кишевы",
+          "info": "крестьянин",
+          "name": "Илья",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

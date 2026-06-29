@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 283,
+  "node_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1472,
+        "x": 1096,
+        "y": 1104
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_5",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Скорбящева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, деревня Черепенино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Скорбящев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 333,
+        "width": 1398,
+        "x": 1094,
+        "y": 1562
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_4",
+      "people": [
+        {
+          "age": "10 лет",
+          "geo": "",
+          "info": "",
+          "name": "Никанор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лапин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ухновская волость, село Погореловка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лапин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 335,
+        "width": 1409,
+        "x": 1083,
+        "y": 2009
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_3",
+      "people": [
+        {
+          "age": "15 лет",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Молокачкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Жирошкинская волость, деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Молокачкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 339,
+        "width": 1476,
+        "x": 1090,
+        "y": 2465
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_1",
+      "people": [
+        {
+          "age": "29 лет",
+          "geo": "",
+          "info": "дочь статского советника в звании камергера Высочайшего Двора девица",
+          "name": "Наталия",
+          "second_name": "Владимировна",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Трутовская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 335,
+        "width": 1432,
+        "x": 1088,
+        "y": 2959
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_0",
+      "people": [
+        {
+          "age": "10 дней",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Мариин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Саратова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Иконская волость, деревня Скворцово",
+          "info": "крестьянка",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Саратова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 320,
+        "width": 1397,
+        "x": 1078,
+        "y": 3430
+      },
+      "entry_id": "4ce8afbb-d7b0-48d0-82b0-fc99b7ce9e7f_2",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Романо-Дарковская волость, село Романо-Дарково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

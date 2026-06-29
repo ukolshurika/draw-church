@@ -1,0 +1,185 @@
+{
+  "year": 1916,
+  "page": 317,
+  "node_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 309,
+        "width": 1459,
+        "x": 1098,
+        "y": 1009
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_5",
+      "people": [
+        {
+          "age": "7 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Агафонова",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 353,
+        "width": 1446,
+        "x": 1107,
+        "y": 1464
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Филикинская волость, деревня Чертовиков",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Поляков"
+        },
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 199,
+        "width": 1445,
+        "x": 1114,
+        "y": 1973
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_3",
+      "people": [
+        {
+          "age": "70",
+          "geo": "",
+          "info": "Алексеевского монастыря монахиня",
+          "name": "Геннадия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 337,
+        "width": 1438,
+        "x": 1122,
+        "y": 2329
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_2",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Митино",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Молчанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 335,
+        "width": 1431,
+        "x": 1125,
+        "y": 2814
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Стосков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стосков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 306,
+        "width": 1423,
+        "x": 1134,
+        "y": 3331
+      },
+      "entry_id": "86df2a52-5f3b-408c-bdf7-fd018c6a4b81_1",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "город Москва, Устюжская слобода",
+          "info": "из дома Колобова, мещанка",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Мишле"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

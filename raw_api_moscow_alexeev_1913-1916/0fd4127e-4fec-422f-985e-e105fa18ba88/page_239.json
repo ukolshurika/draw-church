@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 239,
+  "node_id": "5a8b279e-ae6c-4f2a-a107-9eecc5ba7c99",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 299,
+        "width": 1409,
+        "x": 970,
+        "y": 1586
+      },
+      "entry_id": "5a8b279e-ae6c-4f2a-a107-9eecc5ba7c99_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Фроловская волость, село Рождествино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Курочкин"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Курочкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 321,
+        "width": 1439,
+        "x": 977,
+        "y": 2032
+      },
+      "entry_id": "5a8b279e-ae6c-4f2a-a107-9eecc5ba7c99_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Тельчинская волость, село Старое",
+          "info": "крестьянин",
+          "name": "Ефрем",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 251,
+        "width": 1438,
+        "x": 978,
+        "y": 2479
+      },
+      "entry_id": "5a8b279e-ae6c-4f2a-a107-9eecc5ba7c99_3",
+      "people": [
+        {
+          "age": "3 месяца 18 дней",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чикурников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чикурников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1410,
+        "x": 984,
+        "y": 2933
+      },
+      "entry_id": "5a8b279e-ae6c-4f2a-a107-9eecc5ba7c99_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, деревня Боспаково",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бокослинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бокослинова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

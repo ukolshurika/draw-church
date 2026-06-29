@@ -1,0 +1,269 @@
+{
+  "year": 1914,
+  "page": 86,
+  "node_id": "1fd2ed0f-95cd-45df-a27a-19cbab7efb65",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 554,
+        "width": 2882,
+        "x": 747,
+        "y": 885
+      },
+      "entry_id": "1fd2ed0f-95cd-45df-a27a-19cbab7efb65_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Лаптевская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Журавлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чурюкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Журавлева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Лаптевский уезд, Лаптевская волость, сельцо Федюкино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чурюкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тульский мещанин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шалашников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чурюкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 577,
+        "width": 2880,
+        "x": 757,
+        "y": 1513
+      },
+      "entry_id": "1fd2ed0f-95cd-45df-a27a-19cbab7efb65_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Ильина",
+          "info": "московский мещанин",
+          "name": "Сергей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "Крымская слобода",
+          "info": "московский мещанин",
+          "name": "Александр",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Гиреевская волость, деревня Ивлева",
+          "info": "вдова",
+          "name": "Дария",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 574,
+        "width": 2865,
+        "x": 758,
+        "y": 2166
+      },
+      "entry_id": "1fd2ed0f-95cd-45df-a27a-19cbab7efb65_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Никольско-Птанский волость, село",
+          "info": "тот же деревни крестьянин",
+          "name": "Алексей",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ежкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ежков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Сергиевский уезд, деревня Любимовка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2888,
+        "x": 765,
+        "y": 2780
+      },
+      "entry_id": "1fd2ed0f-95cd-45df-a27a-19cbab7efb65_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Витебская губерния, город Велиж",
+          "info": "мещанка, девица",
+          "name": "Александра",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Касперская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Волкова",
+          "info": "сын губернского секретаря",
+          "name": "Владимир",
+          "second_name": "Александрович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Потапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Потапова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд",
+          "info": "мещанин",
+          "name": "Георгий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Григорьев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

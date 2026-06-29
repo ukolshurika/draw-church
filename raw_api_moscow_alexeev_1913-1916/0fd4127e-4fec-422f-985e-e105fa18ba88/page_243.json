@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 243,
+  "node_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 407,
+        "width": 1438,
+        "x": 941,
+        "y": 854
+      },
+      "entry_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7_4",
+      "people": [
+        {
+          "age": "4 года 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Парфенов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Норохоткинский уезд, Ильина Кринка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Парфенов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 397,
+        "width": 1479,
+        "x": 946,
+        "y": 1402
+      },
+      "entry_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7_0",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Хворчук"
+        },
+        {
+          "age": "",
+          "geo": "Херсонская губерния, Елисаветградский уезд, Хмелевская волость, посад Новониколаевка",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "отец умершего",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Хворчук"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 269,
+        "width": 1481,
+        "x": 949,
+        "y": 1937
+      },
+      "entry_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7_2",
+      "people": [
+        {
+          "age": "17",
+          "geo": "Рязанская губерния, Касимовский уезд, Бетинская волость, деревня Поздняково",
+          "info": "крестьянская дочь",
+          "name": "Агриппина",
+          "second_name": "Ксенофонтова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Спирина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 308,
+        "width": 1484,
+        "x": 951,
+        "y": 2388
+      },
+      "entry_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Горюховецкий уезд, Красносельская волость, деревня Шугелина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ефимов"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ефимова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 309,
+        "width": 1417,
+        "x": 959,
+        "y": 2822
+      },
+      "entry_id": "623dbcf8-f956-43c2-9974-e2a34b1aaac7_3",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Тверская губерния, Корчевской мещанин",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корнилов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

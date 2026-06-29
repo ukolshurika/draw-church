@@ -1,0 +1,279 @@
+{
+  "year": 1916,
+  "page": 73,
+  "node_id": "101d06b9-9379-41ae-8bf8-28b6b2989cb8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2745,
+        "x": 926,
+        "y": 1015
+      },
+      "entry_id": "101d06b9-9379-41ae-8bf8-28b6b2989cb8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, деревня Гулынки",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Капитолина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Емельянова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Никольско-Жупаньская волость, деревня Екатериновка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Лобановская волость, деревня Короваево",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Черкасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Емельянова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2769,
+        "x": 916,
+        "y": 1726
+      },
+      "entry_id": "101d06b9-9379-41ae-8bf8-28b6b2989cb8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Константиновская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чернышев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Моргунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Моргунов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Веинская волость, село Вейно",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Евстратов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Роднов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 632,
+        "width": 2752,
+        "x": 911,
+        "y": 2415
+      },
+      "entry_id": "101d06b9-9379-41ae-8bf8-28b6b2989cb8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Трубино",
+          "info": "крестьянка, девица",
+          "name": "Стефанида",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Песчаницкая волость, село Матвеево",
+          "info": "крестьянин",
+          "name": "Ипполит",
+          "second_name": "Дементьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, деревня Иванищи",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прохоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Ипполитова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лебедева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2755,
+        "x": 904,
+        "y": 3119
+      },
+      "entry_id": "101d06b9-9379-41ae-8bf8-28b6b2989cb8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванчиков"
+        },
+        {
+          "age": "",
+          "geo": "Соболевская волость, село Тарасово",
+          "info": "крестьянин",
+          "name": "Тарасий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванчикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, село Асташово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванчиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванчиков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

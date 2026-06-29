@@ -1,0 +1,341 @@
+{
+  "year": 1914,
+  "page": 119,
+  "node_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 415,
+        "width": 2865,
+        "x": 784,
+        "y": 852
+      },
+      "entry_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Быково",
+          "info": "крестьянка",
+          "name": "Мелания",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мелания",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Исаково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Фомищевская волость, деревня Воронцово",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 446,
+        "width": 2887,
+        "x": 767,
+        "y": 1377
+      },
+      "entry_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Одинцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шишкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Одинцев"
+        },
+        {
+          "age": "",
+          "geo": "Новосильский уезд, Калинская волость, деревня Михаилова",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Одинцев"
+        },
+        {
+          "age": "",
+          "geo": "Новосильский уезд, Покровская волость, деревня Даниловка",
+          "info": "крестьянин",
+          "name": "Тарасій",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шишкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2877,
+        "x": 761,
+        "y": 1926
+      },
+      "entry_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бубнова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Англи, Перзамская волость, Гапсальский уезд, Эстляндская губерния",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шталь"
+        },
+        {
+          "age": "",
+          "geo": "деревня Софоново, Мальпинская волость, Бельский уезд, Смоленская губерния",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бубнов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ухорские Выселки, Пронская волость, Пронский уезд, Рязанская губерния",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бубнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2875,
+        "x": 756,
+        "y": 2482
+      },
+      "entry_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Акимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Грушевская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бачурино, Волоколамский уезд, Сергинская волость, деревня Артемок",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грушевский"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сугина, Московская губерния, Кажевническая слобода",
+          "info": "московский мещанин",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Акимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2865,
+        "x": 752,
+        "y": 2942
+      },
+      "entry_id": "7b8c062f-626f-4d4c-8d51-23c8afd6f9c1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Грушевский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грушевская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Тимашевская волость, Солдатская слобода",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Грушевский"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сытково",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колоскова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Сергинская волость, деревня Артемок",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грушевский"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Машковская волость, деревня Крюковка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Завалевскій"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

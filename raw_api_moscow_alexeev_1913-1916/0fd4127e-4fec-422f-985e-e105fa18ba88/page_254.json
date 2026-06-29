@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 254,
+  "node_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 399,
+        "width": 1429,
+        "x": 946,
+        "y": 832
+      },
+      "entry_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8_4",
+      "people": [
+        {
+          "age": "9 лет",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Мышкинский уезд, Архангельская волость, деревня Дмитровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1481,
+        "x": 937,
+        "y": 1376
+      },
+      "entry_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Мценский уезд, Стрелецкая волость, село Сторожево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бакин"
+        },
+        {
+          "age": "1 год 4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бакина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 340,
+        "width": 1497,
+        "x": 931,
+        "y": 1813
+      },
+      "entry_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8_3",
+      "people": [
+        {
+          "age": "младенец",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Прокопьева"
+        },
+        {
+          "age": "",
+          "geo": "Переславский уезд, Нагорьевская волость, деревня Слепцова",
+          "info": "крестьянин",
+          "name": "Абрам",
+          "other_status": "отец умершего",
+          "second_name": "Фаддеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Прокопьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1494,
+        "x": 920,
+        "y": 2267
+      },
+      "entry_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8_1",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Батамова"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Батамов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 439,
+        "width": 1495,
+        "x": 919,
+        "y": 2719
+      },
+      "entry_id": "62ee9732-e8d6-4b74-8e0d-3b84751999e8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Залеская волость, деревня Наурино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Щербакова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

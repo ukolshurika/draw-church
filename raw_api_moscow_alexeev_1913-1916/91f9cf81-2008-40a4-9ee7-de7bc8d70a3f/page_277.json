@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 277,
+  "node_id": "8d70c318-0d90-4f51-bebc-2ac683795986",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 445,
+        "width": 1395,
+        "x": 1046,
+        "y": 1122
+      },
+      "entry_id": "8d70c318-0d90-4f51-bebc-2ac683795986_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Озеровская волость, деревня Котохи",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чаплюк"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чаплюк"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 336,
+        "width": 1466,
+        "x": 1043,
+        "y": 1756
+      },
+      "entry_id": "8d70c318-0d90-4f51-bebc-2ac683795986_3",
+      "people": [
+        {
+          "age": "61",
+          "geo": "дом Архангельская",
+          "info": "из дома Архангельская, лесная почетная гражданка, девица",
+          "name": "Пелагия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Архангельская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1436,
+        "x": 1045,
+        "y": 2290
+      },
+      "entry_id": "8d70c318-0d90-4f51-bebc-2ac683795986_1",
+      "people": [
+        {
+          "age": "64",
+          "geo": "Московская губерния, Подольский уезд, Суховская волость, деревня Ново-Никольская",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гудаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 1478,
+        "x": 1044,
+        "y": 3025
+      },
+      "entry_id": "8d70c318-0d90-4f51-bebc-2ac683795986_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Слобода",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лазарев"
+        },
+        {
+          "age": "5 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лазарева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

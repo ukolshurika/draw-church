@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 287,
+  "node_id": "ff149182-067c-4d9e-8c63-d705fd892a06",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1485,
+        "x": 948,
+        "y": 820
+      },
+      "entry_id": "ff149182-067c-4d9e-8c63-d705fd892a06_2",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кольцов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Течениково",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кольцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 1497,
+        "x": 945,
+        "y": 1446
+      },
+      "entry_id": "ff149182-067c-4d9e-8c63-d705fd892a06_1",
+      "people": [
+        {
+          "age": "57",
+          "geo": "Владимирская губерния, Покровский уезд, Коробовская волость, село Алексино",
+          "info": "крестьянка, вдова",
+          "name": "Параскева",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 546,
+        "width": 1441,
+        "x": 947,
+        "y": 2059
+      },
+      "entry_id": "ff149182-067c-4d9e-8c63-d705fd892a06_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Беленическая волость, село Ивановское",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Боровнов"
+        },
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Боровнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 278,
+        "width": 1482,
+        "x": 947,
+        "y": 2781
+      },
+      "entry_id": "ff149182-067c-4d9e-8c63-d705fd892a06_3",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Богородицкое",
+          "info": "мещанин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

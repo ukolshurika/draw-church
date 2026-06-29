@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 123,
+  "node_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 439,
+        "width": 2878,
+        "x": 803,
+        "y": 869
+      },
+      "entry_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рогов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дятловская волость, деревня Акимовка",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Демина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Ново-Покровская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Диомидов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рогов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Ильинская волость, деревня Мануиково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рогова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 438,
+        "width": 2898,
+        "x": 797,
+        "y": 1366
+      },
+      "entry_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Харино",
+          "info": "Малинской волости, Борисов Коломенского уезда",
+          "name": "Иван",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баранников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Агриппина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Утенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баранников"
+        },
+        {
+          "age": "",
+          "geo": "Киясовская волость, село Кресты",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Леонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баранникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 467,
+        "width": 2855,
+        "x": 783,
+        "y": 1906
+      },
+      "entry_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Сосыкинская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Конкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зиновия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полещикова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Нижнеровская волость, деревня Астафьева",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Полещиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Полещикова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 472,
+        "width": 2863,
+        "x": 772,
+        "y": 2414
+      },
+      "entry_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новосильский уезд, Перестряжская волость, село Волнова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "Крапивенский уезд, Должанская волость, село Богучарово",
+          "info": "крестьянская дочь, девица",
+          "name": "Иулиания",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шишкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Шейновка",
+          "info": "крестьянин",
+          "name": "Елеазар",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матюхина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 499,
+        "width": 2872,
+        "x": 764,
+        "y": 2922
+      },
+      "entry_id": "4e1d6b2e-5b94-4086-b571-2c52ad4cad9d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор, почтово-телеграфный чиновник",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зайчиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зайчикова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Курбатово",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филологова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Минаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор, почтово-телеграфный чиновник",
+          "name": "Петр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зайчиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зайчиков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

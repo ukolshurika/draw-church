@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 35,
+  "node_id": "7574ad21-13e7-47b1-ab2a-bf19e26f736f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2770,
+        "x": 906,
+        "y": 1078
+      },
+      "entry_id": "7574ad21-13e7-47b1-ab2a-bf19e26f736f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Перестряжская волость, деревня Миносино",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фомушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фомушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Исаиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Ольховка",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Исаиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фомушкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынская волость, село Летово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Герасимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2781,
+        "x": 906,
+        "y": 1890
+      },
+      "entry_id": "7574ad21-13e7-47b1-ab2a-bf19e26f736f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казулинская волость, деревня Пройменово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Изотов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Феоктистова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Городищенская волость, село Ларино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 619,
+        "width": 2794,
+        "x": 907,
+        "y": 2466
+      },
+      "entry_id": "7574ad21-13e7-47b1-ab2a-bf19e26f736f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Никулина"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Вельский уезд, Есютинская волость, деревня Лойденская",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Никулин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Лойденская",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никулин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Вязниковский уезд, Никологорская волость, деревня Синявкино",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Короткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Никулина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 622,
+        "width": 2795,
+        "x": 915,
+        "y": 3097
+      },
+      "entry_id": "7574ad21-13e7-47b1-ab2a-bf19e26f736f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Молоткова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Саввинская волость, деревня Большие Палатки",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бусулин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская дочь",
+          "name": "Антонина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молоткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Молотков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Подчерковская волость, село Сысоево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Молотков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

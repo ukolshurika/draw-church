@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 78,
+  "node_id": "d4fb0538-e11a-468f-a72a-71166f4b966a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2801,
+        "x": 882,
+        "y": 1031
+      },
+      "entry_id": "d4fb0538-e11a-468f-a72a-71166f4b966a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская волость, деревня Бузланово",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Делягин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Делягин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка, Бронной слободы девица",
+          "name": "Ольга",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Делягина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Делягина"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Городенский уезд, Городенская волость, деревня Мишнево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 549,
+        "width": 2801,
+        "x": 878,
+        "y": 1750
+      },
+      "entry_id": "d4fb0538-e11a-468f-a72a-71166f4b966a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Подольск",
+          "info": "мещанка, вдова",
+          "name": "Надежда",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гудкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Малевка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гудков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Флор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гудкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 660,
+        "width": 2791,
+        "x": 873,
+        "y": 2491
+      },
+      "entry_id": "d4fb0538-e11a-468f-a72a-71166f4b966a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Ново-Покровская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Диомидов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рогов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерасова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Ямско-Слободская волость, сельцо Сорокино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Изотова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Козулинская волость, деревня Проминово",
+          "info": "крестьянин",
+          "name": "Агрипин",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Изотов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2789,
+        "x": 875,
+        "y": 3214
+      },
+      "entry_id": "d4fb0538-e11a-468f-a72a-71166f4b966a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Подольск",
+          "info": "цеховой, портновского цеха",
+          "name": "Василий",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Короваевская волость, деревня Фофаново",
+          "info": "крестьянка, девица",
+          "name": "Клавдия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сучилина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Клавдиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сучилина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

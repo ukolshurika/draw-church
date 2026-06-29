@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 268,
+  "node_id": "57fe5517-f7cd-48a8-b4f9-e63922c81d39",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 454,
+        "width": 1486,
+        "x": 1036,
+        "y": 1132
+      },
+      "entry_id": "57fe5517-f7cd-48a8-b4f9-e63922c81d39_2",
+      "people": [
+        {
+          "age": "4 года 11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чибисова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Терентьево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чибисов"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 470,
+        "width": 1474,
+        "x": 1042,
+        "y": 1793
+      },
+      "entry_id": "57fe5517-f7cd-48a8-b4f9-e63922c81d39_1",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ковбас"
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Нежинский уезд, Монастырищенская волость, деревня Монастырища",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Харитонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ковбас"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 487,
+        "width": 1488,
+        "x": 1042,
+        "y": 2468
+      },
+      "entry_id": "57fe5517-f7cd-48a8-b4f9-e63922c81d39_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Костюков"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Костюкова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

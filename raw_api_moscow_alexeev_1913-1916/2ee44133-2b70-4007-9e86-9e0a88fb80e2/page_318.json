@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 318,
+  "node_id": "954a23f0-1100-48eb-91c3-06566ae292b2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 414,
+        "width": 1481,
+        "x": 1061,
+        "y": 1087
+      },
+      "entry_id": "954a23f0-1100-48eb-91c3-06566ae292b2_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Морозовская волость, деревня Звягина",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Борисова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 412,
+        "width": 1420,
+        "x": 1061,
+        "y": 1649
+      },
+      "entry_id": "954a23f0-1100-48eb-91c3-06566ae292b2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Чальскодорская волость, деревня Игнатово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смоляков"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смоляков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 391,
+        "width": 1492,
+        "x": 1062,
+        "y": 2200
+      },
+      "entry_id": "954a23f0-1100-48eb-91c3-06566ae292b2_1",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, село Асташево",
+          "info": "крестьянская девица",
+          "name": "Татиана",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Борисова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 410,
+        "width": 1499,
+        "x": 1061,
+        "y": 2739
+      },
+      "entry_id": "954a23f0-1100-48eb-91c3-06566ae292b2_0",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кольцова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "other_status": "отец умершего",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кольцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1487,
+        "x": 1069,
+        "y": 3317
+      },
+      "entry_id": "954a23f0-1100-48eb-91c3-06566ae292b2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд",
+          "info": "мещанин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Венцов"
+        },
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Венцова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

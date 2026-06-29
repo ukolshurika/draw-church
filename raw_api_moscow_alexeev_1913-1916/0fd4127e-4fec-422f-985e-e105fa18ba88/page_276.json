@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 276,
+  "node_id": "c84e6fec-2498-4c09-ac83-f60f42d23fe6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 462,
+        "width": 1522,
+        "x": 967,
+        "y": 914
+      },
+      "entry_id": "c84e6fec-2498-4c09-ac83-f60f42d23fe6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Сорокина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1479,
+        "x": 964,
+        "y": 1575
+      },
+      "entry_id": "c84e6fec-2498-4c09-ac83-f60f42d23fe6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Хотебцовская волость, деревня Немирово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отецумершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шишков"
+        },
+        {
+          "age": "10 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шишков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 518,
+        "width": 1483,
+        "x": 948,
+        "y": 2218
+      },
+      "entry_id": "c84e6fec-2498-4c09-ac83-f60f42d23fe6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Переславский уезд, Нагорьевская волость, деревня Гаврилковская",
+          "info": "крестьянская девица",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Фаддеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "8 дней",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 1527,
+        "x": 952,
+        "y": 2899
+      },
+      "entry_id": "c84e6fec-2498-4c09-ac83-f60f42d23fe6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Мошковская волость, деревня Песчанки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

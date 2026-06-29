@@ -1,0 +1,152 @@
+{
+  "year": 1916,
+  "page": 314,
+  "node_id": "a5cdffd1-8bf4-48cd-972a-6ad015c7b5aa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 446,
+        "width": 1473,
+        "x": 1082,
+        "y": 1002
+      },
+      "entry_id": "a5cdffd1-8bf4-48cd-972a-6ad015c7b5aa_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Весьегонский уезд, Лопатинская волость, деревня Свищево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отецумершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Цветков"
+        },
+        {
+          "age": "7 недель",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 587,
+        "width": 1446,
+        "x": 1105,
+        "y": 1624
+      },
+      "entry_id": "a5cdffd1-8bf4-48cd-972a-6ad015c7b5aa_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Панов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Станиловская волость, деревня Пахрина",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Панова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 784,
+        "width": 1443,
+        "x": 1129,
+        "y": 2369
+      },
+      "entry_id": "a5cdffd1-8bf4-48cd-972a-6ad015c7b5aa_0",
+      "people": [
+        {
+          "age": "1 год и 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Фридрихова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Фон-Римши"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из вольноопределяющихся 6-го гренадерского Таврического полка потомственный дворянин",
+          "name": "Фридрих",
+          "other_status": "отец умершего",
+          "second_name": "Михаил",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фон-Римши"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 370,
+        "width": 1425,
+        "x": 1149,
+        "y": 3308
+      },
+      "entry_id": "a5cdffd1-8bf4-48cd-972a-6ad015c7b5aa_2",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Шелковская волость, деревня Еськино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гурьев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

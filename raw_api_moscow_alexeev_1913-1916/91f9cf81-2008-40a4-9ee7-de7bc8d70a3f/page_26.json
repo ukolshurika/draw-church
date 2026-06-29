@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 26,
+  "node_id": "89a55f16-b713-461c-b043-f2c15b257bd4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2725,
+        "x": 943,
+        "y": 1044
+      },
+      "entry_id": "89a55f16-b713-461c-b043-f2c15b257bd4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Весьегонск",
+          "info": "мещанка, девица",
+          "name": "Елена",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, деревня Стрелецкая Поляна",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сапронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сапронова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Богимовская волость, деревня Криворозова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Арсентьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сапронова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2754,
+        "x": 946,
+        "y": 1717
+      },
+      "entry_id": "89a55f16-b713-461c-b043-f2c15b257bd4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Долматовская волость, деревня Ялино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балашев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Долматовская волость, деревня Ялино",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хохлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хохлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хохлова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "ямская жена крестьянина",
+          "name": "Пелагия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Строгова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 714,
+        "width": 2718,
+        "x": 947,
+        "y": 2363
+      },
+      "entry_id": "89a55f16-b713-461c-b043-f2c15b257bd4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Рождественская волость, село Константиново",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Архарова"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Салтыковская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чеминов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чулковская волость, деревня Дурниха",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Маркин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 673,
+        "width": 2720,
+        "x": 956,
+        "y": 3130
+      },
+      "entry_id": "89a55f16-b713-461c-b043-f2c15b257bd4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Насилово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соломин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соломин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соломина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Приспешкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Турухнова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Скорошенская волость, деревня Ржавая",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Турухнов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

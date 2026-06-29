@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 127,
+  "node_id": "7ca831a2-fb88-4a34-b3e1-8069a92d2ebd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 715,
+        "width": 2812,
+        "x": 908,
+        "y": 1072
+      },
+      "entry_id": "7ca831a2-fb88-4a34-b3e1-8069a92d2ebd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Губанова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуновская волость, деревня Демьянова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Черкасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Губанова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Спасская волость, деревня Княжева",
+          "info": "жена крестьянина",
+          "name": "Параскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бахирева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Губанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 753,
+        "width": 2859,
+        "x": 911,
+        "y": 1969
+      },
+      "entry_id": "7ca831a2-fb88-4a34-b3e1-8069a92d2ebd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, деревня Новопотопово",
+          "info": "крестьянка, вдова",
+          "name": "Марфа",
+          "second_name": "Аверьянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Подобуев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бучальская волость, деревня Красная",
+          "info": "крестьянин",
+          "name": "Ефрем",
+          "second_name": "Коробков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 754,
+        "width": 2887,
+        "x": 909,
+        "y": 2766
+      },
+      "entry_id": "7ca831a2-fb88-4a34-b3e1-8069a92d2ebd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дубкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Покровская волость, село Островки",
+          "info": "крестьянин",
+          "name": "Косьма",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дубков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Косьмина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дубкова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Татарщинский уезд, деревня Шатилово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федячкин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Андреевская волость",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ушанкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

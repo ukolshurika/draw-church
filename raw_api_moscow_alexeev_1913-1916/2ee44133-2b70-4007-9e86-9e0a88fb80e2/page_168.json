@@ -1,0 +1,217 @@
+{
+  "year": 1915,
+  "page": 168,
+  "node_id": "bbc14ff7-bf58-4163-b6d3-06e533f870b8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 813,
+        "width": 2788,
+        "x": 930,
+        "y": 1147
+      },
+      "entry_id": "bbc14ff7-bf58-4163-b6d3-06e533f870b8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Кузнецкая слобода № 1847",
+          "info": "мещанин",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Репетур"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гадателева-Какунникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Репетур"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Репетур"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Быковская волость, деревня Верея",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гадателев-Какунников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 931,
+        "width": 2790,
+        "x": 931,
+        "y": 1924
+      },
+      "entry_id": "bbc14ff7-bf58-4163-b6d3-06e533f870b8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Клушина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Антонюк"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Молмадыжская волость, Копекуперская волость, деревня Начашево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Клушин"
+        },
+        {
+          "age": "",
+          "geo": "Брестский уезд, Половская волость, деревня Вольки",
+          "info": "крестьянин",
+          "name": "Диомид",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Назарук"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Титова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Антонюк"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Брестский уезд, Высоко-Литовская волость, деревня Ясны",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Антонюк"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 829,
+        "width": 2845,
+        "x": 916,
+        "y": 2754
+      },
+      "entry_id": "bbc14ff7-bf58-4163-b6d3-06e533f870b8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Брестский уезд, Половьевская волость, деревня Вольки",
+          "info": "крестьянин",
+          "name": "Диомид",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Назарук"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоневская волость, деревня Кондауровка",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Романова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Медведева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Яблоневская волость, село Желтухино",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Данкова"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Мокшанский уезд, Копекуперская волость, деревня Начашево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Клушин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 106,
+  "node_id": "a086497f-c336-4105-845f-1ca6a93dfc29",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2862,
+        "x": 927,
+        "y": 1029
+      },
+      "entry_id": "a086497f-c336-4105-845f-1ca6a93dfc29_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Михалки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чубыкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Макарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Сольвычегодский уезд, Черевковская волость, деревня Козминская",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воронов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 680,
+        "width": 2841,
+        "x": 919,
+        "y": 1895
+      },
+      "entry_id": "a086497f-c336-4105-845f-1ca6a93dfc29_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Марчуги",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кочегаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Темнов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Кумовская волость, деревня Нижнее-Дойце",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Темнов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская жена",
+          "name": "Дарья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 805,
+        "width": 2887,
+        "x": 922,
+        "y": 2755
+      },
+      "entry_id": "a086497f-c336-4105-845f-1ca6a93dfc29_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Васильевская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мачин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Канунников"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Афанасьевская волость, село",
+          "info": "крестьянская девица",
+          "name": "Татьяна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канунникова"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Сенинскаго уезда, Череевская волость, деревня Болето",
+          "info": "крестьянская жена",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лазаревич"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

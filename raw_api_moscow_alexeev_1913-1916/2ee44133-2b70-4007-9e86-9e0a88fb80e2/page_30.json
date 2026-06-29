@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 30,
+  "node_id": "dd03bcf7-54c2-42b7-9880-2b0c56a1fef8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 614,
+        "width": 2743,
+        "x": 972,
+        "y": 1065
+      },
+      "entry_id": "dd03bcf7-54c2-42b7-9880-2b0c56a1fef8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Буланова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Буланов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малинская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Буланов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Буланов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния",
+          "info": "дворянка",
+          "name": "Агафья",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куприянова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2749,
+        "x": 970,
+        "y": 1758
+      },
+      "entry_id": "dd03bcf7-54c2-42b7-9880-2b0c56a1fef8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Новоселки",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Каратев"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Новоселки",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каратевская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросинья",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Каратева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Лебежки",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гурнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Каратев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 666,
+        "width": 2743,
+        "x": 979,
+        "y": 2600
+      },
+      "entry_id": "dd03bcf7-54c2-42b7-9880-2b0c56a1fef8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Петровская волость, деревня Красная Слобода",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Худов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, село",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чванова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский мещанин",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Санин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Санина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Санина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2724,
+        "x": 984,
+        "y": 3241
+      },
+      "entry_id": "dd03bcf7-54c2-42b7-9880-2b0c56a1fef8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Водицкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Романова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сироткина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Феофанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сироткина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Кузовская волость, деревня Водопьянова",
+          "info": "крестьянин",
+          "name": "Роман",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сироткин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скворцов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

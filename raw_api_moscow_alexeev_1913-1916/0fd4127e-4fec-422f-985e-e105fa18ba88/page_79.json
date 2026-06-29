@@ -1,0 +1,247 @@
+{
+  "year": 1914,
+  "page": 79,
+  "node_id": "5a746b06-72e6-41cd-b13f-9a7c8ec0f5fa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2845,
+        "x": 755,
+        "y": 861
+      },
+      "entry_id": "5a746b06-72e6-41cd-b13f-9a7c8ec0f5fa_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Федоровское",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сандулеников"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бабосово",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лаврентьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лаврентьева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бобровка",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лаврентьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2867,
+        "x": 751,
+        "y": 1443
+      },
+      "entry_id": "5a746b06-72e6-41cd-b13f-9a7c8ec0f5fa_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Подольский уезд, Островская волость, село Беседы",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Заботкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Заботкина"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Кульпинская волость, деревня Горы",
+          "info": "девица",
+          "name": "Агрипина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Заботкина"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Царицинская волость, деревня Шипилово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Еремин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 605,
+        "width": 2914,
+        "x": 738,
+        "y": 2196
+      },
+      "entry_id": "5a746b06-72e6-41cd-b13f-9a7c8ec0f5fa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Сенинско-Колычевская волость, деревня Ковылино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Модестнов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Канонов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Егорьевская волость, деревня Плюссино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Канонова"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Кругловская волость, село Борки",
+          "info": "крестьянская дочь",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аристова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2913,
+        "x": 723,
+        "y": 2829
+      },
+      "entry_id": "5a746b06-72e6-41cd-b13f-9a7c8ec0f5fa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Спасская волость, деревня Акимова",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лозинцева"
+        },
+        {
+          "age": "",
+          "geo": "село Спасское",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лозинцева"
+        },
+        {
+          "age": "",
+          "geo": "Карнирский уезд, Ямская слобода, деревня Сорокина",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ерастов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лозинцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

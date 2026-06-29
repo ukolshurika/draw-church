@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 106,
+  "node_id": "14a19a4a-7d02-40c8-b810-93f70f57e794",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 592,
+        "width": 2709,
+        "x": 924,
+        "y": 1018
+      },
+      "entry_id": "14a19a4a-7d02-40c8-b810-93f70f57e794_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Борисовская волость, деревня Бугайлово",
+          "info": "крестьянка, девица",
+          "name": "Пелагия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корзина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Михалевская волость, село Михалево",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мотов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Елизаровская волость, деревня Богородское",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малышов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мотова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2696,
+        "x": 926,
+        "y": 1693
+      },
+      "entry_id": "14a19a4a-7d02-40c8-b810-93f70f57e794_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Доміанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ляха"
+        },
+        {
+          "age": "",
+          "geo": "Мостовская волость, деревня Лопатич",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Дорофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лях"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лопатич",
+          "info": "крестьянка, девица",
+          "name": "Евдокія",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Живушка"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Антониев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ляха"
+        },
+        {
+          "age": "",
+          "geo": "Мостовская волость, деревня Галынки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Доміанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бакун"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2681,
+        "x": 932,
+        "y": 2444
+      },
+      "entry_id": "14a19a4a-7d02-40c8-b810-93f70f57e794_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Петеринская волость, деревня Скуратовка",
+          "info": "крестьянка",
+          "name": "Лидия",
+          "second_name": "Илларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, город Севск",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "в доме Северной железной дороги",
+          "info": "потомственный дворянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2661,
+        "x": 934,
+        "y": 3077
+      },
+      "entry_id": "14a19a4a-7d02-40c8-b810-93f70f57e794_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кадашевская слобода № 763",
+          "info": "московский мещанин",
+          "name": "Константин",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кафтанов"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Карлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куприянова"
+        },
+        {
+          "age": "",
+          "geo": "Саратов",
+          "info": "мещанин",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Эбан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Глеб",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кафтанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кафтанова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

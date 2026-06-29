@@ -1,0 +1,290 @@
+{
+  "year": 1916,
+  "page": 96,
+  "node_id": "52d78799-a717-4386-8d94-99f6f8d60ecc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 474,
+        "width": 2747,
+        "x": 921,
+        "y": 1033
+      },
+      "entry_id": "52d78799-a717-4386-8d94-99f6f8d60ecc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Затишьевский уезд, Затишьевская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Седова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Седова"
+        },
+        {
+          "age": "",
+          "geo": "Затишьевская волость, деревня Ялтуново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Андрианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балашов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Седова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2764,
+        "x": 910,
+        "y": 1632
+      },
+      "entry_id": "52d78799-a717-4386-8d94-99f6f8d60ecc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чижикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Столпянская волость, деревня Вельяминовка",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Говорушкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Протопоповская волость, деревня Михеева",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Феофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Полибин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Говорушкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Протопоповская волость, село Колычево",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колычев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Говорушкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 633,
+        "width": 2768,
+        "x": 908,
+        "y": 2250
+      },
+      "entry_id": "52d78799-a717-4386-8d94-99f6f8d60ecc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "при полустанке Малаховка Московско-Казанской железной дороги",
+          "info": "церкви диакон",
+          "name": "Сергий",
+          "second_name": "Александрович",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Успенский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иоаннов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Успенский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеевна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Успенская"
+        },
+        {
+          "age": "",
+          "geo": "в доме Успенского, Московской Крестовоздвиженской, в Алексеевском монастыре",
+          "info": "церкви диакон",
+          "name": "Иоанн",
+          "second_name": "Александрович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Успенский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Алексеевна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московского Страстного девичьего монастыря деикон",
+          "name": "Симеон",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеевич",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 608,
+        "width": 2801,
+        "x": 904,
+        "y": 2937
+      },
+      "entry_id": "52d78799-a717-4386-8d94-99f6f8d60ecc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иулиания",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Мурьковская волость, село Судислово",
+          "info": "крестьянин",
+          "name": "Анасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Спешневская волость, село Жуково",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

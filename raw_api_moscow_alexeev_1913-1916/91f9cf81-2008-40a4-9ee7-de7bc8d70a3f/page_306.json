@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 306,
+  "node_id": "bd6a4932-33a7-4be9-a447-121c201ad2a2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1488,
+        "x": 1004,
+        "y": 1005
+      },
+      "entry_id": "bd6a4932-33a7-4be9-a447-121c201ad2a2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевская волость, деревня Клушино",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Скугоров"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Скугоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1492,
+        "x": 999,
+        "y": 1670
+      },
+      "entry_id": "bd6a4932-33a7-4be9-a447-121c201ad2a2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Рязань",
+          "info": "из дома Борисова мещанин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 1487,
+        "x": 1007,
+        "y": 2219
+      },
+      "entry_id": "bd6a4932-33a7-4be9-a447-121c201ad2a2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Симбирск",
+          "info": "из дома Егорова мещанин",
+          "name": "Иван",
+          "other_status": "муж умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Милуцков"
+        },
+        {
+          "age": "45",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Милуцкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 633,
+        "width": 1458,
+        "x": 1008,
+        "y": 2875
+      },
+      "entry_id": "bd6a4932-33a7-4be9-a447-121c201ad2a2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Климовская волость, деревня Тупичина",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

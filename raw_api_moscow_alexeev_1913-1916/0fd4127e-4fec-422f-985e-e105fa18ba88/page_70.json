@@ -1,0 +1,269 @@
+{
+  "year": 1914,
+  "page": 70,
+  "node_id": "11ec5745-5a62-4608-a939-4aaeefa77ac9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2884,
+        "x": 729,
+        "y": 878
+      },
+      "entry_id": "11ec5745-5a62-4608-a939-4aaeefa77ac9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Икинская волость, деревня Лисьих",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гостев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Слепцова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Абалицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гостева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Абалицына"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Абалицын"
+        },
+        {
+          "age": "",
+          "geo": "деревня Слепцова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Абалихин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2918,
+        "x": 722,
+        "y": 1568
+      },
+      "entry_id": "11ec5745-5a62-4608-a939-4aaeefa77ac9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гункин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дмитриева, Тверская губерния, Городенский уезд",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Спасская волость, деревня Староселье",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бабуров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гункина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Акимова, Симбирская губерния",
+          "info": "мещанин",
+          "name": "Константин",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гункин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 696,
+        "width": 2914,
+        "x": 711,
+        "y": 2142
+      },
+      "entry_id": "11ec5745-5a62-4608-a939-4aaeefa77ac9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Васильевская волость, деревня Настасьина",
+          "info": "крестьянин",
+          "name": "Арсений",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Городенская волость, деревня Ведарни",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Зарайский уезд, Старолетовская волость, село Вайкино",
+          "info": "крестьянская вдова",
+          "name": "Юлиания",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филиппова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 845,
+        "width": 2953,
+        "x": 699,
+        "y": 2777
+      },
+      "entry_id": "11ec5745-5a62-4608-a939-4aaeefa77ac9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Праселкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Дмитриевская волость, деревня Чемоданова",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Праселкова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Высокиническая волость, деревня Колычева",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "Вилейский уезд, Рабонская волость, деревня Леоновичи",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петух"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

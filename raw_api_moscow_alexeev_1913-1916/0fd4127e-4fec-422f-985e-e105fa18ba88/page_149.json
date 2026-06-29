@@ -1,0 +1,351 @@
+{
+  "year": 1914,
+  "page": 149,
+  "node_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2916,
+        "x": 731,
+        "y": 866
+      },
+      "entry_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голина"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Борецкий уезд, Савская волость, деревня Шарино",
+          "info": "крестьянская дочь",
+          "name": "Елена",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сырмометова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Голин"
+        },
+        {
+          "age": "",
+          "geo": "Подольская губерния, Каменецкий уезд, Смотричская волость, деревня Цыгановка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голин"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Немоловский уезд, Голицынская волость, слобода Петрова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Емилианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Катков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 2940,
+        "x": 721,
+        "y": 1378
+      },
+      "entry_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Подольская губерния, Каменецкий уезд, Смотричская волость, деревня Цыгановка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Липовости",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бормотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская губерния, Подольский мещанин",
+          "name": "Вера",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Харина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Голин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Корнилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Слободская волость, деревня Выселок",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 572,
+        "width": 2932,
+        "x": 711,
+        "y": 1908
+      },
+      "entry_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Плосковская волость, деревня Кельцы-Острога",
+          "info": "крестьянин",
+          "name": "Григорьев",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пятышев"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Сямский уезд, деревня Лутовиново",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Слободская волость, село Козьминок",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрявцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пятышев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пятышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мохова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 558,
+        "width": 2950,
+        "x": 696,
+        "y": 2450
+      },
+      "entry_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Херсонская губерния, Елисаветградский уезд, Хмелевская волость, поселок Ново-Николаевка",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яворчук"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Холмовская волость, деревня Федина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Наумова",
+          "info": "крестьянская дочь",
+          "name": "Христина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 539,
+        "width": 2960,
+        "x": 680,
+        "y": 2992
+      },
+      "entry_id": "7077bc91-5d7a-44d6-a2dc-efe229e84933_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Смоленская волость, деревня Новинок",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курчаков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Смоленская волость, деревня Новинок",
+          "info": "холопская мещанка, девица",
+          "name": "Людмила",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Барановская волость, деревня Наговая",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Павлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

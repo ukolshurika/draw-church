@@ -1,0 +1,227 @@
+{
+  "year": 1916,
+  "page": 116,
+  "node_id": "75c258c2-87f7-4237-9eb7-42037a9dbea5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2700,
+        "x": 933,
+        "y": 1025
+      },
+      "entry_id": "75c258c2-87f7-4237-9eb7-42037a9dbea5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зарубина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зарубин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Семеновская волость, деревня Провалова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зарубин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинская мещанская слобода",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тимофеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зарубина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 692,
+        "width": 2700,
+        "x": 936,
+        "y": 1680
+      },
+      "entry_id": "75c258c2-87f7-4237-9eb7-42037a9dbea5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Стихина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Романо-Борисоглебский уезд, Алексеевская волость, деревня Едкино",
+          "info": "вдова",
+          "name": "Пелагия",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Агафонова"
+        },
+        {
+          "age": "",
+          "geo": "Романо-Борисоглебский уезд, Максимовской волости, деревня Кадино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рожков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 718,
+        "width": 2653,
+        "x": 945,
+        "y": 2413
+      },
+      "entry_id": "75c258c2-87f7-4237-9eb7-42037a9dbea5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Ольховская волость, деревня Пречистое",
+          "info": "крестьянка, девица",
+          "name": "Лукерья",
+          "second_name": "Ерофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, деревня Антипова, Коробинская волость",
+          "info": "крестьянка, вдова",
+          "name": "Мария",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трашенская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2665,
+        "x": 954,
+        "y": 3198
+      },
+      "entry_id": "75c258c2-87f7-4237-9eb7-42037a9dbea5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Шебанцевская волость, деревня Гальчино",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бодрова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Кузнецовская волость, деревня Слободки",
+          "info": "жена крестьянина",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Родина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Вединовская волость, село Дедново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузьминых"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

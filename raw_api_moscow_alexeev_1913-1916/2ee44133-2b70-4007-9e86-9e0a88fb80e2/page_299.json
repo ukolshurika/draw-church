@@ -1,0 +1,130 @@
+{
+  "year": 1915,
+  "page": 299,
+  "node_id": "e237b556-de6d-402e-8040-9c9f187baeb5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 243,
+        "width": 1387,
+        "x": 1072,
+        "y": 1934
+      },
+      "entry_id": "e237b556-de6d-402e-8040-9c9f187baeb5_3",
+      "people": [
+        {
+          "age": "43",
+          "geo": "",
+          "info": "капитан 195-го пехотного Оровайского полка",
+          "name": "Евгений",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шемякин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 349,
+        "width": 1426,
+        "x": 1078,
+        "y": 2308
+      },
+      "entry_id": "e237b556-de6d-402e-8040-9c9f187baeb5_1",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Дмитрииенко"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Ахтырский уезд, Ряснянская волость, Пушкарская слобода",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "other_status": "отец умершего",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитрииенко"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1416,
+        "x": 1076,
+        "y": 2780
+      },
+      "entry_id": "e237b556-de6d-402e-8040-9c9f187baeb5_2",
+      "people": [
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Сердобский уезд, Сапожковская волость, деревня Рязанка",
+          "info": "",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семенов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 314,
+        "width": 1501,
+        "x": 1068,
+        "y": 3247
+      },
+      "entry_id": "e237b556-de6d-402e-8040-9c9f187baeb5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Харинская волость, деревня Гнездово",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "other_status": "отец умершего",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ермолаева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

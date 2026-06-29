@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 308,
+  "node_id": "1d8df6c3-c644-4842-98d5-3b67d97987a1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 360,
+        "width": 1493,
+        "x": 1008,
+        "y": 1032
+      },
+      "entry_id": "1d8df6c3-c644-4842-98d5-3b67d97987a1_3",
+      "people": [
+        {
+          "age": "76",
+          "geo": "Рязанская губерния, Зарайский уезд, Дединовская волость, село",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Баранова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 1532,
+        "x": 1004,
+        "y": 1600
+      },
+      "entry_id": "1d8df6c3-c644-4842-98d5-3b67d97987a1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куребинская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "4 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Волкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 1478,
+        "x": 1017,
+        "y": 2313
+      },
+      "entry_id": "1d8df6c3-c644-4842-98d5-3b67d97987a1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость и слобода",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "3 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бычков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 618,
+        "width": 1527,
+        "x": 1016,
+        "y": 3051
+      },
+      "entry_id": "1d8df6c3-c644-4842-98d5-3b67d97987a1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Яковлевский уезд, Яковлевская волость, деревня Красная Слобода",
+          "info": "крестьянка, девица",
+          "name": "Любовь",
+          "other_status": "мать умершего",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Наумова"
+        },
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Ираида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Наумова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

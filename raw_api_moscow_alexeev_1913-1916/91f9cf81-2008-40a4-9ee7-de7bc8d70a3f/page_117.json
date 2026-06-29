@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 117,
+  "node_id": "5759ad0b-6e62-4bb2-8b9e-d619aa07016f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 587,
+        "width": 2712,
+        "x": 925,
+        "y": 1004
+      },
+      "entry_id": "5759ad0b-6e62-4bb2-8b9e-d619aa07016f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харитонова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Чижевская волость, деревня Капустино",
+          "info": "крестьянин",
+          "name": "Харлампий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ващенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Харитонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Измайловская волость, село Спасское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харитонов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, село",
+          "info": "крестьянка, девица",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лопырева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 677,
+        "width": 2721,
+        "x": 919,
+        "y": 1647
+      },
+      "entry_id": "5759ad0b-6e62-4bb2-8b9e-d619aa07016f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бастрыкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бастрыкина"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Борисоглебский уезд, Максимовской волости, деревня Полунина",
+          "info": "крестьянка, девица",
+          "name": "Васса",
+          "second_name": "Сильверстова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Привалова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, слобода",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бастрыкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Булыгинская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карпов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 547,
+        "width": 2682,
+        "x": 920,
+        "y": 2325
+      },
+      "entry_id": "5759ad0b-6e62-4bb2-8b9e-d619aa07016f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Федоровская волость, деревня Бабасовка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щербакова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бабровка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "Федоровская волость, деревня Бабасовка",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Щербаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2700,
+        "x": 910,
+        "y": 3039
+      },
+      "entry_id": "5759ad0b-6e62-4bb2-8b9e-d619aa07016f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "тот же дом",
+          "info": "потомственный почетный гражданин",
+          "name": "Петр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рубенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рубенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "врач",
+          "name": "Серафим",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гурьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рубенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин Мясницкой слободы",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рубенков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

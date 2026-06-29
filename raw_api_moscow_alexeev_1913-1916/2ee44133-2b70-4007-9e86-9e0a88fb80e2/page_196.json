@@ -1,0 +1,270 @@
+{
+  "year": 1915,
+  "page": 196,
+  "node_id": "b8ded191-1a49-44c2-8685-b980bd0b4d33",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2679,
+        "x": 960,
+        "y": 1008
+      },
+      "entry_id": "b8ded191-1a49-44c2-8685-b980bd0b4d33_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Пружанский уезд, Масевская волость, деревня Урочище-Зворецкое",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шадуев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шадуева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Посканская волость, деревня Тепелищево",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семененков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семененкова"
+        },
+        {
+          "age": "",
+          "geo": "Пружанский уезд, Беловежская-Александровская волость, деревня Лесная",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Саковский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шадуев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2711,
+        "x": 939,
+        "y": 1625
+      },
+      "entry_id": "b8ded191-1a49-44c2-8685-b980bd0b4d33_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семененков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Посканская волость, деревня Тепелищево",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семененков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Флорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ракова"
+        },
+        {
+          "age": "",
+          "geo": "Мосальский уезд, деревня Заугорье",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антохин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Покровская волость, сельцо Малая Раковка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Раков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2769,
+        "x": 905,
+        "y": 2228
+      },
+      "entry_id": "b8ded191-1a49-44c2-8685-b980bd0b4d33_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Клекотовская волость, село",
+          "info": "крестьянин",
+          "name": "Анатолий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дьяков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Хорошино",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Алексашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ковбаса"
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Нежинский уезд, Монастырищенская волость, село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Харитонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ковбаса"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ковбаса"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2798,
+        "x": 895,
+        "y": 2814
+      },
+      "entry_id": "b8ded191-1a49-44c2-8685-b980bd0b4d33_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "девица цехового медного цеха",
+          "name": "Евдокия",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орешкина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Медынь",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Протопопов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Дурцовская волость, деревня Монакова",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Назаров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

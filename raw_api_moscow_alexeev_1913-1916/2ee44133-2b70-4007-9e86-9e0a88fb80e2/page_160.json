@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 160,
+  "node_id": "8b9de5a9-528a-4b4e-bf2b-cc201bfa9fc8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 631,
+        "width": 2754,
+        "x": 934,
+        "y": 1070
+      },
+      "entry_id": "8b9de5a9-528a-4b4e-bf2b-cc201bfa9fc8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Скопинский уезд, деревня Карандышево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тюрин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1151,
+        "width": 2767,
+        "x": 930,
+        "y": 1978
+      },
+      "entry_id": "8b9de5a9-528a-4b4e-bf2b-cc201bfa9fc8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Спасская волость, деревня Волок",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коршунов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Спасская волость, деревня Нижняя",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лагутин"
+        },
+        {
+          "age": "",
+          "geo": "Спасская волость, деревня Нижняя",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Игнатьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гуричева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лагутин"
+        },
+        {
+          "age": "",
+          "geo": "Спасская волость, деревня Нижняя",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лотков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Сафоновская волость, деревня Вёдосы",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лагутина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лагутин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

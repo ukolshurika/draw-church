@@ -1,0 +1,237 @@
+{
+  "year": 1916,
+  "page": 121,
+  "node_id": "fd75e646-3018-4289-a0cc-6bb6aa05f712",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2706,
+        "x": 934,
+        "y": 1035
+      },
+      "entry_id": "fd75e646-3018-4289-a0cc-6bb6aa05f712_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Предтечевская волость, село Предтечево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Союстова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, Верховневская слобода",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Евфимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Симонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 633,
+        "width": 2732,
+        "x": 927,
+        "y": 1694
+      },
+      "entry_id": "fd75e646-3018-4289-a0cc-6bb6aa05f712_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Евфимиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скволыгина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Туровская волость, село Енино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скволыгин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Титовская волость, село",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Афанасиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Скволыгина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Сорочинская волость, деревня Сорочинок",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петрин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 579,
+        "width": 2717,
+        "x": 920,
+        "y": 2367
+      },
+      "entry_id": "fd75e646-3018-4289-a0cc-6bb6aa05f712_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Иванино-Купровская волость, деревня Соловьева",
+          "info": "жена крестьянина",
+          "name": "Пелагия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Ратникова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Добрянская волость, деревня Кутьково",
+          "info": "крестьянка, девица",
+          "name": "Варвара",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нестеренкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Варварова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Нестеренкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 583,
+        "width": 2714,
+        "x": 910,
+        "y": 3098
+      },
+      "entry_id": "fd75e646-3018-4289-a0cc-6bb6aa05f712_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село Войново",
+          "info": "крестьянка, девица",
+          "name": "Домна",
+          "second_name": "Кондратьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Якушина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матюхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "Перестряжская волость, сельцо Шейновка",
+          "info": "крестьянин",
+          "name": "Елеазар",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Перестряжская волость, село Войново",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матюхин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

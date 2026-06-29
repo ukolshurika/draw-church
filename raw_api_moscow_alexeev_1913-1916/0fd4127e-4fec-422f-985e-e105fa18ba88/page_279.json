@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 279,
+  "node_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 321,
+        "width": 1526,
+        "x": 941,
+        "y": 868
+      },
+      "entry_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe_4",
+      "people": [
+        {
+          "age": "18",
+          "geo": "Зарайский уезд, Пирочинская волость, село Городец",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Демидова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 384,
+        "width": 1541,
+        "x": 938,
+        "y": 1348
+      },
+      "entry_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Александровский уезд, Константиновская волость, деревня Александровка",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "other_status": "мать умершего",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 276,
+        "width": 1530,
+        "x": 944,
+        "y": 1888
+      },
+      "entry_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe_3",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "Богородский уезд, Черняевская волость, деревня Алексеевка",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пучкова"
+        },
+        {
+          "age": "",
+          "geo": "Богородский уезд, Черняевская волость, деревня Алексеевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пучков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 343,
+        "width": 1440,
+        "x": 940,
+        "y": 2301
+      },
+      "entry_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe_1",
+      "people": [
+        {
+          "age": "53",
+          "geo": "Тульская губерния, Веневский уезд",
+          "info": "щанин",
+          "name": "Яков",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Садовьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 486,
+        "width": 1451,
+        "x": 932,
+        "y": 2779
+      },
+      "entry_id": "f74ee2d1-8b68-48f0-a2ad-af08c92e4afe_0",
+      "people": [
+        {
+          "age": "24 1/2 месяца",
+          "geo": "Тамбовская губерния, Спасский уезд, Майдановская волость, деревня Авдалово",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шеров (Шерин)"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майдановская волость, деревня Авдалово",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шеров"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

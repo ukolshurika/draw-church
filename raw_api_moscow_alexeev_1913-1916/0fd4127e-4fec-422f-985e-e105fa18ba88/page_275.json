@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 275,
+  "node_id": "14ab11d6-e004-401f-8dd0-4e13150b4cd5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 417,
+        "width": 1470,
+        "x": 944,
+        "y": 903
+      },
+      "entry_id": "14ab11d6-e004-401f-8dd0-4e13150b4cd5_1",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кулешов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Сергиево-Скворцинская волость, село Алексеевка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кулешов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 423,
+        "width": 1528,
+        "x": 934,
+        "y": 1505
+      },
+      "entry_id": "14ab11d6-e004-401f-8dd0-4e13150b4cd5_0",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Исаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанский уезд, Екимовская волость, деревня Радюкино",
+          "info": "крестьянин",
+          "name": "Осип",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Исаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 424,
+        "width": 1491,
+        "x": 914,
+        "y": 2069
+      },
+      "entry_id": "14ab11d6-e004-401f-8dd0-4e13150b4cd5_3",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Курочкин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Дорская волость, деревня Волохово",
+          "info": "",
+          "name": "Феодосия",
+          "other_status": "мать умершего",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Курочкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 1440,
+        "x": 939,
+        "y": 2685
+      },
+      "entry_id": "14ab11d6-e004-401f-8dd0-4e13150b4cd5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малинская волость, деревня Марьино",
+          "info": "",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мурылов"
+        },
+        {
+          "age": "2 года",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мурылов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

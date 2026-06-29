@@ -1,0 +1,270 @@
+{
+  "year": 1914,
+  "page": 139,
+  "node_id": "4bd4c858-81b1-4eaa-b94e-9de970afeb44",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2862,
+        "x": 790,
+        "y": 882
+      },
+      "entry_id": "4bd4c858-81b1-4eaa-b94e-9de970afeb44_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Ермоловская волость, деревня Мелентьева",
+          "info": "крестьянин",
+          "name": "Иона",
+          "other_status": "отец крестной матери",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Губаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Истратенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Иона",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Губаева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Истратенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Савватиевич",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Истратенков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Савватий",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Истратенков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2924,
+        "x": 771,
+        "y": 1576
+      },
+      "entry_id": "4bd4c858-81b1-4eaa-b94e-9de970afeb44_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, деревня Студенца",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Хмельниковская волость, село Формово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Логинов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Островская волость, село",
+          "info": "крестьянка",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Иучина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Павлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 697,
+        "width": 2915,
+        "x": 758,
+        "y": 2310
+      },
+      "entry_id": "4bd4c858-81b1-4eaa-b94e-9de970afeb44_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Кузнецов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Христофорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Платонова"
+        },
+        {
+          "age": "",
+          "geo": "Седлецкая губерния, Влодавский уезд, гмина Ганек, колония Пушник",
+          "info": "крестьянин",
+          "name": "Август",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыльке"
+        },
+        {
+          "age": "",
+          "geo": "Тобольская губерния, Тюкалинский уезд, Калмыковская волость, село Зотино",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "other_status": "муж крестной матери",
+          "second_name": "Христофорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Платонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 583,
+        "width": 2970,
+        "x": 744,
+        "y": 3031
+      },
+      "entry_id": "4bd4c858-81b1-4eaa-b94e-9de970afeb44_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "тот же уезд, Малинковская волость, село Помозово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Киндиков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Маковская волость, деревня Томначевка",
+          "info": "крестьянская девица",
+          "name": "Матрена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ежова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Лавенский уезд, Навилинская волость, деревня Дубровка",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борзенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Матренова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ежова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

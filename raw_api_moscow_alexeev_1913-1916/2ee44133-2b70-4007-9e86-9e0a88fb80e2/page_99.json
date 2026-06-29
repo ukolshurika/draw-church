@@ -1,0 +1,133 @@
+{
+  "year": 1915,
+  "page": 99,
+  "node_id": "83a78e2c-1cd6-48bb-bd01-168e9d60df78",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 437,
+        "width": 2772,
+        "x": 908,
+        "y": 1107
+      },
+      "entry_id": "83a78e2c-1cd6-48bb-bd01-168e9d60df78_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жильцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Вера",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трухина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Григорьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 633,
+        "width": 2794,
+        "x": 917,
+        "y": 1607
+      },
+      "entry_id": "83a78e2c-1cd6-48bb-bd01-168e9d60df78_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Березина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Вѣскова"
+        },
+        {
+          "age": "",
+          "geo": "завод Унвяси",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вѣсков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вѣскова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Ермоловская волость, завод Унвяси",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вѣсков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,331 @@
+{
+  "year": 1915,
+  "page": 88,
+  "node_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 462,
+        "width": 2823,
+        "x": 905,
+        "y": 1070
+      },
+      "entry_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Наумова"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Бавыкинская волость, деревня Дедяково",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Еленин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дроксин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, село Михайловское",
+          "info": "крестьянка, вдова",
+          "name": "Елена",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дроксина"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Семеновская волость, деревня Привалова",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "муж крестной матери",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 553,
+        "width": 2812,
+        "x": 897,
+        "y": 1682
+      },
+      "entry_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Явяконовская волость, деревня Барсуково",
+          "info": "крестьянин",
+          "name": "Антоній",
+          "second_name": "Ивановъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панинъ"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Полянская волость, деревня Больших Полян",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Прокопіева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дурнова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Каринская волость, деревня Ларгино",
+          "info": "крестьянин",
+          "name": "Наумъ",
+          "second_name": "Прокопіевъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романовъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдія",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Панина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 449,
+        "width": 2810,
+        "x": 908,
+        "y": 2269
+      },
+      "entry_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Старовятская волость, деревня Новая Николаевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь, девица",
+          "name": "Акилина",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крылова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 402,
+        "width": 2780,
+        "x": 923,
+        "y": 2807
+      },
+      "entry_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Пустошки",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Захарова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Плахинская волость, село Высокое",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Головин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Головинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Головинова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Головин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2757,
+        "x": 927,
+        "y": 3329
+      },
+      "entry_id": "e9aef7de-9cbe-4d49-be2b-dbbd8a49dfb4_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крикунов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Тустенская волость, деревня Великое Село",
+          "info": "крестьянин",
+          "name": "Максим",
+          "other_status": "муж крестной матери",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Плахинская волость, село Высокое",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Головин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Головинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Головинова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

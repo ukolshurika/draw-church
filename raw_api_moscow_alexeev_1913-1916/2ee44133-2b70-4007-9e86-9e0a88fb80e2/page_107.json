@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 107,
+  "node_id": "302915d8-c10f-4cdf-a402-2c37f905789f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 533,
+        "width": 2792,
+        "x": 913,
+        "y": 1071
+      },
+      "entry_id": "302915d8-c10f-4cdf-a402-2c37f905789f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Сургодин",
+          "info": "крестьянская вдова",
+          "name": "Анастасия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коновалова"
+        },
+        {
+          "age": "",
+          "geo": "село Афанасиево",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Афанасиевская волость, село",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Канунников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канунникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Афанасиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Канунников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2832,
+        "x": 914,
+        "y": 1817
+      },
+      "entry_id": "302915d8-c10f-4cdf-a402-2c37f905789f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Сенинский уезд, Череевская волость, деревня Белогор",
+          "info": "крестьянская жена",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лазаревич"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Круглянский уезд, Круглянская волость, деревня Скуратовка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шаверновский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шаверновский"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсаковский уезд, Васильевская волость, село Иваново",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мачин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шаверновская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2828,
+        "x": 922,
+        "y": 2619
+      },
+      "entry_id": "302915d8-c10f-4cdf-a402-2c37f905789f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поляков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Янкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Чернобаевская волость, деревня Михалкова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Янкин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "жена крестьянина",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Янкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Янкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

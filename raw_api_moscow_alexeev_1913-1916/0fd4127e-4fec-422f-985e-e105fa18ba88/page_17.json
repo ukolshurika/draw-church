@@ -1,0 +1,310 @@
+{
+  "year": 1914,
+  "page": 17,
+  "node_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 372,
+        "width": 2899,
+        "x": 767,
+        "y": 874
+      },
+      "entry_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Хороша",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Чадаевская волость, село Молоди",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Пеженкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сергеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 424,
+        "width": 2916,
+        "x": 762,
+        "y": 1289
+      },
+      "entry_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кашинский уезд, Потуповская волость, деревня Соколова",
+          "info": "крестьянин",
+          "name": "Илья",
+          "other_status": "муж крестной матери",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Хохлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Самсонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гурченкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хохлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гурченкова"
+        },
+        {
+          "age": "",
+          "geo": "Мосальский уезд, Лазинская волость, деревня Губина",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гурченков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Губина",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Радченков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 393,
+        "width": 2928,
+        "x": 769,
+        "y": 1761
+      },
+      "entry_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Соколова",
+          "info": "девица",
+          "name": "Евдокія",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хохлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокія",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хохлова"
+        },
+        {
+          "age": "",
+          "geo": "Кашинский уезд, Потуповская волость, деревня Соколова",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хохлов"
+        },
+        {
+          "age": "",
+          "geo": "Потуповская волость, деревня Скриплево",
+          "info": "крестьянин",
+          "name": "Прокл",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хохлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 390,
+        "width": 2919,
+        "x": 771,
+        "y": 2183
+      },
+      "entry_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Ильи-Жидинская волость, деревня Павлова",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Сухиничский мещанин",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ильи-Жидинская волость, деревня Звякина",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коробкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 2903,
+        "x": 772,
+        "y": 2668
+      },
+      "entry_id": "cae9f7bc-8849-4fcd-981e-8fc9b1353d57_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Апушкинская волость, село Островки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евсигнеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пронин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пронин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Братковская волость, деревня Подсосенья",
+          "info": "крестьянин",
+          "name": "Давид",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малышев"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская вдова",
+          "name": "Матрона",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

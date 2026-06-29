@@ -1,0 +1,61 @@
+{
+  "year": 1916,
+  "page": 21,
+  "node_id": "33177dd4-d1cc-4c11-b6ff-f5366e5023cd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1018,
+        "width": 2723,
+        "x": 894,
+        "y": 2701
+      },
+      "entry_id": "33177dd4-d1cc-4c11-b6ff-f5366e5023cd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Куприянова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Куприянова"
+        },
+        {
+          "age": "",
+          "geo": "Константиновская волость, село Никульское",
+          "info": "крестьянка, девица",
+          "name": "Иустиния",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Константиновская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Куприянов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

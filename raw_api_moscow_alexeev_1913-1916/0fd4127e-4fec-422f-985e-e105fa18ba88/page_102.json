@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 102,
+  "node_id": "281f6b9b-5be8-424d-94d8-f263d90c1842",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 471,
+        "width": 2885,
+        "x": 744,
+        "y": 868
+      },
+      "entry_id": "281f6b9b-5be8-424d-94d8-f263d90c1842_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Теперок, Покровский уезд, Владимирская губерния",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бобылев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Великая Лука, Скопинский уезд, Рязанская губерния",
+          "info": "запасный рядовой из крестьян",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колпаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колпакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Проварусково, Вяземский уезд, Смоленская губерния",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Посадова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Колпакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2893,
+        "x": 739,
+        "y": 1376
+      },
+      "entry_id": "281f6b9b-5be8-424d-94d8-f263d90c1842_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Жирошкинская волость, деревня Пестово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Стулова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Медведецкая волость, деревня Окатово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стулов"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Новинская волость, деревня Новошино",
+          "info": "крестьянская дочь, девица",
+          "name": "Феодосия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стулова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 491,
+        "width": 2889,
+        "x": 745,
+        "y": 1929
+      },
+      "entry_id": "281f6b9b-5be8-424d-94d8-f263d90c1842_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Анастасия",
+          "second_name": "Клавдиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Солнечногорская волость, деревня Мартыново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Викторов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Викторова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Коноплинская волость, деревня Пушкина",
+          "info": "крестьянин",
+          "name": "Платон",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Викторова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 2879,
+        "x": 741,
+        "y": 2462
+      },
+      "entry_id": "281f6b9b-5be8-424d-94d8-f263d90c1842_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Голунская волость, село Голунь",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Акилина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лукишева"
+        },
+        {
+          "age": "",
+          "geo": "Новосильский уезд, Моховская волость, село Грицово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чистяков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Голунская волость, деревня Романовка",
+          "info": "крестьянин",
+          "name": "Акилин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лукишев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 2867,
+        "x": 732,
+        "y": 2884
+      },
+      "entry_id": "281f6b9b-5be8-424d-94d8-f263d90c1842_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Павлова",
+          "info": "запасный старший ун-офицер из крестьян Смоленской губернии, Ельнинского уезда, Докудовской волости, деревни Павлова",
+          "name": "Федор",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Поваркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поваркова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Павлова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Налита"
+        },
+        {
+          "age": "",
+          "geo": "деревня Павлова",
+          "info": "девица",
+          "name": "Нина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Поваркова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

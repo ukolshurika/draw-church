@@ -1,0 +1,269 @@
+{
+  "year": 1916,
+  "page": 110,
+  "node_id": "476d98fb-b550-4458-87b7-49d8dcdfd167",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 515,
+        "width": 2783,
+        "x": 897,
+        "y": 1013
+      },
+      "entry_id": "476d98fb-b550-4458-87b7-49d8dcdfd167_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Балтутинская волость, деревня Хотеево",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Мархоткинская волость, деревня Жабья",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Карнеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ковалев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Феофанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 667,
+        "width": 2798,
+        "x": 901,
+        "y": 1690
+      },
+      "entry_id": "476d98fb-b550-4458-87b7-49d8dcdfd167_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Покров-Слободская волость, деревня Теперки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Елисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Вохринская волость, деревня Федина",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скворцов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, село Липово",
+          "info": "вдова, крестьянка",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Парамонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Елисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 706,
+        "width": 2795,
+        "x": 894,
+        "y": 2341
+      },
+      "entry_id": "476d98fb-b550-4458-87b7-49d8dcdfd167_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Калеевская волость, деревня Еремьева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лобов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Суетовская волость, деревня Дарьино",
+          "info": "крестьянин",
+          "name": "Фома",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шершнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Иустинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лобова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лобов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бобриковская волость, деревня Колодезная",
+          "info": "крестьянин",
+          "name": "Татиан",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Канунников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Канунникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 693,
+        "width": 2783,
+        "x": 894,
+        "y": 3069
+      },
+      "entry_id": "476d98fb-b550-4458-87b7-49d8dcdfd167_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Долматовская волость, деревня Лядство",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Злобина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Спасская волость, деревня Разинково",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Евсютин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Евсютин"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Загоскинский уезд, село Летопино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Здоровенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Евсютина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

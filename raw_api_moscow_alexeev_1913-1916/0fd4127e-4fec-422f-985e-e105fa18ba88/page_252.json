@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 252,
+  "node_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 302,
+        "width": 1439,
+        "x": 898,
+        "y": 782
+      },
+      "entry_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Константиново",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Постников"
+        },
+        {
+          "age": "5 лет",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Постников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 320,
+        "width": 1420,
+        "x": 900,
+        "y": 1223
+      },
+      "entry_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a_2",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Диуленков"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Полоцкий уезд, Вознесенская волость",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "other_status": "отец умершего",
+          "second_name": "Алимпиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Диуленков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 210,
+        "width": 1424,
+        "x": 899,
+        "y": 1607
+      },
+      "entry_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a_3",
+      "people": [
+        {
+          "age": "17",
+          "geo": "",
+          "info": "виленский мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Циритоф"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 323,
+        "width": 1488,
+        "x": 902,
+        "y": 1969
+      },
+      "entry_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Плетрусская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соловейкин"
+        },
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Соловейкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 329,
+        "width": 1460,
+        "x": 889,
+        "y": 2405
+      },
+      "entry_id": "6a5f262d-815c-4e02-88f7-888916ca4b6a_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "Симбирская губерния, Курмышский уезд, Чембелевская волость, деревня Медяна",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

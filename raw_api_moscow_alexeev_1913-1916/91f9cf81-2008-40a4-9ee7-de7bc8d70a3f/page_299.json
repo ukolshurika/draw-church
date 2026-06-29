@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 299,
+  "node_id": "d89b4d89-03e2-4280-a674-c0c85fcf6984",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 441,
+        "width": 1467,
+        "x": 1064,
+        "y": 1112
+      },
+      "entry_id": "d89b4d89-03e2-4280-a674-c0c85fcf6984_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Фомищевская волость, деревня Быково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 465,
+        "width": 1454,
+        "x": 1065,
+        "y": 1773
+      },
+      "entry_id": "d89b4d89-03e2-4280-a674-c0c85fcf6984_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Пителинская волость, деревня Борщевка",
+          "info": "из дома Гордеева крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шибаев"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шибаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 1464,
+        "x": 1066,
+        "y": 2439
+      },
+      "entry_id": "d89b4d89-03e2-4280-a674-c0c85fcf6984_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Немержа",
+          "info": "крестьянин",
+          "name": "Фока",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шашков"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Фокина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шашкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1458,
+        "x": 1064,
+        "y": 3134
+      },
+      "entry_id": "d89b4d89-03e2-4280-a674-c0c85fcf6984_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куребинская волость, село Малая Петровка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бородавкин"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бородавкина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

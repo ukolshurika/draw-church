@@ -1,0 +1,290 @@
+{
+  "year": 1914,
+  "page": 74,
+  "node_id": "aa0a335d-0de4-481b-a73b-e095df89d62f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 531,
+        "width": 2900,
+        "x": 712,
+        "y": 877
+      },
+      "entry_id": "aa0a335d-0de4-481b-a73b-e095df89d62f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, село Малиницы",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Вуколова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Коротаева"
+        },
+        {
+          "age": "",
+          "geo": "Мценский уезд, Долговская волость, деревня Козловка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скав"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, село Малиницы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коротаева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Павлова, Орловская губерния, Мценский уезд, Михайловская волость, Мартыновское общество",
+          "info": "крестьянин",
+          "name": "Вукол",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коротаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2936,
+        "x": 693,
+        "y": 1484
+      },
+      "entry_id": "aa0a335d-0de4-481b-a73b-e095df89d62f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "купеческая вдова",
+          "name": "Елизавета",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малахова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафим",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сухорев"
+        },
+        {
+          "age": "",
+          "geo": "Великолукская волость, село Кривцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодотов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кулешов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сухорева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Кондаково, Московская губерния, Бронницкий уезд, Великолукская волость, село Кривцово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сухорев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 541,
+        "width": 2967,
+        "x": 684,
+        "y": 2048
+      },
+      "entry_id": "aa0a335d-0de4-481b-a73b-e095df89d62f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сухорева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сухорева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "other_status": "отец крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Афанасьеве, Серпуховский уезд, Бронницкая волость",
+          "info": "мещанин",
+          "name": "Степан",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сухорев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мызовка, Лаптевская волость, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "",
+          "geo": "село Замартыни, Лебедянский уезд, Тамбовская губерния",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 685,
+        "width": 2996,
+        "x": 681,
+        "y": 2638
+      },
+      "entry_id": "aa0a335d-0de4-481b-a73b-e095df89d62f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Липецкая волость, село Тульчина",
+          "info": "крестьянская дочь, девица",
+          "name": "Евдокия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гашина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, село Подноволока",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калугин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калугина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Калугина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Фоминская волость, деревня Рождествено",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Звердов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

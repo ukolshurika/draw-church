@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 300,
+  "node_id": "156522f3-9cd9-4aee-b78c-6360585dd769",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 417,
+        "width": 1411,
+        "x": 1001,
+        "y": 874
+      },
+      "entry_id": "156522f3-9cd9-4aee-b78c-6360585dd769_3",
+      "people": [
+        {
+          "age": "41",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Ящинская волость, деревня Шепелькино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тарасов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 1418,
+        "x": 996,
+        "y": 1512
+      },
+      "entry_id": "156522f3-9cd9-4aee-b78c-6360585dd769_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Перестряжская волость, село Воиново",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матюхин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 452,
+        "width": 1493,
+        "x": 990,
+        "y": 2225
+      },
+      "entry_id": "156522f3-9cd9-4aee-b78c-6360585dd769_0",
+      "people": [
+        {
+          "age": "2 года 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ерошкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Денисовский уезд, село Быковка",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерошкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1482,
+        "x": 988,
+        "y": 2861
+      },
+      "entry_id": "156522f3-9cd9-4aee-b78c-6360585dd769_1",
+      "people": [
+        {
+          "age": "7 дней",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Петроградская губерния, город Луга",
+          "info": "мещанин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,311 @@
+{
+  "year": 1914,
+  "page": 126,
+  "node_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2908,
+        "x": 770,
+        "y": 924
+      },
+      "entry_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Анна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шибаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Петелинская волость, деревня Борщовки",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шибаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Хотебцовская волость, деревня Ведерники",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кренделев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кренделева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 440,
+        "width": 2931,
+        "x": 770,
+        "y": 1460
+      },
+      "entry_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дроздова"
+        },
+        {
+          "age": "",
+          "geo": "Данковский уезд, Рязанская губерния, Мураевинская волость, село",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дроздова"
+        },
+        {
+          "age": "",
+          "geo": "Сенненский уезд, Могилевская губерния, Черейская волость, деревня Гори",
+          "info": "крестьянин",
+          "name": "Фома",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скакунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2952,
+        "x": 769,
+        "y": 1907
+      },
+      "entry_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Валдайский уезд, Ивантневская волость, деревня Русское Крестцы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния",
+          "info": "клинская мещанка, девица",
+          "name": "Лидия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мантефель"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Рыбинск",
+          "info": "рыбинский мещанин",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рагорин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2915,
+        "x": 765,
+        "y": 2408
+      },
+      "entry_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хрекова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хрекова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Константиново, Рязанская губерния, Кузьминская волость",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хреков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская жена",
+          "name": "Вера",
+          "other_status": "муж крестной матери",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Софронова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зимин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 440,
+        "width": 2942,
+        "x": 763,
+        "y": 2977
+      },
+      "entry_id": "c522eed6-0b1f-40a1-87b1-4b5da6c4fdc8_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Рептер",
+          "info": "потомственный почетный гражданин",
+          "name": "Алексей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ценков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "поручик 29 Черниговского полка",
+          "name": "Валериан",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шураков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ценкова"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ценкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

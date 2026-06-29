@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 59,
+  "node_id": "969580b8-9790-4e95-97df-4be996313dda",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2820,
+        "x": 900,
+        "y": 1038
+      },
+      "entry_id": "969580b8-9790-4e95-97df-4be996313dda_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Филипповская волость, деревня Рожково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шипаев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Кочибухино",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "город Переславль",
+          "info": "мещанка, девица",
+          "name": "Серафима",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Медведева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Назаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 656,
+        "width": 2793,
+        "x": 915,
+        "y": 1695
+      },
+      "entry_id": "969580b8-9790-4e95-97df-4be996313dda_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белякова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Никулино-Городищевская волость, село Хранево",
+          "info": "крестьянка, девица",
+          "name": "Феодосия",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Храповицкая"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Луженская волость, деревня Селино",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Махов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Годуновская волость, село Егорьевское",
+          "info": "крестьянка, вдова",
+          "name": "Ольга",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2794,
+        "x": 915,
+        "y": 2393
+      },
+      "entry_id": "969580b8-9790-4e95-97df-4be996313dda_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Елисеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Любимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Глафира",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Любимова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петроковский уезд, село Кешлево",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ежова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость",
+          "info": "причисленный к оной крестьянин",
+          "name": "Иоаким",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Любимов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Варфоломеевская волость",
+          "info": "причисленный к оной крестьянин",
+          "name": "Симеон",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Любимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2783,
+        "x": 920,
+        "y": 3162
+      },
+      "entry_id": "969580b8-9790-4e95-97df-4be996313dda_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Дычинская волость, село Смахтино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Апушкинская волость, село Островки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евстигнеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяное",
+          "info": "крестьянин",
+          "name": "Иаков",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Папрасин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

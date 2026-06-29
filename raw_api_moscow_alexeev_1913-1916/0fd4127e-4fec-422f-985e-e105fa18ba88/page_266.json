@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 266,
+  "node_id": "df126224-2a2a-47ce-a761-befb1e311c58",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 373,
+        "width": 1440,
+        "x": 923,
+        "y": 799
+      },
+      "entry_id": "df126224-2a2a-47ce-a761-befb1e311c58_1",
+      "people": [
+        {
+          "age": "34",
+          "geo": "Калужская губерния, Мещовский уезд, Сабуровщинская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 404,
+        "width": 1474,
+        "x": 924,
+        "y": 1357
+      },
+      "entry_id": "df126224-2a2a-47ce-a761-befb1e311c58_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Атинская волость, село Покровское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 355,
+        "width": 1525,
+        "x": 920,
+        "y": 1909
+      },
+      "entry_id": "df126224-2a2a-47ce-a761-befb1e311c58_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Воскресенский",
+          "info": "мещанин",
+          "name": "Семен",
+          "other_status": "отец умершего",
+          "second_name": "Руфов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1534,
+        "x": 910,
+        "y": 2408
+      },
+      "entry_id": "df126224-2a2a-47ce-a761-befb1e311c58_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Раменская волость, деревня Пустошки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Филиппова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 1484,
+        "x": 910,
+        "y": 2955
+      },
+      "entry_id": "df126224-2a2a-47ce-a761-befb1e311c58_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Александрова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отецумершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

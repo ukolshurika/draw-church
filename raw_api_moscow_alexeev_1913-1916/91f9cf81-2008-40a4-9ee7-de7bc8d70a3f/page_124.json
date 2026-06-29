@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 124,
+  "node_id": "636a5fc1-1ec4-4b40-b22e-b69ce5de1876",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2779,
+        "x": 914,
+        "y": 1036
+      },
+      "entry_id": "636a5fc1-1ec4-4b40-b22e-b69ce5de1876_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чеховская"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Быховский уезд, Грудиновская волость, деревня Смолица",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ефремченков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 658,
+        "width": 2766,
+        "x": 914,
+        "y": 1694
+      },
+      "entry_id": "636a5fc1-1ec4-4b40-b22e-b69ce5de1876_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "прикомандированный к военно-прокурорскому надзору Московского военно-окружного суда подпоручик",
+          "name": "Александр",
+          "second_name": "Эрнестович",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бурзи"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Новгородская слобода",
+          "info": "старший писарь канцелярии военно-прокурорского надзора Московского военно-окружного суда, из мещан",
+          "name": "Виктор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Маргарита",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Трунова"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Новгородская слобода",
+          "info": "Московская мещанка",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трунова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2752,
+        "x": 901,
+        "y": 2508
+      },
+      "entry_id": "636a5fc1-1ec4-4b40-b22e-b69ce5de1876_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Ягунинская волость, село Лакотни",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Филимонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 632,
+        "width": 2771,
+        "x": 894,
+        "y": 3221
+      },
+      "entry_id": "636a5fc1-1ec4-4b40-b22e-b69ce5de1876_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Новоприборная волость, Староказачья слобода",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Клевщенкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Новоприборная волость, слобода",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ганьшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ганьшин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Дорская волость, деревня Бухолово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ганьшина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

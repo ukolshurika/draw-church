@@ -1,0 +1,342 @@
+{
+  "year": 1914,
+  "page": 36,
+  "node_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 350,
+        "width": 2888,
+        "x": 729,
+        "y": 911
+      },
+      "entry_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вышневолочский уезд, Должанская волость, деревня Лукина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "Вышневолочский уезд, Несчанниковская волость, деревня Коробиха",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коршунова"
+        },
+        {
+          "age": "",
+          "geo": "Вышневолочский уезд, Песчанниковская волость, деревня Бурцева",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Казанский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Казанская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Казанский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 393,
+        "width": 2896,
+        "x": 731,
+        "y": 1300
+      },
+      "entry_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панюкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Панюкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Каменская волость, деревня Княгинино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панюков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Маклецовская волость, деревня Прохоровка",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Виноградова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Маклецовская волость, деревня Прохоровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Виноградов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 480,
+        "width": 2879,
+        "x": 731,
+        "y": 1750
+      },
+      "entry_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Анатолиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матьяшов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Леонид",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Финляндская",
+          "info": "окончивший курс юридического факультета Санкт-Петербургского Императорского Университета сын титулярного советника",
+          "name": "Анатолий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матьяшова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2905,
+        "x": 722,
+        "y": 2292
+      },
+      "entry_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Кочибихина",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Ольховская волость, деревня Пушенина",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Игнатьевская волость, деревня Ковалева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Назарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 462,
+        "width": 2829,
+        "x": 718,
+        "y": 2844
+      },
+      "entry_id": "a4fd20ad-aa3f-4f22-b89a-eaf5693a643b_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Матвеевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шестов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Малевка",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савин"
+        },
+        {
+          "age": "",
+          "geo": "село Матвеевка",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шестова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Кочибихина",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Назаров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

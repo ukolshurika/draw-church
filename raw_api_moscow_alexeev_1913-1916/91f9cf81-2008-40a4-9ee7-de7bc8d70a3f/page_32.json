@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 32,
+  "node_id": "34d33a2e-94d1-4bb1-8235-7c7da12575f4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2788,
+        "x": 888,
+        "y": 1020
+      },
+      "entry_id": "34d33a2e-94d1-4bb1-8235-7c7da12575f4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ильищенская волость, деревня Руднево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Спасская волость, деревня Зеваки",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Житков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 2790,
+        "x": 882,
+        "y": 1708
+      },
+      "entry_id": "34d33a2e-94d1-4bb1-8235-7c7da12575f4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Никифорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Никифорова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петроковская волость, деревня Коварова",
+          "info": "крестьянка, девица",
+          "name": "Стефанида",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Васильевский уезд, Беловская волость, деревня Шпевериха",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Курмышский уезд, Знаменская волость, село Княжья Гора",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Никифоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2748,
+        "x": 885,
+        "y": 2434
+      },
+      "entry_id": "34d33a2e-94d1-4bb1-8235-7c7da12575f4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куребинская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Глуховская волость, деревня Ивановская",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чулкова"
+        },
+        {
+          "age": "",
+          "geo": "Куребинская волость, село Куребино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Флоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калмыков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 637,
+        "width": 2741,
+        "x": 886,
+        "y": 3179
+      },
+      "entry_id": "34d33a2e-94d1-4bb1-8235-7c7da12575f4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Ивановская волость, сельцо Кармолино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горьков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Чижовская волость, деревня Шепурево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Нестеров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чалов"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Мокринская волость, деревня Замошицы",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Прокофьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Горькова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Прокофьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горькова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

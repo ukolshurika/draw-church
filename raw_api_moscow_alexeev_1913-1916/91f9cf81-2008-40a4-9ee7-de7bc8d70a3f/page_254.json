@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 254,
+  "node_id": "6b485fba-f21d-45a7-9b09-b52182e0d871",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 346,
+        "width": 1404,
+        "x": 1068,
+        "y": 1119
+      },
+      "entry_id": "6b485fba-f21d-45a7-9b09-b52182e0d871_2",
+      "people": [
+        {
+          "age": "30",
+          "geo": "слобода Лужников Девичьих, дом Сосницкой, Москва",
+          "info": "московский мещанин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 288,
+        "width": 1452,
+        "x": 1069,
+        "y": 1682
+      },
+      "entry_id": "6b485fba-f21d-45a7-9b09-b52182e0d871_3",
+      "people": [
+        {
+          "age": "80",
+          "geo": "",
+          "info": "рясофорная послушница Алексеевского монастыря",
+          "name": "Феодосия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 1419,
+        "x": 1063,
+        "y": 2198
+      },
+      "entry_id": "6b485fba-f21d-45a7-9b09-b52182e0d871_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Майданов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Домодедовская волость, село Домодедово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Майданов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 1463,
+        "x": 1062,
+        "y": 3004
+      },
+      "entry_id": "6b485fba-f21d-45a7-9b09-b52182e0d871_0",
+      "people": [
+        {
+          "age": "67",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Леоновская волость",
+          "info": "вдова без земельного крестьянина",
+          "name": "Капиталина",
+          "second_name": "Иудова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Минкина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

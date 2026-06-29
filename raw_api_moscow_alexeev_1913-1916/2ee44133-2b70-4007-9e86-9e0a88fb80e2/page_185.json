@@ -1,0 +1,248 @@
+{
+  "year": 1915,
+  "page": 185,
+  "node_id": "bace8a57-3997-4d20-aae2-d4a94a81b46e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2638,
+        "x": 1017,
+        "y": 997
+      },
+      "entry_id": "bace8a57-3997-4d20-aae2-d4a94a81b46e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Завидовская волость, деревня Концово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "Завидовская волость, деревня Минина",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Андрианова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тесемкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Захаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Захарова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Завидовская волость, деревня Демидово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Никонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Захаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 502,
+        "width": 2665,
+        "x": 1003,
+        "y": 1603
+      },
+      "entry_id": "bace8a57-3997-4d20-aae2-d4a94a81b46e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Альютово",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Альютово",
+          "info": "крестьянин",
+          "name": "Илья",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Альютово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 463,
+        "width": 2665,
+        "x": 1013,
+        "y": 2181
+      },
+      "entry_id": "bace8a57-3997-4d20-aae2-d4a94a81b46e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Щучьянская волость, село Щучья",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Щучьянская волость, деревня Градново",
+          "info": "крестьянская девица",
+          "name": "София",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крыгина"
+        },
+        {
+          "age": "",
+          "geo": "Московская Крестовоздвиженская в Алексеевском монастыре",
+          "info": "диакон",
+          "name": "Иоанн",
+          "second_name": "Александрович",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Успенский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2677,
+        "x": 1013,
+        "y": 2700
+      },
+      "entry_id": "bace8a57-3997-4d20-aae2-d4a94a81b46e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Ильинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шаньгина"
+        },
+        {
+          "age": "",
+          "geo": "то же село Константиново",
+          "info": "крестьянка",
+          "name": "Антонина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зимина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шаньгина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминский уезд, Константиновская волость, село Константиново",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мамонов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Сольвычегодский уезд, Черевковская волость, Холмовское общество, деревня Анисимовская",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шаньгин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 299,
+  "node_id": "812e59b2-50bf-4707-9755-efeb51c38625",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1437,
+        "x": 986,
+        "y": 927
+      },
+      "entry_id": "812e59b2-50bf-4707-9755-efeb51c38625_3",
+      "people": [
+        {
+          "age": "24",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Рыженков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, село Нивель",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рыженков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 504,
+        "width": 1436,
+        "x": 976,
+        "y": 1560
+      },
+      "entry_id": "812e59b2-50bf-4707-9755-efeb51c38625_1",
+      "people": [
+        {
+          "age": "72",
+          "geo": "Смоленская губерния, Юхновский уезд, Мочаловская волость, Суковское общество, деревня Суковка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кунасов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1428,
+        "x": 973,
+        "y": 2276
+      },
+      "entry_id": "812e59b2-50bf-4707-9755-efeb51c38625_2",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Тверская губерния, Калязинский уезд, Степановская волость, деревня Авсерьева",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Блинов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1422,
+        "x": 967,
+        "y": 2817
+      },
+      "entry_id": "812e59b2-50bf-4707-9755-efeb51c38625_0",
+      "people": [
+        {
+          "age": "30 лет",
+          "geo": "",
+          "info": "потомственный почетный гражданин, кандидат коммерции",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кудрин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

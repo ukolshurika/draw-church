@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 64,
+  "node_id": "f4b5a7b8-06fe-48ff-994d-81d324e04f4f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 607,
+        "width": 2801,
+        "x": 885,
+        "y": 1010
+      },
+      "entry_id": "f4b5a7b8-06fe-48ff-994d-81d324e04f4f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Брест-Литовский уезд, Каменец-Жировецкая волость, село Ершово",
+          "info": "крестьянин",
+          "name": "Пелагия",
+          "other_status": "муж крестной матери",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Матлашук"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Качалов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Ялевская волость, село Крапивня",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Качалов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд",
+          "info": "мещанин",
+          "name": "Григорий",
+          "second_name": "Адамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Адамова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Качалова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2789,
+        "x": 884,
+        "y": 1781
+      },
+      "entry_id": "f4b5a7b8-06fe-48ff-994d-81d324e04f4f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пашинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Евсеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пашинина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, деревня Нижняя-Брусланова",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пашинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 662,
+        "width": 2807,
+        "x": 885,
+        "y": 2574
+      },
+      "entry_id": "f4b5a7b8-06fe-48ff-994d-81d324e04f4f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, село Никольское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бурмистров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Кобылино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Неделинская волость, село Неделино",
+          "info": "жена крестьянина",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иконникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 2795,
+        "x": 882,
+        "y": 3251
+      },
+      "entry_id": "f4b5a7b8-06fe-48ff-994d-81d324e04f4f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Зиновий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Мартинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Арешина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Березовская волость, деревня Карева",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Вязьма",
+          "info": "жена мещанина",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Зыкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

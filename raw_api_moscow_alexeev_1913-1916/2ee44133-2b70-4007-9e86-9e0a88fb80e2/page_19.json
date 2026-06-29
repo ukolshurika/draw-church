@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 19,
+  "node_id": "11e335b2-8317-4091-a629-e48cb992e4eb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 616,
+        "width": 2813,
+        "x": 908,
+        "y": 1057
+      },
+      "entry_id": "11e335b2-8317-4091-a629-e48cb992e4eb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Боровичский уезд, Ровенская волость, деревня Еглы",
+          "info": "",
+          "name": "Еглы",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ульянова"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо Алмазово",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, сельцо Алмазово",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зотова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 676,
+        "width": 2845,
+        "x": 900,
+        "y": 1780
+      },
+      "entry_id": "11e335b2-8317-4091-a629-e48cb992e4eb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Буйгородская волость, деревня Рахманова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Якунина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Федотьевская волость, село Шепелево",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "отец крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шепелев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ногаевская волость, село Серьево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кручинин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2821,
+        "x": 901,
+        "y": 2416
+      },
+      "entry_id": "11e335b2-8317-4091-a629-e48cb992e4eb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, село Ловец",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 727,
+        "width": 2864,
+        "x": 904,
+        "y": 3059
+      },
+      "entry_id": "11e335b2-8317-4091-a629-e48cb992e4eb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Илюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Сомовская волость, деревня Нижне-Покровская",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "second_name": "Мефодиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зубарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Щацкий уезд, Больше-Екатериновская волость, деревня Малая Екатериновка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зайцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 281,
+  "node_id": "49b5c273-f41a-4573-8efe-be04c7080778",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1462,
+        "x": 1123,
+        "y": 1159
+      },
+      "entry_id": "49b5c273-f41a-4573-8efe-be04c7080778_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клинский",
+          "other_status": "муж умершего",
+          "second_name": "мещанин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "69",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чижова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1405,
+        "x": 1128,
+        "y": 1518
+      },
+      "entry_id": "49b5c273-f41a-4573-8efe-be04c7080778_3",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Сидорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Досчатинская волость, село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 300,
+        "width": 1398,
+        "x": 1123,
+        "y": 1944
+      },
+      "entry_id": "49b5c273-f41a-4573-8efe-be04c7080778_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Сеньницкая волость, деревня Бархина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гусев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 301,
+        "width": 1403,
+        "x": 1126,
+        "y": 2378
+      },
+      "entry_id": "49b5c273-f41a-4573-8efe-be04c7080778_1",
+      "people": [
+        {
+          "age": "50",
+          "geo": "Тульская губерния, Веневский уезд, Узуновская волость, село Мячково",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Морозкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 339,
+        "width": 1464,
+        "x": 1127,
+        "y": 2794
+      },
+      "entry_id": "49b5c273-f41a-4573-8efe-be04c7080778_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Галинская волость, село Булавоки",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Калинина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

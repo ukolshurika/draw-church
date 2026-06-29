@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 50,
+  "node_id": "f5e54398-e84f-4208-bd4e-ab786c10132d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2705,
+        "x": 976,
+        "y": 1076
+      },
+      "entry_id": "f5e54398-e84f-4208-bd4e-ab786c10132d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Савватемская волость, деревня Власова",
+          "info": "крестьянка",
+          "name": "Иустина",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тумышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тумышева"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Новинская волость, деревня Полушкина",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горшков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Савватемская волость, село",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тумышев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2691,
+        "x": 993,
+        "y": 1803
+      },
+      "entry_id": "f5e54398-e84f-4208-bd4e-ab786c10132d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Клепиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Клепикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Киприанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коптева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Коптева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Клинский мещанин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коптев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 616,
+        "width": 2706,
+        "x": 989,
+        "y": 2421
+      },
+      "entry_id": "f5e54398-e84f-4208-bd4e-ab786c10132d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Витебская губерния, Полоцкий уезд, Вознесенская волость, деревня Невье",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белец"
+        },
+        {
+          "age": "",
+          "geo": "Замошанская волость",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юрков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белец"
+        },
+        {
+          "age": "",
+          "geo": "Рязанский уезд, Бахмачеевская волость, деревня Свистово",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белец"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2719,
+        "x": 994,
+        "y": 3169
+      },
+      "entry_id": "f5e54398-e84f-4208-bd4e-ab786c10132d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Корокозов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Богословка",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Красанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Корокозова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Змиевская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Корокозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

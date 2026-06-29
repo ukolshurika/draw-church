@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 304,
+  "node_id": "258a34b7-458c-48d7-a4cf-397d1c688eb5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 373,
+        "width": 1420,
+        "x": 1025,
+        "y": 1029
+      },
+      "entry_id": "258a34b7-458c-48d7-a4cf-397d1c688eb5_3",
+      "people": [
+        {
+          "age": "71",
+          "geo": "Тульская губерния, Епифанский уезд, Никольская волость, сельцо Казинок",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прокофьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Дудоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 470,
+        "width": 1467,
+        "x": 1031,
+        "y": 1597
+      },
+      "entry_id": "258a34b7-458c-48d7-a4cf-397d1c688eb5_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Павловка",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1421,
+        "x": 1034,
+        "y": 2294
+      },
+      "entry_id": "258a34b7-458c-48d7-a4cf-397d1c688eb5_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Мошковская волость, деревня Пещанки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 1480,
+        "x": 1039,
+        "y": 3005
+      },
+      "entry_id": "258a34b7-458c-48d7-a4cf-397d1c688eb5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Дешовская волость, деревня Казачья Слобода",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж умершего",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ананьев"
+        },
+        {
+          "age": "56",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ананьева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

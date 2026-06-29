@@ -1,0 +1,341 @@
+{
+  "year": 1914,
+  "page": 121,
+  "node_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 449,
+        "width": 2850,
+        "x": 805,
+        "y": 869
+      },
+      "entry_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Ермолаево",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богомолов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд",
+          "info": "мещанин",
+          "name": "Валентин",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Простаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Богомолова"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "Московская цеховая, поваренного цеха девица",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богомолова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2857,
+        "x": 794,
+        "y": 1447
+      },
+      "entry_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Ситовская волость, деревня Мостоушки",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шепилов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Усмерская волость, деревня Кладьково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шепилов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Устрицкая волость, деревня Плоцкое",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шепилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трусова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 2875,
+        "x": 782,
+        "y": 2093
+      },
+      "entry_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Жарова, Бронницкий уезд, Чаплыгинская волость",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кошелев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шаронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шепилова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Свистягино, Чаплыгинская волость, Ефремовский уезд, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Булдин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мостоушки, Чаплыгинская волость, Ефремовский уезд, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шепилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шепилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2893,
+        "x": 763,
+        "y": 2653
+      },
+      "entry_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Клавдия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лукина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соловьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 2889,
+        "x": 756,
+        "y": 3122
+      },
+      "entry_id": "e95c0381-ad23-44cc-ad99-ed45c1d2ba8a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Масленников"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Масленников"
+        },
+        {
+          "age": "",
+          "geo": "Углицкий уезд, Заозерская волость, деревня Черепенино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Масленников"
+        },
+        {
+          "age": "",
+          "geo": "Калязинский уезд, Семендяевская волость, деревня Яхрома",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Масленникова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

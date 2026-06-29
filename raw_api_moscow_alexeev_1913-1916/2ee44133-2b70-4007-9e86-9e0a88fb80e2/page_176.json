@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 176,
+  "node_id": "9c079d2c-65e2-4ebd-906a-2f4c8bda302d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 897,
+        "width": 2764,
+        "x": 926,
+        "y": 1133
+      },
+      "entry_id": "9c079d2c-65e2-4ebd-906a-2f4c8bda302d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Порцевская волость, деревня Наричино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Дунилово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Ереминская волость, деревня Былино",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Неонила",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 727,
+        "width": 2779,
+        "x": 926,
+        "y": 2025
+      },
+      "entry_id": "9c079d2c-65e2-4ebd-906a-2f4c8bda302d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Маклаковская волость, деревня Луканеток",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Темяшев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Караблинская волость",
+          "info": "крестьянская девица",
+          "name": "Елена",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рожкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Морозовская-Барковская волость",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федосов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Темяшев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Темяшева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 847,
+        "width": 2817,
+        "x": 918,
+        "y": 2773
+      },
+      "entry_id": "9c079d2c-65e2-4ebd-906a-2f4c8bda302d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Никандрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Лобановская волость, село Введенское",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Палицын"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Демьянова",
+          "info": "крестьянин",
+          "name": "***",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Демьянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троицко-Лесуновская волость, деревня Чигасово",
+          "info": "бывший дворовый крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Никандрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

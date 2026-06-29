@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 287,
+  "node_id": "1c836044-8074-4c45-8556-9b8b786960e0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 541,
+        "width": 1431,
+        "x": 1079,
+        "y": 1114
+      },
+      "entry_id": "1c836044-8074-4c45-8556-9b8b786960e0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "из дома Титова вдова крестьянка",
+          "name": "Матрона",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "внебрачный сын Матроны Петровой Ерошиной",
+          "name": "Павел",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 507,
+        "width": 1485,
+        "x": 1084,
+        "y": 1858
+      },
+      "entry_id": "1c836044-8074-4c45-8556-9b8b786960e0_1",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село Сутки",
+          "info": "из дома Новоселова крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ушаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 246,
+        "width": 1472,
+        "x": 1092,
+        "y": 2611
+      },
+      "entry_id": "1c836044-8074-4c45-8556-9b8b786960e0_2",
+      "people": [
+        {
+          "age": "73",
+          "geo": "",
+          "info": "монахиня Алексеевского монастыря",
+          "name": "Афанасия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 1418,
+        "x": 1088,
+        "y": 3081
+      },
+      "entry_id": "1c836044-8074-4c45-8556-9b8b786960e0_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, деревня Конаков",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "отец умершего",
+          "second_name": "Грачев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

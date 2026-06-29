@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 87,
+  "node_id": "69a86bdd-25cd-4c67-9399-ff48e187d93f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 569,
+        "width": 2737,
+        "x": 933,
+        "y": 1008
+      },
+      "entry_id": "69a86bdd-25cd-4c67-9399-ff48e187d93f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стогов"
+        },
+        {
+          "age": "",
+          "geo": "Сычевский уезд, Никитская волость, деревня Орехова",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стогов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Михеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стогова"
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, Луговская волость, село Басканово",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гаврилова"
+        },
+        {
+          "age": "",
+          "geo": "Никитская волость, деревня Поповка",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Абрамов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 2717,
+        "x": 928,
+        "y": 1698
+      },
+      "entry_id": "69a86bdd-25cd-4c67-9399-ff48e187d93f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Ковель",
+          "info": "мещанка",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мицельская"
+        },
+        {
+          "age": "",
+          "geo": "город Ковель",
+          "info": "мещанин",
+          "name": "Арсений",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куница"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хмелярская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хмелярская"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, город Ковель",
+          "info": "в доме Гугина, мещанин",
+          "name": "Василий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хмелярский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2734,
+        "x": 929,
+        "y": 2286
+      },
+      "entry_id": "69a86bdd-25cd-4c67-9399-ff48e187d93f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анфиса",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Антонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Антонова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, село Федосово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Золотарев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антонова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Юрьевецкий уезд, Порздневская волость, деревня Федосово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Антонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 569,
+        "width": 2703,
+        "x": 938,
+        "y": 3015
+      },
+      "entry_id": "69a86bdd-25cd-4c67-9399-ff48e187d93f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Кукуй",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Медный цех",
+          "info": "цеховой",
+          "name": "Алексей",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Виленская волость, деревня Кукуй",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

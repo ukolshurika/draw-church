@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 352,
+  "node_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 407,
+        "width": 1450,
+        "x": 1139,
+        "y": 1120
+      },
+      "entry_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гуркин"
+        },
+        {
+          "age": "3 1/2 года",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гуркина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 412,
+        "width": 1446,
+        "x": 1143,
+        "y": 1673
+      },
+      "entry_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c_2",
+      "people": [
+        {
+          "age": "2 1/2 года",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 433,
+        "width": 1394,
+        "x": 1142,
+        "y": 2228
+      },
+      "entry_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Тредубская волость, деревня Горки",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 329,
+        "width": 1397,
+        "x": 1153,
+        "y": 2814
+      },
+      "entry_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Новинская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горбунов"
+        },
+        {
+          "age": "17 дней",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горбунов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1438,
+        "x": 1157,
+        "y": 3283
+      },
+      "entry_id": "a3b489cf-3cba-4306-860b-0b1503a6b25c_1",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спасо-Журовская волость, село Назарьево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сорокин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

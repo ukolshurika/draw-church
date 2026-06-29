@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 137,
+  "node_id": "d3120342-4088-4a98-b828-b7faef747c55",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2769,
+        "x": 906,
+        "y": 1029
+      },
+      "entry_id": "d3120342-4088-4a98-b828-b7faef747c55_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гвоздкова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Савватимская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гвоздков"
+        },
+        {
+          "age": "",
+          "geo": "Савватимская волость, деревня Власова",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гвоздкова"
+        },
+        {
+          "age": "",
+          "geo": "село Савватимское",
+          "info": "крестьянка, девица",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 619,
+        "width": 2778,
+        "x": 903,
+        "y": 1708
+      },
+      "entry_id": "d3120342-4088-4a98-b828-b7faef747c55_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Одинцова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Вельяминовская волость, село Кишкино",
+          "info": "крестьянин",
+          "name": "Мефодий",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трофимов"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, город Короча",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Анисимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Игнатова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Каменская волость, деревня Михалева",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Одинцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Одинцова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 574,
+        "width": 2777,
+        "x": 901,
+        "y": 2450
+      },
+      "entry_id": "d3120342-4088-4a98-b828-b7faef747c55_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанка",
+          "name": "Ксения",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жуковская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соколовская волость, деревня Напругово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 564,
+        "width": 2771,
+        "x": 898,
+        "y": 3190
+      },
+      "entry_id": "d3120342-4088-4a98-b828-b7faef747c55_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Можарская волость, село Большие Можары",
+          "info": "крестьянин",
+          "name": "Феоктист",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Можаров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Никольско-Педанская волость, село Казинка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "село Большие Можары",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Можарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Исаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Можарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Можаров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

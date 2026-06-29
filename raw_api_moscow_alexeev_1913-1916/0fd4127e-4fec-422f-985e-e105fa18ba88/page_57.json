@@ -1,0 +1,248 @@
+{
+  "year": 1914,
+  "page": 57,
+  "node_id": "a35a701d-d150-4758-a190-07eb974013ca",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 417,
+        "width": 2869,
+        "x": 725,
+        "y": 927
+      },
+      "entry_id": "a35a701d-d150-4758-a190-07eb974013ca_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергачский уезд, Пожарская волость, село Пожарки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Авдошкина"
+        },
+        {
+          "age": "",
+          "geo": "Сергачский уезд, Семеновская волость, деревня Семеновская",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Березин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Вертновская волость, деревня Дягливая",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Авдошкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 2830,
+        "x": 727,
+        "y": 1393
+      },
+      "entry_id": "a35a701d-d150-4758-a190-07eb974013ca_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Быкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Севрюковский уезд, Симская волость, сельцо Кобелево",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Каретников"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Матвеище",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Быков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2866,
+        "x": 731,
+        "y": 1892
+      },
+      "entry_id": "a35a701d-d150-4758-a190-07eb974013ca_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Никольский уезд, Гайдоровская волость, деревня Самылова",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гревнов"
+        },
+        {
+          "age": "",
+          "geo": "город Ростов-на-Дону",
+          "info": "мещанская девица",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колесникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гревнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гревнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 2843,
+        "x": 717,
+        "y": 2568
+      },
+      "entry_id": "a35a701d-d150-4758-a190-07eb974013ca_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Анкудинова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, деревня Медведкова",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Анкудинов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуповская волость, деревня Жуковка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Анкудинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

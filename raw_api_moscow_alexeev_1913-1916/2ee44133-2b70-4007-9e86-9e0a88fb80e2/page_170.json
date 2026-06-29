@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 170,
+  "node_id": "08bbaa85-de00-4600-9ff4-b9a8abbcf165",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 785,
+        "width": 2670,
+        "x": 899,
+        "y": 1072
+      },
+      "entry_id": "08bbaa85-de00-4600-9ff4-b9a8abbcf165_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Бадейская волость, деревня Чепелево",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гомцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Воскресенск",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "second_name": "Мартынов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Никонорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Соновская волость, деревня Чужиловка",
+          "info": "крестьянская девица",
+          "name": "Варвара",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Минина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 667,
+        "width": 2678,
+        "x": 901,
+        "y": 1837
+      },
+      "entry_id": "08bbaa85-de00-4600-9ff4-b9a8abbcf165_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Агафонова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Алехино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Малая Фролова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Куркино",
+          "info": "крестьянка",
+          "name": "Пелагея",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Агафонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 592,
+        "width": 2672,
+        "x": 914,
+        "y": 2650
+      },
+      "entry_id": "08bbaa85-de00-4600-9ff4-b9a8abbcf165_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хотунская волость, село",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Меркулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Львова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Коробинская волость, деревня Поддубново",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

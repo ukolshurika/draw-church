@@ -1,0 +1,277 @@
+{
+  "year": 1914,
+  "page": 158,
+  "node_id": "5bbd2af1-cc05-4df0-9a6c-f7ef90ea2cb9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2797,
+        "x": 835,
+        "y": 948
+      },
+      "entry_id": "5bbd2af1-cc05-4df0-9a6c-f7ef90ea2cb9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пантелеев"
+        },
+        {
+          "age": "",
+          "geo": "Крапивенский уезд, Лапотковская волость, село",
+          "info": "крестьянин",
+          "name": "Захарій",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пантелеева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Скалкина, Тульская губерния",
+          "info": "ефремовский мещанин",
+          "name": "Владимир",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пантелеев"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Бредихинская волость, деревня Андреевки",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2804,
+        "x": 820,
+        "y": 1604
+      },
+      "entry_id": "5bbd2af1-cc05-4df0-9a6c-f7ef90ea2cb9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пантелеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пантелеева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бачурина, Тамбовская губерния, Моршанский уезд, Зимитчинская волость, деревня Пешева",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пантелеев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бачурина, Тамбовская губерния, Моршанский уезд, Зимитчинская волость, деревня Пешева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свинухов"
+        },
+        {
+          "age": "",
+          "geo": "Ремзинская волость, село",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбачев"
+        },
+        {
+          "age": "",
+          "geo": "Ремзинская волость, село",
+          "info": "крестьянка",
+          "name": "Васса",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Перепечина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степанида",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Свинухова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2836,
+        "x": 796,
+        "y": 2247
+      },
+      "entry_id": "5bbd2af1-cc05-4df0-9a6c-f7ef90ea2cb9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Оттов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Беллин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дроздово",
+          "info": "подданный Германской империи",
+          "name": "Отто",
+          "second_name": "Герман",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Беллин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка",
+          "name": "Надежда",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Чижевская волость, деревня Алферово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Беллина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 571,
+        "width": 2833,
+        "x": 791,
+        "y": 2831
+      },
+      "entry_id": "5bbd2af1-cc05-4df0-9a6c-f7ef90ea2cb9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калагина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Калагина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Калимовский уезд, Нараховская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калагин"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Чаусский уезд, Радомская волость, село Жилевье",
+          "info": "крестьянка",
+          "name": "Юлияния",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шевцова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Просковская волость, деревня Степина",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Беляев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

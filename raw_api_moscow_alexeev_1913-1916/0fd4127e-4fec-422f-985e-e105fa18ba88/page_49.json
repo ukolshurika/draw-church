@@ -1,0 +1,257 @@
+{
+  "year": 1914,
+  "page": 49,
+  "node_id": "72c759cd-7f76-42ce-a8bf-4affe976b7e2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 382,
+        "width": 2930,
+        "x": 733,
+        "y": 910
+      },
+      "entry_id": "72c759cd-7f76-42ce-a8bf-4affe976b7e2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Сычевский уезд, Курашевская волость, деревня Мокеево",
+          "info": "крестьянин",
+          "name": "Парамон",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воскресенский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воскресненская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Станицкая",
+          "info": "подпоручик 8-го Гренадерского Московского Великого Герцогства Мекленбургского Шверинского Фридриха полка",
+          "name": "Андрей",
+          "second_name": "Парамонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воскресенский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воскресненская"
+        },
+        {
+          "age": "",
+          "geo": "город Елизаветград",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Станицкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2932,
+        "x": 745,
+        "y": 1287
+      },
+      "entry_id": "72c759cd-7f76-42ce-a8bf-4affe976b7e2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ледящев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петраковская волость, село Муховец",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дергунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ледящева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, село Тютчево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шовский"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Мисковский волостной округ, село Ледящево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ледящев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2898,
+        "x": 729,
+        "y": 1882
+      },
+      "entry_id": "72c759cd-7f76-42ce-a8bf-4affe976b7e2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Калужский мещанин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Верещагин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Бояркинская волость, деревня Даношево",
+          "info": "крестьянская дочь",
+          "name": "Наталия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Таранова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Добринская волость, деревня Нефедова",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крылов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 750,
+        "width": 2906,
+        "x": 730,
+        "y": 2533
+      },
+      "entry_id": "72c759cd-7f76-42ce-a8bf-4affe976b7e2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская волость, село Слепушкино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Крылов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская волость, деревня Слобода Роща",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Александрова"
+        },
+        {
+          "age": "",
+          "geo": "Боровская волость, деревня Нефедова",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крылов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

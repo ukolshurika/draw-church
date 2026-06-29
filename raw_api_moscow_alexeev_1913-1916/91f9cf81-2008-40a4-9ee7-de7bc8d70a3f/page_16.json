@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 16,
+  "node_id": "4f01dbec-7942-4f62-a654-2fa25b1e3cdc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2781,
+        "x": 901,
+        "y": 1068
+      },
+      "entry_id": "4f01dbec-7942-4f62-a654-2fa25b1e3cdc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вячеслав",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Клевакин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Клевакина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Клевакино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Костиков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Галина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Клевакина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Шегодское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Клевакин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 522,
+        "width": 2788,
+        "x": 898,
+        "y": 1716
+      },
+      "entry_id": "4f01dbec-7942-4f62-a654-2fa25b1e3cdc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Малоярославец",
+          "info": "мещанин",
+          "name": "Евлампий",
+          "other_status": "муж крестной матери",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рождественская волость, деревня Каурцева",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Васильевская волость, деревня Савина",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Платонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евлампия",
+          "second_name": "Романов",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 550,
+        "width": 2780,
+        "x": 898,
+        "y": 2360
+      },
+      "entry_id": "4f01dbec-7942-4f62-a654-2fa25b1e3cdc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Кононова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село Суток",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Уваровская волость, деревня Зубаревка",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Селейков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ушакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2786,
+        "x": 870,
+        "y": 3043
+      },
+      "entry_id": "4f01dbec-7942-4f62-a654-2fa25b1e3cdc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "девица",
+          "name": "Пелагия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сударева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семкин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, село Булатниково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семкин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прокопьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ромашев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

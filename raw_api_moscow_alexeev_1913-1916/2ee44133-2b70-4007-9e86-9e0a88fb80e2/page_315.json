@@ -1,0 +1,75 @@
+{
+  "year": 1915,
+  "page": 315,
+  "node_id": "48855d3d-e27f-452e-8a14-ecb7bef97052",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 354,
+        "width": 1480,
+        "x": 1074,
+        "y": 2225
+      },
+      "entry_id": "48855d3d-e27f-452e-8a14-ecb7bef97052_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминский уезд, волость село Селец",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кандалов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кандалова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 1478,
+        "x": 1074,
+        "y": 2718
+      },
+      "entry_id": "48855d3d-e27f-452e-8a14-ecb7bef97052_0",
+      "people": [
+        {
+          "age": "4 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шмакова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Костино-воловская волость, сельцо Верб",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шмаков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

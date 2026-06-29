@@ -1,0 +1,134 @@
+{
+  "year": 1916,
+  "page": 35,
+  "node_id": "15b9cd7b-0b8a-487c-a136-9c4e022c94d8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2699,
+        "x": 929,
+        "y": 998
+      },
+      "entry_id": "15b9cd7b-0b8a-487c-a136-9c4e022c94d8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Липатов"
+        },
+        {
+          "age": "",
+          "geo": "город Калуга",
+          "info": "мещанин",
+          "name": "Адриан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тимофеев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Акилина",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Липатова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Никольская волость, деревня Новоселки",
+          "info": "крестьянин",
+          "name": "Кузьма",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Липатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Липатова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 715,
+        "width": 2686,
+        "x": 941,
+        "y": 1868
+      },
+      "entry_id": "15b9cd7b-0b8a-487c-a136-9c4e022c94d8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Корытовская волость, деревня Суконниково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Ананьина",
+          "info": "крестьянина жена",
+          "name": "Анна",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Родионова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Афанасьева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

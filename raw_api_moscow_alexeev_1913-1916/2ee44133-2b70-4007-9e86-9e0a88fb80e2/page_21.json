@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 21,
+  "node_id": "3bd37a86-d757-4dbe-8423-d20c49dc879d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 515,
+        "width": 2808,
+        "x": 911,
+        "y": 1067
+      },
+      "entry_id": "3bd37a86-d757-4dbe-8423-d20c49dc879d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Ивановская волость, деревня Исаково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 553,
+        "width": 2823,
+        "x": 907,
+        "y": 1779
+      },
+      "entry_id": "3bd37a86-d757-4dbe-8423-d20c49dc879d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость и слобода Ново-Приборная",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Паскакухина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость и село",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Паршин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Ново-Приборная волость, слобода",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Никонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ганьшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ганьшина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ганьшина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 605,
+        "width": 2849,
+        "x": 891,
+        "y": 2480
+      },
+      "entry_id": "3bd37a86-d757-4dbe-8423-d20c49dc879d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, деревня Лисьих Ям",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Торицын"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Торицына"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Торицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Торицына"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Торицына"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 515,
+        "width": 2832,
+        "x": 894,
+        "y": 3183
+      },
+      "entry_id": "3bd37a86-d757-4dbe-8423-d20c49dc879d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крылков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крылкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шевяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Крылков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Серафима",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крылкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

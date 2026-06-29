@@ -1,0 +1,164 @@
+{
+  "year": 1916,
+  "page": 213,
+  "node_id": "53ddbb97-290b-4fd4-8348-0bd70a7fbb32",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1268,
+        "width": 3417,
+        "x": 766,
+        "y": 1059
+      },
+      "entry_id": "53ddbb97-290b-4fd4-8348-0bd70a7fbb32_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Императорского Московского Университета",
+          "name": "Дмитрий",
+          "second_name": "Витальевич",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Прохоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Императорского Московского Университета",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Волосевич"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Императорского Московского Университета",
+          "name": "Василий",
+          "second_name": "Нилов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Прохоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Императорского Московского Университета",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Анисимов"
+        },
+        {
+          "age": "26",
+          "geo": "",
+          "info": "студент Императорского Московского Университета, физико-математического факультета, из мещан города Белого Смоленской губернии",
+          "name": "Григорий",
+          "second_name": "Нилович",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Пронин"
+        },
+        {
+          "age": "23",
+          "geo": "",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Павловна",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Пронина (Полянская)"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 1095,
+        "width": 3380,
+        "x": 767,
+        "y": 2593
+      },
+      "entry_id": "53ddbb97-290b-4fd4-8348-0bd70a7fbb32_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын надворного советника",
+          "name": "Натрий",
+          "other_status": "отец невесты",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пелиц"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Михаил",
+          "second_name": "Николаевич",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Герасим",
+          "second_name": "Герасимович",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Пелиц"
+        },
+        {
+          "age": "24",
+          "geo": "",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Натрьева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Пелиц"
+        },
+        {
+          "age": "32",
+          "geo": "",
+          "info": "потомственный дворянин",
+          "name": "Николай",
+          "second_name": "Николаевич",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Анке"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "инженер-механик",
+          "name": "Феодор",
+          "second_name": "Феодорович",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "ученый рисовальщик",
+          "name": "Константин",
+          "second_name": "Евгениевич",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Зайцев"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

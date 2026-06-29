@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 59,
+  "node_id": "31823bb2-2aab-4815-a5af-844e6b795092",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 614,
+        "width": 2751,
+        "x": 918,
+        "y": 1104
+      },
+      "entry_id": "31823bb2-2aab-4815-a5af-844e6b795092_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня, Макариха",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Валдайский уезд, Зимогорская волость, деревня Макариха",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мартынова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 688,
+        "width": 2788,
+        "x": 916,
+        "y": 1915
+      },
+      "entry_id": "31823bb2-2aab-4815-a5af-844e6b795092_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Велинская волость, деревня Тяжино",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Качалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Качалина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Молодинская волость, село Любучаны",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Качалина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кончинская волость, село Гридчино",
+          "info": "вдова",
+          "name": "Матрона",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 547,
+        "width": 2798,
+        "x": 906,
+        "y": 2582
+      },
+      "entry_id": "31823bb2-2aab-4815-a5af-844e6b795092_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергичевский уезд, Нечасовская волость, село Абаймово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кончинская волость, деревня Гладкое",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Юшина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зотова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2819,
+        "x": 907,
+        "y": 3230
+      },
+      "entry_id": "31823bb2-2aab-4815-a5af-844e6b795092_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лавренов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Малоярославецкая мещанка, девица",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гаврилова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Троицкая волость, село Калищево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лавренов"
+        },
+        {
+          "age": "",
+          "geo": "Клинское у., Соболевская волость, деревня Опалево",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гулюкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лавренова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

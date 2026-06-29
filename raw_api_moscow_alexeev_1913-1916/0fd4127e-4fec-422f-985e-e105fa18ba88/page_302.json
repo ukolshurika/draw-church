@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 302,
+  "node_id": "63d6d275-4ed8-4c51-8719-f13124b9c842",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 467,
+        "width": 1477,
+        "x": 996,
+        "y": 888
+      },
+      "entry_id": "63d6d275-4ed8-4c51-8719-f13124b9c842_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, деревня Рыкова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Анохин"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Анохина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 397,
+        "width": 1473,
+        "x": 985,
+        "y": 1511
+      },
+      "entry_id": "63d6d275-4ed8-4c51-8719-f13124b9c842_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Карачаровская волость, село Милятино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Поляков"
+        },
+        {
+          "age": "9 лет",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1423,
+        "x": 986,
+        "y": 2134
+      },
+      "entry_id": "63d6d275-4ed8-4c51-8719-f13124b9c842_0",
+      "people": [
+        {
+          "age": "44",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Русаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 430,
+        "width": 1459,
+        "x": 989,
+        "y": 2786
+      },
+      "entry_id": "63d6d275-4ed8-4c51-8719-f13124b9c842_1",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Макшеев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Завидовская волость, деревня Моклинская",
+          "info": "",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Макшеев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

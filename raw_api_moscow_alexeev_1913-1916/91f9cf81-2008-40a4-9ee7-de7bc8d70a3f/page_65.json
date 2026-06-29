@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 65,
+  "node_id": "cd08fdce-6cb2-4edb-b6c0-5ecc9ad86bdc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 492,
+        "width": 2762,
+        "x": 923,
+        "y": 1004
+      },
+      "entry_id": "cd08fdce-6cb2-4edb-b6c0-5ecc9ad86bdc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Заворовская волость, деревня Залужье",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская волость, деревня Зеленково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маликов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 2761,
+        "x": 934,
+        "y": 1630
+      },
+      "entry_id": "cd08fdce-6cb2-4edb-b6c0-5ecc9ad86bdc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Седлецкая губерния, Владовский уезд, деревня Зджарка, Ганская Емина",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Филимонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Сулежская волость, деревня Большая Дорога",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Филимонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сапегина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2734,
+        "x": 941,
+        "y": 2343
+      },
+      "entry_id": "cd08fdce-6cb2-4edb-b6c0-5ecc9ad86bdc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь коллежского советника",
+          "name": "Елена",
+          "second_name": "Евменьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корейша"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гращенков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Сырколенско-Липецкая волость",
+          "info": "безземельный крестьянин",
+          "name": "Николай",
+          "second_name": "Феофанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гращенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Евменьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гращенкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 631,
+        "width": 2721,
+        "x": 950,
+        "y": 3105
+      },
+      "entry_id": "cd08fdce-6cb2-4edb-b6c0-5ecc9ad86bdc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая ремесленного цеха жена",
+          "name": "Мавра",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, город Орша",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Евменев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прокосенков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Буйгородская волость, деревня Калистово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Порфириев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пушкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

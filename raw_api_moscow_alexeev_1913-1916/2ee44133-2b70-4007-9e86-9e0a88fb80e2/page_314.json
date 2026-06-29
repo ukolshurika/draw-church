@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 314,
+  "node_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1420,
+        "x": 1086,
+        "y": 1065
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_5",
+      "people": [
+        {
+          "age": "17",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Грайворонский уезд, Ракитянская волость, деревня Псковская",
+          "info": "",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Андреев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 314,
+        "width": 1453,
+        "x": 1081,
+        "y": 1475
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_4",
+      "people": [
+        {
+          "age": "71",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская волость, деревня Юрьева",
+          "info": "крестьянка",
+          "name": "Татьяна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 230,
+        "width": 1457,
+        "x": 1084,
+        "y": 1912
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Уфа",
+          "info": "мещанин",
+          "name": "Герман",
+          "other_status": "отецумершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кнорр"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Лариса",
+          "second_name": "Германова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кнорр"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 348,
+        "width": 1458,
+        "x": 1079,
+        "y": 2267
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_0",
+      "people": [
+        {
+          "age": "8 дней",
+          "geo": "Харьковская губерния, Ахтырский уезд, Роспянская волость, слобода Пушкарная",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Дмитрченко"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Ахтырский уезд, Роспянская волость, слобода Пушкарная",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "other_status": "отец умершего",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитрченко"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 229,
+        "width": 1429,
+        "x": 1089,
+        "y": 2743
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Воскресенский мещанин Московской губернии",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Мартынов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 327,
+        "width": 1431,
+        "x": 1094,
+        "y": 3135
+      },
+      "entry_id": "c534b9e5-8ece-4baf-8c46-fa6bb2dee352_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Блюценов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий мещанин",
+          "info": "",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Блюценов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

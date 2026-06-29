@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 340,
+  "node_id": "9a34cc84-b840-41a7-9e2d-bff857edce59",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 410,
+        "width": 1480,
+        "x": 1085,
+        "y": 1086
+      },
+      "entry_id": "9a34cc84-b840-41a7-9e2d-bff857edce59_4",
+      "people": [
+        {
+          "age": "43",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Анфаловна",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Зиновьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Красный Холм",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж умершего",
+          "second_name": "Анфалович",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зиновьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 410,
+        "width": 1484,
+        "x": 1084,
+        "y": 1634
+      },
+      "entry_id": "9a34cc84-b840-41a7-9e2d-bff857edce59_3",
+      "people": [
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Антониева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пронина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Слободская волость, деревня Старые Копылы",
+          "info": "крестьянин",
+          "name": "Антоний",
+          "other_status": "отец умершего",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пронин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 352,
+        "width": 1426,
+        "x": 1088,
+        "y": 2202
+      },
+      "entry_id": "9a34cc84-b840-41a7-9e2d-bff857edce59_2",
+      "people": [
+        {
+          "age": "2 года 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Конаевская волость, деревня Житокино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Федосеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 414,
+        "width": 1410,
+        "x": 1089,
+        "y": 2696
+      },
+      "entry_id": "9a34cc84-b840-41a7-9e2d-bff857edce59_1",
+      "people": [
+        {
+          "age": "22",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Одиноков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Дейчинская волость, деревня Шелудевка",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Пахомов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Одиноков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 403,
+        "width": 1473,
+        "x": 1093,
+        "y": 3226
+      },
+      "entry_id": "9a34cc84-b840-41a7-9e2d-bff857edce59_0",
+      "people": [
+        {
+          "age": "38 лет",
+          "geo": "",
+          "info": "",
+          "name": "",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Куприяновская волость, село Никитино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Куликов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

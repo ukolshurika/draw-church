@@ -1,0 +1,196 @@
+{
+  "year": 1916,
+  "page": 112,
+  "node_id": "8d0eec4d-bff7-4d5b-8ae8-fc0aecb46cd4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2781,
+        "x": 904,
+        "y": 1069
+      },
+      "entry_id": "8d0eec4d-bff7-4d5b-8ae8-fc0aecb46cd4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бахмачеевская волость, село Алешки",
+          "info": "жена крестьянина",
+          "name": "Ирина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Овечкина"
+        },
+        {
+          "age": "",
+          "geo": "Бахмачеевская волость, село Алешки",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бохмачеевская волость, село Мацен",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Больше-Грызловская волость, деревня Полозово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Таланов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алешкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 550,
+        "width": 2778,
+        "x": 886,
+        "y": 1844
+      },
+      "entry_id": "8d0eec4d-bff7-4d5b-8ae8-fc0aecb46cd4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Нефедова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нефедова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксиньинская волость, сельцо Ажовка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Нефедова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1104,
+        "width": 2765,
+        "x": 890,
+        "y": 2634
+      },
+      "entry_id": "8d0eec4d-bff7-4d5b-8ae8-fc0aecb46cd4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грохольская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственная дворянка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Апарина"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Юрьевецкий уезд, Макаровская волость, деревня Зарубино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поспехов"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Речицкий уезд, Юрьевичская волость, деревня Тульговичи",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грохольская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,269 @@
+{
+  "year": 1915,
+  "page": 58,
+  "node_id": "9a494ab3-6bff-4c76-aa9e-925ba3c2b750",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 645,
+        "width": 2757,
+        "x": 913,
+        "y": 1129
+      },
+      "entry_id": "9a494ab3-6bff-4c76-aa9e-925ba3c2b750_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Замошская волость, деревня Константиново",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шаврин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шаврин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шаврина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Смоленская волость, деревня Гезмино",
+          "info": "",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский мещанин",
+          "info": "",
+          "name": "Тимофей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ушаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 717,
+        "width": 2805,
+        "x": 908,
+        "y": 1950
+      },
+      "entry_id": "9a494ab3-6bff-4c76-aa9e-925ba3c2b750_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, село Лава",
+          "info": "девица",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фомина"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Новосельская волость, деревня Коренева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Галямин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галямина"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Новосельская волость, деревня Коренева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галямин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Галямина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2825,
+        "x": 906,
+        "y": 2660
+      },
+      "entry_id": "9a494ab3-6bff-4c76-aa9e-925ba3c2b750_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Фофановская волость, слобода Захупины",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бахерев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егаилевская волость, деревня Василевка",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "other_status": "муж крестной матери",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Корчагина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бахерева"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода Захупины",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бахерев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 2851,
+        "x": 909,
+        "y": 3384
+      },
+      "entry_id": "9a494ab3-6bff-4c76-aa9e-925ba3c2b750_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Лучинская волость, деревня Катерево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "Егорьевский уезд, Коробовская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавров"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Дергачево",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Агапова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

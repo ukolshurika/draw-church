@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 328,
+  "node_id": "be6fc011-c6a1-4622-ac75-ab356a9b779b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 446,
+        "width": 1478,
+        "x": 1106,
+        "y": 1080
+      },
+      "entry_id": "be6fc011-c6a1-4622-ac75-ab356a9b779b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Овчининская волость, деревня Храмеево",
+          "info": "крестьянин",
+          "name": "Евдоким",
+          "other_status": "отец умершего",
+          "second_name": "Дементьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гранков"
+        },
+        {
+          "age": "1 день",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гранкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 464,
+        "width": 1447,
+        "x": 1118,
+        "y": 1688
+      },
+      "entry_id": "be6fc011-c6a1-4622-ac75-ab356a9b779b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Артемки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1452,
+        "x": 1123,
+        "y": 2349
+      },
+      "entry_id": "be6fc011-c6a1-4622-ac75-ab356a9b779b_1",
+      "people": [
+        {
+          "age": "69",
+          "geo": "Тульская губерния, Крапивенский уезд, Должанская волость, село Панино",
+          "info": "крестьянка, девица",
+          "name": "Ирина",
+          "second_name": "Елисеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Крупкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 1457,
+        "x": 1132,
+        "y": 3055
+      },
+      "entry_id": "be6fc011-c6a1-4622-ac75-ab356a9b779b_0",
+      "people": [
+        {
+          "age": "7 часов",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Звонова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Мезинецкая волость, деревня Михайлова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Звонов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

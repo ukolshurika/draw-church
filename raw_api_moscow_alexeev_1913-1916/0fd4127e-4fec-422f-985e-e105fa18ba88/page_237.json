@@ -1,0 +1,196 @@
+{
+  "year": 1914,
+  "page": 237,
+  "node_id": "fea722c2-1e80-4dd4-b504-46205a04be56",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 287,
+        "width": 1477,
+        "x": 936,
+        "y": 862
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_5",
+      "people": [
+        {
+          "age": "74",
+          "geo": "Московская губерния, Волоколамский уезд, Аннинская волость, деревня Золино",
+          "info": "крестьянская вдова",
+          "name": "Татьяна",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Петрова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1476,
+        "x": 939,
+        "y": 1303
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Абакумовская волость, деревня Гагиных Выселок",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1428,
+        "x": 947,
+        "y": 1756
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_1",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Даниловский уезд, Богородская волость, деревня Новая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Аверкиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соловьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1469,
+        "x": 945,
+        "y": 2205
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, деревня Кулаково",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Беляев"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Беляева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 293,
+        "width": 1444,
+        "x": 947,
+        "y": 2645
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_3",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жигарев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Каминского уезда, Тиволинская волость, деревня Спицыно",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Жигарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1403,
+        "x": 949,
+        "y": 3113
+      },
+      "entry_id": "fea722c2-1e80-4dd4-b504-46205a04be56_4",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федин"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Дупенская волость, село Акинтьево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

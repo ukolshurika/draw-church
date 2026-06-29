@@ -1,0 +1,73 @@
+{
+  "year": 1916,
+  "page": 214,
+  "node_id": "56e025d6-b179-4289-bc56-34e770b9130e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 747,
+        "width": 4026,
+        "x": 750,
+        "y": 1052
+      },
+      "entry_id": "56e025d6-b179-4289-bc56-34e770b9130e_0",
+      "people": [
+        {
+          "age": "19",
+          "geo": "деревня Ново-Александровка",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "20",
+          "geo": "деревня Ново-Александровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 926,
+        "width": 4063,
+        "x": 703,
+        "y": 1807
+      },
+      "entry_id": "56e025d6-b179-4289-bc56-34e770b9130e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Прокофьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Прокофьева (Смирнова)"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

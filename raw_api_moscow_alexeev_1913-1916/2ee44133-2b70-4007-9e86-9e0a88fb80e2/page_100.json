@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 100,
+  "node_id": "6347116b-13ef-4a49-ad0e-0402d5492bdd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 744,
+        "width": 2693,
+        "x": 895,
+        "y": 1157
+      },
+      "entry_id": "6347116b-13ef-4a49-ad0e-0402d5492bdd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кудинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Лаврентиевна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кудинова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Измаиловская волость, село Спасское",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кудинов"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Керенский уезд, Кондевская волость, село Колесовка",
+          "info": "крестьянская вдова",
+          "name": "Марфа",
+          "second_name": "Пантелеевна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Умникова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Палладиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Баталин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 609,
+        "width": 2713,
+        "x": 892,
+        "y": 2050
+      },
+      "entry_id": "6347116b-13ef-4a49-ad0e-0402d5492bdd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Железцовская волость, село",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыпленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская жена",
+          "name": "Феодосия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Денисова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Денисов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 896,
+        "width": 2733,
+        "x": 878,
+        "y": 2862
+      },
+      "entry_id": "6347116b-13ef-4a49-ad0e-0402d5492bdd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Завидовская волость, деревня Мокшино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Максеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Максеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Максеев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Татьяна",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Барыкинская волость, деревня Мошонок",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Капустин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

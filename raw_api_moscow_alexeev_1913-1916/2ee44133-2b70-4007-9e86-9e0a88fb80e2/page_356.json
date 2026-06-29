@@ -1,0 +1,86 @@
+{
+  "year": 1915,
+  "page": 356,
+  "node_id": "e3b248c7-3aca-464e-85fd-507f35f6d37b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1479,
+        "x": 1085,
+        "y": 1114
+      },
+      "entry_id": "e3b248c7-3aca-464e-85fd-507f35f6d37b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова потомственного почетного гражданина",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Касаткина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Романов",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "внебрачная дочь",
+          "name": "Елена",
+          "second_name": "Пелагиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Касаткина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 288,
+        "width": 1483,
+        "x": 1067,
+        "y": 1743
+      },
+      "entry_id": "e3b248c7-3aca-464e-85fd-507f35f6d37b_0",
+      "people": [
+        {
+          "age": "63",
+          "geo": "",
+          "info": "вдова",
+          "name": "Анна",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин",
+          "name": "Платон",
+          "other_status": "муж умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 19,
+  "node_id": "383a1f65-1c6c-43b1-af42-e91ab3ac381e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2711,
+        "x": 895,
+        "y": 1039
+      },
+      "entry_id": "383a1f65-1c6c-43b1-af42-e91ab3ac381e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Канаевская волость, деревня Большое Сытково",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колоскова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Артемки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Михайловская волость, деревня Бобрик",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гришина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 2656,
+        "x": 911,
+        "y": 1658
+      },
+      "entry_id": "383a1f65-1c6c-43b1-af42-e91ab3ac381e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Крестецкий уезд, деревня Поповская",
+          "info": "крестьянка, девица",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лабзенкова"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Крестецкий уезд, посад Малая Вишера",
+          "info": "мещанин",
+          "name": "Димитрий",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Галахов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Подгородная волость, деревня Поповская",
+          "info": "крестьянка, вдова",
+          "name": "Васса",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лабзенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Вассина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лабзенкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2657,
+        "x": 917,
+        "y": 2282
+      },
+      "entry_id": "383a1f65-1c6c-43b1-af42-e91ab3ac381e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Румянцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Румянцев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Васильевская волость, деревня Ядрымино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, деревня Вишевки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кочкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Бухоловская волость, деревня Андреевское",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Румянцев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2638,
+        "x": 929,
+        "y": 2988
+      },
+      "entry_id": "383a1f65-1c6c-43b1-af42-e91ab3ac381e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Троице-Голенищевская волость, село Очаково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Земенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Земенкова"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Скидельская волость, деревня Ревки",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ляпыш"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Звенигород",
+          "info": "мещанин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Земенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

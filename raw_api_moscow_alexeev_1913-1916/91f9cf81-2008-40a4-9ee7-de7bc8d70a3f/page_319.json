@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 319,
+  "node_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 246,
+        "width": 1467,
+        "x": 1041,
+        "y": 1018
+      },
+      "entry_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec_4",
+      "people": [
+        {
+          "age": "32",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Анцыферова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из дома Глики, действительный статский советник",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Анцыферов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 190,
+        "width": 1404,
+        "x": 1040,
+        "y": 1424
+      },
+      "entry_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec_2",
+      "people": [
+        {
+          "age": "60",
+          "geo": "",
+          "info": "отставной поручик",
+          "name": "Алексей",
+          "second_name": "Спиридонович",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Приятелев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1425,
+        "x": 1036,
+        "y": 1759
+      },
+      "entry_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec_1",
+      "people": [
+        {
+          "age": "1 год 5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Столяров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 213,
+        "width": 1387,
+        "x": 1050,
+        "y": 2252
+      },
+      "entry_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec_3",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Царское село",
+          "info": "инженер путей сообщения",
+          "name": "Сергей",
+          "second_name": "Владимирович",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мошков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 440,
+        "width": 1398,
+        "x": 1058,
+        "y": 2684
+      },
+      "entry_id": "b43a2c71-e98d-402c-8dd7-a9816b482bec_0",
+      "people": [
+        {
+          "age": "34",
+          "geo": "Рязанская губерния, Зарайский уезд, Безпятовская волость, деревня Митюкино",
+          "info": "привезенный с места военных действий подпоручик 138 пехотного Болховского полка, из крестьян",
+          "name": "Иоанн",
+          "second_name": "Ильич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Евтянов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

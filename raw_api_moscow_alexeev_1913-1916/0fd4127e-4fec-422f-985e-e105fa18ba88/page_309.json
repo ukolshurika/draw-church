@@ -1,0 +1,119 @@
+{
+  "year": 1914,
+  "page": 309,
+  "node_id": "784bd109-9568-4800-9f6b-ef742862694e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 498,
+        "width": 1442,
+        "x": 937,
+        "y": 780
+      },
+      "entry_id": "784bd109-9568-4800-9f6b-ef742862694e_3",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "Калужская губерния, Тарусский уезд, Высокиническая волость, село Тиньково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Максимов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 470,
+        "width": 1461,
+        "x": 932,
+        "y": 1490
+      },
+      "entry_id": "784bd109-9568-4800-9f6b-ef742862694e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосельский уезд, Михайловская волость, деревня Бобрик",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гришина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 330,
+        "width": 1428,
+        "x": 915,
+        "y": 2138
+      },
+      "entry_id": "784bd109-9568-4800-9f6b-ef742862694e_1",
+      "people": [
+        {
+          "age": "35",
+          "geo": "Тверская губерния, Калязинский уезд, Флеровская волость, деревня Бурцева",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Серов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 351,
+        "width": 1424,
+        "x": 903,
+        "y": 2683
+      },
+      "entry_id": "784bd109-9568-4800-9f6b-ef742862694e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын губернского секретаря",
+          "name": "Леонид",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Леонидов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 264,
+  "node_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 390,
+        "width": 1521,
+        "x": 913,
+        "y": 771
+      },
+      "entry_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6_3",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Олонецкая губерния, город Лодейное Поле",
+          "info": "мещанка, вдова",
+          "name": "Василисса",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кутузова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 420,
+        "width": 1459,
+        "x": 909,
+        "y": 1317
+      },
+      "entry_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6_1",
+      "people": [
+        {
+          "age": "2 1/2 лет",
+          "geo": "",
+          "info": "",
+          "name": "Виталий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Клевохин"
+        },
+        {
+          "age": "",
+          "geo": "Юрьевское село, Симоновская волость, село Шагодское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Клевохин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 351,
+        "width": 1455,
+        "x": 917,
+        "y": 1890
+      },
+      "entry_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Царевококшайский уезд, Унгинское село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новорожков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Новорожков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 437,
+        "width": 1469,
+        "x": 912,
+        "y": 2369
+      },
+      "entry_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Борисоглебский уезд, Шоломская волость, деревня Бугарево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 307,
+        "width": 1461,
+        "x": 914,
+        "y": 2948
+      },
+      "entry_id": "8a96c908-d050-4f37-8ca4-606aaa82a8d6_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Болховский уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Постухов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Постухов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

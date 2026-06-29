@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 310,
+  "node_id": "6cfaff5d-9dea-4287-af55-52269b190177",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 434,
+        "width": 1462,
+        "x": 1029,
+        "y": 1100
+      },
+      "entry_id": "6cfaff5d-9dea-4287-af55-52269b190177_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, деревня Летниковка",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Болдин"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Болдин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 400,
+        "width": 1466,
+        "x": 1029,
+        "y": 1734
+      },
+      "entry_id": "6cfaff5d-9dea-4287-af55-52269b190177_2",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бродовский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын потомственного дворянина",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бродовский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 1421,
+        "x": 1048,
+        "y": 2345
+      },
+      "entry_id": "6cfaff5d-9dea-4287-af55-52269b190177_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Телебукинская волость, деревня Бочкари",
+          "info": "крестьянин",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "20 дней",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Костин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 1454,
+        "x": 1051,
+        "y": 3047
+      },
+      "entry_id": "6cfaff5d-9dea-4287-af55-52269b190177_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Ростовецкая волость, деревня Домнино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "муж умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Еремичев"
+        },
+        {
+          "age": "39",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Еремичева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

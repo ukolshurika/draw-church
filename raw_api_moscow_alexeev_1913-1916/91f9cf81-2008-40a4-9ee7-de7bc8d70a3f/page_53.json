@@ -1,0 +1,225 @@
+{
+  "year": 1916,
+  "page": 53,
+  "node_id": "aa422bf5-e9b3-4d94-95ba-0755522ba9f6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2789,
+        "x": 897,
+        "y": 1040
+      },
+      "entry_id": "aa422bf5-e9b3-4d94-95ba-0755522ba9f6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, селение Старая Кашира",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бабаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бабаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бабаева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Егорьевская волость, деревня Федуркино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Прокопьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Червяков"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Мячиковская волость, село",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Аполлонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сикарева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 529,
+        "width": 2776,
+        "x": 900,
+        "y": 1781
+      },
+      "entry_id": "aa422bf5-e9b3-4d94-95ba-0755522ba9f6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Ситовская волость, деревня Мостовушки",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шепилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Оськина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Лаврентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Оськина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, село Киселево",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Оськин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шепилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1256,
+        "width": 2784,
+        "x": 900,
+        "y": 2507
+      },
+      "entry_id": "aa422bf5-e9b3-4d94-95ba-0755522ba9f6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Наровчатский уезд, Кироклеевская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Князев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малинская волость, село Крестьянка",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Миронова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Кузнецкая слобода № 1858",
+          "info": "военный мещанин",
+          "name": "Василий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Буточницкая волость, сельцо Кузьмина",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Графов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Вяжевская волость, село",
+          "info": "жена крестьянина",
+          "name": "Татиана",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисья",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

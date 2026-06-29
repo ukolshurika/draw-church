@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 115,
+  "node_id": "4a0bb33c-8f5b-4e55-8dd4-e92962547a8d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2838,
+        "x": 911,
+        "y": 1071
+      },
+      "entry_id": "4a0bb33c-8f5b-4e55-8dd4-e92962547a8d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Деревенское",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Прукин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Люторичская волость, село Люторич",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Лукьянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комиссаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Прукина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Прукина"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Никольская волость, село Знаменское",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Башкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 689,
+        "width": 2876,
+        "x": 908,
+        "y": 1984
+      },
+      "entry_id": "4a0bb33c-8f5b-4e55-8dd4-e92962547a8d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Умачская",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Стефаненков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Иоакимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стефаненкова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Апушинская волость, село Острожки",
+          "info": "вдова крестьянина",
+          "name": "Матрона",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Аршишковская волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Назар",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стефаненков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Стефаненкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 806,
+        "width": 2873,
+        "x": 908,
+        "y": 2894
+      },
+      "entry_id": "4a0bb33c-8f5b-4e55-8dd4-e92962547a8d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Спасская волость, село Спас-Загорье",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гладков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куребинская волость, село Дудене",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мельников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Троицкий уезд, деревня Мервина",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шувалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мельникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мельникова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

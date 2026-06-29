@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 309,
+  "node_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 283,
+        "width": 1417,
+        "x": 1077,
+        "y": 1104
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "other_status": "мать умершего",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Минаева"
+        },
+        {
+          "age": "3 недели",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Авдотьевская",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Минаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1489,
+        "x": 1081,
+        "y": 1519
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казулинская волость, деревня Прамена",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Изотов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 293,
+        "width": 1435,
+        "x": 1079,
+        "y": 1859
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Больше-Екатерининская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ивашкин"
+        },
+        {
+          "age": "1 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ивашкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 295,
+        "width": 1394,
+        "x": 1072,
+        "y": 2288
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Подчерковская волость, деревня Малая Дубровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савельев"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Савельев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1495,
+        "x": 1073,
+        "y": 2734
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Каменская волость, деревня Троицкая",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бухреев"
+        },
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бухреева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 322,
+        "width": 1434,
+        "x": 1078,
+        "y": 3174
+      },
+      "entry_id": "6c1be462-4fbb-43f8-bc85-79bdca312af2_1",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Липатов"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Остроуховская волость, деревня Рудина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Липатов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

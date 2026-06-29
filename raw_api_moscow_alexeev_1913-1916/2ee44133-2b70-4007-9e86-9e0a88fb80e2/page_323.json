@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 323,
+  "node_id": "56da6464-d298-4ac7-b260-9288ec80951d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 396,
+        "width": 1490,
+        "x": 1079,
+        "y": 1086
+      },
+      "entry_id": "56da6464-d298-4ac7-b260-9288ec80951d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казулинская волость, деревня Сергеево",
+          "info": "крестьянская девица",
+          "name": "Елена",
+          "other_status": "мать умершего",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Еленина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 345,
+        "width": 1430,
+        "x": 1078,
+        "y": 1620
+      },
+      "entry_id": "56da6464-d298-4ac7-b260-9288ec80951d_3",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Тихон",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кирюшин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Севрюковский уезд, волость, сельцо Кутепово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кирюшин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 1407,
+        "x": 1078,
+        "y": 2135
+      },
+      "entry_id": "56da6464-d298-4ac7-b260-9288ec80951d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Губанков"
+        },
+        {
+          "age": "2 года 10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Губанков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1440,
+        "x": 1077,
+        "y": 2693
+      },
+      "entry_id": "56da6464-d298-4ac7-b260-9288ec80951d_2",
+      "people": [
+        {
+          "age": "1 месяц 16 дней",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Нестеров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, город Покров",
+          "info": "мещанин",
+          "name": "Сергий",
+          "other_status": "отецумершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Нестеров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 405,
+        "width": 1505,
+        "x": 1078,
+        "y": 3174
+      },
+      "entry_id": "56da6464-d298-4ac7-b260-9288ec80951d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Сызранский уезд, Кашпирская волость, село Новая Рачейка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отецумершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Немнонов"
+        },
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Немнонов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

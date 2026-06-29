@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 68,
+  "node_id": "efa6b66e-8376-47cf-abe3-6a3606cfbdfd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 588,
+        "width": 2739,
+        "x": 946,
+        "y": 1010
+      },
+      "entry_id": "efa6b66e-8376-47cf-abe3-6a3606cfbdfd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Дурыкино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рощин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рощина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Смоленская волость, деревня Шушково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федотов"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Глинско-Петро-Павловская волость, деревня Батюшково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Батюшков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Феекла",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рощин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2691,
+        "x": 955,
+        "y": 1664
+      },
+      "entry_id": "efa6b66e-8376-47cf-abe3-6a3606cfbdfd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Большневская волость, село Вышгород",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Заборов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Заборов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Заборова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Заборова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Заборов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 2708,
+        "x": 967,
+        "y": 2357
+      },
+      "entry_id": "efa6b66e-8376-47cf-abe3-6a3606cfbdfd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Березовская волость, деревня Повики",
+          "info": "крестьянин",
+          "name": "Феофан",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермишин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "жена крестьянина",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ермишина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Минаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 748,
+        "width": 2732,
+        "x": 968,
+        "y": 3072
+      },
+      "entry_id": "efa6b66e-8376-47cf-abe3-6a3606cfbdfd_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Малышева",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванушкин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Морозовская волость, деревня Звягино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Титовская волость, деревня Меньшиково",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хабарова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

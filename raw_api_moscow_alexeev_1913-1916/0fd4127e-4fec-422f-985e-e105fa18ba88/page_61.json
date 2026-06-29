@@ -1,0 +1,237 @@
+{
+  "year": 1914,
+  "page": 61,
+  "node_id": "2be9c809-42cd-4980-be75-4926b995a206",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2805,
+        "x": 757,
+        "y": 976
+      },
+      "entry_id": "2be9c809-42cd-4980-be75-4926b995a206_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Стогова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Ветлужский уезд, Николощенская волость, деревня Горюшнино",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Торопова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Михеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стогова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Поповки",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Никитская волость, деревня Орехова",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стогов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 531,
+        "width": 2842,
+        "x": 746,
+        "y": 1502
+      },
+      "entry_id": "2be9c809-42cd-4980-be75-4926b995a206_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майдановская волость, деревня Авдалово",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шеров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Микушина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шеров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шерова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ильяков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2863,
+        "x": 744,
+        "y": 2025
+      },
+      "entry_id": "2be9c809-42cd-4980-be75-4926b995a206_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд",
+          "info": "Орловская мещанка, девица",
+          "name": "Александра",
+          "second_name": "Коссианова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "Панкратьевская слобода",
+          "info": "Московский мещанин",
+          "name": "Адриан",
+          "second_name": "Адрианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гладышев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Слепнева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Самойлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Слепнева"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд",
+          "info": "Волоколамский мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Слепнев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 2888,
+        "x": 747,
+        "y": 2538
+      },
+      "entry_id": "2be9c809-42cd-4980-be75-4926b995a206_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бойкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Кораблинская волость, деревня Харламовка",
+          "info": "крестьянская вдова",
+          "name": "Матрона",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рысева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Снетковская волость, деревня Тряхинкина",
+          "info": "крестьянская вдова",
+          "name": "Матрона",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бойкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

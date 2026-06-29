@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 79,
+  "node_id": "8805fa1d-2b82-4a5b-a89c-ae3a262b0230",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 457,
+        "width": 2770,
+        "x": 904,
+        "y": 1025
+      },
+      "entry_id": "8805fa1d-2b82-4a5b-a89c-ae3a262b0230_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мотасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Евфимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мотасова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Сергиевская волость, село",
+          "info": "крестьянка, девица",
+          "name": "Надежда",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хворостянская"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Дединовская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мотасов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2741,
+        "x": 914,
+        "y": 1628
+      },
+      "entry_id": "8805fa1d-2b82-4a5b-a89c-ae3a262b0230_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Елизавета",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Уфимская губерния, Стерлитамакский уезд, Ишпарсовская волость, деревня Петровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 639,
+        "width": 2783,
+        "x": 909,
+        "y": 2360
+      },
+      "entry_id": "8805fa1d-2b82-4a5b-a89c-ae3a262b0230_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рощинская волость, деревня Лапшинки",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Навозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Грязовецкий уезд, Жерноковская волость, деревня Нефедова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кульков"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Ивановская волость, деревня Воскресенское",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2785,
+        "x": 905,
+        "y": 3090
+      },
+      "entry_id": "8805fa1d-2b82-4a5b-a89c-ae3a262b0230_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бектина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Булыгинская волость, деревня Лужков",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бектин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бектина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Богословская волость, село Стрельцы",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Харламов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Николо-Птанский волость, деревня Кротово",
+          "info": "крестьянка, девица",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Устинова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

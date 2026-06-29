@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 105,
+  "node_id": "6d5881a9-0104-481e-8bae-9971b18753ec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 495,
+        "width": 2692,
+        "x": 927,
+        "y": 1019
+      },
+      "entry_id": "6d5881a9-0104-481e-8bae-9971b18753ec_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Балашов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балашова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Перкинская волость, село Бордаково",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тихонов"
+        },
+        {
+          "age": "",
+          "geo": "дом Пятигорский",
+          "info": "ратник ополчения 2 разряда из крестьян Рязанской губернии, Пронского уезда, Домчатовской волости, деревни Выкопани",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Балашов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Балашова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2696,
+        "x": 918,
+        "y": 1680
+      },
+      "entry_id": "6d5881a9-0104-481e-8bae-9971b18753ec_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новожилов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Стрелкова",
+          "info": "крестьянка, девица",
+          "name": "Ирина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Селезнева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новожилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новожилов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Троицкая волость, село Троицкое",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новожилов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2690,
+        "x": 919,
+        "y": 2327
+      },
+      "entry_id": "6d5881a9-0104-481e-8bae-9971b18753ec_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Аксиньинская волость, село Козино",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Комисаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Комисарова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Рязанская волость, село Рязаны",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Комисаров"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2694,
+        "x": 918,
+        "y": 3090
+      },
+      "entry_id": "6d5881a9-0104-481e-8bae-9971b18753ec_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ивановская волость, деревня Галохова",
+          "info": "жена крестьянина",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хренкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Балюкова"
+        },
+        {
+          "age": "",
+          "geo": "Ивановская волость, деревня Васильевская",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Масалов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Ивановская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Балюков"
+        },
+        {
+          "age": "",
+          "geo": "Ивановская волость, деревня Галохова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балюкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

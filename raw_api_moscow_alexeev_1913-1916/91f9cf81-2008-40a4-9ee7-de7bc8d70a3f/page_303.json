@@ -1,0 +1,64 @@
+{
+  "year": 1916,
+  "page": 303,
+  "node_id": "b3ef32da-1c4d-4851-abb8-233f46c5f2df",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1486,
+        "x": 1032,
+        "y": 1048
+      },
+      "entry_id": "b3ef32da-1c4d-4851-abb8-233f46c5f2df_1",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Быковский уезд, волость, деревня Черенково",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Зеленов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1466,
+        "x": 1042,
+        "y": 1670
+      },
+      "entry_id": "b3ef32da-1c4d-4851-abb8-233f46c5f2df_0",
+      "people": [
+        {
+          "age": "22",
+          "geo": "Тульская губерния, Ефремовский уезд, Остропятская волость, деревня Жидкая",
+          "info": "крестьянин",
+          "name": "Иаков",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гаврилин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 179,
+  "node_id": "62c2c5f7-b135-4a71-95d9-aec6a320b014",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 781,
+        "width": 2808,
+        "x": 922,
+        "y": 1125
+      },
+      "entry_id": "62c2c5f7-b135-4a71-95d9-aec6a320b014_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Осипова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, деревня Кондаково",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Осипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Осипова"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Наровчатский уезд, волость, деревня",
+          "info": "девица, крестьянка",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 735,
+        "width": 2820,
+        "x": 930,
+        "y": 2032
+      },
+      "entry_id": "62c2c5f7-b135-4a71-95d9-aec6a320b014_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Виноградова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Фроловская волость, деревня Смертино",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовский уезд, село Стафурлово",
+          "info": "крестьянка",
+          "name": "Капитолина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Виноградова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 747,
+        "width": 2888,
+        "x": 916,
+        "y": 2863
+      },
+      "entry_id": "62c2c5f7-b135-4a71-95d9-aec6a320b014_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Спиридонова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Московский уезд, Верейская волость, деревня Макеня",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тарасов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Острицкая волость, деревня Клевцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тарасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тарасова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

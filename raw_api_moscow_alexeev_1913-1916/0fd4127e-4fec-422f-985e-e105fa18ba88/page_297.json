@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 297,
+  "node_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 329,
+        "width": 1478,
+        "x": 971,
+        "y": 801
+      },
+      "entry_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд",
+          "info": "мещанин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ростокин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ростокина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1424,
+        "x": 958,
+        "y": 1249
+      },
+      "entry_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3_2",
+      "people": [
+        {
+          "age": "23",
+          "geo": "Московская губерния, Пехорский уезд, село Ивановское",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1421,
+        "x": 950,
+        "y": 1686
+      },
+      "entry_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3_3",
+      "people": [
+        {
+          "age": "63",
+          "geo": "",
+          "info": "потомственный дворянин",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Каширеников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1410,
+        "x": 955,
+        "y": 2043
+      },
+      "entry_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3_1",
+      "people": [
+        {
+          "age": "34",
+          "geo": "Рязанская губерния, Зарайский уезд, Сенницкая волость, деревня Ховылино",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Модестов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Канонов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 549,
+        "width": 1428,
+        "x": 933,
+        "y": 2662
+      },
+      "entry_id": "6be757ed-01fb-4060-9439-2e7a20d1d6d3_0",
+      "people": [
+        {
+          "age": "2 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гермогенов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, село Петрушино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гермогенов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

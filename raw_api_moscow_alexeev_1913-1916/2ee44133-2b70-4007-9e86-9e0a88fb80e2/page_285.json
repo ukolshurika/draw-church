@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 285,
+  "node_id": "1b1b8075-836a-49c7-afc9-16d912b0e808",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 393,
+        "width": 1424,
+        "x": 1055,
+        "y": 1119
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_5",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мордвинов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, крестьянская изба",
+          "info": "девица",
+          "name": "Анна",
+          "other_status": "мать умершего",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Мордвинова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1471,
+        "x": 1054,
+        "y": 1651
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Змиевская волость, село Змиевка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тюрьмин"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Тюрьмина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 294,
+        "width": 1472,
+        "x": 1057,
+        "y": 2092
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_1",
+      "people": [
+        {
+          "age": "50",
+          "geo": "Смоленская губерния, Бельский уезд, Андреевская волость, деревня Жерновая",
+          "info": "крестьянка, вдова",
+          "name": "Капитолина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ушанкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 299,
+        "width": 1410,
+        "x": 1061,
+        "y": 2541
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_3",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Половинкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Половинкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 296,
+        "width": 1389,
+        "x": 1062,
+        "y": 2981
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_2",
+      "people": [
+        {
+          "age": "6 лет",
+          "geo": "Рязанская губерния, Спасский уезд, Киструсская волость, село Ново-Киструс",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Маврин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1393,
+        "x": 1056,
+        "y": 3411
+      },
+      "entry_id": "1b1b8075-836a-49c7-afc9-16d912b0e808_0",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Бельническая волость, село Лошатово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

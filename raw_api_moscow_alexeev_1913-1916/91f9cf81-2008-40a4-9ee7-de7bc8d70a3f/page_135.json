@@ -1,0 +1,260 @@
+{
+  "year": 1916,
+  "page": 135,
+  "node_id": "4aaf802f-0335-4bb7-a789-a07d45ec8d40",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 535,
+        "width": 2767,
+        "x": 913,
+        "y": 1023
+      },
+      "entry_id": "4aaf802f-0335-4bb7-a789-a07d45ec8d40_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Галманов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галманова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Евгения",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галманова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курбатов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Батищевский уезд, село Чичкино",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галманов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2772,
+        "x": 902,
+        "y": 1691
+      },
+      "entry_id": "4aaf802f-0335-4bb7-a789-a07d45ec8d40_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ельнинский уезд, Докудовская волость, деревня Павлова",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Богородицкая волость, деревня Шуярово",
+          "info": "вдова, крестьянка",
+          "name": "Анастасия",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фоменкова"
+        },
+        {
+          "age": "",
+          "geo": "Ельнинский уезд, Докудовская волость, деревня Тихоновка",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Лаврентьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Антипова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 583,
+        "width": 2780,
+        "x": 899,
+        "y": 2440
+      },
+      "entry_id": "4aaf802f-0335-4bb7-a789-a07d45ec8d40_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Карнеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бормотова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Липовинская волость, деревня Липовости",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бормотов"
+        },
+        {
+          "age": "",
+          "geo": "Лебедянский уезд",
+          "info": "дворянин",
+          "name": "Димитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Богемская волость, деревня Задняя",
+          "info": "крестьянин",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Еремеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бормотова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2779,
+        "x": 887,
+        "y": 3127
+      },
+      "entry_id": "4aaf802f-0335-4bb7-a789-a07d45ec8d40_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вятская губерния, город Сарапул",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тарантин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тинякова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, село Любичи",
+          "info": "ратник ополчения 1-го разряда из крестьян",
+          "name": "Гавриил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тиняков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тинякова"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Алексеевский монастырь",
+          "info": "священник",
+          "name": "Алексий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

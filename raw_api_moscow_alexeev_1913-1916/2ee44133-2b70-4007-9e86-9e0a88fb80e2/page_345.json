@@ -1,0 +1,53 @@
+{
+  "year": 1915,
+  "page": 345,
+  "node_id": "dbdf72e9-d38c-47f7-bf27-b67514cce750",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 361,
+        "width": 1495,
+        "x": 1079,
+        "y": 2399
+      },
+      "entry_id": "dbdf72e9-d38c-47f7-bf27-b67514cce750_1",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "",
+          "info": "вдова отставного губернского секретаря",
+          "name": "Клеопандра",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Альперс"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 1425,
+        "x": 1086,
+        "y": 2946
+      },
+      "entry_id": "dbdf72e9-d38c-47f7-bf27-b67514cce750_0",
+      "people": [
+        {
+          "age": "57 лет",
+          "geo": "",
+          "info": "находившийся на излечении в санатории Люблинской губернии статский советник",
+          "name": "Александр",
+          "second_name": "Евгениевич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Князь Ширинский-Шихматов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 291,
+  "node_id": "e791baab-4b67-4b72-98f7-8ec3cc273f3c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 509,
+        "width": 1483,
+        "x": 947,
+        "y": 862
+      },
+      "entry_id": "e791baab-4b67-4b72-98f7-8ec3cc273f3c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, село Петрушино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гермогенов"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гермогенова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 506,
+        "width": 1436,
+        "x": 948,
+        "y": 1518
+      },
+      "entry_id": "e791baab-4b67-4b72-98f7-8ec3cc273f3c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Клинский волость, село Свиридово",
+          "info": "крестьянская девица",
+          "name": "Татиана",
+          "other_status": "мать умершего",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Минаева"
+        },
+        {
+          "age": "11/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Минаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1494,
+        "x": 943,
+        "y": 2137
+      },
+      "entry_id": "e791baab-4b67-4b72-98f7-8ec3cc273f3c_0",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Ивановская волость, деревня Сеструха",
+          "info": "",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Маркин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1437,
+        "x": 947,
+        "y": 2678
+      },
+      "entry_id": "e791baab-4b67-4b72-98f7-8ec3cc273f3c_1",
+      "people": [
+        {
+          "age": "69",
+          "geo": "Московская губерния, Верейский уезд, Кубинская волость, село Крестьянка",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лопатин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

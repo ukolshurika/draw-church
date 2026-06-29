@@ -1,0 +1,350 @@
+{
+  "year": 1914,
+  "page": 111,
+  "node_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 550,
+        "width": 2833,
+        "x": 757,
+        "y": 841
+      },
+      "entry_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Каллистратова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Кинешемский уезд",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Константинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Каллистратова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Формаковская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Губино, Броницкий уезд, Ашитковская волость",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андранов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2832,
+        "x": 749,
+        "y": 1372
+      },
+      "entry_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Озерецкая волость, деревня Ново-Желтиново",
+          "info": "частный",
+          "name": "Григорий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кушнерова"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Татианский уезд, Никольская волость, деревня Лучкино",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скорюков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "other_status": "муж крестной матери",
+          "second_name": "Олинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кушнеров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 502,
+        "width": 2833,
+        "x": 741,
+        "y": 1900
+      },
+      "entry_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, село Раисовское",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "second_name": "Олинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Никольский уезд, Никольская волость, деревня Лучкина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скорюков"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Кобелевская волость, село Афанасьева",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Земскова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 660,
+        "width": 2829,
+        "x": 734,
+        "y": 2434
+      },
+      "entry_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Харламова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Архипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харламова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Грачевская волость, село Камень",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Лукьянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воеводина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Спасская волость, село Саковнино",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харламов"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Романовская волость, село Камень",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Камеников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2823,
+        "x": 732,
+        "y": 2998
+      },
+      "entry_id": "a4f8d589-6f5a-4974-a62e-0a15ef7c6842_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Романовская волость, село Каменка",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Камеников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельминский уезд, Балтутинская волость, деревня Хотеево",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Феодотов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Хотеево",
+          "info": "крестьянин",
+          "name": "Феофан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Меленковский уезд, Грачевская волость, село Каменка",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Лукьянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воеводина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Хотеево, Балтутинская волость, деревня Каменка",
+          "info": "девица",
+          "name": "Елена",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андроненкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

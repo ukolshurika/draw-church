@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 10,
+  "node_id": "d5c4aabb-3c34-4743-8796-86b8756c91ca",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2824,
+        "x": 908,
+        "y": 1050
+      },
+      "entry_id": "d5c4aabb-3c34-4743-8796-86b8756c91ca_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Кзынская волость, село",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Логвинов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд, Большевоская волость, деревня Емильевка",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степочкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Логвинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Логвинова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Березниковская волость, деревня Максимиха",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Авдиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 2813,
+        "x": 925,
+        "y": 1677
+      },
+      "entry_id": "d5c4aabb-3c34-4743-8796-86b8756c91ca_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд",
+          "info": "мещанин",
+          "name": "Филипп",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Аксиньинская волость, село Козино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2828,
+        "x": 910,
+        "y": 2218
+      },
+      "entry_id": "d5c4aabb-3c34-4743-8796-86b8756c91ca_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Майданов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Домодедовская волость, село",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Майданов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Майданова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Борисовская волость, деревня Пеньково",
+          "info": "крестьянин",
+          "name": "Евгений",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Быков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Майданова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2865,
+        "x": 909,
+        "y": 2827
+      },
+      "entry_id": "d5c4aabb-3c34-4743-8796-86b8756c91ca_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Брынская волость, деревня Семичастная",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евлампиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Журавлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Журавлева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Тирибровская волость, деревня Брыковы Горы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гусева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

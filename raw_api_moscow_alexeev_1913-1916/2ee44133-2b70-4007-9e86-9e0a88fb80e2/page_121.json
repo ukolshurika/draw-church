@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 121,
+  "node_id": "216884e9-70ea-4b1c-952e-2686e18670b1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 648,
+        "width": 2751,
+        "x": 935,
+        "y": 1091
+      },
+      "entry_id": "216884e9-70ea-4b1c-952e-2686e18670b1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Авдеев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Галкинская волость, деревня Шинянь",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Авдеев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Елена",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Исаева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Паново",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Авдеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 732,
+        "width": 2774,
+        "x": 931,
+        "y": 1992
+      },
+      "entry_id": "216884e9-70ea-4b1c-952e-2686e18670b1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "",
+          "geo": "город Калуга",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ржевский уезд, Харинская волость, деревня Гнездово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ермолаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермолаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 773,
+        "width": 2794,
+        "x": 940,
+        "y": 2916
+      },
+      "entry_id": "216884e9-70ea-4b1c-952e-2686e18670b1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Денежниково",
+          "info": "вдова крестьянина",
+          "name": "Ксения",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старостина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Романушкин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Мартынова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романушкина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Бабеевский уезд, деревня Верховье",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романушкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

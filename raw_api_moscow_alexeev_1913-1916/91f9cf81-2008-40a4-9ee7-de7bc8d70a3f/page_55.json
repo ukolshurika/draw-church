@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 55,
+  "node_id": "f47afd26-be8b-4e0d-825a-6d974e6b83c0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 535,
+        "width": 2696,
+        "x": 906,
+        "y": 1006
+      },
+      "entry_id": "f47afd26-be8b-4e0d-825a-6d974e6b83c0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Кудрявская волость, село Кудрявщина",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Андронов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кудашев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кудашев"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудашева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Андронов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудашев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кудашева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2719,
+        "x": 904,
+        "y": 1710
+      },
+      "entry_id": "f47afd26-be8b-4e0d-825a-6d974e6b83c0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дианов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Покрово-Слободская волость, деревня Глубоково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дианов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Покровская волость, деревня Малинки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Краюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дианова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Загарье",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 636,
+        "width": 2722,
+        "x": 901,
+        "y": 2423
+      },
+      "entry_id": "f47afd26-be8b-4e0d-825a-6d974e6b83c0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вахова"
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Каневский уезд, Корниловская волость, село Бровахи",
+          "info": "крестьянин",
+          "name": "Спиридон",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николюк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Вахов"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Юрьевецкий уезд, Ново-Воскресенская волость, деревня Мардаково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вахов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Глуховицкая волость, село Троицкие-Борок",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гаврилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 587,
+        "width": 2700,
+        "x": 910,
+        "y": 3138
+      },
+      "entry_id": "f47afd26-be8b-4e0d-825a-6d974e6b83c0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тараканова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Тимофеевская волость",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Киселева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Глебовская волость, деревня Буньково",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тараканов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тараканова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Спасопрогнатская волость, деревня Истринского завода",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

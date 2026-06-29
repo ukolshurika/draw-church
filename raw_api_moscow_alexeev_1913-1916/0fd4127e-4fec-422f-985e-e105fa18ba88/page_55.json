@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 55,
+  "node_id": "c96e053c-e6f0-4f09-9ac0-ea9af3d27597",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 413,
+        "width": 2873,
+        "x": 704,
+        "y": 928
+      },
+      "entry_id": "c96e053c-e6f0-4f09-9ac0-ea9af3d27597_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Белгородская волость",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Шеншинская волость, деревня Кондрова",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прогов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, деревня Егорова, Ненашевская волость",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2948,
+        "x": 691,
+        "y": 1433
+      },
+      "entry_id": "c96e053c-e6f0-4f09-9ac0-ea9af3d27597_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бадурин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бадурина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Меленки",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бадурин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Нина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бадурина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Меленки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бадурин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Верхне-Беломутская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Парабукин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2931,
+        "x": 699,
+        "y": 2058
+      },
+      "entry_id": "c96e053c-e6f0-4f09-9ac0-ea9af3d27597_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Сергичев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Родин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Титова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филипова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Павловка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Титов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2892,
+        "x": 697,
+        "y": 2671
+      },
+      "entry_id": "c96e053c-e6f0-4f09-9ac0-ea9af3d27597_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Казанская губерния, Царевококшайский уезд, Ронгинская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ковордаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ковордакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Дъяконовская волость, село",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Харитонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ковордаков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лущихинский уезд, деревня Троицкая",
+          "info": "крестьянская дочь",
+          "name": "Параскева",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Турицына"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

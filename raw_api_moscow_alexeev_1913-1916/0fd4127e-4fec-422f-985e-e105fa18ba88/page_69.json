@@ -1,0 +1,269 @@
+{
+  "year": 1914,
+  "page": 69,
+  "node_id": "e6eb40ab-06eb-47ae-ab2a-13e57cb0dcdb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2920,
+        "x": 690,
+        "y": 907
+      },
+      "entry_id": "e6eb40ab-06eb-47ae-ab2a-13e57cb0dcdb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Корсаковская волость, деревня Ново-Успенских выселок",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Парфениев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мозуров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, деревня Чавкино",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "муж крестной матери",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская губерния, Верейская мещанка, девица",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горчакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Нарышкинская волость, деревня Горюшек",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тарасова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 605,
+        "width": 2893,
+        "x": 697,
+        "y": 1527
+      },
+      "entry_id": "e6eb40ab-06eb-47ae-ab2a-13e57cb0dcdb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, деревня Чавкина",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Корсаковская волость, деревня Ново-Успенские выселки",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Корсаковская волость, деревня Ново-Успенские выселки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Морозов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2881,
+        "x": 689,
+        "y": 2138
+      },
+      "entry_id": "e6eb40ab-06eb-47ae-ab2a-13e57cb0dcdb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чернова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Озерецкая волость, деревня Скалкино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степанида",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, село Першино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андриянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чернова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка Подольского уезда Московская губерния",
+          "name": "Степанида",
+          "other_status": "муж крестной матери",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Егорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 613,
+        "width": 2888,
+        "x": 687,
+        "y": 2797
+      },
+      "entry_id": "e6eb40ab-06eb-47ae-ab2a-13e57cb0dcdb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "сапожного цеха цеховой",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дмитровская",
+          "info": "московский мещанин",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фелицата",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лапкина"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "сапожного цеха цеховая",
+          "name": "Вера",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Викторов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лапкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

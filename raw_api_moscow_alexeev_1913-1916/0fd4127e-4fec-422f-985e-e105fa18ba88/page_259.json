@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 259,
+  "node_id": "da482e7f-f029-426c-9525-10beb6150d97",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 385,
+        "width": 1449,
+        "x": 941,
+        "y": 872
+      },
+      "entry_id": "da482e7f-f029-426c-9525-10beb6150d97_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, село",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Хорин"
+        },
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Илия",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Хорин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 1497,
+        "x": 940,
+        "y": 1335
+      },
+      "entry_id": "da482e7f-f029-426c-9525-10beb6150d97_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Коршунова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Никулина",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коршунов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 1505,
+        "x": 936,
+        "y": 1875
+      },
+      "entry_id": "da482e7f-f029-426c-9525-10beb6150d97_3",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Мартюшева"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Кадниковский уезд, Рубежская волость, деревня Сидорова",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мартюшев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 419,
+        "width": 1506,
+        "x": 929,
+        "y": 2415
+      },
+      "entry_id": "da482e7f-f029-426c-9525-10beb6150d97_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Еремьевская волость, деревня Павловская",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 422,
+        "width": 1503,
+        "x": 921,
+        "y": 2959
+      },
+      "entry_id": "da482e7f-f029-426c-9525-10beb6150d97_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяное",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пашкин"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пашкина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 4,
+  "node_id": "ae4c01be-8693-4437-beeb-ca786f000a35",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2807,
+        "x": 898,
+        "y": 1161
+      },
+      "entry_id": "ae4c01be-8693-4437-beeb-ca786f000a35_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, село Алешково",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Царьков"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Грязовецкий уезд, Стипулинская волость, деревня Качалово",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Серова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Царькова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачеевский уезд, Носуровская волость, деревня Носурово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Авдеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Архипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Царькова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2808,
+        "x": 898,
+        "y": 1792
+      },
+      "entry_id": "ae4c01be-8693-4437-beeb-ca786f000a35_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гордеева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Никольская волость, село Плюсково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ахромешин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Ольховская волость, деревня Коптево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гордеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ахромешина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гордеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 608,
+        "width": 2845,
+        "x": 891,
+        "y": 2416
+      },
+      "entry_id": "ae4c01be-8693-4437-beeb-ca786f000a35_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Желаньинская волость",
+          "info": "безземельный крестьянин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кустарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кустарева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Соколовская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Перепелов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кустарева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Высокинская волость, село Борь",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2834,
+        "x": 894,
+        "y": 3136
+      },
+      "entry_id": "ae4c01be-8693-4437-beeb-ca786f000a35_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Назарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверская мещанка, вдова",
+          "name": "Иулиания",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Никитина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Новая",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жигало"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Нагорская волость, село Воскресенское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Исаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Назаров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

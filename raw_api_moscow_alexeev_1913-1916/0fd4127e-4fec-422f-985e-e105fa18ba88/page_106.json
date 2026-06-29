@@ -1,0 +1,291 @@
+{
+  "year": 1914,
+  "page": 106,
+  "node_id": "f6ae199b-2af0-482c-ad01-fb93fee984f8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 459,
+        "width": 2849,
+        "x": 806,
+        "y": 1529
+      },
+      "entry_id": "f6ae199b-2af0-482c-ad01-fb93fee984f8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, деревня Новинки",
+          "info": "жена крестьянина",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мурина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, деревня Новинки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Панков"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, деревня Новинки",
+          "info": "вдова, мещанка",
+          "name": "Дарья",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, деревня Новинки",
+          "info": "мещанин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2855,
+        "x": 780,
+        "y": 2005
+      },
+      "entry_id": "f6ae199b-2af0-482c-ad01-fb93fee984f8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белониченская волость, село Лошатово",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Московская волость, село Ламатово",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Московская волость, село Ламатово",
+          "info": "",
+          "name": "Анна",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ледяцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2864,
+        "x": 781,
+        "y": 2547
+      },
+      "entry_id": "f6ae199b-2af0-482c-ad01-fb93fee984f8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семкина"
+        },
+        {
+          "age": "",
+          "geo": "Булатниковская волость, село Добрынское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гульдин"
+        },
+        {
+          "age": "",
+          "geo": "Булатниковская волость, село Добрынское",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кувалдина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муролинский уезд, Булатниковская волость, деревня Вахуркино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семкин"
+        },
+        {
+          "age": "",
+          "geo": "Булатниковская волость, село Добрынское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гульдин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 452,
+        "width": 2864,
+        "x": 760,
+        "y": 3018
+      },
+      "entry_id": "f6ae199b-2af0-482c-ad01-fb93fee984f8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "Стогинская волость, деревня Карандашево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гульдин"
+        },
+        {
+          "age": "",
+          "geo": "Стогинская волость, деревня Карандашево",
+          "info": "крестьянка",
+          "name": "Васса",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "Стогинская волость, деревня Карандашево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гульдин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стогинская волость, деревня Стопина",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богачев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

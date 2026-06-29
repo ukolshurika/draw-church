@@ -1,0 +1,267 @@
+{
+  "year": 1914,
+  "page": 159,
+  "node_id": "24336da1-5bd4-4916-9756-97a38eae57bc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 553,
+        "width": 2779,
+        "x": 723,
+        "y": 876
+      },
+      "entry_id": "24336da1-5bd4-4916-9756-97a38eae57bc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Дединово",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Третьякова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Кудряшево, Зарайский уезд, Дединовская волость",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Третьяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Третьяков"
+        },
+        {
+          "age": "",
+          "geo": "село Дединово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Третьяков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2812,
+        "x": 722,
+        "y": 1542
+      },
+      "entry_id": "24336da1-5bd4-4916-9756-97a38eae57bc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Черная",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тачигин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Черная",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Догадкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Кукарина",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Силина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Ильиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тачигин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тачигина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 487,
+        "width": 2814,
+        "x": 708,
+        "y": 2107
+      },
+      "entry_id": "24336da1-5bd4-4916-9756-97a38eae57bc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Даниловская волость, деревня Пенья",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вихрев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гавриловский посад",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Булыгин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Булыгина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Симакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, село Малое Коровино",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Симаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Булыгина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 529,
+        "width": 2798,
+        "x": 713,
+        "y": 2727
+      },
+      "entry_id": "24336da1-5bd4-4916-9756-97a38eae57bc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Морозова, Михайловское, Остроуховская волость",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Симаков"
+        },
+        {
+          "age": "",
+          "geo": "Егорьевское",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Симакова"
+        },
+        {
+          "age": "",
+          "geo": "село Знаменское",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Туманова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Симакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

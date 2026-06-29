@@ -1,0 +1,247 @@
+{
+  "year": 1915,
+  "page": 63,
+  "node_id": "954186a2-e80d-4ddd-8e1b-1456fd5f18b4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 609,
+        "width": 2747,
+        "x": 943,
+        "y": 1105
+      },
+      "entry_id": "954186a2-e80d-4ddd-8e1b-1456fd5f18b4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Рогачевская волость, село Кротово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кротов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Саратовская"
+        },
+        {
+          "age": "",
+          "geo": "Гороховецкий уезд, Колсинская волость, деревня Гончар",
+          "info": "крестьянская дочь, девица",
+          "name": "Евдокия",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Токаревский уезд, село Зимино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Саратовский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Саратовский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 680,
+        "width": 2789,
+        "x": 932,
+        "y": 1849
+      },
+      "entry_id": "954186a2-e80d-4ddd-8e1b-1456fd5f18b4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Янкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Янков"
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, Чернявская волость, деревня Верок",
+          "info": "крестьянин",
+          "name": "Евдоким",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Боровиков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Булыгинская волость, деревня Лужок",
+          "info": "крестьянка",
+          "name": "Василиса",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пыхтина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Янкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2812,
+        "x": 935,
+        "y": 2697
+      },
+      "entry_id": "954186a2-e80d-4ddd-8e1b-1456fd5f18b4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Давидова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнечихин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Венская волость, деревня Железницы",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнечихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнечихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Ирина",
+          "second_name": "Давидова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнечихин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Феодосий",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнечихин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 531,
+        "width": 2841,
+        "x": 932,
+        "y": 3323
+      },
+      "entry_id": "954186a2-e80d-4ddd-8e1b-1456fd5f18b4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Краснополянская волость, село Никольское",
+          "info": "той же волости крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Старков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Старков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Кузнеченкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Старкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,217 @@
+{
+  "year": 1915,
+  "page": 163,
+  "node_id": "36115015-316a-4712-b0b5-1b3cfc0ee337",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 811,
+        "width": 2870,
+        "x": 902,
+        "y": 1136
+      },
+      "entry_id": "36115015-316a-4712-b0b5-1b3cfc0ee337_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Жирошкинская волость, село Лямчино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Крючков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Таратынова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Илларионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Таратынова"
+        },
+        {
+          "age": "",
+          "geo": "Лобановская волость, деревня Ляхово",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грибков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крючкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Лобановская волость, село Введенское",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Таратынов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 728,
+        "width": 2850,
+        "x": 920,
+        "y": 2186
+      },
+      "entry_id": "36115015-316a-4712-b0b5-1b3cfc0ee337_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова крестьянина",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крючкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминский уезд, деревня Волхона",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крючков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Ивашково",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алехин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алехина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алехин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 693,
+        "width": 2865,
+        "x": 924,
+        "y": 3086
+      },
+      "entry_id": "36115015-316a-4712-b0b5-1b3cfc0ee337_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "город Ковно",
+          "info": "потомственный дворянин",
+          "name": "Клавдия",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Нарбут"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Нарбут"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Малинковская волость, село Покровское",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трушин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

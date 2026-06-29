@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 132,
+  "node_id": "2285805e-ed27-4783-a832-599791a084f1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 488,
+        "width": 2951,
+        "x": 714,
+        "y": 899
+      },
+      "entry_id": "2285805e-ed27-4783-a832-599791a084f1_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Корьтовская волость, деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тихонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тихонова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Васильевская волость, деревня",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Милятинская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тихонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 2922,
+        "x": 709,
+        "y": 1434
+      },
+      "entry_id": "2285805e-ed27-4783-a832-599791a084f1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Волково",
+          "info": "той же волости, что и Зинаида Афанасиева Данилина",
+          "name": "Павел",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Вороновка",
+          "info": "Перестряжской волости, Тульской губернии, Новосильского уезда",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фролова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 2947,
+        "x": 686,
+        "y": 1975
+      },
+      "entry_id": "2285805e-ed27-4783-a832-599791a084f1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Акилина",
+          "second_name": "Мартынова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зикунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шульга"
+        },
+        {
+          "age": "",
+          "geo": "Калязинский уезд, Курская губерния, Дьяконовская волость, деревня Малютина",
+          "info": "мещанин",
+          "name": "Илья",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ожаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шульга"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Зельковский уезд, Грунская волость, местечко Грунь",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шульга"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2929,
+        "x": 680,
+        "y": 2523
+      },
+      "entry_id": "2285805e-ed27-4783-a832-599791a084f1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Серафима",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шабина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Прибылова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Касимовская волость, деревня Колок",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Прибылова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ухоловская волость, деревня Глинок",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Прибылов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 590,
+        "width": 2958,
+        "x": 665,
+        "y": 3059
+      },
+      "entry_id": "2285805e-ed27-4783-a832-599791a084f1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Иверская волость, село Станишино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Паршинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокринская волость, деревня Чубарово",
+          "info": "крестьянская вдова",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чубарова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Покровско-Васильевская волость, село",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Орлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

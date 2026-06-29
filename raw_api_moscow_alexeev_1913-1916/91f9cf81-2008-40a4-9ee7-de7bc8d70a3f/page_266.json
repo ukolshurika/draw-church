@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 266,
+  "node_id": "8e0a3ac3-fb11-4d98-9df9-da66c0362592",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 517,
+        "width": 1483,
+        "x": 1076,
+        "y": 1127
+      },
+      "entry_id": "8e0a3ac3-fb11-4d98-9df9-da66c0362592_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Полуповская волость, деревня Большая Крутца",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "8 лет",
+          "geo": "",
+          "info": "",
+          "name": "Ироида",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 366,
+        "width": 1488,
+        "x": 1077,
+        "y": 1839
+      },
+      "entry_id": "8e0a3ac3-fb11-4d98-9df9-da66c0362592_2",
+      "people": [
+        {
+          "age": "40",
+          "geo": "Тамбовская губерния, город Козлов",
+          "info": "вдова, мещанка",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Демина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1486,
+        "x": 1075,
+        "y": 2414
+      },
+      "entry_id": "8e0a3ac3-fb11-4d98-9df9-da66c0362592_1",
+      "people": [
+        {
+          "age": "47",
+          "geo": "город Москва",
+          "info": "из дома Скалкина, ремесленница портновского цеха, девица",
+          "name": "Васса",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 1466,
+        "x": 1077,
+        "y": 2960
+      },
+      "entry_id": "8e0a3ac3-fb11-4d98-9df9-da66c0362592_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шарова"
+        },
+        {
+          "age": "",
+          "geo": "из дома Новоселова, Рязанской губернии, Екимовского уезда, Екимовской волости, деревни Рожок",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шаров"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

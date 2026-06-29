@@ -1,0 +1,320 @@
+{
+  "year": 1915,
+  "page": 94,
+  "node_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 456,
+        "width": 2950,
+        "x": 893,
+        "y": 1079
+      },
+      "entry_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Виленская губерния, Лидский уезд, Василейская волость, деревня Шейбакполь",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Каспер"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Васильевская волость, село Васильевское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Суров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сурова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Каспер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Каспер"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский мещанин",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 2962,
+        "x": 888,
+        "y": 1623
+      },
+      "entry_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Каспер"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Щербининская волость, деревня Ошурково",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Корнетов"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Лидский уезд, Виленская волость, деревня Шейбакполь",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Каспер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка, девица",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Карпова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Каспер"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 354,
+        "width": 2951,
+        "x": 897,
+        "y": 2069
+      },
+      "entry_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Марьина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Тараксинская волость, село Вяжли",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Суйская волость, село Никитино",
+          "info": "крестьянская девица",
+          "name": "Елизавета",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Степанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 2953,
+        "x": 903,
+        "y": 2530
+      },
+      "entry_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевской уезд, Ильинская волость, деревня Данильцева",
+          "info": "крестьянка",
+          "name": "Евдокія",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поленина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Васильевская волость, село Покровское",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельской уезд, Петровская волость, деревня Нагой",
+          "info": "крестьянин",
+          "name": "Антоній",
+          "second_name": "Ивановъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свиридовъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Поленина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 767,
+        "width": 2971,
+        "x": 896,
+        "y": 3040
+      },
+      "entry_id": "0a7bac9d-0aa3-4222-8c70-7b8c0bc40df2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "крестьянка, вдова",
+          "name": "Матрона",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Петровская волость, деревня Нагой",
+          "info": "крестьянин",
+          "name": "Антоній",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свиридов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Денежниково",
+          "info": "крестьянка, вдова",
+          "name": "Ксения",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старостина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Абакумовская волость, деревня Болотово",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Васильевская волость, село Покровское",
+          "info": "крестьянка, девица",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Махонина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

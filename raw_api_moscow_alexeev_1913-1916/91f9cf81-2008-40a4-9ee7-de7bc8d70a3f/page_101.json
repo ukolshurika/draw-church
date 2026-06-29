@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 101,
+  "node_id": "70da7bb9-0540-4280-b346-09ef1892f3e0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 475,
+        "width": 2612,
+        "x": 940,
+        "y": 1015
+      },
+      "entry_id": "70da7bb9-0540-4280-b346-09ef1892f3e0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курнаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Ульянинская волость, сельцо Михлеево",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Курнаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Курнаева"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курнаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Курнаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2663,
+        "x": 932,
+        "y": 1638
+      },
+      "entry_id": "70da7bb9-0540-4280-b346-09ef1892f3e0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гороховецкий уезд, Кожинская волость, деревня Сапуново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Серов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Серов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Агафонова",
+          "info": "жена крестьянина",
+          "name": "Надежда",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Татаркина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Серова"
+        },
+        {
+          "age": "",
+          "geo": "Гороховецкий уезд, Красносельская волость, деревня Хорошево",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 635,
+        "width": 2672,
+        "x": 926,
+        "y": 2279
+      },
+      "entry_id": "70da7bb9-0540-4280-b346-09ef1892f3e0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Троицкий уезд, Троицкая волость, деревня Канищево",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шалимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Варфоломеевская волость, село",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шалимов"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанка, девица",
+          "name": "Екатерина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шалимова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2729,
+        "x": 905,
+        "y": 3039
+      },
+      "entry_id": "70da7bb9-0540-4280-b346-09ef1892f3e0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Русавкино",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Прокопіева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Озерищенская волость, деревня Горнее",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самойлов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Рождественская волость, деревня Аристово",
+          "info": "крестьянин",
+          "name": "Илларион",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тихоміров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Илларионова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тихомірова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марія",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тихомірова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

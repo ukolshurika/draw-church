@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 38,
+  "node_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 404,
+        "width": 2890,
+        "x": 717,
+        "y": 924
+      },
+      "entry_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дёдиновская волость, деревня Акимовка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Демин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Демина"
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, Ново-Покровская волость, село Рогов",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Диомидов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рогов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Диомидова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Демина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Богословское",
+          "info": "вдова",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 410,
+        "width": 2851,
+        "x": 723,
+        "y": 1357
+      },
+      "entry_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Евсеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Евсеева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Кокинская волость, деревня Искони",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Евсеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "священник",
+          "name": "Александр",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена подольского мещанина",
+          "name": "Мария",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 447,
+        "width": 2878,
+        "x": 723,
+        "y": 1818
+      },
+      "entry_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Скопинский уезд, Яблоневская волость, деревня Щелевая",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "other_status": "муж крестной матери",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, деревня Вялухина",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 2886,
+        "x": 729,
+        "y": 2298
+      },
+      "entry_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Глебовская волость, деревня Буньково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Захарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Захаров"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд",
+          "info": "мещанка",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болотина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Архангельская волость, деревня Маврина",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Захаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2852,
+        "x": 742,
+        "y": 2828
+      },
+      "entry_id": "b753f401-8f2d-4860-8a65-8a1b1372ca10_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Белопесоцкая волость, деревня Тростниково",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Налетов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Коломенская мещанка",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вдовина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

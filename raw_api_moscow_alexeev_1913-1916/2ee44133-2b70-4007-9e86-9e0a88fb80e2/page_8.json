@@ -1,0 +1,248 @@
+{
+  "year": 1915,
+  "page": 8,
+  "node_id": "a51b6d4f-bf46-4140-a46a-04661c224caf",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 499,
+        "width": 2819,
+        "x": 943,
+        "y": 1036
+      },
+      "entry_id": "a51b6d4f-bf46-4140-a46a-04661c224caf_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Тредубская волость, деревня Поломелица",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "жена крестьянина",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куренкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2797,
+        "x": 935,
+        "y": 1660
+      },
+      "entry_id": "a51b6d4f-bf46-4140-a46a-04661c224caf_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ясеновская волость, деревня Борисовка",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Кистровская волость, деревня Жолубова Слобода",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Жолубов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Короткова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бобровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыпкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 497,
+        "width": 2801,
+        "x": 937,
+        "y": 2293
+      },
+      "entry_id": "a51b6d4f-bf46-4140-a46a-04661c224caf_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кононова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Красная Слобода",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кононов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусатинский уезд, Воронцовская волость, деревня Семешки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 2798,
+        "x": 934,
+        "y": 2921
+      },
+      "entry_id": "a51b6d4f-bf46-4140-a46a-04661c224caf_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Леонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Исаевская"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Боровичский уезд",
+          "info": "мещанин",
+          "name": "Валентин",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Исаевский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личная почетная гражданка",
+          "name": "Феодосия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Валентинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Исаевская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

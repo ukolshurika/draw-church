@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 295,
+  "node_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1374,
+        "x": 1062,
+        "y": 1078
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_5",
+      "people": [
+        {
+          "age": "29",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокринская волость, село Церлево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Андреев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 307,
+        "width": 1378,
+        "x": 1063,
+        "y": 1412
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_1",
+      "people": [
+        {
+          "age": "1 неделя",
+          "geo": "",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чеховский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 294,
+        "width": 1384,
+        "x": 1066,
+        "y": 1833
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_3",
+      "people": [
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Артемиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кобашенок"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Соинская волость, село Корниловка",
+          "info": "крестьянин",
+          "name": "Артемий",
+          "other_status": "отец умершего",
+          "second_name": "Евтихиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кобашенок"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 249,
+        "width": 1385,
+        "x": 1068,
+        "y": 2305
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_4",
+      "people": [
+        {
+          "age": "70",
+          "geo": "Новосильский уезд, Косаревская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Солопов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1496,
+        "x": 1064,
+        "y": 2764
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шибаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Петелинская волость, деревня Борщевки",
+          "info": "крестьянская вдова",
+          "name": "Анна",
+          "other_status": "мать умершего",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Шибаева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 362,
+        "width": 1443,
+        "x": 1065,
+        "y": 3291
+      },
+      "entry_id": "fee5b8aa-c337-468c-8de7-e8aad94bb6fb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Печеринская волость, Мамоновские выселки",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "other_status": "мать умершего",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Серегина"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Серегин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

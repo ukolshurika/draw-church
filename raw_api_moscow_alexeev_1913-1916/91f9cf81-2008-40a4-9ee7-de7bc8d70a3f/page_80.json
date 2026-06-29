@@ -1,0 +1,269 @@
+{
+  "year": 1916,
+  "page": 80,
+  "node_id": "ae7bd45f-d461-49e6-9db4-9369c7bf0782",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2808,
+        "x": 877,
+        "y": 1023
+      },
+      "entry_id": "ae7bd45f-d461-49e6-9db4-9369c7bf0782_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Холмская губерния, Константиновский уезд, Еминский сельсовет, деревня Павлов",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васкевич"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, Троицкая слобода",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пикунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васкевич"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хотунская волость, деревня Барыбино",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пухова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васкевич"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2742,
+        "x": 887,
+        "y": 1705
+      },
+      "entry_id": "ae7bd45f-d461-49e6-9db4-9369c7bf0782_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Лопатово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Аксенов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Пятницкая волость, сельцо Лопатово",
+          "info": "крестьянка, девица",
+          "name": "Ирина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Косяевская волость, село Селино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Селин"
+        },
+        {
+          "age": "",
+          "geo": "село Селино",
+          "info": "жена крестьянина",
+          "name": "Елизавета",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фатеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 2772,
+        "x": 870,
+        "y": 2344
+      },
+      "entry_id": "ae7bd45f-d461-49e6-9db4-9369c7bf0782_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гурина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гузин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Полотняково-Заводская волость, село Данево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сериков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Дмитриевская волость, село Данево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гузин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гузина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 632,
+        "width": 2781,
+        "x": 870,
+        "y": 3053
+      },
+      "entry_id": "ae7bd45f-d461-49e6-9db4-9369c7bf0782_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, деревня Ермолино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, село",
+          "info": "крестьянин",
+          "name": "Наталии",
+          "other_status": "муж крестной матери",
+          "second_name": "Терентиева",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, село Липово",
+          "info": "в доме Борисова, запасной нижний чин из крестьян",
+          "name": "Сидор",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зотов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

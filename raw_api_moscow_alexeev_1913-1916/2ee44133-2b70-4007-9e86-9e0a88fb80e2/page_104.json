@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 104,
+  "node_id": "7d57f3c4-b63c-446e-9813-2b89c88cdec9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 693,
+        "width": 2894,
+        "x": 887,
+        "y": 1117
+      },
+      "entry_id": "7d57f3c4-b63c-446e-9813-2b89c88cdec9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Липатова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, деревня Рудина",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Липатов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ржевский уезд, Харинская волость, деревня Гнездово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Викторов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Липатов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, деревня Рудина",
+          "info": "крестьянская жена",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Липатова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 655,
+        "width": 2907,
+        "x": 877,
+        "y": 1971
+      },
+      "entry_id": "7d57f3c4-b63c-446e-9813-2b89c88cdec9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Василиса",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федюшкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Федюшкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федюшкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Рылевская волость, село Дубково",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федюшкин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федюшкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 762,
+        "width": 2949,
+        "x": 860,
+        "y": 2852
+      },
+      "entry_id": "7d57f3c4-b63c-446e-9813-2b89c88cdec9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Лаишевский уезд, Владычни",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябчиков"
+        },
+        {
+          "age": "",
+          "geo": "Лаишевская волость, деревня Готовкино",
+          "info": "крестьянская вдова",
+          "name": "Мария",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ионова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Березниковская волость, деревня Березниково",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "гражданин",
+          "name": "Михаил",
+          "second_name": "Сергеевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

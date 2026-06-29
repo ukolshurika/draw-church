@@ -1,0 +1,205 @@
+{
+  "year": 1916,
+  "page": 20,
+  "node_id": "95f2336c-8793-4ab2-9565-faab39ec0ca2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2685,
+        "x": 916,
+        "y": 1032
+      },
+      "entry_id": "95f2336c-8793-4ab2-9565-faab39ec0ca2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мавра",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Торопка, Ельнинский уезд, Смоленская губерния",
+          "info": "в доме Абрамова, ратник ополчения разряда из крестьян",
+          "name": "Моисей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "село Следнево, Мархоткинская волость, Смоленская губерния",
+          "info": "крестьянин",
+          "name": "Карп",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Корнющенков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Марьино, Селиховская волость, Корчевский уезд, Тверская губерния",
+          "info": "крестьянка, девица",
+          "name": "Гликерия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Родионова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 877,
+        "width": 2674,
+        "x": 912,
+        "y": 1779
+      },
+      "entry_id": "95f2336c-8793-4ab2-9565-faab39ec0ca2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Вязниковский уезд, Никологорская волость, деревня Холщево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Елизавета",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Егорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 737,
+        "width": 2643,
+        "x": 927,
+        "y": 2819
+      },
+      "entry_id": "95f2336c-8793-4ab2-9565-faab39ec0ca2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Недельнинская волость, деревня Сугорово",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лахова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колобродов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Колобродов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыженская волость, деревня Свистягино",
+          "info": "крестьянин",
+          "name": "Лука",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колобродов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колобродова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

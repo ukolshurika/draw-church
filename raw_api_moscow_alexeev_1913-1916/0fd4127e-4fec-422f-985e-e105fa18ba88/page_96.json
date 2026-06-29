@@ -1,0 +1,289 @@
+{
+  "year": 1914,
+  "page": 96,
+  "node_id": "19a35509-c71c-4247-a84c-5637b9303a1d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 297,
+        "width": 2815,
+        "x": 737,
+        "y": 858
+      },
+      "entry_id": "19a35509-c71c-4247-a84c-5637b9303a1d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шершнев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дарьина",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шершнева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дарьина",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шершнев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Суетовская волость, деревня Дарьина",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шершнева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 441,
+        "width": 2813,
+        "x": 738,
+        "y": 1241
+      },
+      "entry_id": "19a35509-c71c-4247-a84c-5637b9303a1d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Комина, Скопинская волость, Боровская волость, село Городецкое",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ломакин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ломакин"
+        },
+        {
+          "age": "",
+          "geo": "то же село Городецкое",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Беляев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ломакина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 435,
+        "width": 2800,
+        "x": 741,
+        "y": 1792
+      },
+      "entry_id": "19a35509-c71c-4247-a84c-5637b9303a1d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Косолапова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хлопкова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Ольховская волость, деревня Негодяево",
+          "info": "священник",
+          "name": "Михаил",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маслов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Косолапова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Глинищевская волость, деревня Юшкова",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Косолапов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 487,
+        "width": 2775,
+        "x": 740,
+        "y": 2318
+      },
+      "entry_id": "19a35509-c71c-4247-a84c-5637b9303a1d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Афанасьевская волость, деревня Средне-Короткая",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Разинков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Верхне-Короткая",
+          "info": "",
+          "name": "Семен",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Левыкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Разинков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Разинкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Спасская волость, деревня Жадома",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самохина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2815,
+        "x": 726,
+        "y": 2863
+      },
+      "entry_id": "19a35509-c71c-4247-a84c-5637b9303a1d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Гавриловская волость, село",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыгалина"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Хатунская волость, деревня Ананьево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Никольская волость, деревня Иванцово",
+          "info": "крестьянин",
+          "name": "Иванцов",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванцов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

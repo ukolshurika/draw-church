@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 22,
+  "node_id": "006c1595-2a9e-443d-8e98-46cfe8513eb8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 608,
+        "width": 2845,
+        "x": 897,
+        "y": 1080
+      },
+      "entry_id": "006c1595-2a9e-443d-8e98-46cfe8513eb8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щеголькова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Бахмачеевская волость, деревня Понасово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балтушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Обухова"
+        },
+        {
+          "age": "",
+          "geo": "Соболевская волость, село Гулынки",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Щегольков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, деревня Кореньково",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Обухов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Обухов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2859,
+        "x": 889,
+        "y": 1798
+      },
+      "entry_id": "006c1595-2a9e-443d-8e98-46cfe8513eb8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ганшина"
+        },
+        {
+          "age": "",
+          "geo": "город Юрьев-Польский",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ганшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валерий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ганшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный дворянин",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Губанов"
+        },
+        {
+          "age": "",
+          "geo": "город Юрьев-Польский",
+          "info": "мещанка, девица",
+          "name": "Галина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ганшина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2894,
+        "x": 883,
+        "y": 2468
+      },
+      "entry_id": "006c1595-2a9e-443d-8e98-46cfe8513eb8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Подчерковская волость, деревня Дубровки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савельев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савельева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савельев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Вера",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Савельева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Суслов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 732,
+        "width": 2932,
+        "x": 886,
+        "y": 3186
+      },
+      "entry_id": "006c1595-2a9e-443d-8e98-46cfe8513eb8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Дедодедовская волость, деревня Шестово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кулаков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынская волость, село Летово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Богородский уезд, Осеевская волость, деревня Медведево",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Авдеева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

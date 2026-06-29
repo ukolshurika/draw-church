@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 313,
+  "node_id": "352809cb-6fb5-4710-82f4-4d391f906a94",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 401,
+        "width": 1400,
+        "x": 971,
+        "y": 837
+      },
+      "entry_id": "352809cb-6fb5-4710-82f4-4d391f906a94_3",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Евлентьев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, село Травино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Евлентьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 497,
+        "width": 1454,
+        "x": 966,
+        "y": 1557
+      },
+      "entry_id": "352809cb-6fb5-4710-82f4-4d391f906a94_2",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Колобережская волость, деревня Конево-Бар",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 402,
+        "width": 1416,
+        "x": 955,
+        "y": 2205
+      },
+      "entry_id": "352809cb-6fb5-4710-82f4-4d391f906a94_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Костромская губерния, Андреевский уезд, Андреевская волость, деревня Подольново",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Геннадиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Жданов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жданов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 510,
+        "width": 1445,
+        "x": 948,
+        "y": 2826
+      },
+      "entry_id": "352809cb-6fb5-4710-82f4-4d391f906a94_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бутузова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня",
+          "info": "крепостной Григорий Глебов",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Глебов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бутузов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

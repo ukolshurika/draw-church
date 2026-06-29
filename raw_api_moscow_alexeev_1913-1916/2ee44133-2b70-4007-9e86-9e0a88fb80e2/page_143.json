@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 143,
+  "node_id": "02c398e0-349f-4786-885e-4194562748e4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 751,
+        "width": 2871,
+        "x": 912,
+        "y": 1112
+      },
+      "entry_id": "02c398e0-349f-4786-885e-4194562748e4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Потуповская волость, село Прыково",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кулешева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Неугасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Неугасова"
+        },
+        {
+          "age": "",
+          "geo": "Кашинский уезд, Тиволинская волость, деревня Шишелево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гарманов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуповская волость, деревня Тетерина",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Неугасов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 693,
+        "width": 2888,
+        "x": 914,
+        "y": 1983
+      },
+      "entry_id": "02c398e0-349f-4786-885e-4194562748e4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Шенкурский уезд, Благовещенская волость, деревня Устиново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, деревня Шишлово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Рижская мещанка, девица",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Реймерс"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 925,
+        "width": 2894,
+        "x": 907,
+        "y": 2761
+      },
+      "entry_id": "02c398e0-349f-4786-885e-4194562748e4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Костромская губерния, Завражский уезд, Завражская волость, деревня Филисова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Желудевская волость, деревня Петровка",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гришанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Шаблакина",
+          "info": "крестьянин",
+          "name": "Осип",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мизелкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

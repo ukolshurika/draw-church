@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 16,
+  "node_id": "9e0d97f6-586c-49e6-9ad8-53f71f44598b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 616,
+        "width": 2731,
+        "x": 935,
+        "y": 1076
+      },
+      "entry_id": "9e0d97f6-586c-49e6-9ad8-53f71f44598b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ушков"
+        },
+        {
+          "age": "",
+          "geo": "Егорьевский уезд, Никольская волость",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Ордышевская волость, деревня Громовая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ушков"
+        },
+        {
+          "age": "",
+          "geo": "Егорьевский уезд, Троицкая волость, деревня Гоутово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хлебинцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федосья",
+          "second_name": "Дмитрева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ушкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 2732,
+        "x": 941,
+        "y": 1655
+      },
+      "entry_id": "9e0d97f6-586c-49e6-9ad8-53f71f44598b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ушкова"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Селезневская волость, деревня Саватейевка",
+          "info": "крестьянин",
+          "name": "Абрам",
+          "other_status": "отец крестной матери",
+          "second_name": "Лукьянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Орловская волость, деревня Громовой",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ушков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Елена",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Илюхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федосья",
+          "second_name": "Дмитрева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ушкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2705,
+        "x": 953,
+        "y": 2190
+      },
+      "entry_id": "9e0d97f6-586c-49e6-9ad8-53f71f44598b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Покровская волость, деревня Кресты",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Уевлева",
+          "info": "крестьянка",
+          "name": "Вера",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость, деревня Акулина",
+          "info": "крестьянин",
+          "name": "Абрам",
+          "second_name": "Лукьянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 748,
+        "width": 2689,
+        "x": 967,
+        "y": 2799
+      },
+      "entry_id": "9e0d97f6-586c-49e6-9ad8-53f71f44598b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосья",
+          "second_name": "Дмитрева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ушкова"
+        },
+        {
+          "age": "",
+          "geo": "Сарапульская волость, деревня Федотово",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калачников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагея",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Калачникова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ушков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Яковлевская волость, деревня Федотово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ушков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

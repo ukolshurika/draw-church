@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 42,
+  "node_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 380,
+        "width": 2894,
+        "x": 756,
+        "y": 918
+      },
+      "entry_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Кулигина, Калязинского уезда, Портежской волости",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Селевина, Завидовской волости",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Леханов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Васильева, Клинского уезда, Селинской волости",
+          "info": "в деревне Бурыкалова",
+          "name": "Павел",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рыбаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 2889,
+        "x": 755,
+        "y": 1426
+      },
+      "entry_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мохов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Красенки, Одоевский уезд, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Мартинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чуев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ярыгино, Озерецкая волость, Дмитровский уезд",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Самойлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "",
+          "geo": "село Михайловское, Мценский уезд, Орловская губерния",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мохова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 2876,
+        "x": 756,
+        "y": 1892
+      },
+      "entry_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кочаковская волость, село Глухово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Моросина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Моросин"
+        },
+        {
+          "age": "",
+          "geo": "Кочаковская волость, село Глухово",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Воронцовская волость, село Алексино",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Никандров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Моросин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 561,
+        "width": 2895,
+        "x": 749,
+        "y": 2394
+      },
+      "entry_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Разумовская волость, деревня Фролкова",
+          "info": "крестьянка",
+          "name": "Зинаида",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ефимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Краснопольско-Покровская волость, село Крестьянка",
+          "info": "псаломщик",
+          "name": "Николай",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Старостин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Непрядинская волость, село Новгородка",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Гордиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Непрядинская волость, село Новгородка",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Старостин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 2864,
+        "x": 760,
+        "y": 2951
+      },
+      "entry_id": "c969a8e6-10ec-4428-928e-3347a7cc8a85_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матасов"
+        },
+        {
+          "age": "",
+          "geo": "Далковский уезд, Балахнинская волость, деревня Кутуково",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Перевезенцев"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Дединская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матасова"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Протопоповская волость, деревня Зиновьево",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Михеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Купцова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

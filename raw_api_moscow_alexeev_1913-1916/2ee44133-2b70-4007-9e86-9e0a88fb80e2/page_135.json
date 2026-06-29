@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 135,
+  "node_id": "7a498451-84b9-4005-b13f-ce9e7211c17c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 587,
+        "width": 2740,
+        "x": 931,
+        "y": 1164
+      },
+      "entry_id": "7a498451-84b9-4005-b13f-ce9e7211c17c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Леонтиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянская девица",
+          "name": "Елизавета",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маняшина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Павловка",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жуков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 616,
+        "width": 2720,
+        "x": 945,
+        "y": 1977
+      },
+      "entry_id": "7a498451-84b9-4005-b13f-ce9e7211c17c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лихачев"
+        },
+        {
+          "age": "",
+          "geo": "город Кашин, Тверская губерния",
+          "info": "мещанина",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Плящева"
+        },
+        {
+          "age": "",
+          "geo": "город Зарайск, Рязанская губерния",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лукин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марія",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Плящева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лихачева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуповская волость, деревня Путилово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лихачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 610,
+        "width": 2751,
+        "x": 955,
+        "y": 2711
+      },
+      "entry_id": "7a498451-84b9-4005-b13f-ce9e7211c17c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Варакзин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, село Заполье",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Варакзин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Варакзина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "город Харьков",
+          "info": "мещанка, девица",
+          "name": "Мария",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титаренкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

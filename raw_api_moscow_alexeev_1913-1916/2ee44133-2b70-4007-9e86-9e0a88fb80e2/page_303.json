@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 303,
+  "node_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 289,
+        "width": 1404,
+        "x": 1085,
+        "y": 1102
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_6",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Панков"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Землянского уезда Фомино-Нехаевская волость, село Александровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Панков"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1422,
+        "x": 1081,
+        "y": 1494
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_5",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Селенценская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "other_status": "отец умершего",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузьмин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 268,
+        "width": 1484,
+        "x": 1074,
+        "y": 1899
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_3",
+      "people": [
+        {
+          "age": "79",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Найденовская волость, деревня Клины",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Савельева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пахарева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 326,
+        "width": 1404,
+        "x": 1075,
+        "y": 2284
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_1",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Вологодская губерния, Велико-Устюжский уезд, Нестеровская волость, деревня Калешова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корчажинский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 273,
+        "width": 1463,
+        "x": 1069,
+        "y": 2693
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_0",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Тульская губерния, Алексинский уезд, Першинская волость, село Старое Павшино",
+          "info": "крестьянка, вдова",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Фаляева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 224,
+        "width": 1397,
+        "x": 1068,
+        "y": 3086
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_2",
+      "people": [
+        {
+          "age": "72",
+          "geo": "Московская губерния, Мясницкая слобода",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Поляков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 224,
+        "width": 1393,
+        "x": 1064,
+        "y": 3422
+      },
+      "entry_id": "2f1e7b9d-d35d-453a-b0c4-c59972b98cba_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская мещанка Дмитровской слободы",
+          "info": "",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Морскова"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Всеволод",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Морсков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

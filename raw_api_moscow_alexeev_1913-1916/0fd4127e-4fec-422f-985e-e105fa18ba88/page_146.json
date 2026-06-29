@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 146,
+  "node_id": "5576bf19-2812-465e-9966-a33a0fbd60d7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 422,
+        "width": 2886,
+        "x": 739,
+        "y": 894
+      },
+      "entry_id": "5576bf19-2812-465e-9966-a33a0fbd60d7_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Комова",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Родионова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спас-Журавенская волость, деревня Назарьево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Исидоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисья",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Комова",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Челноков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сорокина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 535,
+        "width": 2938,
+        "x": 722,
+        "y": 1409
+      },
+      "entry_id": "5576bf19-2812-465e-9966-a33a0fbd60d7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Іустинія",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пахомова"
+        },
+        {
+          "age": "",
+          "geo": "Тульский уезд, Частинская волость, деревня Марьино",
+          "info": "крестьянин",
+          "name": "Борисъ",
+          "second_name": "Егоровъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитинъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Гуріева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пахомова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Пчельмина",
+          "info": "крестьянка",
+          "name": "Пелагія",
+          "other_status": "муж крестной матери",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Деева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Черкасова",
+          "info": "крестьянин",
+          "name": "Гурій",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пахомов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 598,
+        "width": 2947,
+        "x": 723,
+        "y": 1953
+      },
+      "entry_id": "5576bf19-2812-465e-9966-a33a0fbd60d7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Старо-Казачья волость, деревня Скороваровка",
+          "info": "",
+          "name": "Осип",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Клитвинов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Сладиловская волость, село Рождественское",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шейкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Чернавская волость, деревня Боршева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 2907,
+        "x": 730,
+        "y": 2530
+      },
+      "entry_id": "5576bf19-2812-465e-9966-a33a0fbd60d7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смоленская волость, село Лубянки",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кульков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский мещанин",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Диаков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Коломенская волость, село",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Цветкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 449,
+        "width": 2950,
+        "x": 724,
+        "y": 3052
+      },
+      "entry_id": "5576bf19-2812-465e-9966-a33a0fbd60d7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищинская волость, деревня Фатьяновка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Фатьяновка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сидорин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Судислово",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Власова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

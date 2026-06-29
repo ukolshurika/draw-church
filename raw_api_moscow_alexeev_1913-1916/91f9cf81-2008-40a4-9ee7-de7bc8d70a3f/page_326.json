@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 326,
+  "node_id": "e9eca5a0-74cf-4a9f-9e08-028b79a608a7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 516,
+        "width": 1535,
+        "x": 989,
+        "y": 1121
+      },
+      "entry_id": "e9eca5a0-74cf-4a9f-9e08-028b79a608a7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, деревня Роски",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Захаров"
+        },
+        {
+          "age": "1 1/2 года",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Захарова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 1500,
+        "x": 990,
+        "y": 1834
+      },
+      "entry_id": "e9eca5a0-74cf-4a9f-9e08-028b79a608a7_2",
+      "people": [
+        {
+          "age": "57",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Глубокова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Покровская волость, село Орудьево",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "муж умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Глубоков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 1498,
+        "x": 993,
+        "y": 2529
+      },
+      "entry_id": "e9eca5a0-74cf-4a9f-9e08-028b79a608a7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Гжатск",
+          "info": "мещанка, девица",
+          "name": "Елизавета",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Матвеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 1485,
+        "x": 1000,
+        "y": 3252
+      },
+      "entry_id": "e9eca5a0-74cf-4a9f-9e08-028b79a608a7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, деревня Бариново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Матвеева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

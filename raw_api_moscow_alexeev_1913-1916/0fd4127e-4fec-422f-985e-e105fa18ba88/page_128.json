@@ -1,0 +1,216 @@
+{
+  "year": 1914,
+  "page": 128,
+  "node_id": "72b99a82-0d76-4346-8b98-4e68f80a9bd5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2890,
+        "x": 805,
+        "y": 914
+      },
+      "entry_id": "72b99a82-0d76-4346-8b98-4e68f80a9bd5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Наплевич"
+        },
+        {
+          "age": "",
+          "geo": "деревня Вахуркина",
+          "info": "личный почетный гражданин",
+          "name": "Никанор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Наплевич"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Ново-Оскольский уезд, Ольманская волость, село Проточное",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Наплевич"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд",
+          "info": "мещанка, девица",
+          "name": "Евфросиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 492,
+        "width": 2914,
+        "x": 779,
+        "y": 2204
+      },
+      "entry_id": "72b99a82-0d76-4346-8b98-4e68f80a9bd5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Михайловская волость, деревня Щекино",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кулиничева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулиничева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Будаевская волость, деревня Орехова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кулиничев"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Рождественская волость, деревня Сверчкова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Базлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 738,
+        "width": 2962,
+        "x": 763,
+        "y": 2738
+      },
+      "entry_id": "72b99a82-0d76-4346-8b98-4e68f80a9bd5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Домодедовская волость, деревня Новлянская",
+          "info": "девица",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Падкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Касаткина, Тверская губерния",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шубкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверской мещанин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Капитолина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шубкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шубкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шубкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

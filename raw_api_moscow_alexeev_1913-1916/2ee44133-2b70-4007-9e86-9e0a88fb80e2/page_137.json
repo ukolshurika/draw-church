@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 137,
+  "node_id": "3c88dfb6-ea93-47f4-be35-af757ed37db5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2720,
+        "x": 965,
+        "y": 1142
+      },
+      "entry_id": "3c88dfb6-ea93-47f4-be35-af757ed37db5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Напрудная слобода",
+          "info": "московский мещанин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Царапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Царапкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Царапкин"
+        },
+        {
+          "age": "",
+          "geo": "Напрудная слобода",
+          "info": "московский мещанин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Царапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московского цехового портновского цеха жена",
+          "name": "Анна",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бобылева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2740,
+        "x": 961,
+        "y": 1861
+      },
+      "entry_id": "3c88dfb6-ea93-47f4-be35-af757ed37db5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Дединовская волость, село",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая портновская цеха жена",
+          "name": "Софья",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Московская Панкратьевская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 685,
+        "width": 2796,
+        "x": 954,
+        "y": 2760
+      },
+      "entry_id": "3c88dfb6-ea93-47f4-be35-af757ed37db5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Кромской уезд, Коровье-Болотовская волость, село Алмазово",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Князев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Никита",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Князев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Князева"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Кромской уезд, Шенкинская волость, деревня Кондрева",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пирогов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова крестьянка",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пинина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

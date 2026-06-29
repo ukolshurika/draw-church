@@ -1,0 +1,299 @@
+{
+  "year": 1914,
+  "page": 43,
+  "node_id": "a4442eed-8f9c-415f-ae34-162aac6cf414",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 341,
+        "width": 2906,
+        "x": 728,
+        "y": 906
+      },
+      "entry_id": "a4442eed-8f9c-415f-ae34-162aac6cf414_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская мещанка, Панкрасьевская слобода",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бакун"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соломова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соломов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Остров",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Косов"
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Троицкая волость, деревня Болотниково",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соловов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 393,
+        "width": 2903,
+        "x": 726,
+        "y": 1365
+      },
+      "entry_id": "a4442eed-8f9c-415f-ae34-162aac6cf414_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Клинское у. Рогачевская вол. деревня Дмитровская",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лосева"
+        },
+        {
+          "age": "",
+          "geo": "Баражская слобода",
+          "info": "московский мещанин",
+          "name": "Леонид",
+          "second_name": "Варнавов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Варнавов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Клыково",
+          "info": "московский мещанин Хамовой слободы",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Лазарева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 420,
+        "width": 2882,
+        "x": 734,
+        "y": 1835
+      },
+      "entry_id": "a4442eed-8f9c-415f-ae34-162aac6cf414_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Лаиковская волость, деревня Семичино",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Данилова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Ивановская волость, деревня Ленлейки",
+          "info": "крестьянка",
+          "name": "Марія",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сазонкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Черемоушинская волость, деревня Самохино",
+          "info": "вдова",
+          "name": "Гликерия",
+          "second_name": "Евсевиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Данилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 475,
+        "width": 2880,
+        "x": 740,
+        "y": 2285
+      },
+      "entry_id": "a4442eed-8f9c-415f-ae34-162aac6cf414_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Курская губерния, Грайворонский уезд, Грайворонская волость, слобода Горы",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Кобина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Сараевская волость, деревня Белякова",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Григоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Григорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Григорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 452,
+        "width": 2888,
+        "x": 742,
+        "y": 2770
+      },
+      "entry_id": "a4442eed-8f9c-415f-ae34-162aac6cf414_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь капитана, девица",
+          "name": "Ольга",
+          "second_name": "Львова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ганичева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Потулова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Потулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын отставного капитана",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Потулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын отставного капитана",
+          "name": "Владимир",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Потулов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

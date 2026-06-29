@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 309,
+  "node_id": "f7eac9df-9bf4-455f-aa9f-cd8d5cf83ae0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 559,
+        "width": 1489,
+        "x": 1036,
+        "y": 1094
+      },
+      "entry_id": "f7eac9df-9bf4-455f-aa9f-cd8d5cf83ae0_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Алехин-Саикин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Басманковская волость, деревня Ивановская",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алехин-Саикин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 425,
+        "width": 1481,
+        "x": 1057,
+        "y": 1847
+      },
+      "entry_id": "f7eac9df-9bf4-455f-aa9f-cd8d5cf83ae0_2",
+      "people": [
+        {
+          "age": "11 дней",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шнейдер"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шнейдер"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 622,
+        "width": 1492,
+        "x": 1064,
+        "y": 2469
+      },
+      "entry_id": "f7eac9df-9bf4-455f-aa9f-cd8d5cf83ae0_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шалай"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоградволынский уезд, Полонская волость, деревня Паники",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "other_status": "мать умершего",
+          "second_name": "Станиславова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Шалай"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1469,
+        "x": 1081,
+        "y": 3270
+      },
+      "entry_id": "f7eac9df-9bf4-455f-aa9f-cd8d5cf83ae0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рощинская волость, деревня Башкордово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пудов"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пудова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

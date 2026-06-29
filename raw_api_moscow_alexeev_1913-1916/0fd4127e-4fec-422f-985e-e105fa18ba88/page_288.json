@@ -1,0 +1,129 @@
+{
+  "year": 1914,
+  "page": 288,
+  "node_id": "8d23a9c0-3ca6-489b-9b00-bba735ae85fe",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1476,
+        "x": 947,
+        "y": 810
+      },
+      "entry_id": "8d23a9c0-3ca6-489b-9b00-bba735ae85fe_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ильицинская волость, село Жилкино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колобашкин"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Колобашкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 362,
+        "width": 1445,
+        "x": 957,
+        "y": 1435
+      },
+      "entry_id": "8d23a9c0-3ca6-489b-9b00-bba735ae85fe_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Ищеинская волость, деревня Грибенкино",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 451,
+        "width": 1435,
+        "x": 956,
+        "y": 2051
+      },
+      "entry_id": "8d23a9c0-3ca6-489b-9b00-bba735ae85fe_0",
+      "people": [
+        {
+          "age": "4",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская волость, Козловский уезд, Тютчевская волость, деревня Грачево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Артемьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Борисов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1461,
+        "x": 973,
+        "y": 2680
+      },
+      "entry_id": "8d23a9c0-3ca6-489b-9b00-bba735ae85fe_1",
+      "people": [
+        {
+          "age": "21",
+          "geo": "",
+          "info": "потомственная дворянка",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Смыдович"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

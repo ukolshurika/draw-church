@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 66,
+  "node_id": "09197f9c-de43-4687-966f-76ccd4a38ad1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2757,
+        "x": 911,
+        "y": 1093
+      },
+      "entry_id": "09197f9c-de43-4687-966f-76ccd4a38ad1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кончинская волость, село Сергиевское",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сухановская волость, деревня Падзавалья",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крутицкий"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Сергиевская волость, село Камыкино",
+          "info": "крестьянская дочь",
+          "name": "Анастасия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вискова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2759,
+        "x": 909,
+        "y": 1808
+      },
+      "entry_id": "09197f9c-de43-4687-966f-76ccd4a38ad1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Феоктистова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, село Потапово",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Феоктистов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Феоктистов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Островская волость, деревня Грязново",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, деревня Погорелое",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2753,
+        "x": 919,
+        "y": 2445
+      },
+      "entry_id": "09197f9c-de43-4687-966f-76ccd4a38ad1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Тесиникова",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Евдокия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кириллов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 2778,
+        "x": 916,
+        "y": 3178
+      },
+      "entry_id": "09197f9c-de43-4687-966f-76ccd4a38ad1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Ивановская волость, деревня Черемисиново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жемчугов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "вдова",
+          "name": "Наталия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

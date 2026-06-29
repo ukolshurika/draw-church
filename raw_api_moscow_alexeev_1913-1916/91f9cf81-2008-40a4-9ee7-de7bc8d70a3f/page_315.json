@@ -1,0 +1,97 @@
+{
+  "year": 1916,
+  "page": 315,
+  "node_id": "7e86aeb8-34ea-490b-8313-bad2ef269aaf",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 493,
+        "width": 1434,
+        "x": 1102,
+        "y": 1069
+      },
+      "entry_id": "7e86aeb8-34ea-490b-8313-bad2ef269aaf_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, деревня Липова",
+          "info": "крестьянин",
+          "name": "Исидор",
+          "other_status": "отец умершего",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Попов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 291,
+        "width": 1440,
+        "x": 1117,
+        "y": 1749
+      },
+      "entry_id": "7e86aeb8-34ea-490b-8313-bad2ef269aaf_0",
+      "people": [
+        {
+          "age": "38",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Мария",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Корычева-Рожкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1400,
+        "x": 1141,
+        "y": 3286
+      },
+      "entry_id": "7e86aeb8-34ea-490b-8313-bad2ef269aaf_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Токаревская волость, село Зимино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Саратовский"
+        },
+        {
+          "age": "1 год 4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Саратовский"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

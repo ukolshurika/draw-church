@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 103,
+  "node_id": "33cd697e-8497-454d-8f03-125df3643a87",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 676,
+        "width": 2864,
+        "x": 912,
+        "y": 1119
+      },
+      "entry_id": "33cd697e-8497-454d-8f03-125df3643a87_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Спасский уезд, деревня Тири",
+          "info": "крестьянин",
+          "name": "Аким",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, село Мозалево",
+          "info": "крестьянская жена",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 790,
+        "width": 2876,
+        "x": 931,
+        "y": 1994
+      },
+      "entry_id": "33cd697e-8497-454d-8f03-125df3643a87_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Станцкая волость, деревня Давыдово",
+          "info": "крестьянская жена",
+          "name": "Ольга",
+          "second_name": "Исаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Кленовская волость, село Богоявление",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Исаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федосеева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Подвязьевский уезд, Подвязьевская волость, деревня Нашатыркино",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федосеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 974,
+        "width": 2924,
+        "x": 929,
+        "y": 2947
+      },
+      "entry_id": "33cd697e-8497-454d-8f03-125df3643a87_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Черницкий уезд, Лужанская волость, деревня Пешкова",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Денисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Каменская волость, деревня Михалево",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Одинцов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Сорокино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

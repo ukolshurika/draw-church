@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 81,
+  "node_id": "2643eda3-766b-4734-b48e-47969779247c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 553,
+        "width": 2875,
+        "x": 764,
+        "y": 880
+      },
+      "entry_id": "2643eda3-766b-4734-b48e-47969779247c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коновалова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Коробовская волость, деревня Губина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коновалов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Лосьминская волость, деревня Слободки",
+          "info": "крестьянка, вдова",
+          "name": "Алимпиада",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2865,
+        "x": 759,
+        "y": 1431
+      },
+      "entry_id": "2643eda3-766b-4734-b48e-47969779247c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Игнатиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ворса"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лукашево, Минская губерния, Борисовкий уезд, Смолевичская волость, село Жодино",
+          "info": "крестьянин",
+          "name": "Игнатий",
+          "second_name": "Пахомов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ворса"
+        },
+        {
+          "age": "",
+          "geo": "село Жодино",
+          "info": "девица",
+          "name": "Серафима",
+          "second_name": "Игнатиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ворса"
+        },
+        {
+          "age": "",
+          "geo": "село Жодино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ворса"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ворса"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2866,
+        "x": 756,
+        "y": 1976
+      },
+      "entry_id": "2643eda3-766b-4734-b48e-47969779247c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Зайцевская волость, деревня Беликова",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "other_status": "жена крестного отца",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Зубкова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Брыни, Ельнинский уезд, Контлинская волость",
+          "info": "крестьянин",
+          "name": "Архипп",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савченков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савченкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская мещанская слобода, Сыромятникова слобода",
+          "info": "мещанка",
+          "name": "София",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антипенкова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Силешни",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Демьянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гуленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Архиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савченков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 2871,
+        "x": 746,
+        "y": 2525
+      },
+      "entry_id": "2643eda3-766b-4734-b48e-47969779247c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка Сыромятной слободы",
+          "name": "София",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антипенкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Заокский уезд, Зайцевская волость, деревня Беликова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Волков",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Волкович"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкович"
+        },
+        {
+          "age": "",
+          "geo": "деревня Волковичи",
+          "info": "московский мещанин Сыромятной слободы",
+          "name": "Виктор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Волкович"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

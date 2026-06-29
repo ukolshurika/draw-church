@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 24,
+  "node_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 307,
+        "width": 2960,
+        "x": 693,
+        "y": 934
+      },
+      "entry_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, жительница Жиздры",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лопатина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Комиссарова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Рязанская волость, село",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Комиссаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Комиссаров"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 330,
+        "width": 2967,
+        "x": 696,
+        "y": 1315
+      },
+      "entry_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Березовская волость, деревня Карьева",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Карьева",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Арешина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Бородинская волость, село Ельня",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лазарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Арешина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 363,
+        "width": 2943,
+        "x": 710,
+        "y": 1680
+      },
+      "entry_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горохов"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода, Огородная слобода",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Геннадий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тарасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тарасова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Архангельская волость, село Бахметево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тарасов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 388,
+        "width": 2967,
+        "x": 703,
+        "y": 2056
+      },
+      "entry_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Долговская волость, село Войсково",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Игнатова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Долговская волость, село Войсково",
+          "info": "крестьянин",
+          "name": "Митрофан",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Солодов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Яковлевская волость, село Красная Слобода",
+          "info": "девица",
+          "name": "Любовь",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Наумова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 456,
+        "width": 2964,
+        "x": 701,
+        "y": 2610
+      },
+      "entry_id": "4651b747-ed1f-4139-b4b3-ed708c9abfb8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверская мещанка",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын родителя",
+          "name": "Александр",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Тихомирова",
+          "info": "старший нештатный контролер 1-го округа Московского акцизного управления, майор в отставке",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

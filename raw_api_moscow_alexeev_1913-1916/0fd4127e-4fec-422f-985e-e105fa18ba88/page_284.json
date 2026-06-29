@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 284,
+  "node_id": "a8693157-91d1-46ed-bdd3-a4c0c3180835",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 497,
+        "width": 1426,
+        "x": 961,
+        "y": 879
+      },
+      "entry_id": "a8693157-91d1-46ed-bdd3-a4c0c3180835_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Селявинская волость, село Кутепово",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Киргошин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Киргошин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1495,
+        "x": 955,
+        "y": 1498
+      },
+      "entry_id": "a8693157-91d1-46ed-bdd3-a4c0c3180835_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Погорельское",
+          "info": "мещанин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ведерников"
+        },
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ведерникова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 1501,
+        "x": 936,
+        "y": 2110
+      },
+      "entry_id": "a8693157-91d1-46ed-bdd3-a4c0c3180835_1",
+      "people": [
+        {
+          "age": "21",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Крица",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Юдакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Крица",
+          "info": "",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 374,
+        "width": 1425,
+        "x": 945,
+        "y": 2735
+      },
+      "entry_id": "a8693157-91d1-46ed-bdd3-a4c0c3180835_3",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд",
+          "info": "мещанин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карасев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

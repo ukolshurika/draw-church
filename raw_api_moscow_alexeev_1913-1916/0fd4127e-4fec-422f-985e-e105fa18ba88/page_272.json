@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 272,
+  "node_id": "fd439015-729b-4f90-8b60-186d6ac75560",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 558,
+        "width": 1520,
+        "x": 938,
+        "y": 971
+      },
+      "entry_id": "fd439015-729b-4f90-8b60-186d6ac75560_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Красногорская волость, село Лесок",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерохин"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ерохина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 1491,
+        "x": 929,
+        "y": 1665
+      },
+      "entry_id": "fd439015-729b-4f90-8b60-186d6ac75560_0",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горюлов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Алексеевка",
+          "info": "крестьянин",
+          "name": "Косма",
+          "other_status": "отец умершего",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горюлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 428,
+        "width": 1480,
+        "x": 920,
+        "y": 2299
+      },
+      "entry_id": "fd439015-729b-4f90-8b60-186d6ac75560_2",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кубасов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Горновецкий уезд, Красносельская волость, деревня Случково",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кубасов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1446,
+        "x": 915,
+        "y": 2872
+      },
+      "entry_id": "fd439015-729b-4f90-8b60-186d6ac75560_3",
+      "people": [
+        {
+          "age": "62",
+          "geo": "Тульская губерния, Веневский уезд, Косяевская волость, село Клыново",
+          "info": "умерший",
+          "name": "Иван",
+          "second_name": "Кудинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

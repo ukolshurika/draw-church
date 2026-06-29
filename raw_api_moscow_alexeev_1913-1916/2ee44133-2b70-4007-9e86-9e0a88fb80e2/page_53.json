@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 53,
+  "node_id": "e3865be7-6d68-4524-81bd-c2d880431648",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2686,
+        "x": 957,
+        "y": 1131
+      },
+      "entry_id": "e3865be7-6d68-4524-81bd-c2d880431648_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Шуйский уезд, Якиманская волость, деревня Гридкино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Кадашевская слобода",
+          "info": "московский мещанин",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Селецкий"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Шелковская волость, деревня Грибцово",
+          "info": "крестьянин",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 2689,
+        "x": 956,
+        "y": 1909
+      },
+      "entry_id": "e3865be7-6d68-4524-81bd-c2d880431648_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Давыдовская волость, село Большое Кузнецово",
+          "info": "сын родителя",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кирилова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ржевский мещанин",
+          "info": "Тверской губернии Ржевский мещанин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павла",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Седова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2659,
+        "x": 965,
+        "y": 2536
+      },
+      "entry_id": "e3865be7-6d68-4524-81bd-c2d880431648_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, деревня Бариново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Краснинская волость, деревня Дорки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Курмышский уезд, Бахревская волость, деревня Дорки",
+          "info": "крестьянская дочь",
+          "name": "Дария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Миронова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 714,
+        "width": 2665,
+        "x": 962,
+        "y": 3171
+      },
+      "entry_id": "e3865be7-6d68-4524-81bd-c2d880431648_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Клинский волость, село Мильшино",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горшков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Горшкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лутунина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Логгинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горшкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

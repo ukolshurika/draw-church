@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 140,
+  "node_id": "16a211ba-d4f3-42cc-9ae2-85b6eb84b8f4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 523,
+        "width": 2862,
+        "x": 789,
+        "y": 945
+      },
+      "entry_id": "16a211ba-d4f3-42cc-9ae2-85b6eb84b8f4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость и село Сергиевское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ларин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зеянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ежова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Новоселки, Ефремовская волость, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зеянов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чирьева",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "муж крестной матери",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ежов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зеянова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2881,
+        "x": 772,
+        "y": 1566
+      },
+      "entry_id": "16a211ba-d4f3-42cc-9ae2-85b6eb84b8f4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ирошникова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Будоговищенская волость",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ирошников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2925,
+        "x": 767,
+        "y": 2236
+      },
+      "entry_id": "16a211ba-d4f3-42cc-9ae2-85b6eb84b8f4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Малинковская волость, село Малинок",
+          "info": "крестьянка, девица",
+          "name": "Варвара",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матюхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Коплинская волость, деревня Селезенево",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Янков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 581,
+        "width": 2915,
+        "x": 758,
+        "y": 2868
+      },
+      "entry_id": "16a211ba-d4f3-42cc-9ae2-85b6eb84b8f4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, село Тюнежа",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ротин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Змиевская волость, село Змиевка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тюмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ротина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спасо-Журавенская волость, деревня Зайцева",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Биркина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ротина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

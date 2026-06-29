@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 303,
+  "node_id": "72ca335b-f28e-4845-9eca-1593e1941b13",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1460,
+        "x": 999,
+        "y": 813
+      },
+      "entry_id": "72ca335b-f28e-4845-9eca-1593e1941b13_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Алпатьевская волость, деревня Ганькино",
+          "info": "",
+          "name": "Степан",
+          "other_status": "отецумершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Арчаков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "Рязанская губерния, Зарайский уезд, Алпатьевская волость, деревня Ганькино",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Арчаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 1482,
+        "x": 990,
+        "y": 1436
+      },
+      "entry_id": "72ca335b-f28e-4845-9eca-1593e1941b13_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Белевич"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Волковысский уезд, Бискупицкая волость, деревня Войткевич",
+          "info": "",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Белевич"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 1476,
+        "x": 997,
+        "y": 2170
+      },
+      "entry_id": "72ca335b-f28e-4845-9eca-1593e1941b13_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, сельцо Петрушино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гермогенов"
+        },
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гермогенова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 495,
+        "width": 1483,
+        "x": 985,
+        "y": 2805
+      },
+      "entry_id": "72ca335b-f28e-4845-9eca-1593e1941b13_1",
+      "people": [
+        {
+          "age": "17 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васин"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Чахинская волость, деревня Подгорцы",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,319 @@
+{
+  "year": 1914,
+  "page": 97,
+  "node_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 390,
+        "width": 2873,
+        "x": 739,
+        "y": 853
+      },
+      "entry_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Виленская губерния, Дисненский уезд, Прозорская волость, деревня Лапези",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куан"
+        },
+        {
+          "age": "",
+          "geo": "Холмская губерния, Константиновское уединение, гмина и село Ново-Павлово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васкевич"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 436,
+        "width": 2891,
+        "x": 738,
+        "y": 1297
+      },
+      "entry_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "Калужский уезд, Осеевская волость, село Жигалово",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Дисненский уезд, Прозоркская волость, деревня Лапези",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Елена",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 410,
+        "width": 2940,
+        "x": 725,
+        "y": 1924
+      },
+      "entry_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "село Воскресенское, Луженская волость",
+          "info": "священник",
+          "name": "Семен",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Абалин"
+        },
+        {
+          "age": "",
+          "geo": "село Ладыжино",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малолетнова"
+        },
+        {
+          "age": "",
+          "geo": "село Воскресенское, Луженская волость, Чернский уезд, Тульская губерния",
+          "info": "священник",
+          "name": "Дмитрий",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 2918,
+        "x": 718,
+        "y": 2395
+      },
+      "entry_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лозинцева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Спасская волость, деревня Акимова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лозинцев"
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, Скоморошинская волость, деревня Гурьево",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гнутова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лозинцева"
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, Ямская слобода",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Эрастов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2931,
+        "x": 720,
+        "y": 2993
+      },
+      "entry_id": "00b7a5bf-eb55-4705-98d4-bc19139d57c2_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Ульяновская волость, деревня Чибычкино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лукин"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Судниковская волость, деревня Таблово",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хитрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Частинская волость, деревня Изроч",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грачев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

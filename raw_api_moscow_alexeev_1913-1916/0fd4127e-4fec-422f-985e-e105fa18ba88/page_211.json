@@ -1,0 +1,113 @@
+{
+  "year": 1914,
+  "page": 211,
+  "node_id": "bd827ddb-5b6a-493a-9fb2-2d3ecb1e1d2a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 828,
+        "width": 3517,
+        "x": 496,
+        "y": 867
+      },
+      "entry_id": "bd827ddb-5b6a-493a-9fb2-2d3ecb1e1d2a_1",
+      "people": [
+        {
+          "age": "24",
+          "geo": "Московская губерния, Клинский уезд, Круговская волость, деревня Курьяново",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Еремеева (Егорова)"
+        },
+        {
+          "age": "25",
+          "geo": "Калужская губерния, Тарусский уезд, Богимовская волость, деревня Заднево",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Еремеев"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 1134,
+        "width": 3538,
+        "x": 483,
+        "y": 1912
+      },
+      "entry_id": "bd827ddb-5b6a-493a-9fb2-2d3ecb1e1d2a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "клинский мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Бороникин"
+        },
+        {
+          "age": "",
+          "geo": "Харьков",
+          "info": "мещанин",
+          "name": "Тимофей",
+          "second_name": "Филатов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Чернов"
+        },
+        {
+          "age": "20",
+          "geo": "Ярославская губерния, Рыбинский уезд",
+          "info": "мещанка, девица",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Богачева (Иванова)"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Суйская волость, деревня Ефремовка",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Ларин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославский уезд, Курбская волость, деревня Девятова",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Чигариков"
+        },
+        {
+          "age": "19",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Суткинская волость, деревня Холмянка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Богачев"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

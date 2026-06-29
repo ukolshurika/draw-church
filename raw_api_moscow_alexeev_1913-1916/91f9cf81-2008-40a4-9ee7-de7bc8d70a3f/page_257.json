@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 257,
+  "node_id": "7f9807b3-ff4a-4c01-8027-6eea245ff573",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 424,
+        "width": 1452,
+        "x": 1063,
+        "y": 1096
+      },
+      "entry_id": "7f9807b3-ff4a-4c01-8027-6eea245ff573_3",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "внебрачный сын",
+          "name": "Лев",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Орховский"
+        },
+        {
+          "age": "",
+          "geo": "Радомская губерния, город Козеницы",
+          "info": "мещанка, девица",
+          "name": "Стефания",
+          "other_status": "мать умершего",
+          "second_name": "Францева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Орховская"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1414,
+        "x": 1066,
+        "y": 1730
+      },
+      "entry_id": "7f9807b3-ff4a-4c01-8027-6eea245ff573_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ново-Шишевская волость, село Комаревка",
+          "info": "крестьянин",
+          "name": "Симон",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Анисимов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Симонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Анисимов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 1420,
+        "x": 1066,
+        "y": 2385
+      },
+      "entry_id": "7f9807b3-ff4a-4c01-8027-6eea245ff573_1",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "внебрачный сын",
+          "name": "Василий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Артамонов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Мячковская волость, сельцо Скрыпино",
+          "info": "крестьянская девица",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Артамонова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 471,
+        "width": 1474,
+        "x": 1065,
+        "y": 3126
+      },
+      "entry_id": "7f9807b3-ff4a-4c01-8027-6eea245ff573_0",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гаврилина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Ржаевская волость, деревня Сороченки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гаврилин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

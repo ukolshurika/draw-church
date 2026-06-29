@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 111,
+  "node_id": "df4f1825-e7f7-4f4d-a0b7-8ba1893c60b3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 497,
+        "width": 2783,
+        "x": 937,
+        "y": 1080
+      },
+      "entry_id": "df4f1825-e7f7-4f4d-a0b7-8ba1893c60b3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанская жена",
+          "name": "Ксения",
+          "other_status": "муж крестной матери",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Жуковская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зарайская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соголевская волость, деревня Напругово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зарайский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жуковская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зарайский"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жуковский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 744,
+        "width": 2808,
+        "x": 939,
+        "y": 1870
+      },
+      "entry_id": "df4f1825-e7f7-4f4d-a0b7-8ba1893c60b3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Гагаринская волость, деревня Сретенье",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зимина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Митракова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, деревня Морозова",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Табаков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Конецпольская волость, село Конецполье",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Митраков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Митракова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 684,
+        "width": 2805,
+        "x": 934,
+        "y": 2760
+      },
+      "entry_id": "df4f1825-e7f7-4f4d-a0b7-8ba1893c60b3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гладышева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, деревня Бутырки",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыганов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Голунская волость, село Голуни",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

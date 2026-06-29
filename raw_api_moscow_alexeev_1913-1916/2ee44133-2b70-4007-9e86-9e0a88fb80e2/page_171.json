@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 171,
+  "node_id": "d80fccab-75a8-45e3-b381-a59b067095b4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 702,
+        "width": 2707,
+        "x": 924,
+        "y": 1059
+      },
+      "entry_id": "d80fccab-75a8-45e3-b381-a59b067095b4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ситникова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Захарьинская волость, деревня Уварово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Устинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ситников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Баловневская волость, деревня Зашево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ситников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ростов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ростов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2702,
+        "x": 922,
+        "y": 1961
+      },
+      "entry_id": "d80fccab-75a8-45e3-b381-a59b067095b4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ново-Тишевская волость, село Комаревка",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Анисимов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Михайлов",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коняев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Анисимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Анисимова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Михайлов",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Родина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 700,
+        "width": 2704,
+        "x": 932,
+        "y": 2781
+      },
+      "entry_id": "d80fccab-75a8-45e3-b381-a59b067095b4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Первачева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, село Стомна",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ножкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Диаконовская волость, деревня Пряхино",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Первачев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Первачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Первачева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

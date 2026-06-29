@@ -1,0 +1,380 @@
+{
+  "year": 1914,
+  "page": 39,
+  "node_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 559,
+        "width": 2884,
+        "x": 705,
+        "y": 907
+      },
+      "entry_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Чуклаево, Московская губерния",
+          "info": "медный цех",
+          "name": "Федор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, село Хрусталей",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Амелин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мавра",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Данковская волость, деревня Сухой Рожни",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, деревня Озерки",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шмакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 814,
+        "width": 2892,
+        "x": 703,
+        "y": 1381
+      },
+      "entry_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Минаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Вендовская волость, деревня Негловая",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Аверкиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовский стан, деревня Озерки",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шмакова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, село Хрусталей",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Амелин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Долговская волость, деревня Сухой Рожни",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Пузина",
+          "info": "крестьянин",
+          "name": "Нил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Минаева"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Стрелецкая волость, деревня Валабуева",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрельцовская волость, село Вязова",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чапова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 2853,
+        "x": 703,
+        "y": 2129
+      },
+      "entry_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Стрелецкая волость, деревня Валабуево",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ведновская волость, деревня Негловая",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Аверкиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Орниженская волость, деревня Никольская",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пиненкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Орниженская волость, деревня Никольская",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пиненков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Высоковая",
+          "info": "девица",
+          "name": "София",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Помазкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сифирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Помазкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 349,
+        "width": 2864,
+        "x": 706,
+        "y": 2518
+      },
+      "entry_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский цеховой шапочного цеха",
+          "name": "Агриппин",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юрьев"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Городокский уезд, Старинская волость, деревня Бычки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Семенова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 359,
+        "width": 2862,
+        "x": 709,
+        "y": 2925
+      },
+      "entry_id": "564ef83e-2ac7-451b-a0b0-1216b91c5ef5_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь губернского секретаря, девица",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трипольская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент медицинского факультета Императорского университета",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трипольский"
+        },
+        {
+          "age": "",
+          "geo": "деревня Фурсово",
+          "info": "коллежский регистратор",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вениаминов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Вениаминова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вениаминова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Вениаминова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

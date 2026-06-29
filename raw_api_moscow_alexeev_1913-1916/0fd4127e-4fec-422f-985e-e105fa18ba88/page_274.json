@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 274,
+  "node_id": "596c8132-da38-412a-9ab4-2de6470b5055",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 664,
+        "width": 1535,
+        "x": 931,
+        "y": 910
+      },
+      "entry_id": "596c8132-da38-412a-9ab4-2de6470b5055_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Верховье-Малышкинская волость, деревня Белькова",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Адрианова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "17 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гусева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 215,
+        "width": 1438,
+        "x": 937,
+        "y": 1688
+      },
+      "entry_id": "596c8132-da38-412a-9ab4-2de6470b5055_3",
+      "people": [
+        {
+          "age": "80",
+          "geo": "Смоленская губерния, Бельский уезд, Верховье-Малышкинская волость, деревня Бельков",
+          "info": "крестьянка, дочь Пелагии Адриановой Гусевой",
+          "name": "Валентина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гусева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 1540,
+        "x": 927,
+        "y": 2082
+      },
+      "entry_id": "596c8132-da38-412a-9ab4-2de6470b5055_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Васильевская волость, деревня Савина",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "other_status": "мать умершего",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Платонова"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Платонова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 1457,
+        "x": 924,
+        "y": 2774
+      },
+      "entry_id": "596c8132-da38-412a-9ab4-2de6470b5055_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Моисеев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Рахотская волость, деревня Жохово",
+          "info": "крестьянка, вдова",
+          "name": "Варвара",
+          "other_status": "мать умершего",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Моисеева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

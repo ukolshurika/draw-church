@@ -1,0 +1,238 @@
+{
+  "year": 1914,
+  "page": 95,
+  "node_id": "0d80f4c9-5bcb-409d-8114-aca0f62be9d8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 485,
+        "width": 2821,
+        "x": 742,
+        "y": 989
+      },
+      "entry_id": "0d80f4c9-5bcb-409d-8114-aca0f62be9d8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Огородная слобода",
+          "info": "мещанская девица",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яхонтова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Семеновская волость, село Оксино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Машкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Машкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Машкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Петровская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Владимиров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2848,
+        "x": 736,
+        "y": 1526
+      },
+      "entry_id": "0d80f4c9-5bcb-409d-8114-aca0f62be9d8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Косаревская волость, село Усека",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ясиновская волость, село Ольхово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Першаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Ильиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Троицко-Бачуринская волость, деревня Кривцево",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Адрианов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 2884,
+        "x": 725,
+        "y": 2085
+      },
+      "entry_id": "0d80f4c9-5bcb-409d-8114-aca0f62be9d8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Белореченская волость, деревня Брусяная",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Шигаевская волость, деревня Кисарова",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болтухина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 609,
+        "width": 2878,
+        "x": 724,
+        "y": 2625
+      },
+      "entry_id": "0d80f4c9-5bcb-409d-8114-aca0f62be9d8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Анфолова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Домов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Анфолов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Антохина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Антохин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Архангельская волость, деревня Демина",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антонин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, деревня Воздвиженка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Антохин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

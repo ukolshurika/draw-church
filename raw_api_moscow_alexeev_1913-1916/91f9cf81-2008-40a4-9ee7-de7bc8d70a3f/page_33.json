@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 33,
+  "node_id": "4b3ffdc8-68d2-4e0d-a3c7-9a163eba2af8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 531,
+        "width": 2726,
+        "x": 920,
+        "y": 1008
+      },
+      "entry_id": "4b3ffdc8-68d2-4e0d-a3c7-9a163eba2af8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовский уезд, Екимовская волость, село Стафурлово",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Даниилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чибизова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 2736,
+        "x": 926,
+        "y": 1703
+      },
+      "entry_id": "4b3ffdc8-68d2-4e0d-a3c7-9a163eba2af8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Лихвин",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Азаров"
+        },
+        {
+          "age": "",
+          "geo": "город Рязань",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "город Рязань",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2691,
+        "x": 937,
+        "y": 2339
+      },
+      "entry_id": "4b3ffdc8-68d2-4e0d-a3c7-9a163eba2af8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баженова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудинов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Поречская волость, село Поречье",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баженов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пивоварова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баженов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2678,
+        "x": 949,
+        "y": 3130
+      },
+      "entry_id": "4b3ffdc8-68d2-4e0d-a3c7-9a163eba2af8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Красногорская волость, сельцо Лесово",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чупикин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чупикина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ерохина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Перхушковская волость, село Акулово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чупикина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

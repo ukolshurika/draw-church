@@ -1,0 +1,176 @@
+{
+  "year": 1915,
+  "page": 174,
+  "node_id": "4037e812-259f-41ed-aa3b-8f9890b963d5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 885,
+        "width": 2754,
+        "x": 932,
+        "y": 1123
+      },
+      "entry_id": "4037e812-259f-41ed-aa3b-8f9890b963d5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский советник, преподаватель средних учебных заведений",
+          "name": "Роман",
+          "second_name": "Николаевич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Богданов"
+        },
+        {
+          "age": "40",
+          "geo": "",
+          "info": "коллежский секретарь",
+          "name": "Роберт",
+          "second_name": "Робертович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Брилинг"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Роман",
+          "second_name": "Робертов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Брилинг"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена священника Московского Алексеевского монастыря",
+          "name": "Лидия",
+          "other_status": "жена крестного отца",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 659,
+        "width": 2753,
+        "x": 931,
+        "y": 2060
+      },
+      "entry_id": "4037e812-259f-41ed-aa3b-8f9890b963d5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Музалев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степанида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Музалева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Бобровская волость, деревня Гришенково",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Музалев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Бояркинская волость, село",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Адрианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Болванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 888,
+        "width": 2811,
+        "x": 948,
+        "y": 2811
+      },
+      "entry_id": "4037e812-259f-41ed-aa3b-8f9890b963d5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вятская губерния, Яринский уезд, Кокшарская волость, село",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Татаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Татаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Яшкинская волость, деревня Иваньково",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Буланова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоневская волость, деревня Кондауровка",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иустиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Татаева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

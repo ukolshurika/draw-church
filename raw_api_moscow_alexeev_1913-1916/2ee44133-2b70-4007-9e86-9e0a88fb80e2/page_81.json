@@ -1,0 +1,310 @@
+{
+  "year": 1915,
+  "page": 81,
+  "node_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 388,
+        "width": 2796,
+        "x": 894,
+        "y": 1038
+      },
+      "entry_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Юлия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бражникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бражникова"
+        },
+        {
+          "age": "",
+          "geo": "Тросненская волость, деревня Бутькова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Тросненская волость, село Тросны",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бражников"
+        },
+        {
+          "age": "",
+          "geo": "село Тросны",
+          "info": "",
+          "name": "Пелагея",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бражникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2775,
+        "x": 899,
+        "y": 1574
+      },
+      "entry_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Арсениев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ковальков"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Карачевский уезд, Шаблыкинская волость, село Ячное",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сафонов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Селецкая волость, деревня Лядище",
+          "info": "крестьянин",
+          "name": "Арсений",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ковальков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Устиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ковалькова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Белей",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Касирерова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 550,
+        "width": 2782,
+        "x": 894,
+        "y": 2129
+      },
+      "entry_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Мячковская волость, деревня Санино",
+          "info": "крестьянин",
+          "name": "Памфил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Евсеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сухорукія"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусатский уезд, Липецкая волость, деревня Вороново",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитриев"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Вилейский уезд, Мядельская волость, деревня Круцы",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сухорукій"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сухорукія"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Марія",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 460,
+        "width": 2734,
+        "x": 907,
+        "y": 2737
+      },
+      "entry_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Петровская волость, деревня Ростиново",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 414,
+        "width": 2739,
+        "x": 908,
+        "y": 3281
+      },
+      "entry_id": "20a38a27-6ad2-4488-a9de-6ec2aa726938_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тиняков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тинякова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, село Любичь",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тиняков"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, город Сарапул",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Саввин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тарантин"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад (Надежда)",
+          "info": "мещанка",
+          "name": "Надежда",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тарасова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

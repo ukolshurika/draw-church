@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 289,
+  "node_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 473,
+        "width": 1496,
+        "x": 928,
+        "y": 785
+      },
+      "entry_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Костромская губерния, Солигаличский уезд, Георгиевская волость, деревня Цилимово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Медведёв"
+        },
+        {
+          "age": "3 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Медведёва"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 246,
+        "width": 1448,
+        "x": 935,
+        "y": 1429
+      },
+      "entry_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f_3",
+      "people": [
+        {
+          "age": "64",
+          "geo": "",
+          "info": "генерал-майор в отставке",
+          "name": "Евгений",
+          "second_name": "Андреевич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Малиновский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 344,
+        "width": 1458,
+        "x": 929,
+        "y": 1844
+      },
+      "entry_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f_1",
+      "people": [
+        {
+          "age": "57",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, деревня Любимовка",
+          "info": "крестьянин",
+          "name": "Спиридон",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Давыдов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 465,
+        "width": 1510,
+        "x": 925,
+        "y": 2347
+      },
+      "entry_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Барсуковская волость, село Дужино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Порфириев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сурков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "Калужская губерния, Медынский уезд, Барсуковская волость, село Дужино",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Порфириева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Суркова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 460,
+        "width": 1447,
+        "x": 925,
+        "y": 2974
+      },
+      "entry_id": "2a7d7448-9e7c-40d9-82a6-4d501fc2659f_4",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лизинцев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Спасская волость, село",
+          "info": "крестьянская девица",
+          "name": "Евдокия",
+          "other_status": "мать умершего",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Лизинцева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

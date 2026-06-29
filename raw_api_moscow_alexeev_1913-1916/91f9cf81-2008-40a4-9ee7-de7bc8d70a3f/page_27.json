@@ -1,0 +1,238 @@
+{
+  "year": 1916,
+  "page": 27,
+  "node_id": "fce35d15-36ef-4e6a-be75-bec197452844",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2730,
+        "x": 966,
+        "y": 1002
+      },
+      "entry_id": "fce35d15-36ef-4e6a-be75-bec197452844_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колесникова"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Романовская волость, село Камень",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колесников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Киструсская волость, село Новый Киструс",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Маврин"
+        },
+        {
+          "age": "",
+          "geo": "тот же село",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Андрианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маврин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маврина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Маврина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2712,
+        "x": 973,
+        "y": 1723
+      },
+      "entry_id": "fce35d15-36ef-4e6a-be75-bec197452844_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Княжеские выселки",
+          "info": "жена крестьянина",
+          "name": "Ирина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Суслина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Аксень",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цуканов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Савельева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смолевская волость, деревня Княжеские выселки",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2721,
+        "x": 984,
+        "y": 2474
+      },
+      "entry_id": "fce35d15-36ef-4e6a-be75-bec197452844_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Клинский уезд, Завидовская волость, деревня Елдино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фроловцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фроловцова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Новинская волость, село Шоша",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фроловцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2687,
+        "x": 1003,
+        "y": 3236
+      },
+      "entry_id": "fce35d15-36ef-4e6a-be75-bec197452844_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Мостовский уезд, Мостовская волость, деревня Голынки",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронецкая"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедловская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глинский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

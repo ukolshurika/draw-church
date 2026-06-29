@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 300,
+  "node_id": "cb0b3a3e-8fdd-473e-a587-4dea443684c0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 452,
+        "width": 1429,
+        "x": 1089,
+        "y": 1097
+      },
+      "entry_id": "cb0b3a3e-8fdd-473e-a587-4dea443684c0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Бельский уезд, Лосинская волость, деревня Борисовка",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мацыюк"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Мацыюк"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1427,
+        "x": 1100,
+        "y": 1773
+      },
+      "entry_id": "cb0b3a3e-8fdd-473e-a587-4dea443684c0_3",
+      "people": [
+        {
+          "age": "70",
+          "geo": "",
+          "info": "из дома Павловой, Московская цеховая, ремесленного цеха",
+          "name": "Марфа",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 1408,
+        "x": 1104,
+        "y": 2311
+      },
+      "entry_id": "cb0b3a3e-8fdd-473e-a587-4dea443684c0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Алехино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Агафонов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1406,
+        "x": 1111,
+        "y": 3000
+      },
+      "entry_id": "cb0b3a3e-8fdd-473e-a587-4dea443684c0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Долговская волость, деревня Столбецкая",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калабин"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Калабин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 284,
+  "node_id": "81794cb0-4e4e-4f94-a6c8-a0dfd99cda09",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 490,
+        "width": 1471,
+        "x": 1068,
+        "y": 1139
+      },
+      "entry_id": "81794cb0-4e4e-4f94-a6c8-a0dfd99cda09_3",
+      "people": [
+        {
+          "age": "61",
+          "geo": "Тульская губерния, Веневский уезд, Толстовская волость, село Борщово",
+          "info": "из дома Скворцова крестьянка, вдова",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 338,
+        "width": 1440,
+        "x": 1083,
+        "y": 1852
+      },
+      "entry_id": "81794cb0-4e4e-4f94-a6c8-a0dfd99cda09_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Кузнецкая слобода",
+          "info": "из дома Малышева, московский мещанин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "4 дня",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Владимиров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 1476,
+        "x": 1077,
+        "y": 2587
+      },
+      "entry_id": "81794cb0-4e4e-4f94-a6c8-a0dfd99cda09_1",
+      "people": [
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Емельянова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ямской уезд, Ямская волость, село Никуличи",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Емельянов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 1377,
+        "x": 1091,
+        "y": 3282
+      },
+      "entry_id": "81794cb0-4e4e-4f94-a6c8-a0dfd99cda09_0",
+      "people": [
+        {
+          "age": "30 лет",
+          "geo": "Рязанская губерния, Данковский уезд, Бигильдинская волость, село Бигильдино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Филонов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

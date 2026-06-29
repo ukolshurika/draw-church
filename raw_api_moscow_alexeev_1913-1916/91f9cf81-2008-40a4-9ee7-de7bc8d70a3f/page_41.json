@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 41,
+  "node_id": "2b9d629b-7f64-48a2-bf4d-e1d725386e7d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 583,
+        "width": 2764,
+        "x": 915,
+        "y": 1036
+      },
+      "entry_id": "2b9d629b-7f64-48a2-bf4d-e1d725386e7d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шибаев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Пителинская волость, деревня Борщевки",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шибаев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Садниковская волость, деревня Бутаково",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шибаева"
+        },
+        {
+          "age": "",
+          "geo": "Пителинская волость, село",
+          "info": "вдова",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2758,
+        "x": 909,
+        "y": 1692
+      },
+      "entry_id": "2b9d629b-7f64-48a2-bf4d-e1d725386e7d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Ряжск",
+          "info": "мещанин",
+          "name": "Илья",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бутузова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня Козловка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Глебов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бутузов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Лапшевская волость, деревня Верхнее Гайково",
+          "info": "крестьянин",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Савостьянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бутузова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2749,
+        "x": 908,
+        "y": 2387
+      },
+      "entry_id": "2b9d629b-7f64-48a2-bf4d-e1d725386e7d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Анисимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Елизарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный дворянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бурмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Поляков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Филиндинская волость, деревня Чертовики",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поляков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 618,
+        "width": 2775,
+        "x": 905,
+        "y": 3106
+      },
+      "entry_id": "2b9d629b-7f64-48a2-bf4d-e1d725386e7d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ионкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксиньинская волость, село Маригино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ионкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ионкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Сеньницкая волость, деревня Титово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чудаков"
+        },
+        {
+          "age": "",
+          "geo": "Аксиньинская волость, село Аксиньино",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Козлова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

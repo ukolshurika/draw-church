@@ -1,0 +1,53 @@
+{
+  "year": 1914,
+  "page": 317,
+  "node_id": "2f5ab55f-5ea6-4d08-860d-9f19aec62945",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 343,
+        "width": 1403,
+        "x": 969,
+        "y": 843
+      },
+      "entry_id": "2f5ab55f-5ea6-4d08-860d-9f19aec62945_0",
+      "people": [
+        {
+          "age": "58",
+          "geo": "Рязанская губерния, Ямской уезд, Ямская волость, деревня Соколова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Дьяконов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 301,
+        "width": 1409,
+        "x": 960,
+        "y": 1408
+      },
+      "entry_id": "2f5ab55f-5ea6-4d08-860d-9f19aec62945_1",
+      "people": [
+        {
+          "age": "56",
+          "geo": "",
+          "info": "инженер-механик",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лапшин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

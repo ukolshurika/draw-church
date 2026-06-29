@@ -1,0 +1,331 @@
+{
+  "year": 1914,
+  "page": 15,
+  "node_id": "f6762968-420b-4b50-a271-9e200e3b5491",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 410,
+        "width": 3001,
+        "x": 665,
+        "y": 955
+      },
+      "entry_id": "f6762968-420b-4b50-a271-9e200e3b5491_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Баровская волость, село Ново-Бараково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калин"
+        },
+        {
+          "age": "",
+          "geo": "Скопинский уезд, Полянская волость, село Ново-Бараково",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Томин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калин"
+        },
+        {
+          "age": "",
+          "geo": "Скопинский уезд, Полянская волость, село Ново-Бараково",
+          "info": "девица",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Калина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 2997,
+        "x": 674,
+        "y": 1392
+      },
+      "entry_id": "f6762968-420b-4b50-a271-9e200e3b5491_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Чековский уезд, село Пречистая Гора",
+          "info": "крестьянская дочь, девица",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Клюкин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Андреевско-Годуновская волость, деревня Демьялова",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Балабанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иаков",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Балабанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балабанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 439,
+        "width": 2991,
+        "x": 654,
+        "y": 1805
+      },
+      "entry_id": "f6762968-420b-4b50-a271-9e200e3b5491_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Лукина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "деревня Таблово, Рузский уезд, Садниковская волость",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Размахова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровск",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чуклаево, Орловская губерния, Мценский уезд, Тельженская волость, село Старое",
+          "info": "крестьянин",
+          "name": "Ефрем",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Старых"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 3007,
+        "x": 643,
+        "y": 2208
+      },
+      "entry_id": "f6762968-420b-4b50-a271-9e200e3b5491_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Садниковская волость, деревня Таблово",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Размахова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, деревня Смирново",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 3026,
+        "x": 637,
+        "y": 2667
+      },
+      "entry_id": "f6762968-420b-4b50-a271-9e200e3b5491_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Витебская губерния, Лепельский уезд, Бешенковичская волость, деревня Макаровичи",
+          "info": "крестьянин",
+          "name": "Стахий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "Минский уезд, Койдановская волость, деревня Коверляны",
+          "info": "вдова",
+          "name": "Ирина",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Муровская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Сумский мещанин",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Садко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Геннадий",
+          "second_name": "Стахиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Белоусов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

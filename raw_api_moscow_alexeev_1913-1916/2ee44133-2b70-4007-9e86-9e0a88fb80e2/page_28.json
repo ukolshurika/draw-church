@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 28,
+  "node_id": "2efe8d60-90c3-4f13-bb6a-882025de5d8e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 697,
+        "width": 2759,
+        "x": 944,
+        "y": 1119
+      },
+      "entry_id": "2efe8d60-90c3-4f13-bb6a-882025de5d8e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, деревня Кунина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Арсеньева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Заозерская волость, село Заозерье",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рыльников"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдовская волость, деревня Акатьево",
+          "info": "крестьянка",
+          "name": "Гликерия",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 697,
+        "width": 2762,
+        "x": 944,
+        "y": 1809
+      },
+      "entry_id": "2efe8d60-90c3-4f13-bb6a-882025de5d8e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Лепитинский",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Дорофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Исаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Межуева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Гордеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Межуева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Спас-Волжинская волость, деревня Иваниково",
+          "info": "крестьянин",
+          "name": "Гордей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Межуев"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Мамошинская волость, деревня Стерманова",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болотина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2751,
+        "x": 932,
+        "y": 2586
+      },
+      "entry_id": "2efe8d60-90c3-4f13-bb6a-882025de5d8e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Гонкина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "other_status": "муж крестной матери",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гонкина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещевского уезда, Троснянская волость, село Наумово",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Максимов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гонкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Максимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Максимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 672,
+        "width": 2775,
+        "x": 941,
+        "y": 3249
+      },
+      "entry_id": "2efe8d60-90c3-4f13-bb6a-882025de5d8e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Старое Костино",
+          "info": "крестьянин",
+          "name": "Зосим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ноев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ужалья",
+          "info": "диакон",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Виноградов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колманова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ужалья",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Пафнутьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Виноградова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Колманова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Киструсская волость, деревня Ужалья",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колманов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,141 @@
+{
+  "year": 1914,
+  "page": 273,
+  "node_id": "15c75619-7155-4e35-b24e-f3b1941420a0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1538,
+        "x": 913,
+        "y": 868
+      },
+      "entry_id": "15c75619-7155-4e35-b24e-f3b1941420a0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Софьинская волость, село Синьково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сидорычев"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Сидорычева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 1454,
+        "x": 912,
+        "y": 1451
+      },
+      "entry_id": "15c75619-7155-4e35-b24e-f3b1941420a0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Старолетовская волость, село Среднево",
+          "info": "",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баранцев"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Баранцев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 1546,
+        "x": 901,
+        "y": 2079
+      },
+      "entry_id": "15c75619-7155-4e35-b24e-f3b1941420a0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Виленская губерния, Вилейский уезд, Мядельская волость, деревня Круце",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сухорукий"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Сухорукая"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 536,
+        "width": 1504,
+        "x": 894,
+        "y": 2715
+      },
+      "entry_id": "15c75619-7155-4e35-b24e-f3b1941420a0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Озерецкая волость, село Ярыгино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Самуилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мохов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

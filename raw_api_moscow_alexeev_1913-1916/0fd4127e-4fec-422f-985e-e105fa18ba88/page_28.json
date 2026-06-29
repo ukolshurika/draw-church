@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 28,
+  "node_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 336,
+        "width": 2928,
+        "x": 732,
+        "y": 923
+      },
+      "entry_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Старкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Выхинская волость, деревня Подосинки",
+          "info": "крестьянская вдова",
+          "name": "Агриппина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Липгарта, Оренбургская губерния, Павловский уезд, Павловская волость",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Старков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Старкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 402,
+        "width": 2933,
+        "x": 723,
+        "y": 1313
+      },
+      "entry_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Волковысский уезд, Нениговская волость, деревня Ярушичи",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дерен"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Орешковская волость, деревня Песочная",
+          "info": "вдова",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Аркадьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дерен"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "отставной штабс-капитан",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Агелют"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дерен"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 408,
+        "width": 2962,
+        "x": 728,
+        "y": 1765
+      },
+      "entry_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дерен"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ярушичи, Боровичский уезд, Ровенская волость, Новгородская губерния",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дерен"
+        },
+        {
+          "age": "",
+          "geo": "деревня Плоское, Сычевский уезд, Баскаковская волость, Смоленская губерния",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дерен"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Татьяна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 413,
+        "width": 2986,
+        "x": 722,
+        "y": 2248
+      },
+      "entry_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Рославльский уезд, деревня Митюшино",
+          "info": "Рославльский мещанин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калита"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Десенская волость, деревня Рагозино",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калита"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Докудовская волость, деревня Павлова",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калита"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2960,
+        "x": 727,
+        "y": 2675
+      },
+      "entry_id": "bbf19425-2c59-4b59-b86e-7d90a71f4f46_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Агафонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Глебова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Агафонова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Серединская волость, деревня Семичеева",
+          "info": "крестьянин",
+          "name": "Глеб",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Никольский уезд, Плесовская волость, деревня Линяково",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Блинов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Барятинская волость, деревня Ломакина",
+          "info": "девица",
+          "name": "Анастасия",
+          "second_name": "Фаддеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курилкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

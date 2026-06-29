@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 308,
+  "node_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 283,
+        "width": 1466,
+        "x": 1052,
+        "y": 1135
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_5",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Семион",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Хорошево",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 356,
+        "width": 1479,
+        "x": 1054,
+        "y": 1520
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_3",
+      "people": [
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ларионова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Арзамасский уезд, Выездновская волость, село Кирилловка",
+          "info": "крестьянка, вдова",
+          "name": "Екатерина",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ларионова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 261,
+        "width": 1419,
+        "x": 1057,
+        "y": 1997
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Канаевская волость, деревня Внукова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Писарев"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Писарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1498,
+        "x": 1060,
+        "y": 2417
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стопинский уезд, Стопинская волость, деревня Крут",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Богачев"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Богачева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 307,
+        "width": 1435,
+        "x": 1061,
+        "y": 2828
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Ягодинская волость, село Тихоново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семиков"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Семиков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1491,
+        "x": 1063,
+        "y": 3262
+      },
+      "entry_id": "fdb56a2a-b75d-4ef4-a38a-5540cee88bcd_0",
+      "people": [
+        {
+          "age": "2 недели",
+          "geo": "Смоленская губерния, Вяземский уезд, Спас-Волженская волость, деревня Мартюково",
+          "info": "крестьянка",
+          "name": "Клавдия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

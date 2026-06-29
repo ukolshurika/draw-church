@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 115,
+  "node_id": "aa22a072-f9f3-4d12-a29e-d7a3e29fa2e7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 543,
+        "width": 2702,
+        "x": 908,
+        "y": 1022
+      },
+      "entry_id": "aa22a072-f9f3-4d12-a29e-d7a3e29fa2e7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Муриковская волость, деревня Судислово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Остров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Реброва"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ребров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Михайлов",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сударева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ребров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 2711,
+        "x": 903,
+        "y": 1612
+      },
+      "entry_id": "aa22a072-f9f3-4d12-a29e-d7a3e29fa2e7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кулигов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Рудневский уезд, Рудневская волость, деревня Крюково",
+          "info": "крестьянка, девица",
+          "name": "Дария",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Левкина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Князищевская волость, село Говоренки",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кулигов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулигова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Князищевская волость, село Говоренки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кулигов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2691,
+        "x": 909,
+        "y": 2348
+      },
+      "entry_id": "aa22a072-f9f3-4d12-a29e-d7a3e29fa2e7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кубасов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, город Муром",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бугрова"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "мещанин Сретенской слободы",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лобачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кубасова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Случково",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кубасов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 522,
+        "width": 2694,
+        "x": 910,
+        "y": 3099
+      },
+      "entry_id": "aa22a072-f9f3-4d12-a29e-d7a3e29fa2e7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "в доме Волкович. Потомственный почетный гражданин",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зарубинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зарубинская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зарубинская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дерналов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь коллежского регистратора, девица",
+          "name": "Апполинария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зарубинская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

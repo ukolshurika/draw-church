@@ -1,0 +1,321 @@
+{
+  "year": 1914,
+  "page": 33,
+  "node_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 387,
+        "width": 2867,
+        "x": 720,
+        "y": 915
+      },
+      "entry_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Цыганков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыганкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Слободской уезд, село Никольское",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "other_status": "восприемник",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лужников"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Севский уезд, Радогонская волость, деревня Крестьянка",
+          "info": "крестьянская дочь",
+          "name": "Павла",
+          "other_status": "восприемница",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Феваралева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Скалкина, Смоленская губерния, Ельнинский уезд, Дубосищенская волость, деревня Марьина",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыганков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 446,
+        "width": 2893,
+        "x": 707,
+        "y": 1344
+      },
+      "entry_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шканова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сергеевка",
+          "info": "рязанской губернии, Михайловской волости, крестьянин",
+          "name": "Митрофан",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тельнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шканов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Степаново",
+          "info": "девица",
+          "name": "Марфа",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Митина",
+          "info": "рязанской губернии, Михайловской волости, крестьянин",
+          "name": "Андрей",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шканов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 470,
+        "width": 2885,
+        "x": 700,
+        "y": 1784
+      },
+      "entry_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинской уезд, Борщевская волость, деревня Трехденево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Акатьевская волость, сельцо Апраксино",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Демидова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2888,
+        "x": 683,
+        "y": 2284
+      },
+      "entry_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Карташевскии"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Кадниковскии уезд, Рубенская волость, деревня Пирогова",
+          "info": "диакон",
+          "name": "Владимир",
+          "second_name": "Карташевскии",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фалина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковскии уезд, Спешинская волость, село Жукова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Снетков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Луканова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 598,
+        "width": 2914,
+        "x": 677,
+        "y": 2815
+      },
+      "entry_id": "98d43541-9b50-4c59-92bf-ba3855ec7cdb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Городенский уезд, Городенская волость, деревня Межова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Яковлевская волость, деревня Федотова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Березкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степанида",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Абрамова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Шемякина",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Башанова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

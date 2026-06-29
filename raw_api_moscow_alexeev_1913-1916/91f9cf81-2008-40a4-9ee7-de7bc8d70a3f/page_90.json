@@ -1,0 +1,71 @@
+{
+  "year": 1916,
+  "page": 90,
+  "node_id": "174a01ec-8785-4f3f-b6af-daf48a719d50",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 840,
+        "width": 2755,
+        "x": 936,
+        "y": 2545
+      },
+      "entry_id": "174a01ec-8785-4f3f-b6af-daf48a719d50_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ногаевская волость, Ларгинские хутора",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чистякова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чистяков"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Кологривский уезд, Матвеевская волость, деревня Бабкино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чистяков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Лужинская волость, село Дугна",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воробьева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

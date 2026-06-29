@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 113,
+  "node_id": "e443b8f5-5ca6-4983-9cca-7e3018761390",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 810,
+        "width": 2885,
+        "x": 734,
+        "y": 846
+      },
+      "entry_id": "e443b8f5-5ca6-4983-9cca-7e3018761390_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Аделина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Скарин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Ермолинская волость, деревня Баранова",
+          "info": "вдова",
+          "name": "Александра",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Большакова"
+        },
+        {
+          "age": "33",
+          "geo": "Вольмарский уезд, Пюркская волость",
+          "info": "крестьянка лютеранского исповедания",
+          "name": "Аделина",
+          "second_name": "Эглит",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скарин"
+        },
+        {
+          "age": "",
+          "geo": "Макарьевский уезд, Воздвиженская волость, деревня Большое Левлево",
+          "info": "жандармский унтер-офицер",
+          "name": "Евсевий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сизов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2872,
+        "x": 737,
+        "y": 1779
+      },
+      "entry_id": "e443b8f5-5ca6-4983-9cca-7e3018761390_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын генерала",
+          "name": "Евгений",
+          "other_status": "отец крестной матери",
+          "second_name": "Евгениев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Малиновский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марк",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иогансен"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь генерала",
+          "name": "Нина",
+          "second_name": "Евгениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малиновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иогансен"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Бурыкино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рощин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь генерала",
+          "name": "Ольга",
+          "second_name": "Евгениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малиновская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лаврова",
+          "info": "московский мещанин Нагорной слободы",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иогансен"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2880,
+        "x": 734,
+        "y": 2265
+      },
+      "entry_id": "e443b8f5-5ca6-4983-9cca-7e3018761390_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Бурыкино",
+          "info": "дочь генерала",
+          "name": "Ольга",
+          "second_name": "Евгениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малиновская"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Бурыкино",
+          "info": "дочь генерала",
+          "name": "Нина",
+          "second_name": "Евгениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малиновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чаплин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Бурыкино",
+          "info": "сын генерала",
+          "name": "Евгений",
+          "other_status": "отец крестной матери",
+          "second_name": "Евгениев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Малиновский"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Торжок",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Иустинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Констанденков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Бурыкино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рощин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисья",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чаплина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Доброселье",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чаплин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Карытовская волость, деревня Торжок",
+          "info": "крестьянка",
+          "name": "Милодора",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Констанденкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 598,
+        "width": 2871,
+        "x": 729,
+        "y": 2812
+      },
+      "entry_id": "e443b8f5-5ca6-4983-9cca-7e3018761390_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Лаповицы",
+          "info": "купеческий сын, прапорщик запаса",
+          "name": "Владимир",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Красавин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин, московский 1-й гильдии купец",
+          "name": "Карл",
+          "second_name": "Карлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лаповиц"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Красавина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Карпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Красавина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, дочь потомственного почетного гражданина",
+          "name": "Надежда",
+          "second_name": "Карлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лаповица"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

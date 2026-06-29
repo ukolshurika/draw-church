@@ -1,0 +1,228 @@
+{
+  "year": 1915,
+  "page": 122,
+  "node_id": "19ffdb35-83b2-46ef-bd8f-514087175d94",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 727,
+        "width": 2766,
+        "x": 929,
+        "y": 1085
+      },
+      "entry_id": "19ffdb35-83b2-46ef-bd8f-514087175d94_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петровская"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Варнавинский уезд, Уренская волость, деревня Тунаби",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Евстафьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цветков"
+        },
+        {
+          "age": "",
+          "geo": "Уренская волость, деревня Починок Попуровский",
+          "info": "крестьянин",
+          "name": "Иустин",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Муравьев"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Сокольский уезд, Черновецкая волость, деревня Студенки",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петровский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 725,
+        "width": 2780,
+        "x": 931,
+        "y": 1973
+      },
+      "entry_id": "19ffdb35-83b2-46ef-bd8f-514087175d94_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Медведева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоневская волость, сельцо Желтухино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Великие Луки",
+          "info": "крестьянин",
+          "name": "Илларион",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колпаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Илларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колпакова"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Макар",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Медведев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 723,
+        "width": 2818,
+        "x": 952,
+        "y": 2890
+      },
+      "entry_id": "19ffdb35-83b2-46ef-bd8f-514087175d94_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Христофорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Здоровенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Здоровенкова"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "цеховой столярного цеха",
+          "name": "Исаакий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Загоскинский уезд, Загоскинская волость, село Литомино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Прокофьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Здоровенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дряннова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тарковская волость, село Карпово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дряннов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

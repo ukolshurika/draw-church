@@ -1,0 +1,185 @@
+{
+  "year": 1914,
+  "page": 247,
+  "node_id": "748bd8d8-08ec-423f-82bd-089942c66f48",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 400,
+        "width": 1475,
+        "x": 999,
+        "y": 803
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Нижне-Ломовский уезд, Студенецкая волость, деревня Курчановка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Самохина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 345,
+        "width": 1429,
+        "x": 1000,
+        "y": 1327
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_3",
+      "people": [
+        {
+          "age": "1 год 2 месяца",
+          "geo": "Курская губерния, Ново-Оскольский уезд, Ольшанская волость, село Проточное",
+          "info": "крестьянский сын",
+          "name": "Владимир",
+          "second_name": "Ильич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1478,
+        "x": 992,
+        "y": 1795
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тарусская волость, деревня Сильверстова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Антошкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Антошкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1440,
+        "x": 990,
+        "y": 2249
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_1",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "Пронский уезд, Переволоцкая волость, деревня Шелковая",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Агапкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 340,
+        "width": 1484,
+        "x": 983,
+        "y": 2700
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Нагайская волость, село Сердеево",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кошелев"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кошелева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1477,
+        "x": 983,
+        "y": 3161
+      },
+      "entry_id": "748bd8d8-08ec-423f-82bd-089942c66f48_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ермакова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Азарово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ермаков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

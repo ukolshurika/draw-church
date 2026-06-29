@@ -1,0 +1,64 @@
+{
+  "year": 1914,
+  "page": 308,
+  "node_id": "60aec966-0e7a-4e39-8bca-e77ee7550508",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 614,
+        "width": 1499,
+        "x": 906,
+        "y": 1856
+      },
+      "entry_id": "60aec966-0e7a-4e39-8bca-e77ee7550508_0",
+      "people": [
+        {
+          "age": "52",
+          "geo": "Владимирская губерния, Александровский уезд, Шеметовская волость, деревня Машутино",
+          "info": "рясофорная послушница Алексеевской слободы",
+          "name": "Агриппина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 583,
+        "width": 1497,
+        "x": 894,
+        "y": 2663
+      },
+      "entry_id": "60aec966-0e7a-4e39-8bca-e77ee7550508_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Устинова",
+          "second_name": "Клавдия",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, деревня Шипелево",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

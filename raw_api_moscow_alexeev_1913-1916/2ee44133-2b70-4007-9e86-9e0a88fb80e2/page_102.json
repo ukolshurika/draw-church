@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 102,
+  "node_id": "3a6e36ea-667b-45e8-a50c-6a8b38fe4db1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 781,
+        "width": 2802,
+        "x": 961,
+        "y": 1100
+      },
+      "entry_id": "3a6e36ea-667b-45e8-a50c-6a8b38fe4db1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шерова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуновская волость, село Незнаново",
+          "info": "крестьянская жена",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Нефедова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шерова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село ***",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савушкин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майданская волость, деревня Авдалово",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шеров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2795,
+        "x": 961,
+        "y": 1942
+      },
+      "entry_id": "3a6e36ea-667b-45e8-a50c-6a8b38fe4db1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Воронцовка",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тимонин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Анна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Елагина"
+        },
+        {
+          "age": "",
+          "geo": "село Бондари",
+          "info": "крестьянская жена",
+          "name": "Елена",
+          "second_name": "Митрофанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бочарова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Воронцовский уезд, Воронцовская волость, село Воронцовка",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Елагина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 983,
+        "width": 2856,
+        "x": 947,
+        "y": 2706
+      },
+      "entry_id": "3a6e36ea-667b-45e8-a50c-6a8b38fe4db1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Спасская волость, деревня Староселье",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бабуров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Любимовская волость, село Борятино",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Палфутровская волость, сельцо Красавка",
+          "info": "крестьянская девица",
+          "name": "Марфа",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерія",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мартынова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,359 @@
+{
+  "year": 1914,
+  "page": 136,
+  "node_id": "a75a43bb-6d45-495e-8242-488e54adb773",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 585,
+        "width": 2892,
+        "x": 758,
+        "y": 868
+      },
+      "entry_id": "a75a43bb-6d45-495e-8242-488e54adb773_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Павлова",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Павлова",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Виталиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Савинская волость, деревня Павлова",
+          "info": "крестьянин",
+          "name": "Виталий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 579,
+        "width": 2960,
+        "x": 757,
+        "y": 1574
+      },
+      "entry_id": "a75a43bb-6d45-495e-8242-488e54adb773_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, деревня Рыкова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Анохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Анохина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Анохина"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Копцевская волость, село Троицкое",
+          "info": "дворянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Скобелева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 2916,
+        "x": 751,
+        "y": 2252
+      },
+      "entry_id": "a75a43bb-6d45-495e-8242-488e54adb773_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Вяжевская волость, деревня Сергиевка",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лавочкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Столкино",
+          "info": "московский мещанин, Бронной слободы",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Озерецкий уезд, деревня Горок",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермилин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 396,
+        "width": 2893,
+        "x": 743,
+        "y": 2715
+      },
+      "entry_id": "a75a43bb-6d45-495e-8242-488e54adb773_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "клинский мещанин",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бурыкалова",
+          "info": "клинский мещанин",
+          "name": "Александр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка, девица",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яковлева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 620,
+        "width": 2935,
+        "x": 720,
+        "y": 3104
+      },
+      "entry_id": "a75a43bb-6d45-495e-8242-488e54adb773_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Крючковская волость, Зареченская слобода",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Боровская волость",
+          "info": "мещанка",
+          "name": "Екатерина",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жеребедова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, деревня Антонова",
+          "info": "мещанин",
+          "name": "Филипп",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Боровская волость",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "близнец",
+          "name": "Александр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Агриппина",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Дуркинская волость, село Бухарово",
+          "info": "мещанин",
+          "name": "Филипп",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Михайлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

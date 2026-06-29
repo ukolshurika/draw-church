@@ -1,0 +1,269 @@
+{
+  "year": 1914,
+  "page": 87,
+  "node_id": "2bef94d4-a2ff-4f36-8e7c-3ded33891a0e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2856,
+        "x": 750,
+        "y": 835
+      },
+      "entry_id": "2bef94d4-a2ff-4f36-8e7c-3ded33891a0e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Слободка, Новосильского уезда, Тульской губернии",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шибакина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сарькино, Ржадского уезда, Смоленской губернии",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Дворянинова, Чижовской волости, Духовщинского уезда, Смоленской губернии",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "second_name": "Мартинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2851,
+        "x": 746,
+        "y": 1470
+      },
+      "entry_id": "2bef94d4-a2ff-4f36-8e7c-3ded33891a0e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Закудовская волость, деревня Случева",
+          "info": "крестьянская дочь",
+          "name": "Александра",
+          "second_name": "Карпова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лукашина"
+        },
+        {
+          "age": "",
+          "geo": "Данковский уезд, Данковская волость, село Горшково",
+          "info": "крестьянин",
+          "name": "Артемон",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Артемонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Денисова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Закудовская волость, деревня Тихиновка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2875,
+        "x": 759,
+        "y": 2091
+      },
+      "entry_id": "2bef94d4-a2ff-4f36-8e7c-3ded33891a0e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Митяев"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "other_status": "муж крестной матери",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Галкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Митяева"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Мокеевская волость, сельцо Клишино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Митяев"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ефимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 705,
+        "width": 2849,
+        "x": 754,
+        "y": 2651
+      },
+      "entry_id": "2bef94d4-a2ff-4f36-8e7c-3ded33891a0e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Костюнина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Горбуновка",
+          "info": "крестьянин",
+          "name": "Федоръ",
+          "second_name": "Степановъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Анюточкинъ"
+        },
+        {
+          "age": "",
+          "geo": "деревня Боковово Майдана",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "other_status": "муж крестной матери",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Костюнина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Боковово Майдана",
+          "info": "запасный рядовой из крестьян Тамбовской губернии, Спасского уезда, Майданской волости",
+          "name": "Иван",
+          "second_name": "Павловъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Черногоровъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимиръ",
+          "second_name": "Ивановъ",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Черногоровъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерія",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Черногорова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

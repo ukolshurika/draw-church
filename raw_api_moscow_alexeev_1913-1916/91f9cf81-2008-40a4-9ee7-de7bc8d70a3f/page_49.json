@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 49,
+  "node_id": "c8a44708-8881-47c9-b5ff-5a1dd7d694f7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2675,
+        "x": 902,
+        "y": 1006
+      },
+      "entry_id": "c8a44708-8881-47c9-b5ff-5a1dd7d694f7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Горовидки",
+          "info": "крестьянка, девица",
+          "name": "Феврония",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кондратова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кондратов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Козлова Озеро",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кондратов"
+        },
+        {
+          "age": "",
+          "geo": "Федоровская волость, деревня Прудилово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Суслов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 2692,
+        "x": 906,
+        "y": 1690
+      },
+      "entry_id": "c8a44708-8881-47c9-b5ff-5a1dd7d694f7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Воскресенск",
+          "info": "московской губернии мещанин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гаврилов"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Пятницкая волость, деревня Вошиково",
+          "info": "московской губернии крестьянин",
+          "name": "Григорий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Евстратов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Солнцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гаврилова"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Кукаринская волость, село Александровка",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гаврилов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 2692,
+        "x": 900,
+        "y": 2324
+      },
+      "entry_id": "c8a44708-8881-47c9-b5ff-5a1dd7d694f7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мало-Архангельский уезд, Смирновская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Никанор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Патваканова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "полтавская дворянка",
+          "name": "Вера",
+          "second_name": "Геннадиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Патваканова"
+        },
+        {
+          "age": "",
+          "geo": "Елизаветпольская губерния, город Шуши",
+          "info": "отставной",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Патваканов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2691,
+        "x": 901,
+        "y": 3001
+      },
+      "entry_id": "c8a44708-8881-47c9-b5ff-5a1dd7d694f7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Ермоловская волость, деревня Куренино",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лазарев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Орловский уезд, Яковлевская волость, деревня Красная Слобода",
+          "info": "крестьянка, девица",
+          "name": "Любовь",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Наумова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ироида",
+          "second_name": "Любовь",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Наумова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ржевский уезд, Гривенская волость, деревня Раменская",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

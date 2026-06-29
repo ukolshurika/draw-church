@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 189,
+  "node_id": "36229d51-86f6-4714-91c9-241c40468f7b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2747,
+        "x": 878,
+        "y": 1024
+      },
+      "entry_id": "36229d51-86f6-4714-91c9-241c40468f7b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Вешковская волость, деревня Карпово",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Терентьев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Троицкая волость, деревня Обухово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тульский мещанин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Антонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2744,
+        "x": 882,
+        "y": 1628
+      },
+      "entry_id": "36229d51-86f6-4714-91c9-241c40468f7b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Нагорьевская волость, село Елпатьево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Молотков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Меленок",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "Нагорьевская волость, село Елпатьево",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молоткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Козлова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2776,
+        "x": 879,
+        "y": 2289
+      },
+      "entry_id": "36229d51-86f6-4714-91c9-241c40468f7b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергачский уезд, Пожарская волость, деревня Пожарок",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Годуновская волость, деревня Родионова",
+          "info": "крестьянская девица",
+          "name": "Ирина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хламова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Напалинская волость, деревня Новопаловка",
+          "info": "крестьянин",
+          "name": "Назар",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бакушин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2781,
+        "x": 875,
+        "y": 2887
+      },
+      "entry_id": "36229d51-86f6-4714-91c9-241c40468f7b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Вышний Волочек",
+          "info": "московский мещанин Конюшенной слободы",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Брызгалов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Вышний Волочек",
+          "info": "мещанин",
+          "name": "Евгений",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Большаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Брызгалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Брызгалова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Вышний Волочек",
+          "info": "мещанка",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Большакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

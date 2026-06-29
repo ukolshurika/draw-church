@@ -1,0 +1,342 @@
+{
+  "year": 1914,
+  "page": 134,
+  "node_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 436,
+        "width": 2929,
+        "x": 762,
+        "y": 886
+      },
+      "entry_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Горская волость, деревня Митино",
+          "info": "вдова",
+          "name": "Евфросиния",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Махрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Рославльский уезд",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Халдеева",
+          "info": "вдовец, коллежский советник",
+          "name": "Илья",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2912,
+        "x": 755,
+        "y": 1323
+      },
+      "entry_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Васильевская волость, деревня Русаткина",
+          "info": "крестьянская вдова",
+          "name": "Екатерина",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прокофьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Озерищенская волость, деревня Горни",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самойлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тихомирова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тихомиров"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Рождественская волость, деревня Аристова",
+          "info": "крестьянин",
+          "name": "Иларион",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тихомиров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 480,
+        "width": 2911,
+        "x": 747,
+        "y": 1871
+      },
+      "entry_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Манина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Спасская волость, деревня Большиново",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Манин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанская жена",
+          "name": "Мария",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федора",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода, Дмитровская слобода",
+          "info": "мещанин",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Манина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2929,
+        "x": 727,
+        "y": 2385
+      },
+      "entry_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Староказачьяевская волость, деревня Ясеновая",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савникова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, деревня Чевкина",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Суетовская волость, деревня Дарьина",
+          "info": "крестьянин",
+          "name": "Фома",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шершнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Савникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 480,
+        "width": 2903,
+        "x": 729,
+        "y": 2925
+      },
+      "entry_id": "5b56090d-7581-41c3-8fe2-722e9cf27f97_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савникова"
+        },
+        {
+          "age": "",
+          "geo": "Петроковская губерния, город Лады",
+          "info": "мещанин",
+          "name": "Юлий",
+          "other_status": "отец крестной матери",
+          "second_name": "Юлиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Весенер"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Староказачьяевская волость, деревня Ясеновая",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь учителя земской школы, девица",
+          "name": "Антонина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прибылова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почет гражданин",
+          "name": "Павел",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Набанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савников"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 280,
+  "node_id": "892ccb20-665c-44a1-a994-e3f2e2beac5a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 524,
+        "width": 1454,
+        "x": 965,
+        "y": 860
+      },
+      "entry_id": "892ccb20-665c-44a1-a994-e3f2e2beac5a_2",
+      "people": [
+        {
+          "age": "2 1/2 лет",
+          "geo": "Тамбовская губерния, Спасский уезд, Майдановская волость, деревня Авдалово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шеров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 1504,
+        "x": 953,
+        "y": 1545
+      },
+      "entry_id": "892ccb20-665c-44a1-a994-e3f2e2beac5a_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пронин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Афанасьевская волость, деревня Занин-Афанасьевское",
+          "info": "крестьянка",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Пронина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 400,
+        "width": 1490,
+        "x": 948,
+        "y": 2291
+      },
+      "entry_id": "892ccb20-665c-44a1-a994-e3f2e2beac5a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Удемская волость, село Горот",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лушников"
+        },
+        {
+          "age": "1 год 5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лушников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 246,
+        "width": 1457,
+        "x": 945,
+        "y": 2953
+      },
+      "entry_id": "892ccb20-665c-44a1-a994-e3f2e2beac5a_3",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверской мещанин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

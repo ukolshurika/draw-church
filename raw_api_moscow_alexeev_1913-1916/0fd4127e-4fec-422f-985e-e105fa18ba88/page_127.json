@@ -1,0 +1,331 @@
+{
+  "year": 1914,
+  "page": 127,
+  "node_id": "7c7a1013-372d-486c-8e18-694ab9575401",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2936,
+        "x": 761,
+        "y": 917
+      },
+      "entry_id": "7c7a1013-372d-486c-8e18-694ab9575401_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Валяева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхловский уезд, Сосницкая волость, деревня Шатеши",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ларисов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Аксиньинская волость, деревня Дубцы",
+          "info": "запасный рядовой",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Валяев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Валяева"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанка, девица",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курлянская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 2907,
+        "x": 755,
+        "y": 1509
+      },
+      "entry_id": "7c7a1013-372d-486c-8e18-694ab9575401_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд",
+          "info": "мещанка, вдова",
+          "name": "Наталия",
+          "second_name": "Мартириева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Леде"
+        },
+        {
+          "age": "",
+          "geo": "деревня Буньково",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лысов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лысов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Буньково",
+          "info": "запасный старший унтер-офицер",
+          "name": "Алексей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лысов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Людвигова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лысова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 452,
+        "width": 2921,
+        "x": 754,
+        "y": 2054
+      },
+      "entry_id": "7c7a1013-372d-486c-8e18-694ab9575401_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гарченко"
+        },
+        {
+          "age": "",
+          "geo": "Голутвенная слобода",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Вазенская волость, деревня Губина",
+          "info": "поручик 2-й Гренадерской Артиллерийской бригады",
+          "name": "Сергей",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Липцы",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мосеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Каминская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2924,
+        "x": 735,
+        "y": 2497
+      },
+      "entry_id": "7c7a1013-372d-486c-8e18-694ab9575401_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "поручик 2-й Гренадерской Артиллерийской бригады",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Владимирова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Императорского Московского Университета",
+          "name": "Константин",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Купидонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворянка, вдова",
+          "name": "Елизавета",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кужданова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "артистка Императорских Театров",
+          "name": "Мария",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Владимирова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2948,
+        "x": 692,
+        "y": 3032
+      },
+      "entry_id": "7c7a1013-372d-486c-8e18-694ab9575401_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Радутино, Московская губерния, Серпуховский уезд, Бадаевская волость",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кучумов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кучумова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Климовская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Камин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Миронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Геннадий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кучумов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Алексеевская волость, деревня Высоково",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Косорукова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

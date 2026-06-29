@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 4,
+  "node_id": "c8a00cae-b1d2-488c-b44a-03286dd1103d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2845,
+        "x": 874,
+        "y": 999
+      },
+      "entry_id": "c8a00cae-b1d2-488c-b44a-03286dd1103d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Воскресенск",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Дорофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пискарева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Медынь",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пискарев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Каблуково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Махов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пискарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Махова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2845,
+        "x": 872,
+        "y": 1599
+      },
+      "entry_id": "c8a00cae-b1d2-488c-b44a-03286dd1103d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Лобановская выселка",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сомова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сидельникова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Верея",
+          "info": "мещанин",
+          "name": "Симеон",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидельников"
+        },
+        {
+          "age": "",
+          "geo": "город Верея",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Глушков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидельникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2848,
+        "x": 870,
+        "y": 2248
+      },
+      "entry_id": "c8a00cae-b1d2-488c-b44a-03286dd1103d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Осоинская волость, деревня Осои",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пузикова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, село Жадомо",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Самохина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Самохина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 690,
+        "width": 2825,
+        "x": 869,
+        "y": 2853
+      },
+      "entry_id": "c8a00cae-b1d2-488c-b44a-03286dd1103d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село Петрушинское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мишин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "вдова",
+          "name": "Матрона",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Солдатова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мишина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мишина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

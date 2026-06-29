@@ -1,0 +1,227 @@
+{
+  "year": 1914,
+  "page": 151,
+  "node_id": "6b176647-b422-4c57-8b39-5d9cb76a8070",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2858,
+        "x": 764,
+        "y": 906
+      },
+      "entry_id": "6b176647-b422-4c57-8b39-5d9cb76a8070_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шмаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Казарина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Казарина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Евдокия",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кокорина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Рабенек, Тульская губерния, Богородицкий уезд, Папоротская волость",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Казарин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 2879,
+        "x": 755,
+        "y": 1451
+      },
+      "entry_id": "6b176647-b422-4c57-8b39-5d9cb76a8070_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Щепетков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вологодский мещанин",
+          "name": "Сергий",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щепетков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворянин",
+          "name": "Димитрий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вологодская мещанка, вдова",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щепеткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щепеткова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2887,
+        "x": 744,
+        "y": 1880
+      },
+      "entry_id": "6b176647-b422-4c57-8b39-5d9cb76a8070_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Монахова"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Скоропинская волость, село Ново-Никольское",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Филимонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Монахов"
+        },
+        {
+          "age": "",
+          "geo": "село Ново-Никольское",
+          "info": "вдова",
+          "name": "Марфа",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Монахов"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Зуминская волость, деревня Павловская",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Аксенов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 2884,
+        "x": 749,
+        "y": 2414
+      },
+      "entry_id": "6b176647-b422-4c57-8b39-5d9cb76a8070_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соголевская волость, деревня Русина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бараненков"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Вилейский уезд, Парфиановская волость, село Гнездиново",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коханович"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

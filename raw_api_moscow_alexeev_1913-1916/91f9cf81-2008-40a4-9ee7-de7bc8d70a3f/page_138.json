@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 138,
+  "node_id": "190a8dca-9617-4f54-918d-456a9123da65",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 640,
+        "width": 2801,
+        "x": 910,
+        "y": 1045
+      },
+      "entry_id": "190a8dca-9617-4f54-918d-456a9123da65_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Роман-Дорковская волость, село Волково",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лопушкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Гранковская волость, деревня Ольховка",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "муж крестной матери",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бабкин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Больше-Екатерининская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Евфимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шмагин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лопушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лопушкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 559,
+        "width": 2779,
+        "x": 909,
+        "y": 1722
+      },
+      "entry_id": "190a8dca-9617-4f54-918d-456a9123da65_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гранкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гранкова"
+        },
+        {
+          "age": "",
+          "geo": "Малоярославецкий уезд, Спасская волость, село Сухоуровка",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баталина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Овчининская волость, деревня Храмеево",
+          "info": "крестьянин",
+          "name": "Евдоким",
+          "second_name": "Дементьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гранков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 607,
+        "width": 2798,
+        "x": 902,
+        "y": 2426
+      },
+      "entry_id": "190a8dca-9617-4f54-918d-456a9123da65_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Бавыкинская волость, деревня Дидяково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 673,
+        "width": 2809,
+        "x": 903,
+        "y": 3191
+      },
+      "entry_id": "190a8dca-9617-4f54-918d-456a9123da65_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Песчанниковская волость, деревня Бурцево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Быковская волость, деревня Верея",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Капунников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Песчанниковская волость, деревня Коробиха",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коршунова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

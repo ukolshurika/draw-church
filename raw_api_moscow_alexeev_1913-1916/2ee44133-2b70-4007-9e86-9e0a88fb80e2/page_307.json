@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 307,
+  "node_id": "233c594c-1b97-4251-8253-dec567a94f92",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 213,
+        "width": 1507,
+        "x": 1053,
+        "y": 1105
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_5",
+      "people": [
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник сапожного цеха",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 233,
+        "width": 1498,
+        "x": 1051,
+        "y": 1430
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сундулков"
+        },
+        {
+          "age": "5 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сундулков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 297,
+        "width": 1450,
+        "x": 1056,
+        "y": 1792
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Спаско-Городская волость, деревня Липлейки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сазонкин"
+        },
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сазонкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 207,
+        "width": 1445,
+        "x": 1058,
+        "y": 2228
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Глитов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Скопинского мещанин Рязанской губернии",
+          "name": "Тимофей",
+          "other_status": "отецумершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Глитов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1497,
+        "x": 1065,
+        "y": 2602
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_0",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Вериденская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Аржанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 224,
+        "width": 1414,
+        "x": 1072,
+        "y": 3095
+      },
+      "entry_id": "233c594c-1b97-4251-8253-dec567a94f92_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Вяземский мещанин Смоленской губернии",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "5 лет",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

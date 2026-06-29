@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 116,
+  "node_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 416,
+        "width": 2922,
+        "x": 755,
+        "y": 853
+      },
+      "entry_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "other_status": "жена отца",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Санницкая волость, деревня Берхино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушенская волость, село Петрушино",
+          "info": "законная жена крестьянина",
+          "name": "Мария",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маликова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Остропятская волость, село Турдей",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрявцев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 423,
+        "width": 2908,
+        "x": 762,
+        "y": 1293
+      },
+      "entry_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Берхино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Большесельская волость, село",
+          "info": "крестьянка девица",
+          "name": "Серафима",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Санницкая волость, деревня Берхино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гусев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 438,
+        "width": 2911,
+        "x": 751,
+        "y": 1832
+      },
+      "entry_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Егорьевская волость, имение Мерзлякова",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жигалов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Ищеинская волость, село Рождество",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бабалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бабалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бабалина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ферюдина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 426,
+        "width": 2916,
+        "x": 744,
+        "y": 2370
+      },
+      "entry_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Соломенская волость, деревня Большое Высокое",
+          "info": "крестьянин",
+          "name": "Харитон",
+          "second_name": "Авдиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Харитонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Абакумово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кутков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Щипово",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ерохина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 2917,
+        "x": 743,
+        "y": 2864
+      },
+      "entry_id": "cbf25efb-9d39-4da6-a0f4-5965e886cc33_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Деткино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Громов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Деткино",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Громова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Громова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Молодинская волость, деревня Деткино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Громов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Громов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

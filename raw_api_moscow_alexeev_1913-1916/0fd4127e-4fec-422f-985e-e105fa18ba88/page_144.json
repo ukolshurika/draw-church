@@ -1,0 +1,319 @@
+{
+  "year": 1914,
+  "page": 144,
+  "node_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 424,
+        "width": 2910,
+        "x": 831,
+        "y": 939
+      },
+      "entry_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршинский мещанин",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Евменев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прокателеев"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Буйгородская волость, деревня Калистово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Порфириев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская цеховая, мерного цеха",
+          "info": "цеховая",
+          "name": "Мавра",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергиева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 2892,
+        "x": 816,
+        "y": 1463
+      },
+      "entry_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хохолева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Злобова"
+        },
+        {
+          "age": "",
+          "geo": "Рузская волость, деревня Панова",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Злобов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Злобов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Федорцовская волость, село Меркусово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Злобов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 2938,
+        "x": 807,
+        "y": 1995
+      },
+      "entry_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рузский уезд, Хотебцовская волость, деревня Абрамова",
+          "info": "Рузский мещанин",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Хотебцовская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федосеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Федосеева"
+        },
+        {
+          "age": "",
+          "geo": "Ащеринская волость, деревня Пеньково",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старшинова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2935,
+        "x": 786,
+        "y": 2453
+      },
+      "entry_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гуськова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Портежская волость, село Троица-Нерль",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гуськов"
+        },
+        {
+          "age": "",
+          "geo": "Московская мещанка Красносельской слободы",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Арсениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шефер"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гуськов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гуськова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2998,
+        "x": 775,
+        "y": 3005
+      },
+      "entry_id": "073ae0d5-a575-4ef0-9142-60b61c42bf82_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Троицкая волость, Ново-Александровская слобода",
+          "info": "крестьянин",
+          "name": "Петръ",
+          "second_name": "Григорьевъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Беляевъ"
+        },
+        {
+          "age": "",
+          "geo": "Тульский уезд, Коптевская волость, деревня Старожева",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самохина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Хрущевская волость, село Обидино",
+          "info": "крестьянин",
+          "name": "Захарій",
+          "second_name": "Семеновъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тереховъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Терехова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Іулианія",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Терехова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

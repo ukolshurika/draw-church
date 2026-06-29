@@ -1,0 +1,247 @@
+{
+  "year": 1915,
+  "page": 15,
+  "node_id": "ca603665-bee2-4f4d-8205-84a8014cd65c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2779,
+        "x": 916,
+        "y": 1083
+      },
+      "entry_id": "ca603665-bee2-4f4d-8205-84a8014cd65c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Затишинская волость, деревня Ялино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Нежинский мещанин",
+          "info": "",
+          "name": "Афанасий",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Донец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Евфросиния",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2791,
+        "x": 913,
+        "y": 1661
+      },
+      "entry_id": "ca603665-bee2-4f4d-8205-84a8014cd65c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Степарыкина",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Братковская волость, деревня Титова",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Братковская волость, деревня Титова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Онисимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2773,
+        "x": 934,
+        "y": 2379
+      },
+      "entry_id": "ca603665-bee2-4f4d-8205-84a8014cd65c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зобкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, деревня Шевелева",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зобков"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Велинская волость, деревня Белозерихи",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корчагина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский мещанин",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Носиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зобкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 518,
+        "width": 2784,
+        "x": 934,
+        "y": 3004
+      },
+      "entry_id": "ca603665-bee2-4f4d-8205-84a8014cd65c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Скопин",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смоленская волость, деревня Лубянки",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

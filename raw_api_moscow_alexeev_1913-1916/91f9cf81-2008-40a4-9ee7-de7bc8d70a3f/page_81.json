@@ -1,0 +1,278 @@
+{
+  "year": 1916,
+  "page": 81,
+  "node_id": "f7c312bc-9c22-4234-b215-3869c728219b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2739,
+        "x": 917,
+        "y": 1005
+      },
+      "entry_id": "f7c312bc-9c22-4234-b215-3869c728219b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд",
+          "info": "мещанин",
+          "name": "Георгий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Погожев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малинская волость, село Малина",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Буланов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Буланова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Буланова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Буланова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буланов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 656,
+        "width": 2735,
+        "x": 922,
+        "y": 1695
+      },
+      "entry_id": "f7c312bc-9c22-4234-b215-3869c728219b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Лаврентиевна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Панькина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Панькин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Павло-Хуторская волость, село",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панькин"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Яранский уезд, Ильинская волость, деревня Камень",
+          "info": "крестьянка, девица",
+          "name": "Дарья",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коршунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панькина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Перочинская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 610,
+        "width": 2723,
+        "x": 928,
+        "y": 2449
+      },
+      "entry_id": "f7c312bc-9c22-4234-b215-3869c728219b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Больше-Екатериновская волость, деревня Ур",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тамбовская мещанка, девица",
+          "name": "Евфросиния",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молоканникова"
+        },
+        {
+          "age": "",
+          "geo": "Больше-Екатериновская волость, деревня Малая Екатериновка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодора",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 640,
+        "width": 2727,
+        "x": 931,
+        "y": 3171
+      },
+      "entry_id": "f7c312bc-9c22-4234-b215-3869c728219b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Венедиктова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жданович"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Волковичская волость, село Волковичи",
+          "info": "потомственный дворянин",
+          "name": "Бронислав",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жданович"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Волковичский уезд, Огульчанская волость, село Огульчаны",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Набоков"
+        },
+        {
+          "age": "8",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Брониславов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Жданович"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Горецкий уезд, Больская волость, местечко Болва",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Феодосиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Раковская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

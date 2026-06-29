@@ -1,0 +1,238 @@
+{
+  "year": 1915,
+  "page": 9,
+  "node_id": "438b492c-e347-437d-89af-eaa7d89d99af",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1068,
+        "width": 2768,
+        "x": 947,
+        "y": 1039
+      },
+      "entry_id": "438b492c-e347-437d-89af-eaa7d89d99af_3",
+      "people": [
+        {
+          "age": "22",
+          "geo": "Тульская губерния, Каширский уезд, Апшинская волость, село Богоявленское",
+          "info": "состоящий в старообрядчестве беспоповщинского толка",
+          "name": "Никифор",
+          "second_name": "Феодотов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Карев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Мокринская волость, село Красное",
+          "info": "",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нюхарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Протоиерей",
+          "second_name": "Никифор",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Карев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2789,
+        "x": 949,
+        "y": 2305
+      },
+      "entry_id": "438b492c-e347-437d-89af-eaa7d89d99af_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бычкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бычкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ржевский уезд, Ивакино-Купровская волость, деревня Глуховка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зареевский"
+        },
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Покровская волость, деревня Ивлево",
+          "info": "крестьянин",
+          "name": "Дарий",
+          "other_status": "муж крестной матери",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, Слобода",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2816,
+        "x": 937,
+        "y": 2917
+      },
+      "entry_id": "438b492c-e347-437d-89af-eaa7d89d99af_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Подорванный"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Остропольская волость, село Харковец",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Подорванный"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Чижевская волость, деревня Озерецкое",
+          "info": "",
+          "name": "Егор",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Медведков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, село",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ефремова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 464,
+        "width": 2821,
+        "x": 920,
+        "y": 3391
+      },
+      "entry_id": "438b492c-e347-437d-89af-eaa7d89d99af_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тумышева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Савинская волость",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Софрониев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тумышев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тумышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Клинский мещанин",
+          "name": "Никита",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Саввин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Борисоглебская волость, Шепелевская волость, деревня Шашино",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Флегонтова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

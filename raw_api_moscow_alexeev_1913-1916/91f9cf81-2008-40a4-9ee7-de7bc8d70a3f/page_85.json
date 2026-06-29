@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 85,
+  "node_id": "47c8c519-4ccc-497c-99a9-5309b193d92e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2713,
+        "x": 919,
+        "y": 1013
+      },
+      "entry_id": "47c8c519-4ccc-497c-99a9-5309b193d92e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Петроградская губерния, посад Колпино",
+          "info": "в доме Савельева мещанин",
+          "name": "Николай",
+          "second_name": "Викентиевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Котрос"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ждан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Котрос"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котрос"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Миргородский уезд, Губовская волость, село",
+          "info": "в доме Белякова крестьянин",
+          "name": "Феодот",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ждан"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2686,
+        "x": 915,
+        "y": 1688
+      },
+      "entry_id": "47c8c519-4ccc-497c-99a9-5309b193d92e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Миргородский уезд, Губовская волость, село",
+          "info": "крестьянин",
+          "name": "Феодот",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ждан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокія",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ждан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодотова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ждан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Спас-Неразлученская волость, деревня Магдалина",
+          "info": "крестьянин",
+          "name": "Пелагия",
+          "other_status": "муж крестной матери",
+          "second_name": "Феодорова",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2701,
+        "x": 914,
+        "y": 2408
+      },
+      "entry_id": "47c8c519-4ccc-497c-99a9-5309b193d92e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Галямина"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Новосельская волость, деревня Коренева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галямин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка, девица",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фомина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, село Лавеи",
+          "info": "чиновник",
+          "name": "Владимир",
+          "other_status": "отец крестного отца",
+          "second_name": "Мартынов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бычко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галямина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2701,
+        "x": 911,
+        "y": 3131
+      },
+      "entry_id": "47c8c519-4ccc-497c-99a9-5309b193d92e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Слободской уезд, Слободская волость, деревня Михайловка",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Малков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Малкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Малкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка Дмитровской слободы 2-го стана",
+          "name": "Фелицата",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лопкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "подольский мещанин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

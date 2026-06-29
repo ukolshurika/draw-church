@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 261,
+  "node_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 287,
+        "width": 1527,
+        "x": 961,
+        "y": 777
+      },
+      "entry_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5_4",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Веселова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Ижеевская волость, деревня Натеки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Веселов"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 281,
+        "width": 1494,
+        "x": 978,
+        "y": 1264
+      },
+      "entry_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5_3",
+      "people": [
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Чернского уезда Луженская волость, деревня Дмитровка",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Денисов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 412,
+        "width": 1445,
+        "x": 969,
+        "y": 1773
+      },
+      "entry_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Иловайская Дмитриевская волость, село Архангельское",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "отец умершего",
+          "second_name": "Елеазаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "10 дней",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 294,
+        "width": 1459,
+        "x": 972,
+        "y": 2357
+      },
+      "entry_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5_1",
+      "people": [
+        {
+          "age": "58",
+          "geo": "Московская слобода Лужников Девичьих",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 416,
+        "width": 1457,
+        "x": 964,
+        "y": 2796
+      },
+      "entry_id": "f4d61282-1393-48a4-8cd9-5b33bbfbafc5_0",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, село Мозолево",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Акимов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

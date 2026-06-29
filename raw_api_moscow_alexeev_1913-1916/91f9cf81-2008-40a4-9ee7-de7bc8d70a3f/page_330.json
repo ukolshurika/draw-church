@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 330,
+  "node_id": "d6bec2de-31f7-498b-ab8a-a95f8d5709fc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1473,
+        "x": 1067,
+        "y": 1066
+      },
+      "entry_id": "d6bec2de-31f7-498b-ab8a-a95f8d5709fc_2",
+      "people": [
+        {
+          "age": "9 дней",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Ионова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ульяновская"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Боровичский уезд, Ровенская волость, деревня Егли",
+          "info": "крестьянин",
+          "name": "Иона",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ульянов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 483,
+        "width": 1485,
+        "x": 1074,
+        "y": 1677
+      },
+      "entry_id": "d6bec2de-31f7-498b-ab8a-a95f8d5709fc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чикурников"
+        },
+        {
+          "age": "1 г. 2 м.",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чикурникова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 486,
+        "width": 1483,
+        "x": 1084,
+        "y": 3191
+      },
+      "entry_id": "d6bec2de-31f7-498b-ab8a-a95f8d5709fc_0",
+      "people": [
+        {
+          "age": "6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Малое Пирово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

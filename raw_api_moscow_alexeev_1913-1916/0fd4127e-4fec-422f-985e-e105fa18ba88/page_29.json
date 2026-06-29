@@ -1,0 +1,206 @@
+{
+  "year": 1914,
+  "page": 29,
+  "node_id": "71d04f6f-42b5-44a8-93e9-d310694541dd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 434,
+        "width": 2922,
+        "x": 747,
+        "y": 927
+      },
+      "entry_id": "71d04f6f-42b5-44a8-93e9-d310694541dd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Пятницы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Аверкиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Булимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Антониев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Быков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Быкова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Пятницы",
+          "info": "девица",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Булимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Колтовская волость, сельцо Семенково",
+          "info": "крестьянин",
+          "name": "Антоний",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Быков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 387,
+        "width": 2913,
+        "x": 740,
+        "y": 2386
+      },
+      "entry_id": "71d04f6f-42b5-44a8-93e9-d310694541dd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Марфинская волость, деревня Пестово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чугунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чугунова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Спасская волость, деревня Судилово",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "other_status": "муж крестной матери",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пучков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пучкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чугунова"
+        },
+        {
+          "age": "",
+          "geo": "Сергиев Посад",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 401,
+        "width": 2914,
+        "x": 741,
+        "y": 2828
+      },
+      "entry_id": "71d04f6f-42b5-44a8-93e9-d310694541dd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пучкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пучкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пучкова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Спасская волость, деревня Судилово",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пучков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пучков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

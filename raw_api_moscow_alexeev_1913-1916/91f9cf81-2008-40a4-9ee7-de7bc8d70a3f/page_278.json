@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 278,
+  "node_id": "971a5de3-5296-4906-a6b1-7368a06adc6c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1455,
+        "x": 1057,
+        "y": 1118
+      },
+      "entry_id": "971a5de3-5296-4906-a6b1-7368a06adc6c_2",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Трупская волость, деревня Бережки",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 1479,
+        "x": 1065,
+        "y": 1796
+      },
+      "entry_id": "971a5de3-5296-4906-a6b1-7368a06adc6c_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гапоненкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Никольская волость, деревня Тимоново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гапоненков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 1513,
+        "x": 1064,
+        "y": 2470
+      },
+      "entry_id": "971a5de3-5296-4906-a6b1-7368a06adc6c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Насилово",
+          "info": "в доме Акимова находившийся на действительной службе нижний чин, ныне убитый из крестьян",
+          "name": "Трофим",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ерошина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

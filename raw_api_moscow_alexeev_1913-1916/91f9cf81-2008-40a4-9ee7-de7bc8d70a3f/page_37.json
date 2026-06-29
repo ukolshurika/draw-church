@@ -1,0 +1,279 @@
+{
+  "year": 1916,
+  "page": 37,
+  "node_id": "3bb63098-9e75-4be1-98e5-cdb64dc2221c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2755,
+        "x": 903,
+        "y": 1012
+      },
+      "entry_id": "3bb63098-9e75-4be1-98e5-cdb64dc2221c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ржевский уезд, Иватино-Купровская волость, деревня Глуховка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Залесский"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, слобода",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Покровская волость, деревня Ивлево",
+          "info": "крестьянин",
+          "name": "Ивлев",
+          "other_status": "муж крестной матери",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бычкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бычков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 596,
+        "width": 2733,
+        "x": 906,
+        "y": 1712
+      },
+      "entry_id": "3bb63098-9e75-4be1-98e5-cdb64dc2221c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Успенская волость, село Крестьянка",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лаврентьева"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Новооскольский уезд, Ольшанская волость, село Проточное",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Ильиина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Непрядвинская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Баранов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2740,
+        "x": 917,
+        "y": 2387
+      },
+      "entry_id": "3bb63098-9e75-4be1-98e5-cdb64dc2221c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Исочинская волость, деревня Отрада",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Домовенков"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, город Керенск",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода, Мясницкая слобода",
+          "info": "мещанин",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Питаде"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Маркова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Домовенкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2716,
+        "x": 896,
+        "y": 3046
+      },
+      "entry_id": "3bb63098-9e75-4be1-98e5-cdb64dc2221c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Фомишевская волость, деревня Быково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мелания",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Митьковская волость, деревня Бельшина",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Папкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

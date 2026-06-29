@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 62,
+  "node_id": "c1a1daeb-e428-4d8d-a58b-832b66a8ea18",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2807,
+        "x": 908,
+        "y": 1013
+      },
+      "entry_id": "c1a1daeb-e428-4d8d-a58b-832b66a8ea18_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Печерниковская волость, деревня Слободки",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федилов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2802,
+        "x": 907,
+        "y": 1717
+      },
+      "entry_id": "c1a1daeb-e428-4d8d-a58b-832b66a8ea18_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Хотьковская слобода",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Целовальникова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, Хотьковская слобода",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Целовальникова"
+        },
+        {
+          "age": "",
+          "geo": "Морозовская волость, деревня Морозова",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Табаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Целовальникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 625,
+        "width": 2818,
+        "x": 914,
+        "y": 2450
+      },
+      "entry_id": "c1a1daeb-e428-4d8d-a58b-832b66a8ea18_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Загоскинский уезд, село Летонино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Прокофьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Здоровенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мурашев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Христофорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мурашева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Добрятинская волость, село Покровское",
+          "info": "крестьянка, девица",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коробкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Малая Треполи",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мурашев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2799,
+        "x": 913,
+        "y": 3155
+      },
+      "entry_id": "c1a1daeb-e428-4d8d-a58b-832b66a8ea18_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд, Никольская волость, село Сергиевское",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Байбаков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Гжатск",
+          "info": "мещанка, девица",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Духовщина",
+          "info": "мещанка, девица",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

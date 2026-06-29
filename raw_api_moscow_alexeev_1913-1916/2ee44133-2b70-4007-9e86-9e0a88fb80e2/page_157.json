@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 157,
+  "node_id": "574bcd11-0a66-44a6-86e4-0e29902b25a7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 635,
+        "width": 2791,
+        "x": 904,
+        "y": 1046
+      },
+      "entry_id": "574bcd11-0a66-44a6-86e4-0e29902b25a7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверской уезд, Каблуковская волость, деревня Крупшево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Городенский уезд, Городенская волость, деревня Ведерки",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 789,
+        "width": 2800,
+        "x": 912,
+        "y": 1840
+      },
+      "entry_id": "574bcd11-0a66-44a6-86e4-0e29902b25a7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Бяльский уезд, Орлянская волость, деревня Шерней",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Касьянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Таранта"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Константиновская волость, деревня Посъевево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жаров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кончинская волость, деревня Головинщина",
+          "info": "крестьянская девица",
+          "name": "Вера",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хватова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Таранта"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Таранта"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 805,
+        "width": 2800,
+        "x": 912,
+        "y": 2661
+      },
+      "entry_id": "574bcd11-0a66-44a6-86e4-0e29902b25a7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Лаврентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Ананьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "бывший почтово-телеграфный чиновник Московского почтамта, сын губернского секретаря",
+          "name": "Леонид",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Кукаринская волость, деревня Ченцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Леонидов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

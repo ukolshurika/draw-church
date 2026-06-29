@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 253,
+  "node_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 488,
+        "width": 1477,
+        "x": 926,
+        "y": 773
+      },
+      "entry_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44_2",
+      "people": [
+        {
+          "age": "38",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Краюшкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Столпянская волость, деревня Татаркино",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "other_status": "муж умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Краюшкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 416,
+        "width": 1484,
+        "x": 925,
+        "y": 1402
+      },
+      "entry_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Попковская волость, деревня Куклино",
+          "info": "крестьянин",
+          "name": "Дмитрей",
+          "other_status": "отецумершего",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рогачев"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "Калужская губерния, Мещовский уезд, Попковская волость, деревня Куклино",
+          "info": "",
+          "name": "Марія",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Рогачева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1487,
+        "x": 916,
+        "y": 1942
+      },
+      "entry_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44_4",
+      "people": [
+        {
+          "age": "68",
+          "geo": "",
+          "info": "вдова генерала от инфантерии",
+          "name": "Мария",
+          "second_name": "Платоновна",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Мациевская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 346,
+        "width": 1486,
+        "x": 914,
+        "y": 2395
+      },
+      "entry_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44_3",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Харломова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Спасская волость, село Сковнино",
+          "info": "",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Харломов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1485,
+        "x": 920,
+        "y": 2854
+      },
+      "entry_id": "65e48b8e-b2a1-4f8a-a595-914d2bcb9b44_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шапошникова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Корский посад",
+          "info": "мещанин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шапошников"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

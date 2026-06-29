@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 282,
+  "node_id": "f8b1c46d-fca0-430e-9bed-c18e74c98976",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 431,
+        "width": 1437,
+        "x": 955,
+        "y": 1388
+      },
+      "entry_id": "f8b1c46d-fca0-430e-9bed-c18e74c98976_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Колесов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Перовская волость, деревня Гусарниково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колесов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1505,
+        "x": 961,
+        "y": 2022
+      },
+      "entry_id": "f8b1c46d-fca0-430e-9bed-c18e74c98976_2",
+      "people": [
+        {
+          "age": "6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иоакимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Спасская волость, деревня Шири",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "other_status": "отец умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 535,
+        "width": 1528,
+        "x": 951,
+        "y": 2652
+      },
+      "entry_id": "f8b1c46d-fca0-430e-9bed-c18e74c98976_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, село Братовщина",
+          "info": "крестьянка",
+          "name": "Павла",
+          "other_status": "мать умершего",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гуськова"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гуськова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

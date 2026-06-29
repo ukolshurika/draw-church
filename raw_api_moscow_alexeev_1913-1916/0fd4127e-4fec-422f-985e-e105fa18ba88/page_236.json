@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 236,
+  "node_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 248,
+        "width": 1420,
+        "x": 923,
+        "y": 874
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_5",
+      "people": [
+        {
+          "age": "69",
+          "geo": "Московская мещанская Таганная слобода",
+          "info": "мещанин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корчагин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 336,
+        "width": 1413,
+        "x": 921,
+        "y": 1274
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_4",
+      "people": [
+        {
+          "age": "80",
+          "geo": "Тульская губерния, Белевский уезд, Литвиновская волость, деревня Бибина",
+          "info": "",
+          "name": "Малахiя",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бычкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 1439,
+        "x": 924,
+        "y": 1742
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_0",
+      "people": [
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бормотов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Липовости",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бормотов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1493,
+        "x": 923,
+        "y": 2286
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_3",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Тредубская волость, деревня Поломеличи",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 282,
+        "width": 1481,
+        "x": 927,
+        "y": 2727
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Егор",
+          "other_status": "муж умершего",
+          "second_name": "Леонтиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Артемьев"
+        },
+        {
+          "age": "37",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Артемьева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 254,
+        "width": 1474,
+        "x": 932,
+        "y": 3139
+      },
+      "entry_id": "5a57af26-8e33-4f01-9ae7-7be26977bda2_2",
+      "people": [
+        {
+          "age": "65",
+          "geo": "Калужская губерния, Перемышльский уезд, Зубцовская волость, село Орли",
+          "info": "крестьянская вдова",
+          "name": "Ирина",
+          "second_name": "Ларионова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Оглоблина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

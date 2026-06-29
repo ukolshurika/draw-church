@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 267,
+  "node_id": "541c31bc-d261-42f2-aa34-532e78ea9458",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 396,
+        "width": 1541,
+        "x": 937,
+        "y": 805
+      },
+      "entry_id": "541c31bc-d261-42f2-aa34-532e78ea9458_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, село Косма",
+          "info": "крестьянин",
+          "name": "Косьма",
+          "other_status": "отец умершего",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Вараксин"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, село Косма",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Макарова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Вараксина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 375,
+        "width": 1518,
+        "x": 940,
+        "y": 1358
+      },
+      "entry_id": "541c31bc-d261-42f2-aa34-532e78ea9458_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Переславская у., Нагоревская волость, село Слепцово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Абализин"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Абализина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1537,
+        "x": 937,
+        "y": 1884
+      },
+      "entry_id": "541c31bc-d261-42f2-aa34-532e78ea9458_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Вельский уезд, Никифоровская волость, деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Павловский"
+        },
+        {
+          "age": "49",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Павловская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 401,
+        "width": 1501,
+        "x": 940,
+        "y": 2436
+      },
+      "entry_id": "541c31bc-d261-42f2-aa34-532e78ea9458_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Даниловский уезд, Богородская волость, деревня Нового",
+          "info": "",
+          "name": "Андрей",
+          "other_status": "отецумершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "Ярославская губерния, Даниловский уезд, Богородская волость, деревня Нового",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1532,
+        "x": 941,
+        "y": 2978
+      },
+      "entry_id": "541c31bc-d261-42f2-aa34-532e78ea9458_4",
+      "people": [
+        {
+          "age": "1 месяц 3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Зудина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Зюзинская волость",
+          "info": "причисленный ковал",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зудин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

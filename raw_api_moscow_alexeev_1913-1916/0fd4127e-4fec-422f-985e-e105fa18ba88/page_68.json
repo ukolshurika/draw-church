@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 68,
+  "node_id": "5c1afdbf-2064-4683-a916-ef2d32dd1a87",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2907,
+        "x": 749,
+        "y": 885
+      },
+      "entry_id": "5c1afdbf-2064-4683-a916-ef2d32dd1a87_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гребенкова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Свитинская волость, усадьба Ильинских",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Боровкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гребенков"
+        },
+        {
+          "age": "",
+          "geo": "Данковская волость, село Потапово",
+          "info": "унтер-офицер",
+          "name": "Иван",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гребенков"
+        },
+        {
+          "age": "",
+          "geo": "Змиевская волость, деревня Даниловка",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 622,
+        "width": 2898,
+        "x": 752,
+        "y": 1598
+      },
+      "entry_id": "5c1afdbf-2064-4683-a916-ef2d32dd1a87_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Ростинова",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Канаевская волость, деревня Труси",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Российский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Канаевская волость, деревня Ростинова",
+          "info": "девица",
+          "name": "Артемія",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2892,
+        "x": 757,
+        "y": 2267
+      },
+      "entry_id": "5c1afdbf-2064-4683-a916-ef2d32dd1a87_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Селянкина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Огурцов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Агеево, Тульская губерния, Епифанский уезд, Гранковская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Селянкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильевна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Селянкина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Домн",
+          "other_status": "муж крестной матери",
+          "second_name": "Дометиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Дометиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щербакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 642,
+        "width": 2920,
+        "x": 750,
+        "y": 2831
+      },
+      "entry_id": "5c1afdbf-2064-4683-a916-ef2d32dd1a87_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шершакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шершаков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Высокиническая волость, село Тиньково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шершаков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, деревня Травино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Евлентьев"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Екатерининская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Софий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Зосимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ивашкина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зосимова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

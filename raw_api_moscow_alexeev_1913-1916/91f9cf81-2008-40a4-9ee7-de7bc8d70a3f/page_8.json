@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 8,
+  "node_id": "61e1ab7b-4613-4909-9df1-ce54aa4ecca6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 431,
+        "width": 2824,
+        "x": 923,
+        "y": 1009
+      },
+      "entry_id": "61e1ab7b-4613-4909-9df1-ce54aa4ecca6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мерзликина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Ерофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мерзликина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, село Свищево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мерзликин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Косикинская волость, деревня Скрыпово",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Левшина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 619,
+        "width": 2811,
+        "x": 921,
+        "y": 1595
+      },
+      "entry_id": "61e1ab7b-4613-4909-9df1-ce54aa4ecca6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Подвисловская волость, деревня Приянки",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Павловская волость, село Самовца",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матюхина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, деревня Брусланова",
+          "info": "крестьянка, девица",
+          "name": "Дария",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2851,
+        "x": 920,
+        "y": 2215
+      },
+      "entry_id": "61e1ab7b-4613-4909-9df1-ce54aa4ecca6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Курвосты",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Степаненкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "Мархоткинская волость, деревня Горбочи",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новосельцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степаненкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Торжок",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 673,
+        "width": 2832,
+        "x": 905,
+        "y": 2957
+      },
+      "entry_id": "61e1ab7b-4613-4909-9df1-ce54aa4ecca6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Ивановская волость, деревня Сестрына",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Стопинская волость, деревня Карандашево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

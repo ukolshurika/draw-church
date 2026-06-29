@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 296,
+  "node_id": "9db2f696-ea81-486a-9066-d9e8b1662de4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 433,
+        "width": 1400,
+        "x": 972,
+        "y": 939
+      },
+      "entry_id": "9db2f696-ea81-486a-9066-d9e8b1662de4_3",
+      "people": [
+        {
+          "age": "37",
+          "geo": "город Люблин",
+          "info": "подпоручик 8-го Гренадерского Московского полка",
+          "name": "Андрей",
+          "second_name": "Парамонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Воскресенский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 1472,
+        "x": 964,
+        "y": 1578
+      },
+      "entry_id": "9db2f696-ea81-486a-9066-d9e8b1662de4_2",
+      "people": [
+        {
+          "age": "4 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Недвяжинская волость, село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ермаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 553,
+        "width": 1456,
+        "x": 945,
+        "y": 2201
+      },
+      "entry_id": "9db2f696-ea81-486a-9066-d9e8b1662de4_1",
+      "people": [
+        {
+          "age": "1 месяц, 7 дней",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Шчеинская волость, село Рождество",
+          "info": "крестьянин",
+          "name": "Фома",
+          "other_status": "отец умершего",
+          "second_name": "Бабанин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 417,
+        "width": 1504,
+        "x": 936,
+        "y": 2853
+      },
+      "entry_id": "9db2f696-ea81-486a-9066-d9e8b1662de4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Жирошкинская волость, деревня Гжижня",
+          "info": "господина Скрыпина крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Ильич",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горшков"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Горшкова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

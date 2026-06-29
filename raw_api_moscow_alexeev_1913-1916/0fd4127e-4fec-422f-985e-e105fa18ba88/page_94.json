@@ -1,0 +1,195 @@
+{
+  "year": 1914,
+  "page": 94,
+  "node_id": "b562e98b-3c7a-4420-a43e-de14dfb60a71",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 517,
+        "width": 2827,
+        "x": 744,
+        "y": 866
+      },
+      "entry_id": "b562e98b-3c7a-4420-a43e-de14dfb60a71_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Калашникова, Ярославская губерния, Молочский уезд, Сутковская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода, Садовая набережная",
+          "info": "мещанская жена",
+          "name": "Татиана",
+          "second_name": "Феоктистова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 2842,
+        "x": 738,
+        "y": 1493
+      },
+      "entry_id": "b562e98b-3c7a-4420-a43e-de14dfb60a71_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трупин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трупина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Студенецкая волость, деревня Боярковка",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трупин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Трупина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трупина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2844,
+        "x": 740,
+        "y": 1967
+      },
+      "entry_id": "b562e98b-3c7a-4420-a43e-de14dfb60a71_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Аристова, Мышкинский уезд, Ярославская губерния",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Первов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Авдиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Судогодский уезд, Владимирская губерния, Березинковская волость, деревня Максимиха",
+          "info": "потомственный дворянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гейциг"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Первов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Перва"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

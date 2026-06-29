@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 12,
+  "node_id": "ddf77192-c654-41fd-887e-53459fafcc24",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2786,
+        "x": 903,
+        "y": 1125
+      },
+      "entry_id": "ddf77192-c654-41fd-887e-53459fafcc24_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Каменки",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Жернов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Дьяконовская волость, деревня Каменки",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жернова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Каменки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жернов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 603,
+        "width": 2811,
+        "x": 903,
+        "y": 1767
+      },
+      "entry_id": "ddf77192-c654-41fd-887e-53459fafcc24_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Недѣлинская волость, село Казарина",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Муханова"
+        },
+        {
+          "age": "",
+          "geo": "Малоярославецкий уезд, Недѣлинская волость, деревня Исакова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Уосимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шкалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Кобылина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голубев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2809,
+        "x": 913,
+        "y": 2479
+      },
+      "entry_id": "ddf77192-c654-41fd-887e-53459fafcc24_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Аксенов"
+        },
+        {
+          "age": "",
+          "geo": "Калужский уезд, Серенский уезд",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Медведева"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Слободской уезд, Саввинская волость, деревня Буслаева",
+          "info": "запасный рядовой из крестьян",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аксенов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Спасская волость, деревня Алешкова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Потюгов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2801,
+        "x": 927,
+        "y": 3182
+      },
+      "entry_id": "ddf77192-c654-41fd-887e-53459fafcc24_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, деревня Мисирева",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Георгиевна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хромова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

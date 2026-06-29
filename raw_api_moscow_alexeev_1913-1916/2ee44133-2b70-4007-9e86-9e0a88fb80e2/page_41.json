@@ -1,0 +1,144 @@
+{
+  "year": 1915,
+  "page": 41,
+  "node_id": "0d554230-48b7-47b6-b51a-0462a4ef6f6f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2951,
+        "x": 900,
+        "y": 1085
+      },
+      "entry_id": "0d554230-48b7-47b6-b51a-0462a4ef6f6f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трангейзер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трангейзер"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Старое Петращевский уезд",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Трангейзер"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния",
+          "info": "",
+          "name": "Юлия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Анюхова"
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд",
+          "info": "мещанин",
+          "name": "Павел",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 2950,
+        "x": 904,
+        "y": 1796
+      },
+      "entry_id": "0d554230-48b7-47b6-b51a-0462a4ef6f6f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский",
+          "info": "мещанка, девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Азарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Азаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Азарова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Азаров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский",
+          "info": "мещанин",
+          "name": "Илья",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрявцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,197 @@
+{
+  "year": 1915,
+  "page": 165,
+  "node_id": "51c3fb16-08a6-4fe0-acfc-db3c038112df",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2806,
+        "x": 924,
+        "y": 1127
+      },
+      "entry_id": "51c3fb16-08a6-4fe0-acfc-db3c038112df_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волынская волость, деревня Бортово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Желтяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Суркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Суркова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "other_status": "муж крестной матери",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Желтякова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынская волость, село Костино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сурков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 712,
+        "width": 2825,
+        "x": 930,
+        "y": 1906
+      },
+      "entry_id": "51c3fb16-08a6-4fe0-acfc-db3c038112df_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Мефодиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Торжок",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яшина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Азарово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Торжок",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 712,
+        "width": 2819,
+        "x": 928,
+        "y": 2773
+      },
+      "entry_id": "51c3fb16-08a6-4fe0-acfc-db3c038112df_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Липецкая волость, деревня Торжок",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Краснополяновская волость, деревня Трусово",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Полиевктов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Золотых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Мефодиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Антонина",
+          "other_status": "жена крестного отца",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Золотых"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

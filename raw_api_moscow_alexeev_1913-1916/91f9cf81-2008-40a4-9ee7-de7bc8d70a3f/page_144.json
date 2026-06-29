@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 144,
+  "node_id": "2ac8a187-dbf4-4fd1-8ab7-adef49c2c370",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 529,
+        "width": 2768,
+        "x": 932,
+        "y": 1014
+      },
+      "entry_id": "2ac8a187-dbf4-4fd1-8ab7-adef49c2c370_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Таруса",
+          "info": "мещанка, вдова",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Нечаева"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Боровичский уезд, Ровенская волость, деревня Егли",
+          "info": "крестьянин",
+          "name": "Иона",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ульянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Ионина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ульяновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ульяновская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2812,
+        "x": 917,
+        "y": 1685
+      },
+      "entry_id": "2ac8a187-dbf4-4fd1-8ab7-adef49c2c370_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая, парикмахерского цеха жена",
+          "name": "Дария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гладышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Евфимиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Игнатова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Игнатов"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Маковская волость, деревня Курлышево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фетисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Игнатова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2837,
+        "x": 902,
+        "y": 2397
+      },
+      "entry_id": "2ac8a187-dbf4-4fd1-8ab7-adef49c2c370_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Старочинская волость, село Новое",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Косинцев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Васильевская волость, деревня Курово",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чупейкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Косинцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Густавовна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Косинцева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Васильевская волость, деревня Курово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чупейкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2851,
+        "x": 884,
+        "y": 3137
+      },
+      "entry_id": "2ac8a187-dbf4-4fd1-8ab7-adef49c2c370_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Усачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Елатникова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Романо-Дорковская волость, село Волковое",
+          "info": "крестьянин",
+          "name": "Лука",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Елатников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Елатников"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

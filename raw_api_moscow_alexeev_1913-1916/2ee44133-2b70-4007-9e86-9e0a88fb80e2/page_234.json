@@ -1,0 +1,41 @@
+{
+  "year": 1915,
+  "page": 234,
+  "node_id": "8cf8aba5-815a-4606-9785-2f3a60ff3ef0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 752,
+        "width": 3913,
+        "x": 798,
+        "y": 1072
+      },
+      "entry_id": "8cf8aba5-815a-4606-9785-2f3a60ff3ef0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Виноградова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,237 @@
+{
+  "year": 1916,
+  "page": 140,
+  "node_id": "f253b18c-0ed3-4952-ad05-84b1d314c556",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 531,
+        "width": 2795,
+        "x": 905,
+        "y": 1015
+      },
+      "entry_id": "f253b18c-0ed3-4952-ad05-84b1d314c556_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Звенигород",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Марковкина"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Говеновская волость, деревня Ливенки",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Васильевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баскаков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Бедишевская волость, село Тотмаково",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баскаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 577,
+        "width": 2816,
+        "x": 907,
+        "y": 1692
+      },
+      "entry_id": "f253b18c-0ed3-4952-ad05-84b1d314c556_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Кумординская волость, деревня Голыгина",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Пантелеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Горица",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Грузинская волость, деревня Жданова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 757,
+        "width": 2824,
+        "x": 893,
+        "y": 2414
+      },
+      "entry_id": "f253b18c-0ed3-4952-ad05-84b1d314c556_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Кумовская волость, деревня Нижний Дойца",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иустиния",
+          "second_name": "Юлиянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Козакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Караблинская волость, деревня Фроловских хуторов",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казулинская волость, деревня Аршабалова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2853,
+        "x": 873,
+        "y": 3155
+      },
+      "entry_id": "f253b18c-0ed3-4952-ad05-84b1d314c556_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Звонова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Мезинецкая волость, деревня Старая Михайловка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Звонов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мещерская волость, деревня Починина",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коновалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Звонова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

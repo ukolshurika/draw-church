@@ -1,0 +1,81 @@
+{
+  "year": 1915,
+  "page": 220,
+  "node_id": "1e6da5c7-dd0d-47ae-915a-a884b8d1df5a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1186,
+        "width": 3359,
+        "x": 767,
+        "y": 1142
+      },
+      "entry_id": "1e6da5c7-dd0d-47ae-915a-a884b8d1df5a_0",
+      "people": [
+        {
+          "age": "20",
+          "geo": "Московская губерния, город Можайск",
+          "info": "мещанка, девица",
+          "name": "Елена",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Мусатова (Иванова)"
+        },
+        {
+          "age": "23",
+          "geo": "Тамбовская губерния, Спасский уезд, Жуковская волость",
+          "info": "безземельный крестьянин",
+          "name": "Павел",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Мусатов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Буйгородская волость, деревня Спас",
+          "info": "",
+          "name": "Назарь",
+          "second_name": "Калинов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин, Баражевской слободы",
+          "name": "Феодор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Лапин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Дмитров",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Тузиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин, Большой Садовой слободы",
+          "name": "Феодор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Егоров"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

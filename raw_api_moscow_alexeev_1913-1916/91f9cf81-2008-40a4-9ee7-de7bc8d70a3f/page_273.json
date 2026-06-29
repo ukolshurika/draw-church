@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 273,
+  "node_id": "5b2a7791-a934-4c9e-8adb-7456e5ead313",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 428,
+        "width": 1380,
+        "x": 1050,
+        "y": 1115
+      },
+      "entry_id": "5b2a7791-a934-4c9e-8adb-7456e5ead313_3",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "Московская губерния, Коломенский уезд, Непецинская волость, деревня Щенятово",
+          "info": "из дома Розанова крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сироткин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 1470,
+        "x": 1043,
+        "y": 1725
+      },
+      "entry_id": "5b2a7791-a934-4c9e-8adb-7456e5ead313_1",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чебиряшкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "мещанка, девица",
+          "name": "Татиана",
+          "other_status": "мать умершего",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Чебиряшкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матвей",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1470,
+        "x": 1045,
+        "y": 2344
+      },
+      "entry_id": "5b2a7791-a934-4c9e-8adb-7456e5ead313_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Вологда",
+          "info": "цеховой",
+          "name": "Вячеслав",
+          "other_status": "отец умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "1 год 10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Вячеславова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 1460,
+        "x": 1040,
+        "y": 2876
+      },
+      "entry_id": "5b2a7791-a934-4c9e-8adb-7456e5ead313_0",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Неверская волость, деревня Годятино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

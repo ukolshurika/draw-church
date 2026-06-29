@@ -1,0 +1,269 @@
+{
+  "year": 1915,
+  "page": 77,
+  "node_id": "569fd4a0-b5c8-4322-a0a6-65756ce46ee4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 475,
+        "width": 2694,
+        "x": 983,
+        "y": 1049
+      },
+      "entry_id": "569fd4a0-b5c8-4322-a0a6-65756ce46ee4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Романова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чистякова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосельский уезд, Голунская волость, село Голуни",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "Новосельский уезд, Моховская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чистяков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2705,
+        "x": 984,
+        "y": 1740
+      },
+      "entry_id": "569fd4a0-b5c8-4322-a0a6-65756ce46ee4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "орловский мещанин",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поспелов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Шарапова",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тарапова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горбачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горбачева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоновская волость, деревня Мозиревка",
+          "info": "крестьянин",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Тарапова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Маковская волость, деревня Толмачевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горбачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 618,
+        "width": 2706,
+        "x": 985,
+        "y": 2587
+      },
+      "entry_id": "569fd4a0-b5c8-4322-a0a6-65756ce46ee4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Фуниково-Горская волость, деревня Колякова",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крюков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, деревня Фурсова",
+          "info": "крестьянская дочь",
+          "name": "Пелагия",
+          "second_name": "Глебова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аверьянова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Зюзинская волость, Зюзинская волость",
+          "info": "причисленный к волости крестьянин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зудин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зудина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зудин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2680,
+        "x": 992,
+        "y": 3250
+      },
+      "entry_id": "569fd4a0-b5c8-4322-a0a6-65756ce46ee4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Афанасиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Евграшкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Евграшкина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня, Шипово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ерохин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Шипово",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Евграшкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

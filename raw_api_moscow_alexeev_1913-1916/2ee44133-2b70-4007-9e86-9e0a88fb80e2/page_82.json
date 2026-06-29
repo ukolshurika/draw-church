@@ -1,0 +1,309 @@
+{
+  "year": 1915,
+  "page": 82,
+  "node_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 395,
+        "width": 2838,
+        "x": 913,
+        "y": 1123
+      },
+      "entry_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сельдякова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поспелов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сельдяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая ленточная цеха вдова",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Гранковская волость",
+          "info": "бывший дворовый",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сельдяков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 436,
+        "width": 2794,
+        "x": 922,
+        "y": 1647
+      },
+      "entry_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Железцовская волость, село Железцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыпленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Дарья",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село Железцово",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 441,
+        "width": 2799,
+        "x": 935,
+        "y": 2232
+      },
+      "entry_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лаврученко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "владимирская мещанка, девица",
+          "name": "Наталия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Уженко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лаврученко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын коллежского секретаря",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рождественский"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Роменский уезд, Бобриновская волость, село Беловоды",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лаврученко"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 483,
+        "width": 2807,
+        "x": 936,
+        "y": 2811
+      },
+      "entry_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Коноплинская волость, деревня Брыни",
+          "info": "вдова потомственного почетного гражданина",
+          "name": "Пелагия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Касаткина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Пелагиина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Касаткина"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Дорощенская волость, деревня Кованьково",
+          "info": "крестьянка",
+          "name": "Хрисия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ляхова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Коноплинская волость, деревня Брыни",
+          "info": "крестьянин",
+          "name": "Роман",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сазонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 2822,
+        "x": 935,
+        "y": 3266
+      },
+      "entry_id": "92d6c3f1-00f3-443f-bf2a-2e9aa1b6e79e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "хутор Коптевичев",
+          "info": "девица",
+          "name": "Анастасия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Остапец"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Пирятинский уезд, Черныховская волость, хутор Коптевичев",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Останец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Останец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Останец"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Торховская волость, село Бушево",
+          "info": "крестьянин",
+          "name": "Федот",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лунин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

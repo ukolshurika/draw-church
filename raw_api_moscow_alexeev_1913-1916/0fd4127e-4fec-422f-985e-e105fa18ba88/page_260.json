@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 260,
+  "node_id": "14214c86-e174-4172-834d-6f2b897070f4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 310,
+        "width": 1507,
+        "x": 927,
+        "y": 811
+      },
+      "entry_id": "14214c86-e174-4172-834d-6f2b897070f4_4",
+      "people": [
+        {
+          "age": "2 года 1 месяц",
+          "geo": "Щуцкий уезд, Белореченская волость, деревня Брусянова",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 1445,
+        "x": 927,
+        "y": 1285
+      },
+      "entry_id": "14214c86-e174-4172-834d-6f2b897070f4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Попковская волость, село Воронец",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Жарков"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жарков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 426,
+        "width": 1507,
+        "x": 929,
+        "y": 1854
+      },
+      "entry_id": "14214c86-e174-4172-834d-6f2b897070f4_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Онисимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Филякина"
+        },
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Милославская волость, деревня Тасинка",
+          "info": "крестьянин",
+          "name": "Онисим",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филякин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 392,
+        "width": 1471,
+        "x": 936,
+        "y": 2414
+      },
+      "entry_id": "14214c86-e174-4172-834d-6f2b897070f4_1",
+      "people": [
+        {
+          "age": "65",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, деревня Фустово",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Онисимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ларионов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 337,
+        "width": 1436,
+        "x": 934,
+        "y": 2958
+      },
+      "entry_id": "14214c86-e174-4172-834d-6f2b897070f4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Курская губерния, Троицкая волость, село Винницкое",
+          "info": "",
+          "name": "Киприан",
+          "other_status": "отецумершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Евдокимов"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Троицкая волость, село Винницкое",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Евдокимова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 123,
+  "node_id": "bdac5e55-b94a-4f9d-ac40-68d1c4a33764",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 470,
+        "width": 2780,
+        "x": 897,
+        "y": 1039
+      },
+      "entry_id": "bdac5e55-b94a-4f9d-ac40-68d1c4a33764_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Звенигород",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Купцов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Шараповская волость, деревня Никифоровская",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Шараповская волость, деревня Никифоровская",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Купцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Купцова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2773,
+        "x": 902,
+        "y": 1671
+      },
+      "entry_id": "bdac5e55-b94a-4f9d-ac40-68d1c4a33764_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "той же волости девица, крестьянка",
+          "name": "Агрипина",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Зотова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Хомутово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хромов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 776,
+        "width": 2781,
+        "x": 898,
+        "y": 2366
+      },
+      "entry_id": "bdac5e55-b94a-4f9d-ac40-68d1c4a33764_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Изосимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ивашкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, село",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ларина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Больше-Екатерининская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ивашкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ивашкина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Жильково",
+          "info": "крестьянин",
+          "name": "Феоктист",
+          "second_name": "Евтихиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жедков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2795,
+        "x": 892,
+        "y": 3207
+      },
+      "entry_id": "bdac5e55-b94a-4f9d-ac40-68d1c4a33764_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Мытищищенская волость, село Копнино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коннов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зеленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зеленкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Трасненская волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зеленков"
+        },
+        {
+          "age": "",
+          "geo": "Тарасненская волость, деревня Ломтево",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

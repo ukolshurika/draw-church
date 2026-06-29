@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 26,
+  "node_id": "4b673900-a828-43b2-9f14-8495dbc2feb3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 339,
+        "width": 2932,
+        "x": 736,
+        "y": 920
+      },
+      "entry_id": "4b673900-a828-43b2-9f14-8495dbc2feb3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Сидорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Мольневская волость, деревня Острево",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, деревня Ермолино",
+          "info": "крестьянин",
+          "name": "Павлов",
+          "second_name": "Былов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, село Липово",
+          "info": "крестьянин",
+          "name": "Сидор",
+          "second_name": "Евсевиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зотов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 2960,
+        "x": 726,
+        "y": 1316
+      },
+      "entry_id": "4b673900-a828-43b2-9f14-8495dbc2feb3_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Трошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трошина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, деревня Прѣснецово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трошин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Сорокина",
+          "info": "крестьянка",
+          "name": "Вера",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Молодинская волость, деревня Костомарово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 382,
+        "width": 2911,
+        "x": 722,
+        "y": 1765
+      },
+      "entry_id": "4b673900-a828-43b2-9f14-8495dbc2feb3_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "Трестенская волость, деревня Вышки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Сисоев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крылов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Трестенская волость, деревня Великое Село",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Морозов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 2923,
+        "x": 734,
+        "y": 2207
+      },
+      "entry_id": "4b673900-a828-43b2-9f14-8495dbc2feb3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скволыгина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд",
+          "info": "сын коллежского асессора",
+          "name": "Сергей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куприянов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Титовская волость, село",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Скволыгин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Туровская волость, село Енино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скволыгин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 2961,
+        "x": 726,
+        "y": 2695
+      },
+      "entry_id": "4b673900-a828-43b2-9f14-8495dbc2feb3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Козловская волость, деревня Глухново",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Артамонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Быстров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Сущевская волость, деревня Удино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Ботовская волость, деревня Лощево",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Макарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кораблева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

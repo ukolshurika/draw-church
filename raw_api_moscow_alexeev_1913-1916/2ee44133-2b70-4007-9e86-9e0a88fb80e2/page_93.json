@@ -1,0 +1,352 @@
+{
+  "year": 1915,
+  "page": 93,
+  "node_id": "5622c186-0687-4629-9795-3e5da18b48bd",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 448,
+        "width": 2937,
+        "x": 899,
+        "y": 1105
+      },
+      "entry_id": "5622c186-0687-4629-9795-3e5da18b48bd_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Киреева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шашкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Сименская волость, деревня Климовки",
+          "info": "крестьянка, вдова",
+          "name": "Александра",
+          "second_name": "Лаврентиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Киреева"
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Сердобский уезд, Сапожковская волость, деревня Рянцы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Киреев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 397,
+        "width": 2927,
+        "x": 911,
+        "y": 1585
+      },
+      "entry_id": "5622c186-0687-4629-9795-3e5da18b48bd_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гороховецкий уезд, Красносельская волость, деревня Хорошево",
+          "info": "",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Гришинская волость, деревня Михайловская",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "Гороховецкий уезд, Красносельская волость, деревня Хорошево",
+          "info": "",
+          "name": "Клавдия",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Исаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феврония",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Исаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 2906,
+        "x": 910,
+        "y": 2065
+      },
+      "entry_id": "5622c186-0687-4629-9795-3e5da18b48bd_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пафнутия",
+          "second_name": "Канатова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Киструсская волость, село Киструса",
+          "info": "крестьянин",
+          "name": "Зосим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Уваев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "other_status": "муж крестной матери",
+          "second_name": "Пафнутиева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Канатова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Пафнутиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Уваева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Зосимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Уваев"
+        },
+        {
+          "age": "",
+          "geo": "село Киструса",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Канатов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2919,
+        "x": 915,
+        "y": 2545
+      },
+      "entry_id": "5622c186-0687-4629-9795-3e5da18b48bd_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Кирилловский уезд, Буриковская волость, деревня Горы",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "отец крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юганов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Борисовская волость, деревня Котлово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Юганов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Манефа",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Юганова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Юганова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2913,
+        "x": 919,
+        "y": 3082
+      },
+      "entry_id": "5622c186-0687-4629-9795-3e5da18b48bd_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Нестеров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Никоново",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Нестеров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Дмитровская волость, деревня Грибаново",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Никоново, деревня Селиверстова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антошкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нестерова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

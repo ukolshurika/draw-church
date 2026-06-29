@@ -1,0 +1,239 @@
+{
+  "year": 1916,
+  "page": 148,
+  "node_id": "10840fca-b085-4998-af8d-ac16c87b472d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2761,
+        "x": 904,
+        "y": 1019
+      },
+      "entry_id": "10840fca-b085-4998-af8d-ac16c87b472d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хадукова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хадукова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Муравьевская волость, деревня Семенково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хадуков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Боярковская волость, село Богородское",
+          "info": "жена крестьянина",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Колесова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 641,
+        "width": 2761,
+        "x": 893,
+        "y": 1682
+      },
+      "entry_id": "10840fca-b085-4998-af8d-ac16c87b472d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Сандыревская волость, село Никульское",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пименова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бабакина"
+        },
+        {
+          "age": "",
+          "geo": "Ищеинская волость, деревня Гребенкино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гостев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бабакина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Ищеинская волость, село Рождество",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бабакин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 648,
+        "width": 2737,
+        "x": 905,
+        "y": 2388
+      },
+      "entry_id": "10840fca-b085-4998-af8d-ac16c87b472d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, деревня Герасимова",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Галичников"
+        },
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Венденский уезд, Грозденская волость",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Давидова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Видуц"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Перевлесская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Торопихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галичникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 613,
+        "width": 2716,
+        "x": 901,
+        "y": 3080
+      },
+      "entry_id": "10840fca-b085-4998-af8d-ac16c87b472d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевское общество, деревня Кетково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская ремесленница сапожного цеха девица",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корнева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

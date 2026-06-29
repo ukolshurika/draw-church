@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 256,
+  "node_id": "cc670535-c0b9-4165-b79f-54570c684168",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 449,
+        "width": 1466,
+        "x": 1048,
+        "y": 1146
+      },
+      "entry_id": "cc670535-c0b9-4165-b79f-54570c684168_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Шипово",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "other_status": "отец умершего",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Евграшкин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Евграшкин"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 370,
+        "width": 1460,
+        "x": 1050,
+        "y": 1802
+      },
+      "entry_id": "cc670535-c0b9-4165-b79f-54570c684168_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "мещанин",
+          "name": "Димитрий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Титов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 569,
+        "width": 1486,
+        "x": 1044,
+        "y": 2376
+      },
+      "entry_id": "cc670535-c0b9-4165-b79f-54570c684168_1",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Семеновская волость, деревня Ям",
+          "info": "крестьянская девица, внебрачная дочь Зинаиды по крестному отцу Емельянову",
+          "name": "Татиана",
+          "other_status": "мать умершего",
+          "second_name": "Игнатова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 517,
+        "width": 1455,
+        "x": 1050,
+        "y": 3123
+      },
+      "entry_id": "cc670535-c0b9-4165-b79f-54570c684168_0",
+      "people": [
+        {
+          "age": "5 недель",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гоночкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Погостинская волость, деревня Полухтанские Выселки",
+          "info": "из крестьян",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гоночкин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

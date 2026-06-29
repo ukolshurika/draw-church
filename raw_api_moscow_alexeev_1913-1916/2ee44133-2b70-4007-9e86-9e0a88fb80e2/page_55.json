@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 55,
+  "node_id": "2ca55561-5188-428a-a637-7e27b2ed37af",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 855,
+        "width": 2749,
+        "x": 947,
+        "y": 1119
+      },
+      "entry_id": "2ca55561-5188-428a-a637-7e27b2ed37af_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митякинская волость, деревня Кораблевка",
+          "info": "крестьянская дочь",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Арестова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Спасо-Нудольская волость, деревня Алексеевская",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Сергиевская волость, деревня Дроковая",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Арестов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Арестова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 2745,
+        "x": 936,
+        "y": 1919
+      },
+      "entry_id": "2ca55561-5188-428a-a637-7e27b2ed37af_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, село Кормовое",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "то же село Кормовое",
+          "info": "того же села Кормового крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соловьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 579,
+        "width": 2750,
+        "x": 952,
+        "y": 2445
+      },
+      "entry_id": "2ca55561-5188-428a-a637-7e27b2ed37af_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Второвская волость, деревня Пульховая",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Сокольский уезд, Черновецкая волость, деревня Студяки",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петровская"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня, Пульховая",
+          "info": "крестьянин",
+          "name": "Алексий",
+          "other_status": "муж крестной матери",
+          "second_name": "Яков",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 855,
+        "width": 2781,
+        "x": 948,
+        "y": 3074
+      },
+      "entry_id": "2ca55561-5188-428a-a637-7e27b2ed37af_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "зауряд военный чиновник",
+          "name": "Ефим",
+          "second_name": "Яков",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Третьяков"
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд, Кленовская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Лобановская волость, село Кишкино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "нерчинская мещанка",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Першина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Парамонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Всеволод",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Парамонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

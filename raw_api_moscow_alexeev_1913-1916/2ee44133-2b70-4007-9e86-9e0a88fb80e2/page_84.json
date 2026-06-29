@@ -1,0 +1,331 @@
+{
+  "year": 1915,
+  "page": 84,
+  "node_id": "ee758e89-6de6-447a-8b8e-4785d0e43067",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 454,
+        "width": 2834,
+        "x": 901,
+        "y": 1021
+      },
+      "entry_id": "ee758e89-6de6-447a-8b8e-4785d0e43067_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болхошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Окунева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Спас-Конинская волость, деревня Слобода",
+          "info": "",
+          "name": "Петр",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Максимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Окунева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, село Новоспасское",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Окунев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Яропольская волость, деревня Алферово",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Лазарев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 2825,
+        "x": 898,
+        "y": 1619
+      },
+      "entry_id": "ee758e89-6de6-447a-8b8e-4785d0e43067_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Спас-Волженская волость, деревня Мартюхово",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Богдановская волость, село Богданово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2826,
+        "x": 916,
+        "y": 2164
+      },
+      "entry_id": "ee758e89-6de6-447a-8b8e-4785d0e43067_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Борисоглебский уезд, Богородская волость, деревня Воздвиженское",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королькова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иоакимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гурьев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Арнишинская волость, деревня Стрельное",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куликов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2801,
+        "x": 922,
+        "y": 2744
+      },
+      "entry_id": "ee758e89-6de6-447a-8b8e-4785d0e43067_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Никольско-Мало-Ломовисская волость, село 1-го Грибоедова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Суйская волость",
+          "info": "крестьянин",
+          "name": "Ефрем",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Оськин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "то же село, 1-го Грибоедова",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2818,
+        "x": 931,
+        "y": 3276
+      },
+      "entry_id": "ee758e89-6de6-447a-8b8e-4785d0e43067_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "Скопинская мещанка, девица",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чеберянкина"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Ардатовский уезд, Маколовская волость, село Кульмина",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кильдяев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Ново-Покровская волость, село Усени",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рогова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

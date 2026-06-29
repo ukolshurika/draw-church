@@ -1,0 +1,250 @@
+{
+  "year": 1916,
+  "page": 7,
+  "node_id": "695d57f9-27b8-4a2c-b8ef-f48feacf32f2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2825,
+        "x": 916,
+        "y": 1006
+      },
+      "entry_id": "695d57f9-27b8-4a2c-b8ef-f48feacf32f2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусанский уезд, Самуиловская волость, деревня Буриново",
+          "info": "крестьянская девица",
+          "name": "Ирина",
+          "other_status": "отец крестной матери",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Каменкова"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Польский уезд, Мостокская волость, деревня Мосток",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Якушов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Песчаницкая волость, деревня Ворожабкино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "в честь святой мученицы Татианы, празднуемой святой церковью 12 января",
+          "name": "Татиана",
+          "second_name": "Скворцова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 651,
+        "width": 2826,
+        "x": 906,
+        "y": 1731
+      },
+      "entry_id": "695d57f9-27b8-4a2c-b8ef-f48feacf32f2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Комаровская волость, деревня Шавыргино",
+          "info": "крестьянка, девица",
+          "name": "Зинаида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бычкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Беловежский уезд, местечко Городок, Городокская волость",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Александровский уезд, Ереминская волость, деревня Сахарово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Старовѣров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 533,
+        "width": 2831,
+        "x": 914,
+        "y": 2568
+      },
+      "entry_id": "695d57f9-27b8-4a2c-b8ef-f48feacf32f2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Порцевская волость, деревня Старая",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Анисимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крутов"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Глазовская волость, деревня Тушкова-Городок",
+          "info": "крестьянин",
+          "name": "Евгений",
+          "other_status": "муж крестной матери",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Розанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Розанова",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крутова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Крутова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2845,
+        "x": 904,
+        "y": 3162
+      },
+      "entry_id": "695d57f9-27b8-4a2c-b8ef-f48feacf32f2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, село Лашатово",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, село Лашатово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Окуньковская волость, деревня Каменная Выселка",
+          "info": "крестьянка, девица",
+          "name": "Евфросиния",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Митькина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

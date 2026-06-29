@@ -1,0 +1,196 @@
+{
+  "year": 1916,
+  "page": 122,
+  "node_id": "70a83d33-92eb-403a-812e-588b21dab456",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2731,
+        "x": 932,
+        "y": 1681
+      },
+      "entry_id": "70a83d33-92eb-403a-812e-588b21dab456_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новогрудский уезд, Стволовичская волость, деревня Залюбочь",
+          "info": "крестьянин",
+          "name": "Лука",
+          "second_name": "Викентиевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Моиссеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Лукина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Моиссеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Моиссеева"
+        },
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Покровская волость, деревня Старое Трошино",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Никанорова"
+        },
+        {
+          "age": "",
+          "geo": "Воронцовская волость, село",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зиновьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 585,
+        "width": 2737,
+        "x": 921,
+        "y": 2419
+      },
+      "entry_id": "70a83d33-92eb-403a-812e-588b21dab456_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Селецов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровская слобода",
+          "info": "мещанин",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыганкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Дубосищенская волость, деревня Марьина",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыганков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Цыганков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Селецова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2727,
+        "x": 913,
+        "y": 3187
+      },
+      "entry_id": "70a83d33-92eb-403a-812e-588b21dab456_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Долговицкая",
+          "info": "О-ва Ермолинской крестьянка",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шабанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Долговицкая",
+          "info": "О-ва Ермолинской крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шабанов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Тотемский уезд, Шевденицкая волость, деревня Долговицкая",
+          "info": "О-ва Ермолинской крестьянка, девица",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шабанова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

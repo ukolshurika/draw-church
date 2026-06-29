@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 263,
+  "node_id": "2751d39b-72b1-4ca3-b660-87053e6a1001",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1438,
+        "x": 1067,
+        "y": 1158
+      },
+      "entry_id": "2751d39b-72b1-4ca3-b660-87053e6a1001_3",
+      "people": [
+        {
+          "age": "19 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Покровская волость, село Троицкое",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Щербаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 300,
+        "width": 1396,
+        "x": 1079,
+        "y": 1820
+      },
+      "entry_id": "2751d39b-72b1-4ca3-b660-87053e6a1001_2",
+      "people": [
+        {
+          "age": "35",
+          "geo": "",
+          "info": "из дома Ратнер. Потомственный дворянин, прапорщик запаса",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Рыбкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 496,
+        "width": 1467,
+        "x": 1082,
+        "y": 2341
+      },
+      "entry_id": "2751d39b-72b1-4ca3-b660-87053e6a1001_1",
+      "people": [
+        {
+          "age": "38",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Суздальский уезд, Торчинская волость, село Тетерино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж умершего",
+          "second_name": "Гнидин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 585,
+        "width": 1397,
+        "x": 1096,
+        "y": 3026
+      },
+      "entry_id": "2751d39b-72b1-4ca3-b660-87053e6a1001_0",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мосяков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Можаровская волость, село Большие Можары",
+          "info": "крестьянин",
+          "name": "Феоктист",
+          "other_status": "отец умершего",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мосяков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

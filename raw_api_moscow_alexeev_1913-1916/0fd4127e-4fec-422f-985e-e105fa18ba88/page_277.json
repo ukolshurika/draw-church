@@ -1,0 +1,119 @@
+{
+  "year": 1914,
+  "page": 277,
+  "node_id": "1e634d68-574a-476a-8a53-181c08871f4c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 382,
+        "width": 1439,
+        "x": 927,
+        "y": 857
+      },
+      "entry_id": "1e634d68-574a-476a-8a53-181c08871f4c_0",
+      "people": [
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Минаев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Долговская волость, деревня Сухой Рожни",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Минаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 223,
+        "width": 1426,
+        "x": 930,
+        "y": 1471
+      },
+      "entry_id": "1e634d68-574a-476a-8a53-181c08871f4c_2",
+      "people": [
+        {
+          "age": "55",
+          "geo": "",
+          "info": "запасный хорунжий",
+          "name": "Валериан",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ильин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 610,
+        "width": 1500,
+        "x": 925,
+        "y": 1915
+      },
+      "entry_id": "1e634d68-574a-476a-8a53-181c08871f4c_1",
+      "people": [
+        {
+          "age": "2 года 4 месяца",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, село Иваново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шашкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 451,
+        "width": 1533,
+        "x": 919,
+        "y": 2649
+      },
+      "entry_id": "1e634d68-574a-476a-8a53-181c08871f4c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Троицко-Лобановская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Логгинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

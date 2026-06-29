@@ -1,0 +1,342 @@
+{
+  "year": 1915,
+  "page": 97,
+  "node_id": "56297414-3320-440c-9a8f-9a5088027e89",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 379,
+        "width": 2869,
+        "x": 982,
+        "y": 1101
+      },
+      "entry_id": "56297414-3320-440c-9a8f-9a5088027e89_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Каширский уезд, Мокринская волость, село Матронино",
+          "info": "",
+          "name": "Егор",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матронин"
+        },
+        {
+          "age": "",
+          "geo": "Мошковская волость",
+          "info": "причисленный к ней крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матронина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Мошковская волость",
+          "info": "причисленный к оной крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 382,
+        "width": 2870,
+        "x": 985,
+        "y": 1560
+      },
+      "entry_id": "56297414-3320-440c-9a8f-9a5088027e89_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Мшанки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алленых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бирюкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Павелецкая волость, село",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петранин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иулиания",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петранина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Петранина"
+        },
+        {
+          "age": "",
+          "geo": "Павелецкая волость, село Павелец",
+          "info": "крестьянин",
+          "name": "Иларион",
+          "other_status": "муж крестной матери",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бирюков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2876,
+        "x": 986,
+        "y": 2037
+      },
+      "entry_id": "56297414-3320-440c-9a8f-9a5088027e89_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Саратовская мещанка",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Симеонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "окончивший Императорский Московский университет, сын купца",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бяло"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Саратовский мещанин",
+          "name": "Георгий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 472,
+        "width": 2878,
+        "x": 1001,
+        "y": 2539
+      },
+      "entry_id": "56297414-3320-440c-9a8f-9a5088027e89_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванцева"
+        },
+        {
+          "age": "",
+          "geo": "слобода Кузнецкая",
+          "info": "московский мещанин",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, деревня Иванцево",
+          "info": "",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванцев"
+        },
+        {
+          "age": "",
+          "geo": "слобода Лужников",
+          "info": "московский мещанин",
+          "name": "Григорий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 2870,
+        "x": 1018,
+        "y": 3095
+      },
+      "entry_id": "56297414-3320-440c-9a8f-9a5088027e89_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Череповецкая мещанка",
+          "info": "девица",
+          "name": "Лидия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мерщикова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Новинская волость, деревня Полушкино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горшков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чичалова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Новинская волость, деревня Полушкино",
+          "info": "потомственный дворянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чичалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чичалова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,218 @@
+{
+  "year": 1915,
+  "page": 145,
+  "node_id": "31f4d943-de9e-465e-9fe2-47a197d4dd57",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 883,
+        "width": 2808,
+        "x": 903,
+        "y": 1098
+      },
+      "entry_id": "31f4d943-de9e-465e-9fe2-47a197d4dd57_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зудина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Зюзинская волость",
+          "info": "причисленный крестьянин",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зудин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Покровско-Корсаковская волость, деревня Успенские Выселки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мазоров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Фуниковская волость, деревня Коленова",
+          "info": "жена крестьянина",
+          "name": "Софья",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крюкова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Покровско-Корсаковская волость, деревня Успенские Выселки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мазоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зудина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 664,
+        "width": 2809,
+        "x": 907,
+        "y": 2058
+      },
+      "entry_id": "31f4d943-de9e-465e-9fe2-47a197d4dd57_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Рамино",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Гжатск",
+          "info": "мещанин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Семеновская волость, деревня Ям",
+          "info": "крестьянка, девица",
+          "name": "Татьяна",
+          "second_name": "Игнатова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 809,
+        "width": 2824,
+        "x": 912,
+        "y": 2825
+      },
+      "entry_id": "31f4d943-de9e-465e-9fe2-47a197d4dd57_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Дмитров",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Размахова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "тот же город",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Садниковская волость, деревня Таболово",
+          "info": "крестьянин",
+          "name": "Евдокий",
+          "other_status": "муж крестной матери",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Размахов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

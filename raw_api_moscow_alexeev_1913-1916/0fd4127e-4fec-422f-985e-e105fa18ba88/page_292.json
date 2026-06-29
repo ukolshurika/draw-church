@@ -1,0 +1,119 @@
+{
+  "year": 1914,
+  "page": 292,
+  "node_id": "bf96dca6-8d09-4bce-884f-e8b8534c6e28",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1441,
+        "x": 961,
+        "y": 862
+      },
+      "entry_id": "bf96dca6-8d09-4bce-884f-e8b8534c6e28_3",
+      "people": [
+        {
+          "age": "90 лет",
+          "geo": "Калужская губерния, Боровский уезд, Добринская волость, деревня Шиловка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Курзанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 1425,
+        "x": 956,
+        "y": 1371
+      },
+      "entry_id": "bf96dca6-8d09-4bce-884f-e8b8534c6e28_2",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Панкратьевская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Романов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 1496,
+        "x": 954,
+        "y": 1952
+      },
+      "entry_id": "bf96dca6-8d09-4bce-884f-e8b8534c6e28_1",
+      "people": [
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Талдомская волость, деревня Кузнецова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1491,
+        "x": 962,
+        "y": 2586
+      },
+      "entry_id": "bf96dca6-8d09-4bce-884f-e8b8534c6e28_0",
+      "people": [
+        {
+          "age": "25 лет",
+          "geo": "Калужская губерния, Тарусский уезд, Заворовская волость, село Татарское",
+          "info": "жена крестьянина",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чернова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

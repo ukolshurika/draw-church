@@ -1,0 +1,372 @@
+{
+  "year": 1914,
+  "page": 145,
+  "node_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 423,
+        "width": 2888,
+        "x": 800,
+        "y": 906
+      },
+      "entry_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алавина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Горловская волость, село Рудинки",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алавин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Горлово",
+          "info": "крестьянин",
+          "name": "Ананий",
+          "second_name": "Назаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шибанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гладышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алавина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2929,
+        "x": 783,
+        "y": 1421
+      },
+      "entry_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алавина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Бортневская волость, деревня Марфина",
+          "info": "крестьянская дочь",
+          "name": "Елизавета",
+          "second_name": "Артемьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чаликова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Горловская волость, село Рудинки",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алавин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "other_status": "мать крестной матери",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Борова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Лопатковская волость, деревня Верхние Мармыжи",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавычин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "губернский секретарь",
+          "name": "Андрей",
+          "other_status": "отец крестной матери",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Боров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алавина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Ферзиковский уезд, Вертенская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Аржанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 403,
+        "width": 2905,
+        "x": 772,
+        "y": 1973
+      },
+      "entry_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ермолаева",
+          "info": "губернский секретарь",
+          "name": "Андрей",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Боров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиково",
+          "info": "крестьянская дочь, девица",
+          "name": "Ольга",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Скуратова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Ферзиковский уезд, Вертенская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аржанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 452,
+        "width": 2904,
+        "x": 756,
+        "y": 2402
+      },
+      "entry_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Владимир",
+          "second_name": "Арсениив",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пятницкий"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Константин",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свиридов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пятницкая"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пятницкий"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Оставиковский уезд, Спасская волость, деревня Минина",
+          "info": "мещанка",
+          "name": "Ольга",
+          "second_name": "Арсениива",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 642,
+        "width": 2933,
+        "x": 747,
+        "y": 2801
+      },
+      "entry_id": "96255b71-3dc5-4496-9c1e-2a47b2ca83dc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Спасская волость, деревня Минина",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Верболоский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Евфимиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Верболоская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Верболоская"
+        },
+        {
+          "age": "",
+          "geo": "Вяземский уезд, Успенская волость, деревня Теплухи",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "Вяземский уезд, Шуйская волость, деревня Парубина",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}
