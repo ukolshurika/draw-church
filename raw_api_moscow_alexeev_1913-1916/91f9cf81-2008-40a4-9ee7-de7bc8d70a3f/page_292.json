@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 292,
+  "node_id": "561c4ede-bf38-4a31-a3b9-f9f2f5307ed4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1476,
+        "x": 1032,
+        "y": 1099
+      },
+      "entry_id": "561c4ede-bf38-4a31-a3b9-f9f2f5307ed4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынская волость, деревня Подлусье",
+          "info": "крестьянка, девица",
+          "name": "Анисья",
+          "other_status": "мать умершего",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Логашина"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Логашин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 1504,
+        "x": 1028,
+        "y": 1752
+      },
+      "entry_id": "561c4ede-bf38-4a31-a3b9-f9f2f5307ed4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Полянский"
+        },
+        {
+          "age": "3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Полянская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 389,
+        "width": 1414,
+        "x": 1018,
+        "y": 2436
+      },
+      "entry_id": "561c4ede-bf38-4a31-a3b9-f9f2f5307ed4_2",
+      "people": [
+        {
+          "age": "44",
+          "geo": "Московская губерния, Рузский уезд, Никольская волость, деревня Раково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Марков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 1488,
+        "x": 1009,
+        "y": 3033
+      },
+      "entry_id": "561c4ede-bf38-4a31-a3b9-f9f2f5307ed4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Остропятовская волость, деревня Прудков",
+          "info": "из дома Кошелева крестьянка, девица",
+          "name": "Параскева",
+          "other_status": "мать умершего",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Рогова"
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Параскевин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Рогов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

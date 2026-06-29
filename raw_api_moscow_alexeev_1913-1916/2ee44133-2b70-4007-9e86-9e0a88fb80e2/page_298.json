@@ -1,0 +1,228 @@
+{
+  "year": 1915,
+  "page": 298,
+  "node_id": "9b138147-5e93-47b2-9c08-46c9f07127ad",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 298,
+        "width": 1506,
+        "x": 1111,
+        "y": 1109
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Буйгородская волость, село Калистово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Порфирьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пушкин"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 323,
+        "width": 1419,
+        "x": 1121,
+        "y": 1491
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ардатовский уезд, Симеевская волость, деревня Михаиловка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горюнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1395,
+        "x": 1125,
+        "y": 1930
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_1",
+      "people": [
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Буланов"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Малинская волость, село Кресты",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буланов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 218,
+        "width": 1435,
+        "x": 1123,
+        "y": 2368
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Крапивенский уезд, Срочинская волость, село Крапивенское",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мохов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 217,
+        "width": 1373,
+        "x": 1141,
+        "y": 2694
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_3",
+      "people": [
+        {
+          "age": "32",
+          "geo": "Тульская губерния, Каширский уезд, Иваньковская волость, деревня Васильская",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Митрофанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 276,
+        "width": 1491,
+        "x": 1141,
+        "y": 2991
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Суткинская волость, деревня Настасьиха",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "1 год 31/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Владимирова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1408,
+        "x": 1145,
+        "y": 3385
+      },
+      "entry_id": "9b138147-5e93-47b2-9c08-46c9f07127ad_4",
+      "people": [
+        {
+          "age": "1 г. 10 дней",
+          "geo": "",
+          "info": "",
+          "name": "Омельян",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

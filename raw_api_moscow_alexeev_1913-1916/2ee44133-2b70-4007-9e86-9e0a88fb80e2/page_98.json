@@ -1,0 +1,299 @@
+{
+  "year": 1915,
+  "page": 98,
+  "node_id": "99057d95-6839-41b8-a093-6726ade7f5e2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 452,
+        "width": 2803,
+        "x": 889,
+        "y": 1104
+      },
+      "entry_id": "99057d95-6839-41b8-a093-6726ade7f5e2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Сюндюковская волость, село Васильевки",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бутырки",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тамойкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Солнечногорская волость, деревня Бутырки",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тамойкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Пелагиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тамойкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 2827,
+        "x": 881,
+        "y": 1605
+      },
+      "entry_id": "99057d95-6839-41b8-a093-6726ade7f5e2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Колтовская волость, деревня Ледовские выселки",
+          "info": "сверхсрочно-срочный жандармский унтер-офицер из крестьян",
+          "name": "Гавриил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Арбузов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Агриппина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Арбузова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Арбузов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 414,
+        "width": 2828,
+        "x": 881,
+        "y": 2250
+      },
+      "entry_id": "99057d95-6839-41b8-a093-6726ade7f5e2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Болтушкина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болтушкина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Болтушкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевская волость, деревня Попасово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Болтушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Болтушкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2855,
+        "x": 884,
+        "y": 2743
+      },
+      "entry_id": "99057d95-6839-41b8-a093-6726ade7f5e2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кабанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московского почтамта не имеющий чина",
+          "name": "Николай",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Полушкина",
+          "info": "Московской частной гимназии Касицына VI класса воспитанник",
+          "name": "Сергей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кабанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Волкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 404,
+        "width": 2866,
+        "x": 882,
+        "y": 3291
+      },
+      "entry_id": "99057d95-6839-41b8-a093-6726ade7f5e2_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Харино",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казулинская волость, деревня Сергеиково",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Хильново",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

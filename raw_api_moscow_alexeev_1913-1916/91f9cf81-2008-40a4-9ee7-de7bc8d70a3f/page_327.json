@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 327,
+  "node_id": "0828d262-ab4d-436e-a217-84c470243330",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 380,
+        "width": 1388,
+        "x": 1085,
+        "y": 1083
+      },
+      "entry_id": "0828d262-ab4d-436e-a217-84c470243330_3",
+      "people": [
+        {
+          "age": "48",
+          "geo": "Рязанская губерния, Зарайский уезд, Кругловская волость, деревня Внуково",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мудров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 454,
+        "width": 1451,
+        "x": 1094,
+        "y": 1614
+      },
+      "entry_id": "0828d262-ab4d-436e-a217-84c470243330_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Орешковская волость, деревня Паново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Злобов"
+        },
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Злобов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 614,
+        "width": 1452,
+        "x": 1103,
+        "y": 2229
+      },
+      "entry_id": "0828d262-ab4d-436e-a217-84c470243330_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Евгениев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ширмо"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из дома Шереметева, почтово-телеграфного чиновника II разряда Московского почтамта девица",
+          "name": "Евгения",
+          "other_status": "мать умершего",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ширмо"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 540,
+        "width": 1436,
+        "x": 1134,
+        "y": 3021
+      },
+      "entry_id": "0828d262-ab4d-436e-a217-84c470243330_0",
+      "people": [
+        {
+          "age": "12 лет",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бурикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Гавриловская волость, село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буриков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

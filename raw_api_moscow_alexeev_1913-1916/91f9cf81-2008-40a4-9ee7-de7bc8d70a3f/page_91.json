@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 91,
+  "node_id": "27b5ef3c-884a-4365-9b9d-b0b47ea05d58",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2760,
+        "x": 901,
+        "y": 1021
+      },
+      "entry_id": "27b5ef3c-884a-4365-9b9d-b0b47ea05d58_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Узуновская волость, деревня Мягкова",
+          "info": "крестьянка, девица",
+          "name": "Антонина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Артемки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Станиловская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Арбузов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2757,
+        "x": 908,
+        "y": 1715
+      },
+      "entry_id": "27b5ef3c-884a-4365-9b9d-b0b47ea05d58_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Кромской уезд, Коровье-Болотовская волость, село Коровье-Болото",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сальникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Анна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сальникова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрепетская волость, деревня Жедка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фетисов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 657,
+        "width": 2755,
+        "x": 902,
+        "y": 2444
+      },
+      "entry_id": "27b5ef3c-884a-4365-9b9d-b0b47ea05d58_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дударева (Плешакова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая сапожного цеха вдова",
+          "name": "Евфросиния",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дударева (Плешакова)"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Краснослободский уезд, Троицкая волость, деревня Изосимовка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дударев (Плешаков)"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Федоровская волость, деревня Юрцово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карпов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2740,
+        "x": 914,
+        "y": 3225
+      },
+      "entry_id": "27b5ef3c-884a-4365-9b9d-b0b47ea05d58_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Озерецкий уезд, Овсянниковская волость, деревня Овсянниково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ерофеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ефимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Даниилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Коба"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сурковский уезд, село Кочкарово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ефимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коба"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Грайворонский уезд, Грайворонская волость, слобода Горы",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коба"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

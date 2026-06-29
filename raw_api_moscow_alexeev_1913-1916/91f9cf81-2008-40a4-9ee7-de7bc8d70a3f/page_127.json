@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 127,
+  "node_id": "e0c8a2ce-6e42-4269-9e29-ed30ea31d558",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2765,
+        "x": 888,
+        "y": 1043
+      },
+      "entry_id": "e0c8a2ce-6e42-4269-9e29-ed30ea31d558_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Кобринский уезд, Мокрянская волость, село",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гетцук"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Харламов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Ермилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бутиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харламова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Дупенская волость, село Акинтьево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харламов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2782,
+        "x": 883,
+        "y": 1679
+      },
+      "entry_id": "e0c8a2ce-6e42-4269-9e29-ed30ea31d558_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Станская волость, деревня Давыдово",
+          "info": "крестьянин",
+          "name": "Савва",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Исаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федосеева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Подвязевский уезд, Подвязевская волость, деревня Нашатыркино",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанский уезд, Рыбновская волость, село Житово",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Афонина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 588,
+        "width": 2767,
+        "x": 892,
+        "y": 2373
+      },
+      "entry_id": "e0c8a2ce-6e42-4269-9e29-ed30ea31d558_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Каменская волость, село Смыково",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тимохина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Ягодинская волость, село Тихоново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семинков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семинкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Семинкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семинков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 585,
+        "width": 2768,
+        "x": 882,
+        "y": 3127
+      },
+      "entry_id": "e0c8a2ce-6e42-4269-9e29-ed30ea31d558_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Тихоновка",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Михеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кизунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поваркова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Докудовская волость, деревня Павлова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Поваркова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

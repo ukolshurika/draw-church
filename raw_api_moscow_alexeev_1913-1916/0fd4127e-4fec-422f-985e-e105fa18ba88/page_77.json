@@ -1,0 +1,124 @@
+{
+  "year": 1914,
+  "page": 77,
+  "node_id": "bd6b6d9e-91e9-4844-8882-c6423854d05d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1051,
+        "width": 2896,
+        "x": 730,
+        "y": 852
+      },
+      "entry_id": "bd6b6d9e-91e9-4844-8882-c6423854d05d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Черкизовская волость, деревня Молжановка",
+          "info": "вдова",
+          "name": "Анна",
+          "second_name": "Аввакумова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Бычко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Негрустцева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бобылево, Самарская губерния",
+          "info": "вдова, мещанка",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Негрустцева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 735,
+        "width": 2952,
+        "x": 715,
+        "y": 2525
+      },
+      "entry_id": "bd6b6d9e-91e9-4844-8882-c6423854d05d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Машковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мосячина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мосячин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Плосковская волость, деревня Гордино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мосячин"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Дисненский уезд, Священская волость, деревня Муляри",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горячко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

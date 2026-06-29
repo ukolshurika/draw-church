@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 122,
+  "node_id": "97f91d4e-8e30-4020-9275-dd95d5d53030",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 417,
+        "width": 2830,
+        "x": 796,
+        "y": 863
+      },
+      "entry_id": "97f91d4e-8e30-4020-9275-dd95d5d53030_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Кузьма",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коротевский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Коротевский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коротевская"
+        },
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Куликовская волость, село",
+          "info": "крестьянка",
+          "name": "Степанида",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Глухова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Новоселки",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коротевский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 2834,
+        "x": 796,
+        "y": 1345
+      },
+      "entry_id": "97f91d4e-8e30-4020-9275-dd95d5d53030_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "сестра отца",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ершова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пансов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пансова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "брат отца",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пансов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Новое село, Боголюбская волость, Владимирская губерния",
+          "info": "священник",
+          "name": "Федор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пансов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 2839,
+        "x": 788,
+        "y": 1842
+      },
+      "entry_id": "97f91d4e-8e30-4020-9275-dd95d5d53030_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Арчаков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ганкина",
+          "info": "в деревне Бачурина Рязанской губернии, Зарайского уезда, Алпатьевской волости",
+          "name": "Степан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Арчаков"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Солчина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Фаддеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Арчакова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ланкина",
+          "info": "вдова",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матвеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 460,
+        "width": 2847,
+        "x": 769,
+        "y": 2361
+      },
+      "entry_id": "97f91d4e-8e30-4020-9275-dd95d5d53030_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокренская волость, деревня Стрешнево",
+          "info": "крестьянин",
+          "name": "Осип",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шавкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бондарева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Раевская волость, Озерки",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гришин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гришин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2853,
+        "x": 763,
+        "y": 2875
+      },
+      "entry_id": "97f91d4e-8e30-4020-9275-dd95d5d53030_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пилюгина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, деревня Иньшакова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пилюгин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пилюгин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Артемьевская волость, деревня Семонина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шавский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

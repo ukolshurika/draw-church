@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 26,
+  "node_id": "5011a8d8-dc5e-4b9f-88b2-455db2571475",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2806,
+        "x": 891,
+        "y": 1060
+      },
+      "entry_id": "5011a8d8-dc5e-4b9f-88b2-455db2571475_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ковернинский уезд, село Ковернино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Демин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, село Подсоселье",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2768,
+        "x": 902,
+        "y": 1783
+      },
+      "entry_id": "5011a8d8-dc5e-4b9f-88b2-455db2571475_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шалимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шалимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шалимов"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанка, девица",
+          "name": "Екатерина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Варфоломеевская волость, село Кресты",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шалимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2766,
+        "x": 899,
+        "y": 2492
+      },
+      "entry_id": "5011a8d8-dc5e-4b9f-88b2-455db2571475_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Вихарев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чирова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вихарев"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Фоминская волость, деревня Вырокина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вихарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вихарева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 607,
+        "width": 2794,
+        "x": 900,
+        "y": 3204
+      },
+      "entry_id": "5011a8d8-dc5e-4b9f-88b2-455db2571475_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, деревня Щепотнево",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гаврилина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гаврилина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Суходолов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Русавская волость, деревня Сороченки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гаврилин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "",
+          "second_name": "Мартынова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

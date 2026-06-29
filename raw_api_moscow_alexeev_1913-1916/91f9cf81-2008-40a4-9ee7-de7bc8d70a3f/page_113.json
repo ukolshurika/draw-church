@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 113,
+  "node_id": "cf333c3f-0c06-4ed0-ad63-30fdfe9c8e54",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2778,
+        "x": 894,
+        "y": 1024
+      },
+      "entry_id": "cf333c3f-0c06-4ed0-ad63-30fdfe9c8e54_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Глазовская волость, деревня Филилеево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость, деревня Лаптево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, город Переславль",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шуршина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 2752,
+        "x": 902,
+        "y": 1699
+      },
+      "entry_id": "cf333c3f-0c06-4ed0-ad63-30fdfe9c8e54_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ельцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ельцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ельцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ельцова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Чухломский уезд, Мерахановская волость, деревня Кислякова",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Львов"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Солигаличский уезд, Гнездниковская волость, деревня Матвеева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ельцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 642,
+        "width": 2748,
+        "x": 904,
+        "y": 2398
+      },
+      "entry_id": "cf333c3f-0c06-4ed0-ad63-30fdfe9c8e54_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Мокринская волость, село Аленьково",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Терентиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Москальчук"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Толстовская волость, деревня Шеметово",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Капельникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Москальчук"
+        },
+        {
+          "age": "",
+          "geo": "Подольская губерния, Могилевский уезд, Капайгородская волость, село Хреновка",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Москальчук"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 2723,
+        "x": 912,
+        "y": 3115
+      },
+      "entry_id": "cf333c3f-0c06-4ed0-ad63-30fdfe9c8e54_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гринцевич"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гринцевич"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Слонимский уезд, Деречинская волость, деревня Золотеево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гринцевич"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гринцевич"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жукова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

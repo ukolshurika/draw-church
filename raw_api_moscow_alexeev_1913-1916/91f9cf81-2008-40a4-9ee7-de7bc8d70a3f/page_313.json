@@ -1,0 +1,140 @@
+{
+  "year": 1916,
+  "page": 313,
+  "node_id": "9d945f29-11ea-4cbc-9e70-b4d130157a62",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 447,
+        "width": 1456,
+        "x": 1088,
+        "y": 1030
+      },
+      "entry_id": "9d945f29-11ea-4cbc-9e70-b4d130157a62_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гурченков"
+        },
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гурченкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 1439,
+        "x": 1096,
+        "y": 1686
+      },
+      "entry_id": "9d945f29-11ea-4cbc-9e70-b4d130157a62_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Лучанская волость, деревня Нижние Лучки",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горелов"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горелов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 445,
+        "width": 1415,
+        "x": 1120,
+        "y": 2361
+      },
+      "entry_id": "9d945f29-11ea-4cbc-9e70-b4d130157a62_1",
+      "people": [
+        {
+          "age": "85",
+          "geo": "",
+          "info": "вдова потомственного почетного гражданина",
+          "name": "Наталия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Занегина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 523,
+        "width": 1407,
+        "x": 1134,
+        "y": 3004
+      },
+      "entry_id": "9d945f29-11ea-4cbc-9e70-b4d130157a62_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Прасковьина"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Прасковьин"
+        },
+        {
+          "age": "",
+          "geo": "город Витебск",
+          "info": "из дома Скворцова мещанин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Прасковьин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

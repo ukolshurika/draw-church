@@ -1,0 +1,280 @@
+{
+  "year": 1916,
+  "page": 43,
+  "node_id": "0ade51ba-f026-4fa0-b115-73c814f1982c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2814,
+        "x": 914,
+        "y": 1028
+      },
+      "entry_id": "0ade51ba-f026-4fa0-b115-73c814f1982c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня Куликовка",
+          "info": "крестьянин",
+          "name": "Мардарий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бладурин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бузина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Черепянская волость, деревня Куликовка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бузин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бузин"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Сумской уезд, Писаревская волость, село",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "other_status": "муж крестной матери",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Федорченкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 625,
+        "width": 2812,
+        "x": 913,
+        "y": 1686
+      },
+      "entry_id": "0ade51ba-f026-4fa0-b115-73c814f1982c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Даниловская волость, деревня Протор",
+          "info": "крестьянин",
+          "name": "Осип",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Царев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Царева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Бедишевская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Прокофьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Овчинниковская волость, деревня Васильчиновка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Царева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2827,
+        "x": 905,
+        "y": 2388
+      },
+      "entry_id": "0ade51ba-f026-4fa0-b115-73c814f1982c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Молошнинская волость, деревня Курляево",
+          "info": "крестьянин",
+          "name": "Феодосий",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Курляев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грошева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Горностаевская волость, деревня Наумовка",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грошев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грошева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курляева"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Нижнеломовский уезд, Студенецкая волость, деревня Кургановка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Муромцев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2815,
+        "x": 900,
+        "y": 3112
+      },
+      "entry_id": "0ade51ba-f026-4fa0-b115-73c814f1982c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Медведева"
+        },
+        {
+          "age": "",
+          "geo": "Ряжский уезд, Ясеновская волость, село Исаевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филатов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Караблинская волость, деревня Исаевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Медведев"
+        },
+        {
+          "age": "",
+          "geo": "Караблинская волость, деревня Муратовка",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Медведева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

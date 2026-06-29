@@ -1,0 +1,175 @@
+{
+  "year": 1915,
+  "page": 148,
+  "node_id": "6d89b000-60f2-44ca-8aa4-b81c830ed7d7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 789,
+        "width": 2739,
+        "x": 936,
+        "y": 1037
+      },
+      "entry_id": "6d89b000-60f2-44ca-8aa4-b81c830ed7d7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Гельмин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пуру"
+        },
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Верросский уезд, Киомаская волость",
+          "info": "приписанная к оной крестьянская девица",
+          "name": "Гельми",
+          "second_name": "Янова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пуру"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязыва",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чихов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2722,
+        "x": 941,
+        "y": 1794
+      },
+      "entry_id": "6d89b000-60f2-44ca-8aa4-b81c830ed7d7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шестов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, слобода Шишкина",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савин"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Савина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матфей",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 687,
+        "width": 2734,
+        "x": 950,
+        "y": 2457
+      },
+      "entry_id": "6d89b000-60f2-44ca-8aa4-b81c830ed7d7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Черняевская волость, деревня Алексеевка",
+          "info": "крестьянская девица",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колосова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ильинский уезд, деревня Дыбково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Софрониев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яшумов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бадрова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Моревская волость, деревня Алтыково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бадров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бадрова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

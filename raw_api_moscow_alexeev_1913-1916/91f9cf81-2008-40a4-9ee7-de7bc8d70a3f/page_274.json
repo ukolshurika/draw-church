@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 274,
+  "node_id": "62c789a5-9888-4d9b-9b5b-4ba27614ea2f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 480,
+        "width": 1500,
+        "x": 1032,
+        "y": 1134
+      },
+      "entry_id": "62c789a5-9888-4d9b-9b5b-4ba27614ea2f_3",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Карева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Аниншинский уезд, Анишинская волость, село Богоявленское",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 329,
+        "width": 1387,
+        "x": 1034,
+        "y": 1820
+      },
+      "entry_id": "62c789a5-9888-4d9b-9b5b-4ba27614ea2f_2",
+      "people": [
+        {
+          "age": "79 л.",
+          "geo": "Напрудная слобода",
+          "info": "московский мещанин",
+          "name": "Иоаким",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Скребетов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 1501,
+        "x": 1026,
+        "y": 2338
+      },
+      "entry_id": "62c789a5-9888-4d9b-9b5b-4ba27614ea2f_1",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Новоселова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Калязин",
+          "info": "из дома Абросимова мещанин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новоселов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 1486,
+        "x": 1020,
+        "y": 3010
+      },
+      "entry_id": "62c789a5-9888-4d9b-9b5b-4ba27614ea2f_0",
+      "people": [
+        {
+          "age": "37",
+          "geo": "Шенкурский уезд, Архангельская губерния, Предтеченская волость, деревня Сельчуковская",
+          "info": "крестьянка, девица",
+          "name": "Евфросиния",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Овчинникова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

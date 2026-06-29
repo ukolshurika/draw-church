@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 291,
+  "node_id": "958f3b21-3258-4309-91c5-5b90829b2a6f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 524,
+        "width": 1491,
+        "x": 1046,
+        "y": 1121
+      },
+      "entry_id": "958f3b21-3258-4309-91c5-5b90829b2a6f_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чистякова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "other_status": "муж матери умершего",
+          "second_name": "Климентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "законная жена Ивана Климентьева",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Климентьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Никольская волость, деревня Чепорово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чистяков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 296,
+        "width": 1373,
+        "x": 1038,
+        "y": 1857
+      },
+      "entry_id": "958f3b21-3258-4309-91c5-5b90829b2a6f_2",
+      "people": [
+        {
+          "age": "56",
+          "geo": "город Кашира, Тульская губерния",
+          "info": "из дома Воробьева, мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 1468,
+        "x": 1034,
+        "y": 2371
+      },
+      "entry_id": "958f3b21-3258-4309-91c5-5b90829b2a6f_1",
+      "people": [
+        {
+          "age": "36",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Клавдиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Черникова"
+        },
+        {
+          "age": "",
+          "geo": "Лебедянский уезд, Пятницкая волость, деревня Половнево",
+          "info": "крестьянин",
+          "name": "Клавдий",
+          "other_status": "муж умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Черников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 1467,
+        "x": 1028,
+        "y": 3066
+      },
+      "entry_id": "958f3b21-3258-4309-91c5-5b90829b2a6f_0",
+      "people": [
+        {
+          "age": "54",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, деревня Глинково",
+          "info": "крестьянка, вдова",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Баранов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

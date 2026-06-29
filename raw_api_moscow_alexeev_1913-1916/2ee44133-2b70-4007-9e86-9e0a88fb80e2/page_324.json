@@ -1,0 +1,97 @@
+{
+  "year": 1915,
+  "page": 324,
+  "node_id": "5c8378b3-c5e5-4c9e-ac02-9a9c1a126cf5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 338,
+        "width": 1464,
+        "x": 1023,
+        "y": 1171
+      },
+      "entry_id": "5c8378b3-c5e5-4c9e-ac02-9a9c1a126cf5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Сорокино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 1425,
+        "x": 1058,
+        "y": 1691
+      },
+      "entry_id": "5c8378b3-c5e5-4c9e-ac02-9a9c1a126cf5_1",
+      "people": [
+        {
+          "age": "3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Савоскин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Пятницкая волость, деревня Ланино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савоскин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 422,
+        "width": 1420,
+        "x": 1061,
+        "y": 2290
+      },
+      "entry_id": "5c8378b3-c5e5-4c9e-ac02-9a9c1a126cf5_0",
+      "people": [
+        {
+          "age": "50 лет",
+          "geo": "",
+          "info": "Крестовоздвиженской, в Алексеевском женском монастыре, церкви диакон",
+          "name": "Алексей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шереметев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

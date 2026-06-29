@@ -1,0 +1,75 @@
+{
+  "year": 1916,
+  "page": 296,
+  "node_id": "4cae18eb-a162-4c9f-be81-54d2bd62e1d8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 363,
+        "width": 1460,
+        "x": 1054,
+        "y": 2456
+      },
+      "entry_id": "4cae18eb-a162-4c9f-be81-54d2bd62e1d8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын надворного советника",
+          "name": "Анатолий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Вольфарт"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Анатолиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Вольфарт"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 605,
+        "width": 1486,
+        "x": 1038,
+        "y": 3027
+      },
+      "entry_id": "4cae18eb-a162-4c9f-be81-54d2bd62e1d8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Нарышкинская волость, деревня Горюшкино",
+          "info": "крестьянка, вдова",
+          "name": "Феодора",
+          "other_status": "мать умершего",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Семина"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "внебрачная дочь крестьянки вдовы Феодоры Семеновой Семиной",
+          "name": "Александра",
+          "second_name": "Адрианова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

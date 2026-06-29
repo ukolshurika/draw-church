@@ -1,0 +1,331 @@
+{
+  "year": 1914,
+  "page": 118,
+  "node_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2891,
+        "x": 746,
+        "y": 869
+      },
+      "entry_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стапинская волость, село Калитеево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чинсков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, деревня Прилепы",
+          "info": "солдатка, вдова",
+          "name": "Агафия",
+          "second_name": "Феофанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Левонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ушакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2893,
+        "x": 738,
+        "y": 1396
+      },
+      "entry_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Сухиничи",
+          "info": "мещанин",
+          "name": "Агафий",
+          "other_status": "муж крестной матери",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Терещенкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Уголовская волость, село Погореловское",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лапин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Терещенкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дуденская волость, деревня Кашкина",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Ларионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Терещенков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2904,
+        "x": 720,
+        "y": 1943
+      },
+      "entry_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Карчевский уезд, Кимровская волость, деревня Слободищи",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Санъшина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сальниково",
+          "info": "Ярославский мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соболев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соболева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соболева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Саранский уезд, Березовская волость, деревня Новоселово",
+          "info": "крестьянин",
+          "name": "Трифон",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дежин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2911,
+        "x": 703,
+        "y": 2403
+      },
+      "entry_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Саранский уезд, Березовская волость, деревня Новоселова",
+          "info": "крестьянин",
+          "name": "Трифон",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дежин"
+        },
+        {
+          "age": "",
+          "geo": "то же село, Обидим",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мишина"
+        },
+        {
+          "age": "",
+          "geo": "то же село, Обидим",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Максеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Трифонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дежин"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Землянской уезд, Быковская волость, село Жерновца",
+          "info": "крестьянка",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Саньшина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 703,
+        "width": 2918,
+        "x": 707,
+        "y": 2875
+      },
+      "entry_id": "77e6675e-d5c9-4cd2-8032-1b9cd2b837a8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Порфирьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смекарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Макеев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митякинская волость, деревня Екимовка",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Мамошинская волость, деревня Сычевой",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макеев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

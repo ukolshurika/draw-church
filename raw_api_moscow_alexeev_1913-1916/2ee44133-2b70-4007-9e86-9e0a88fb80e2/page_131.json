@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 131,
+  "node_id": "b1e76276-fb7f-4598-8144-c82d5f8f4094",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2744,
+        "x": 930,
+        "y": 1073
+      },
+      "entry_id": "b1e76276-fb7f-4598-8144-c82d5f8f4094_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Лукьянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Тельчинская волость, село Старое",
+          "info": "крестьянин",
+          "name": "Ефрем",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Старых"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2775,
+        "x": 933,
+        "y": 1725
+      },
+      "entry_id": "b1e76276-fb7f-4598-8144-c82d5f8f4094_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Зинаида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самарина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Самарина"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Щепниковская волость, деревня Стонятино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Самарина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Добрынское",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самарин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 613,
+        "width": 2800,
+        "x": 932,
+        "y": 2267
+      },
+      "entry_id": "b1e76276-fb7f-4598-8144-c82d5f8f4094_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губернія, город Духовщина",
+          "info": "мещанин",
+          "name": "Кондратій",
+          "second_name": "Васильевъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козловъ"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губернія, Скопинскій уѣзд, Измайловская волость, деревня Козначеево",
+          "info": "крестьянин",
+          "name": "Александръ",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаевъ",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Головановъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Голованова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губернія, Можайскій уѣзд, Пороцкая волость, деревня Мишутино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Карповъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Румянцевъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Викторъ",
+          "second_name": "Кондратіевъ",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козловъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

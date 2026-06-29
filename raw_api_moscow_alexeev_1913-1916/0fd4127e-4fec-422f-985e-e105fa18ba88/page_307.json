@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 307,
+  "node_id": "8370f976-3e9b-4581-b855-702566c0771b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 370,
+        "width": 1433,
+        "x": 910,
+        "y": 802
+      },
+      "entry_id": "8370f976-3e9b-4581-b855-702566c0771b_4",
+      "people": [
+        {
+          "age": "17",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Зеленков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Тросненская волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Борис",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зеленков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 1463,
+        "x": 916,
+        "y": 1343
+      },
+      "entry_id": "8370f976-3e9b-4581-b855-702566c0771b_3",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Харитонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Большое Высокое",
+          "info": "крестьянин",
+          "name": "Харитон",
+          "other_status": "отец умершего",
+          "second_name": "Авдиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алешин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 309,
+        "width": 1440,
+        "x": 910,
+        "y": 1878
+      },
+      "entry_id": "8370f976-3e9b-4581-b855-702566c0771b_0",
+      "people": [
+        {
+          "age": "43",
+          "geo": "Кожевническая слобода",
+          "info": "московский мещанин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Токарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 331,
+        "width": 1418,
+        "x": 909,
+        "y": 2379
+      },
+      "entry_id": "8370f976-3e9b-4581-b855-702566c0771b_1",
+      "people": [
+        {
+          "age": "39",
+          "geo": "Мосальский уезд, Парфеновская волость, деревня Тепловая",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смолин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1433,
+        "x": 899,
+        "y": 2874
+      },
+      "entry_id": "8370f976-3e9b-4581-b855-702566c0771b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Мосальский уезд, Парфеновская волость, деревня Тепловая",
+          "info": "крестьянин",
+          "name": "Косма",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смолин"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смолин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

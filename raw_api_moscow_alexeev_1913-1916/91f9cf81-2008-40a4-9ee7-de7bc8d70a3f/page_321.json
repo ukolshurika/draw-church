@@ -1,0 +1,185 @@
+{
+  "year": 1916,
+  "page": 321,
+  "node_id": "106696bb-3f7c-442b-a034-7ad483365dce",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1455,
+        "x": 1017,
+        "y": 992
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Куклеиха",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кузьмин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1474,
+        "x": 1014,
+        "y": 1438
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_4",
+      "people": [
+        {
+          "age": "1 год 8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кожемякин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Семиревская волость, деревня Александровка",
+          "info": "из дома Демидова крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кожемякин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 334,
+        "width": 1385,
+        "x": 1020,
+        "y": 1889
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Нагайская волость, деревня Торчкова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Ионов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "12",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Зайцев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 272,
+        "width": 1396,
+        "x": 1022,
+        "y": 2359
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_2",
+      "people": [
+        {
+          "age": "77",
+          "geo": "Владимирская губерния, город Суздаль",
+          "info": "из дома Новоселова мещанин",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кашков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1474,
+        "x": 1029,
+        "y": 2783
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_1",
+      "people": [
+        {
+          "age": "26",
+          "geo": "Витебская губерния, город Режицы",
+          "info": "мещанка, вдова",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лосева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 1479,
+        "x": 1020,
+        "y": 3238
+      },
+      "entry_id": "106696bb-3f7c-442b-a034-7ad483365dce_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Бабыевский уезд, Бабыевская волость, деревня Сидоровка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Полковников"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Полковников"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

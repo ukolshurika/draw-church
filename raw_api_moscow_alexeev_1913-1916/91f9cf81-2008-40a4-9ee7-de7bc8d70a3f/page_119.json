@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 119,
+  "node_id": "03a82742-93dd-4a47-a210-05ab902edb0e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 496,
+        "width": 2723,
+        "x": 907,
+        "y": 1031
+      },
+      "entry_id": "03a82742-93dd-4a47-a210-05ab902edb0e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смолевская волость, село Мостье",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Спѣшневская волость, село Ивановское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Расторгуев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Расторгуева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Расторгуева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Расторгуева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2728,
+        "x": 901,
+        "y": 1672
+      },
+      "entry_id": "03a82742-93dd-4a47-a210-05ab902edb0e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Папоротская волость, село Папоротское",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сатаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Юрьевская волость, деревня Буйково",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рыбаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Аладинская волость, село Нижнее-Мальцево",
+          "info": "крестьянка",
+          "name": "Любовь",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лаптева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2712,
+        "x": 898,
+        "y": 2412
+      },
+      "entry_id": "03a82742-93dd-4a47-a210-05ab902edb0e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пименова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пименов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Порцевская волость, деревня Заслониха",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Ларионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пименов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московского цехового, живописного цеха жена",
+          "name": "Варвара",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ларионова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пименов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2698,
+        "x": 904,
+        "y": 3180
+      },
+      "entry_id": "03a82742-93dd-4a47-a210-05ab902edb0e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "вдова",
+          "name": "Христина",
+          "second_name": "Леонтиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Левичев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

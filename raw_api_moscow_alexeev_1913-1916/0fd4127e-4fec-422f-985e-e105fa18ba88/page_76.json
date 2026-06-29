@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 76,
+  "node_id": "fe629c7f-224d-42af-9431-52e622235729",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2973,
+        "x": 701,
+        "y": 879
+      },
+      "entry_id": "fe629c7f-224d-42af-9431-52e622235729_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аношкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Алевдулаева, Рязанская губерния, Егорьевский уезд, Васильевская волость, деревня Иванова",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аношкин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Иванова",
+          "info": "крестьянская дочь",
+          "name": "Елизавета",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тучина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Аношкин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Иншина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 674,
+        "width": 2958,
+        "x": 710,
+        "y": 1447
+      },
+      "entry_id": "fe629c7f-224d-42af-9431-52e622235729_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Войтко"
+        },
+        {
+          "age": "",
+          "geo": "Волковненский уезд, Петовская волость, село Иваничевка",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Войтко"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыницкая волость, деревня Баринова",
+          "info": "крестьянка",
+          "name": "Анна",
+          "other_status": "отец крестной матери",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Войтко"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Богородицко-Локотецкая волость, село Волынское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Черняков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2979,
+        "x": 714,
+        "y": 2174
+      },
+      "entry_id": "fe629c7f-224d-42af-9431-52e622235729_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Козельский уезд, местечко Сухиничи",
+          "info": "мещанка, девица",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дубинина"
+        },
+        {
+          "age": "",
+          "geo": "Калужский уезд, Лосинская волость, деревня Хатисино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дундуков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Астахов"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Землянской уезд, Косторейская волость, деревня Евгеньево",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Астахов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 785,
+        "width": 2969,
+        "x": 711,
+        "y": 2789
+      },
+      "entry_id": "fe629c7f-224d-42af-9431-52e622235729_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "местечко Сухиничи, Козельский уезд",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Горенни, Жиздринский уезд, Калужская губерния",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Парфениев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Анисимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Игнатово, Гжатский уезд, Смоленская губерния",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Арефьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смилякова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Герасимов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

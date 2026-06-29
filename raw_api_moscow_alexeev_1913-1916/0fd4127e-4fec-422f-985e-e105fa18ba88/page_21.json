@@ -1,0 +1,332 @@
+{
+  "year": 1914,
+  "page": 21,
+  "node_id": "7176e0ae-feba-494c-8f4f-0d93838915df",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 366,
+        "width": 2982,
+        "x": 756,
+        "y": 849
+      },
+      "entry_id": "7176e0ae-feba-494c-8f4f-0d93838915df_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Павловская волость, село Аносино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Еремьевская волость, деревня Санниково",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Санниково",
+          "info": "крестьянская дочь, девица",
+          "name": "Феодосия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Богачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 423,
+        "width": 2968,
+        "x": 759,
+        "y": 1247
+      },
+      "entry_id": "7176e0ae-feba-494c-8f4f-0d93838915df_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Селезнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Евсюшкина"
+        },
+        {
+          "age": "",
+          "geo": "Бороздинская волость, село Нюховка",
+          "info": "",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Евсюшкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ведихина, Веневский уезд, Узуновская волость, сельцо Яковлевское",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Селезнев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Яковлевское, Веневский уезд",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Селезнев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Селезнева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 382,
+        "width": 2977,
+        "x": 754,
+        "y": 1740
+      },
+      "entry_id": "7176e0ae-feba-494c-8f4f-0d93838915df_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Марфинская волость, сельцо Посадкино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филатов"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Марфинская волость, сельцо Посадкино",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филатова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Семеновская слобода, деревня Розанова",
+          "info": "московский мещанин",
+          "name": "Михаил",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 417,
+        "width": 3043,
+        "x": 734,
+        "y": 2206
+      },
+      "entry_id": "7176e0ae-feba-494c-8f4f-0d93838915df_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Гагинская волость, сельцо Денисьево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "Скопин",
+          "info": "мещанка",
+          "name": "Матрона",
+          "other_status": "жена крестного отца",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 3025,
+        "x": 735,
+        "y": 2688
+      },
+      "entry_id": "7176e0ae-feba-494c-8f4f-0d93838915df_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Гребенкина",
+          "info": "крестьянка",
+          "name": "Наталии",
+          "other_status": "муж крестной матери",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Рощинкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гостева"
+        },
+        {
+          "age": "",
+          "geo": "Ищеинская волость, село Рождества",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шатохин"
+        },
+        {
+          "age": "",
+          "geo": "Лебедянский уезд, Ищеинская волость, деревня Гребенкина",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гостев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гостева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

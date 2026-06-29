@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 51,
+  "node_id": "bac547c5-bceb-4c0f-83dc-b7dfea9dc3c5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2730,
+        "x": 892,
+        "y": 1048
+      },
+      "entry_id": "bac547c5-bceb-4c0f-83dc-b7dfea9dc3c5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Вячеславова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кошелева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Титова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кошелева"
+        },
+        {
+          "age": "",
+          "geo": "Хотинская волость, село Благовещенское",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Карачевский уезд, Пятницкая волость, село Мелавое",
+          "info": "",
+          "name": "Вячеслав",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кошелев"
+        },
+        {
+          "age": "",
+          "geo": "то же село Мелавое",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 612,
+        "width": 2749,
+        "x": 893,
+        "y": 1766
+      },
+      "entry_id": "bac547c5-bceb-4c0f-83dc-b7dfea9dc3c5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость, деревня Лаптево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславль-Залесский",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шуршина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Замаральская волость, деревня Кобылинка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Панов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2733,
+        "x": 899,
+        "y": 2489
+      },
+      "entry_id": "bac547c5-bceb-4c0f-83dc-b7dfea9dc3c5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусатский уезд, Новопокровская волость, деревня Леоново",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Плещеевская волость, деревня Никиткина",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курилкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Острицкая волость, деревня Кожина",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 692,
+        "width": 2745,
+        "x": 889,
+        "y": 3158
+      },
+      "entry_id": "bac547c5-bceb-4c0f-83dc-b7dfea9dc3c5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Арханово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нечачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феврония",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пупукина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пупукин"
+        },
+        {
+          "age": "",
+          "geo": "Псковская губерния, Великолукский уезд, Вязевская волость, деревня Толчея",
+          "info": "крестьянская дочь, девица",
+          "name": "Екатерина",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маруева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Кораблинская волость, деревня Фроловские выселки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пупукин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

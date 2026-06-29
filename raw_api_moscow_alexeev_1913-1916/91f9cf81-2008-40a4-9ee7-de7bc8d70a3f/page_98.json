@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 98,
+  "node_id": "dff60bf4-c962-47ec-a587-db2404b2777c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2682,
+        "x": 924,
+        "y": 1028
+      },
+      "entry_id": "dff60bf4-c962-47ec-a587-db2404b2777c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Солоневка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Ново-Николаевка",
+          "info": "крестьянка, девица",
+          "name": "Акилина",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Старолетовская волость, село",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 568,
+        "width": 2689,
+        "x": 924,
+        "y": 1626
+      },
+      "entry_id": "dff60bf4-c962-47ec-a587-db2404b2777c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пестров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лычковскій"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Козулинская волость, деревня Хорина",
+          "info": "крестьянка, девица",
+          "name": "Пелагия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Погостовская волость, деревня Слободки",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пестрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2714,
+        "x": 919,
+        "y": 2264
+      },
+      "entry_id": "dff60bf4-c962-47ec-a587-db2404b2777c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Абашишников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Елизарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "в доме Королева, сын надворного советника",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абашишникова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Малинковская волость, село Малинок",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тарарухин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 714,
+        "width": 2722,
+        "x": 909,
+        "y": 2936
+      },
+      "entry_id": "dff60bf4-c962-47ec-a587-db2404b2777c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Большая Садовая слобода",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колчеманов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Колчеманов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Рубенково",
+          "info": "учитель школы грамоты",
+          "name": "Сергей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колчеманов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колчеманова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова, старший писарь Окружного интендантского управления Маковского военного округа",
+          "name": "Серафима",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Румянцева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

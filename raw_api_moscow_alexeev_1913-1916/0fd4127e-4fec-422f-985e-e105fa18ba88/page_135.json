@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 135,
+  "node_id": "a791855a-76d7-4349-a6c5-657858b44213",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 596,
+        "width": 2901,
+        "x": 757,
+        "y": 877
+      },
+      "entry_id": "a791855a-76d7-4349-a6c5-657858b44213_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Шимаево",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Селищенская волость, деревня Александрова",
+          "info": "",
+          "name": "Трофим",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козьмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Парфениева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козьмина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филиппова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козьмин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Стрижинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2899,
+        "x": 752,
+        "y": 1576
+      },
+      "entry_id": "a791855a-76d7-4349-a6c5-657858b44213_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фомичев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тихвинская волость",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Маркова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фомичева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Скворцово, Пронский уезд, Юраковская волость, деревня Логин",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фомичев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2890,
+        "x": 752,
+        "y": 2278
+      },
+      "entry_id": "a791855a-76d7-4349-a6c5-657858b44213_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Покровско-Васильевская волость, село Федоровка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Максеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максеева"
+        },
+        {
+          "age": "",
+          "geo": "Нарышкинская волость, деревня Горюшки",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Архипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Нарышкинская волость, деревня Покровские Выселки",
+          "info": "крестьянин",
+          "name": "Мартин",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Мартин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Матвеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2818,
+        "x": 754,
+        "y": 2939
+      },
+      "entry_id": "a791855a-76d7-4349-a6c5-657858b44213_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Малолетнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кленина"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Брусково",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мельников"
+        },
+        {
+          "age": "",
+          "geo": "деревня Данилова, Тульская губерния, Чернский уезд, Луженская волость",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Малолетнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Малолетнова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,176 @@
+{
+  "year": 1915,
+  "page": 108,
+  "node_id": "a967927a-3aa7-4e9f-81ad-7f2941ff7550",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2794,
+        "x": 949,
+        "y": 1231
+      },
+      "entry_id": "a967927a-3aa7-4e9f-81ad-7f2941ff7550_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Серединская волость, деревня Дылдино",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Губанов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Спасская волость, деревня Еросимово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галичников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Сараевская волость, деревня Кондрева",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2771,
+        "x": 953,
+        "y": 1789
+      },
+      "entry_id": "a967927a-3aa7-4e9f-81ad-7f2941ff7550_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село Суток",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ушакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Мокринская волость, деревня Чусово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шарова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовский уезд, Мокринская волость, деревня Режань",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2802,
+        "x": 952,
+        "y": 2511
+      },
+      "entry_id": "a967927a-3aa7-4e9f-81ad-7f2941ff7550_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пенькина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Артемонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пенькина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяное",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пенькин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Захарьинская волость, село Красино",
+          "info": "крестьянская вдова",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курчавова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

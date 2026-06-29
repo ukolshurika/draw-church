@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 65,
+  "node_id": "988b59cb-3425-4015-9d26-35012aa4c30b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2733,
+        "x": 923,
+        "y": 1103
+      },
+      "entry_id": "988b59cb-3425-4015-9d26-35012aa4c30b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Извольская волость, село Плоское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Роставин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Карташева"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Пирятинский уезд, волость Кутора, хутор Верхяровка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Подгорный"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Подгорная"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "купец",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карташев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Подгорная"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2735,
+        "x": 922,
+        "y": 1833
+      },
+      "entry_id": "988b59cb-3425-4015-9d26-35012aa4c30b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Фирсова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Столярова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Глазовская волость, село Мышкино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Капралов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Богдановская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Егорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Столярова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Богдановская волость, село Русаново",
+          "info": "крестьянская дочь",
+          "name": "Пелагия",
+          "second_name": "Фирсова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матвеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2746,
+        "x": 917,
+        "y": 2493
+      },
+      "entry_id": "988b59cb-3425-4015-9d26-35012aa4c30b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Солопова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Солопова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Косаревская волость, село Косарево",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Солопов"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Буйгородская волость, деревня Рахманово",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Троицкая волость, сельцо Михайловское",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нечаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2775,
+        "x": 914,
+        "y": 3217
+      },
+      "entry_id": "988b59cb-3425-4015-9d26-35012aa4c30b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Елина"
+        },
+        {
+          "age": "",
+          "geo": "то же село Вановье",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Елин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Вановская волость, село Вановье",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Елин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния",
+          "info": "мещанин",
+          "name": "Медынский",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Елина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

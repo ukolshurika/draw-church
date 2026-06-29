@@ -1,0 +1,331 @@
+{
+  "year": 1914,
+  "page": 115,
+  "node_id": "02ea6f02-1397-4283-97f9-5ea7555e9110",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 438,
+        "width": 2905,
+        "x": 749,
+        "y": 868
+      },
+      "entry_id": "02ea6f02-1397-4283-97f9-5ea7555e9110_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская Подгородная слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Лучинская волость, деревня Михайловка",
+          "info": "",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 471,
+        "width": 2908,
+        "x": 737,
+        "y": 1395
+      },
+      "entry_id": "02ea6f02-1397-4283-97f9-5ea7555e9110_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Аннино",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Авдюхин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лизинская волость, деревня Лукина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Подобцев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Печерниковская волость, деревня Малюковских Выселок",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Авдюхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2864,
+        "x": 741,
+        "y": 1935
+      },
+      "entry_id": "02ea6f02-1397-4283-97f9-5ea7555e9110_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Сняжкино",
+          "info": "крестьянин",
+          "name": "Родион",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Любишин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Филимонова",
+          "info": "крестьянская дочь",
+          "name": "Матрона",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филиппова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Любишина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Любишина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бобров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 441,
+        "width": 2877,
+        "x": 731,
+        "y": 2475
+      },
+      "entry_id": "02ea6f02-1397-4283-97f9-5ea7555e9110_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Скрипнева, Потуховская волость",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кондратьев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Соколова",
+          "info": "девица",
+          "name": "Евдокия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Холгушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Проклов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Холгушкин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуховская волость, деревня Скрипнева",
+          "info": "крестьянин",
+          "name": "Прокл",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Холгушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Холгушкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 476,
+        "width": 2901,
+        "x": 726,
+        "y": 3017
+      },
+      "entry_id": "02ea6f02-1397-4283-97f9-5ea7555e9110_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, деревня Кондаково",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осипов"
+        },
+        {
+          "age": "",
+          "geo": "село Александровка",
+          "info": "вдова",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Панкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панкова"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Землянской уезд, Фомино-Незачевская волость, село Александровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Панков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

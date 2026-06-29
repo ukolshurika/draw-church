@@ -1,0 +1,280 @@
+{
+  "year": 1916,
+  "page": 120,
+  "node_id": "81e78054-e48c-4ab6-8588-990feb0bce1e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2685,
+        "x": 911,
+        "y": 1012
+      },
+      "entry_id": "81e78054-e48c-4ab6-8588-990feb0bce1e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, село Тарасово",
+          "info": "крестьянин",
+          "name": "Аким",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коренков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лисицына"
+        },
+        {
+          "age": "",
+          "geo": "деревня Васильева",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мещерянова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Угодско-Заводская волость, село Угодский Завод",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лисицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лисицына"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2711,
+        "x": 901,
+        "y": 1680
+      },
+      "entry_id": "81e78054-e48c-4ab6-8588-990feb0bce1e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, город Моршанск",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дианов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "мещанин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "Ряжский уезд, Смолевская волость, село Лубянки",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Куликова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Куликов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 559,
+        "width": 2730,
+        "x": 896,
+        "y": 2467
+      },
+      "entry_id": "81e78054-e48c-4ab6-8588-990feb0bce1e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Веселевская волость, деревня Перхово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Елисеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кротов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Юркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Юрков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Перхово",
+          "info": "жена крестьянина",
+          "name": "Марина",
+          "second_name": "Елисеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кротова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Анновка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иерофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Якушин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Анновка",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Юрков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 504,
+        "width": 2703,
+        "x": 893,
+        "y": 3164
+      },
+      "entry_id": "81e78054-e48c-4ab6-8588-990feb0bce1e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Борисовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Желобцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Желобцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соголевская волость, деревня Борис",
+          "info": "ратник ополчения 1-го разряда из крестьян",
+          "name": "Борис",
+          "second_name": "Глебов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Желобцов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Прудовская волость, деревня Константиново",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

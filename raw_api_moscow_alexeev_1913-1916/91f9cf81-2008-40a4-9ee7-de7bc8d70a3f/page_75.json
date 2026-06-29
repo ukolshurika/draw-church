@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 75,
+  "node_id": "f7ebb759-3112-4cc6-ad28-afafb4668925",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 652,
+        "width": 2749,
+        "x": 915,
+        "y": 1035
+      },
+      "entry_id": "f7ebb759-3112-4cc6-ad28-afafb4668925_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сёрушкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Насилово",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комаров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Печерниковская волость, деревня Горюнов",
+          "info": "крестьянин",
+          "name": "Филимон",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сёрушкин"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Жеславская волость, деревня Локня",
+          "info": "крестьянка, вдова",
+          "name": "Наталия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кормилицына"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Филимонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сёрушкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2758,
+        "x": 906,
+        "y": 1783
+      },
+      "entry_id": "f7ebb759-3112-4cc6-ad28-afafb4668925_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гордеева"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Апонитевская волость, деревня Козловка",
+          "info": "крестьянка, вдова",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каштанова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Каринская волость, село Никитино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гордеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гордеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 777,
+        "width": 2803,
+        "x": 892,
+        "y": 2471
+      },
+      "entry_id": "f7ebb759-3112-4cc6-ad28-afafb4668925_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Борзнянский уезд, Фастовецкая волость, село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фурса"
+        },
+        {
+          "age": "",
+          "geo": "Малоярославецкий уезд, Овчинниковская волость, деревня",
+          "info": "крестьянин",
+          "name": "Семен",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Евфросиния",
+          "second_name": "Феодулова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молодцова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Староселье",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сорокин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2769,
+        "x": 892,
+        "y": 3218
+      },
+      "entry_id": "f7ebb759-3112-4cc6-ad28-afafb4668925_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Спешинская волость, деревня Городки",
+          "info": "жена крестьянина",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шкапенкова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Болховский уезд, Алешинская волость, деревня Шпилова",
+          "info": "крестьянин",
+          "name": "Карп",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сласцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ботяновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ботяновская"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Острошицко-Городецкая волость, деревня Рудня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ботяновский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

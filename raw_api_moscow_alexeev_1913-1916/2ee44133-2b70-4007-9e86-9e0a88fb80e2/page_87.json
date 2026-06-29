@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 87,
+  "node_id": "696ce6bd-4cc4-450d-8c35-c9cf08591af9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 403,
+        "width": 2835,
+        "x": 938,
+        "y": 1874
+      },
+      "entry_id": "696ce6bd-4cc4-450d-8c35-c9cf08591af9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Федосеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богомолова"
+        },
+        {
+          "age": "",
+          "geo": "та же Макшеевская волость, село Макшеево",
+          "info": "крестьянин",
+          "name": "Максим",
+          "other_status": "отец крестной матери",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский цеховой",
+          "name": "Илья",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Макшеевская волость, деревня Китаева",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богомолов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Богомолова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Нефедова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 2840,
+        "x": 932,
+        "y": 2463
+      },
+      "entry_id": "696ce6bd-4cc4-450d-8c35-c9cf08591af9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алешкин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Алешни",
+          "info": "крестьянка",
+          "name": "Вера",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Овечкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачеевская волость, село Мощенки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешкина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Алешни",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Назаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Овечкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 2844,
+        "x": 938,
+        "y": 3163
+      },
+      "entry_id": "696ce6bd-4cc4-450d-8c35-c9cf08591af9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Полостинская волость, деревня Полухтино",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Феодосиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Белова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

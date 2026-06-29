@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 92,
+  "node_id": "b5c945d7-f18f-413c-9b6f-fc13943240af",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 505,
+        "width": 2717,
+        "x": 897,
+        "y": 1022
+      },
+      "entry_id": "b5c945d7-f18f-413c-9b6f-fc13943240af_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Донославская волость, деревня Лукина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Клавдия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соловьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 554,
+        "width": 2768,
+        "x": 895,
+        "y": 1662
+      },
+      "entry_id": "b5c945d7-f18f-413c-9b6f-fc13943240af_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Хорошеводская волость, село Долгое",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Исидоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Глушенко"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Тимошевская волость, деревня Аксенова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лукин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лукина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Калужская мещанка, вдова",
+          "name": "Анастасия",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ларионова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лукина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 579,
+        "width": 2774,
+        "x": 904,
+        "y": 2354
+      },
+      "entry_id": "b5c945d7-f18f-413c-9b6f-fc13943240af_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Богородск",
+          "info": "мещанка, девица",
+          "name": "Агрипина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ольховка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Ольховка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 690,
+        "width": 2763,
+        "x": 897,
+        "y": 3061
+      },
+      "entry_id": "b5c945d7-f18f-413c-9b6f-fc13943240af_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Финогенова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Курбатовская волость, село Малое Подовечье",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Объедков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Фролова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Бохотская волость, деревня Старыши",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

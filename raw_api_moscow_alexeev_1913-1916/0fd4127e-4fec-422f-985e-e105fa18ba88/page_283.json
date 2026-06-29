@@ -1,0 +1,97 @@
+{
+  "year": 1914,
+  "page": 283,
+  "node_id": "17acc51a-a519-4a1b-983a-63472ec4412f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 395,
+        "width": 1472,
+        "x": 904,
+        "y": 864
+      },
+      "entry_id": "17acc51a-a519-4a1b-983a-63472ec4412f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Перхушинская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Абрам",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Короляев"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Гавриил",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Короляев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 394,
+        "width": 1494,
+        "x": 905,
+        "y": 1409
+      },
+      "entry_id": "17acc51a-a519-4a1b-983a-63472ec4412f_0",
+      "people": [
+        {
+          "age": "3 недели",
+          "geo": "Калужская губерния, Мещовский уезд, Кондыревская волость, село Крестьянка",
+          "info": "сын крестьянина",
+          "name": "Михаил",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 1502,
+        "x": 905,
+        "y": 1951
+      },
+      "entry_id": "17acc51a-a519-4a1b-983a-63472ec4412f_2",
+      "people": [
+        {
+          "age": "12 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Закатова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Куртинская волость, деревня Песочино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Закатов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 310,
+  "node_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 225,
+        "width": 1473,
+        "x": 1122,
+        "y": 1128
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московский уезд, Марфинская волость, деревня Пестово",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чугунов"
+        },
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чугунова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 325,
+        "width": 1406,
+        "x": 1126,
+        "y": 1482
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_4",
+      "people": [
+        {
+          "age": "1 год 8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Быченков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, деревня Крутой",
+          "info": "крестьянин",
+          "name": "Антон",
+          "other_status": "отец умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Быченков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 306,
+        "width": 1468,
+        "x": 1127,
+        "y": 1926
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Бактутинская волость, деревня Хотеева",
+          "info": "крестьянка",
+          "name": "Леона",
+          "other_status": "мать умершего",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 315,
+        "width": 1459,
+        "x": 1137,
+        "y": 2349
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_2",
+      "people": [
+        {
+          "age": "38",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соголевская волость, деревня Воронина, Ельцово",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "other_status": "муж умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 336,
+        "width": 1471,
+        "x": 1144,
+        "y": 2789
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Барашкова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Сучевская волость, деревня Кобылино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Барашков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 309,
+        "width": 1468,
+        "x": 1149,
+        "y": 3242
+      },
+      "entry_id": "1be8fd9c-02ba-43e6-a4d0-bb5a1ae61678_1",
+      "people": [
+        {
+          "age": "2 дня",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Соболева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Куркинская волость, деревня Самбулово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соболев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

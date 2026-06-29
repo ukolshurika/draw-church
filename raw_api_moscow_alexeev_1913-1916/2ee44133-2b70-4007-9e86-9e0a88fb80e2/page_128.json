@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 128,
+  "node_id": "9fa07db6-764f-4971-9d7e-dfafaa76cc95",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2808,
+        "x": 906,
+        "y": 1058
+      },
+      "entry_id": "9fa07db6-764f-4971-9d7e-dfafaa76cc95_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "цеховой сапожного цеха",
+          "name": "Андрей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Алексеевская слобода",
+          "info": "мещанская девица",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Котов"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Алексеевская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Котов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 637,
+        "width": 2885,
+        "x": 904,
+        "y": 1793
+      },
+      "entry_id": "9fa07db6-764f-4971-9d7e-dfafaa76cc95_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Алексеевская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Котов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осташкин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость и село",
+          "info": "жена крестьянина",
+          "name": "Ксения",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Голодина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Буйгородская волость",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 792,
+        "width": 2904,
+        "x": 901,
+        "y": 2619
+      },
+      "entry_id": "9fa07db6-764f-4971-9d7e-dfafaa76cc95_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Епихин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедиловская волость, Стрелецкая слобода",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Глинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "рязанская мещанка, девица",
+          "name": "Александра",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глинская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

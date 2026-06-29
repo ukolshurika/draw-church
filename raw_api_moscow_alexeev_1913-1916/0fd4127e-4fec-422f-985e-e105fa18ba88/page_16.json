@@ -1,0 +1,197 @@
+{
+  "year": 1914,
+  "page": 16,
+  "node_id": "e5356e8c-7a24-4717-9dfd-cbec87fd2f20",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 472,
+        "width": 2873,
+        "x": 748,
+        "y": 930
+      },
+      "entry_id": "e5356e8c-7a24-4717-9dfd-cbec87fd2f20_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Лазарев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "село Овчинное",
+          "info": "крестьянка",
+          "name": "Александра",
+          "other_status": "жена крестного отца",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Парамонова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Овчининская волость, село",
+          "info": "крестьянин",
+          "name": "Лазарь",
+          "second_name": "Парамонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Евстафьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Парамонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Борис",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сокольский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 486,
+        "width": 2941,
+        "x": 740,
+        "y": 1439
+      },
+      "entry_id": "e5356e8c-7a24-4717-9dfd-cbec87fd2f20_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Игнатьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Богородская волость, деревня Каллистово",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Каллистов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Ильи-Жаденская волость, деревня Теплушки",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Евсейкова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зарубин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 392,
+        "width": 2918,
+        "x": 742,
+        "y": 1998
+      },
+      "entry_id": "e5356e8c-7a24-4717-9dfd-cbec87fd2f20_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Козулинская волость, деревня Харино",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лончагов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Красно-Пахорская волость, деревня Кукишево",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лончагова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "игольская мещанка",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Стрелкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

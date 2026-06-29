@@ -1,0 +1,259 @@
+{
+  "year": 1915,
+  "page": 13,
+  "node_id": "18fa6547-6649-4352-9386-4ef7c8713dae",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2814,
+        "x": 886,
+        "y": 1096
+      },
+      "entry_id": "18fa6547-6649-4352-9386-4ef7c8713dae_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федячкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Федячкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Униково",
+          "info": "крестьянская дочь",
+          "name": "Вера",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "",
+          "geo": "то же село Шатилово",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Татаринский уезд, село Шатилово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федячкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2801,
+        "x": 897,
+        "y": 1825
+      },
+      "entry_id": "18fa6547-6649-4352-9386-4ef7c8713dae_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Рыбновская волость, деревня Валищево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Молошников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Молошникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бронницкая"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский цеховой кузнец",
+          "name": "Павел",
+          "second_name": "Рихардов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Молошникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин",
+          "name": "Якоб",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бронницкий"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 725,
+        "width": 2819,
+        "x": 901,
+        "y": 2460
+      },
+      "entry_id": "18fa6547-6649-4352-9386-4ef7c8713dae_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колочкова"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Ядринский уезд, Слободо-Стрелецкая волость, село Полянки",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колочков"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Перовская волость, деревня Захарово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "24",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Колочков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Годуновская волость, деревня Пречистина",
+          "info": "крестьянская дочь",
+          "name": "Марья",
+          "other_status": "отец крестной матери",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Родионова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2813,
+        "x": 901,
+        "y": 3178
+      },
+      "entry_id": "18fa6547-6649-4352-9386-4ef7c8713dae_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, деревенская волость, село Дегтяное",
+          "info": "крестьянин",
+          "name": "Игнатий",
+          "second_name": "Артамонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калинкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Бояркинская волость",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Амельков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калинкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калинкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 263,
+  "node_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1535,
+        "x": 903,
+        "y": 761
+      },
+      "entry_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Сумской уезд, Беловизовская волость, деревня Журавки",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мироненков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Мироненкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 381,
+        "width": 1528,
+        "x": 901,
+        "y": 1357
+      },
+      "entry_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b_3",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Абрамова"
+        },
+        {
+          "age": "",
+          "geo": "Покровский уезд, Коробовщинская волость, деревня Старая",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Абрамов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1502,
+        "x": 901,
+        "y": 1977
+      },
+      "entry_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b_2",
+      "people": [
+        {
+          "age": "3 часа",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, Ростовецкая волость, село Богатищево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Казаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 360,
+        "width": 1472,
+        "x": 904,
+        "y": 2465
+      },
+      "entry_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b_4",
+      "people": [
+        {
+          "age": "5 1/2 лет",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ушаков"
+        },
+        {
+          "age": "",
+          "geo": "Бельский уезд, Андреевская волость, деревня Жерновка",
+          "info": "девица",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ушакова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 347,
+        "width": 1523,
+        "x": 899,
+        "y": 3024
+      },
+      "entry_id": "671693cc-d9ea-48b6-ba91-cd5910adbc5b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Ошейниковская волость, деревня Клусово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карнеев"
+        },
+        {
+          "age": "5 1/2 лет",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Карнеев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

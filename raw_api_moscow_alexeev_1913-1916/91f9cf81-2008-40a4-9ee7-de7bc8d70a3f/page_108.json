@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 108,
+  "node_id": "f4a1641d-7eaa-4eae-a2a2-0f5d7657eab6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2761,
+        "x": 899,
+        "y": 1060
+      },
+      "entry_id": "f4a1641d-7eaa-4eae-a2a2-0f5d7657eab6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Федоровская волость, деревня Юрцово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Карпов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая, сапожного цеха вдова",
+          "name": "Евфросиния",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Карпова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карпов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Карпова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 559,
+        "width": 2798,
+        "x": 902,
+        "y": 1758
+      },
+      "entry_id": "f4a1641d-7eaa-4eae-a2a2-0f5d7657eab6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Мартынова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романушкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Верховье, Бабеевская волость, Калужская губерния",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романушкин"
+        },
+        {
+          "age": "",
+          "geo": "село Катино, Чириковская волость, Скопинский уезд, Рязанская губерния",
+          "info": "крестьянка, девица",
+          "name": "Марфа",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сметанина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Верховье, Бабеевская волость, Калужская губерния",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романушкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 553,
+        "width": 2771,
+        "x": 902,
+        "y": 2444
+      },
+      "entry_id": "f4a1641d-7eaa-4eae-a2a2-0f5d7657eab6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Погостинская волость, деревня Забелино",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Флоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ермилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Вера",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ермилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Федосеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермилова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Полухино",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Мартынов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2812,
+        "x": 894,
+        "y": 3192
+      },
+      "entry_id": "f4a1641d-7eaa-4eae-a2a2-0f5d7657eab6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бирский уезд, Киобаковская волость, село Надеждино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Безпалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трифонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Безпалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Безпалова"
+        },
+        {
+          "age": "",
+          "geo": "Зубцовский уезд, Родневская волость, село Ивановское",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Журавлева"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрявцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

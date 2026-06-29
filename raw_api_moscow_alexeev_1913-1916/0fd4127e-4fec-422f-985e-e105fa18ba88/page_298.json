@@ -1,0 +1,119 @@
+{
+  "year": 1914,
+  "page": 298,
+  "node_id": "49fa0393-0f81-4092-9706-c9b8d3ae0be8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1434,
+        "x": 979,
+        "y": 858
+      },
+      "entry_id": "49fa0393-0f81-4092-9706-c9b8d3ae0be8_3",
+      "people": [
+        {
+          "age": "50 лет",
+          "geo": "город Люблин",
+          "info": "полковник 182-го пехотного Гроховского полка",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Александров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1479,
+        "x": 975,
+        "y": 1429
+      },
+      "entry_id": "49fa0393-0f81-4092-9706-c9b8d3ae0be8_2",
+      "people": [
+        {
+          "age": "63",
+          "geo": "Московский уезд, Ростокинская волость, село Дегунино",
+          "info": "рясофорная послушница Алексеевского монастыря",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 651,
+        "width": 1444,
+        "x": 969,
+        "y": 2064
+      },
+      "entry_id": "49fa0393-0f81-4092-9706-c9b8d3ae0be8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Больше-Грызловская волость, село Семеновское",
+          "info": "девица",
+          "name": "Ирина",
+          "other_status": "мать умершего",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Мамонова"
+        },
+        {
+          "age": "5 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мамонов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 450,
+        "width": 1453,
+        "x": 957,
+        "y": 2871
+      },
+      "entry_id": "49fa0393-0f81-4092-9706-c9b8d3ae0be8_0",
+      "people": [
+        {
+          "age": "2 недели 2 дня",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тихонов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Милятинская волость, село Крин",
+          "info": "",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тихонов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 145,
+  "node_id": "ddf10e04-85dc-4007-98dc-1524e2f3f9eb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2807,
+        "x": 937,
+        "y": 1042
+      },
+      "entry_id": "ddf10e04-85dc-4007-98dc-1524e2f3f9eb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Геннадий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фуркасов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фуркасова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Соколовская волость, деревня Морчугов",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фуркасов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Аликовская волость, село Овчухово",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тимонина"
+        },
+        {
+          "age": "",
+          "geo": "Соколовская волость, село Новоспасское",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гулев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 682,
+        "width": 2816,
+        "x": 938,
+        "y": 1712
+      },
+      "entry_id": "ddf10e04-85dc-4007-98dc-1524e2f3f9eb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Ивлево",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов-Баранов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость, деревня Акулино",
+          "info": "крестьянин",
+          "name": "Авраамий",
+          "second_name": "Лукьянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Вереневская волость, деревня Моксино",
+          "info": "жена крестьянина",
+          "name": "Минодора",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Неофитова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова-Баранова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов-Баранов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 739,
+        "width": 2842,
+        "x": 927,
+        "y": 2394
+      },
+      "entry_id": "ddf10e04-85dc-4007-98dc-1524e2f3f9eb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Спасская волость, село Соковнино",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харламов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Баловинская волость, село Каменье",
+          "info": "крестьянка",
+          "name": "Евфросиния",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лагутина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Архипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харламова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Харламов"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Романовская волость, село Каменье",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колесников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 673,
+        "width": 2873,
+        "x": 913,
+        "y": 3130
+      },
+      "entry_id": "ddf10e04-85dc-4007-98dc-1524e2f3f9eb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бучальская волость, село Барановка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, деревня Ново-Потапово",
+          "info": "вдова, крестьянка",
+          "name": "Марфа",
+          "second_name": "Валерианова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бучальская волость, деревня Красная",
+          "info": "вдова, крестьянка",
+          "name": "Мария",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коробкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

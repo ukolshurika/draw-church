@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 256,
+  "node_id": "ae0e8eef-bdf7-428c-9554-4549eb347459",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1454,
+        "x": 957,
+        "y": 799
+      },
+      "entry_id": "ae0e8eef-bdf7-428c-9554-4549eb347459_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд",
+          "info": "мещанин",
+          "name": "Владимир",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федосеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 1451,
+        "x": 953,
+        "y": 1258
+      },
+      "entry_id": "ae0e8eef-bdf7-428c-9554-4549eb347459_3",
+      "people": [
+        {
+          "age": "35",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Апнинская волость, деревня Петушков",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 394,
+        "width": 1446,
+        "x": 952,
+        "y": 1844
+      },
+      "entry_id": "ae0e8eef-bdf7-428c-9554-4549eb347459_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "рязанский мещанин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1424,
+        "x": 955,
+        "y": 2330
+      },
+      "entry_id": "ae0e8eef-bdf7-428c-9554-4549eb347459_2",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Илия",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мишин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевская волость, село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мишин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 355,
+        "width": 1470,
+        "x": 953,
+        "y": 2768
+      },
+      "entry_id": "ae0e8eef-bdf7-428c-9554-4549eb347459_0",
+      "people": [
+        {
+          "age": "1 год 10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Титов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

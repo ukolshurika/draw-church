@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 62,
+  "node_id": "2400d896-963d-4953-ad52-2f674b0f890b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2806,
+        "x": 919,
+        "y": 1999
+      },
+      "entry_id": "2400d896-963d-4953-ad52-2f674b0f890b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Софий",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Бельское",
+          "info": "мещанин",
+          "name": "Семен",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калиновский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калиновский"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ольговская волость, село Храброво",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мурзин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Альбертина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калиновская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2831,
+        "x": 914,
+        "y": 2716
+      },
+      "entry_id": "2400d896-963d-4953-ad52-2f674b0f890b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Климово",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "24 июня",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Каневский уезд, Корниловская волость, село Броваки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николюк"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Крючковская волость, село Климово",
+          "info": "крестьянин господской волости",
+          "name": "Андрей",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фролов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 574,
+        "width": 2836,
+        "x": 911,
+        "y": 3339
+      },
+      "entry_id": "2400d896-963d-4953-ad52-2f674b0f890b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васюков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Халдеева"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Крестецкий уезд, Тимофеевская волость, деревня Борок",
+          "info": "крестьянин",
+          "name": "Федоров",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Папорожская волость, село Папоротка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васюков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

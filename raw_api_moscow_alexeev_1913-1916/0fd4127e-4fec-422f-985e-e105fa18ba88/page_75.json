@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 75,
+  "node_id": "c674caa3-3585-49b1-9064-d033aa85fad7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 565,
+        "width": 2964,
+        "x": 724,
+        "y": 907
+      },
+      "entry_id": "c674caa3-3585-49b1-9064-d033aa85fad7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Кукуевка, Виленская волость, Михайловский уезд, Рязанская губерния",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Стафурлово, Екимовская волость, Рязанская губерния",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федулова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская губерния, Верейская мещанка, девица",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мелкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2977,
+        "x": 725,
+        "y": 1531
+      },
+      "entry_id": "c674caa3-3585-49b1-9064-d033aa85fad7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Васильевская волость, село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Оргуновская волость, деревня Цветиново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Губкин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Титовская волость, сельцо Лобжа",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Оськин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Оськин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Оськина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 2932,
+        "x": 733,
+        "y": 2158
+      },
+      "entry_id": "c674caa3-3585-49b1-9064-d033aa85fad7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щербакова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Евстигнеева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Агапов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Столбово-Трубенская волость, деревня Тетери",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Агапов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Щербаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 672,
+        "width": 2924,
+        "x": 729,
+        "y": 2782
+      },
+      "entry_id": "c674caa3-3585-49b1-9064-d033aa85fad7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стаженникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "кандидат экономических наук",
+          "name": "Арсений",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ляхов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена врача",
+          "name": "Софий",
+          "other_status": "муж крестной матери",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Вермель"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вермель"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стаженников"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гантер",
+          "info": "коллежский секретарь, помощник бухгалтера Управления Московского Почтово-Телеграфного Округа",
+          "name": "Федор",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стаженников"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

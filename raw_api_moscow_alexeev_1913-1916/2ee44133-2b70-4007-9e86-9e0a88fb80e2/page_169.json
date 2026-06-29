@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 169,
+  "node_id": "62a0efe8-9f77-43a4-85dd-0a66fd912ff0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 510,
+        "width": 2731,
+        "x": 956,
+        "y": 1158
+      },
+      "entry_id": "62a0efe8-9f77-43a4-85dd-0a66fd912ff0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Сретенская слобода № 2138",
+          "info": "московский мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Косма",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая жена",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 819,
+        "width": 2779,
+        "x": 946,
+        "y": 1944
+      },
+      "entry_id": "62a0efe8-9f77-43a4-85dd-0a66fd912ff0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Бельский уезд, Бобровская волость, село",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Перфильева"
+        },
+        {
+          "age": "",
+          "geo": "Нагайская волость, деревня Ларинских Хуторов",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кручинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Терехов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Терехова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Нагайская волость, деревня Косыревка",
+          "info": "крестьянин",
+          "name": "Роман",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Терехов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2802,
+        "x": 933,
+        "y": 2821
+      },
+      "entry_id": "62a0efe8-9f77-43a4-85dd-0a66fd912ff0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Нагорская волость, деревня Слепцово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Обашихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Обашихин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Васильевская волость, деревня Монарево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Машков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Обашихина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Обашихина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

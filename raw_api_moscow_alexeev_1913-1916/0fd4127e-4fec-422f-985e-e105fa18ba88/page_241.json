@@ -1,0 +1,184 @@
+{
+  "year": 1914,
+  "page": 241,
+  "node_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 299,
+        "width": 1411,
+        "x": 969,
+        "y": 851
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_3",
+      "people": [
+        {
+          "age": "49",
+          "geo": "Потешная слобода",
+          "info": "московский мещанин",
+          "name": "Сергей",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Соболев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 212,
+        "width": 1416,
+        "x": 968,
+        "y": 1309
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_5",
+      "people": [
+        {
+          "age": "52",
+          "geo": "Московская губерния, Клинский мещанин",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Елизаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 215,
+        "width": 1476,
+        "x": 968,
+        "y": 1672
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_4",
+      "people": [
+        {
+          "age": "70",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1435,
+        "x": 962,
+        "y": 2033
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Конецпольская волость, село Конецполь",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "other_status": "отец умершего",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 333,
+        "width": 1434,
+        "x": 958,
+        "y": 2585
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_2",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Куликов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Сарвинская волость, деревня Ивановка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Куликов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 329,
+        "width": 1480,
+        "x": 963,
+        "y": 3051
+      },
+      "entry_id": "2c603a26-2529-4af4-a68c-34c2dd088bf0_0",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Гронковская волость, село Алексеевка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Сельдяков",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

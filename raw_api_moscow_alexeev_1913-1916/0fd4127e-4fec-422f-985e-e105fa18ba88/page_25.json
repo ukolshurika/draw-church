@@ -1,0 +1,319 @@
+{
+  "year": 1914,
+  "page": 25,
+  "node_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 299,
+        "width": 2965,
+        "x": 729,
+        "y": 931
+      },
+      "entry_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Псковская губерния, Великолукский уезд, Миритиницкая волость, деревня Вознесенкова",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ястребова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Морозовская волость, деревня ***",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Табаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Параскевина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ястребова"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Череповецкий уезд, Прыгальская волость, деревня Ковалево",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Изюмова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 315,
+        "width": 2960,
+        "x": 728,
+        "y": 1277
+      },
+      "entry_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Саратовская мещанка, девица",
+          "name": "Антонина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Безсонова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Шихино, Ряжский уезд, Смолевская волость, село Мостье",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Ионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Ионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Митина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 2944,
+        "x": 732,
+        "y": 1650
+      },
+      "entry_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Заовражский уезд, деревня Суйково",
+          "info": "крестьянская дочь",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Архипова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, деревня Нарышкино",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Заовражский уезд, деревня Суйково",
+          "info": "Богородский мещанин",
+          "name": "Владимир",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 386,
+        "width": 2935,
+        "x": 736,
+        "y": 2148
+      },
+      "entry_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Пелагия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Александрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Нагорская волость, деревня Шапошниково",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2970,
+        "x": 742,
+        "y": 2528
+      },
+      "entry_id": "e3262f41-c49f-4347-b39f-bf6bd2a436e4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Черкизовская волость, село Лихачево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скворцов"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Павловская подгородная слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скворцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Скворцов"
+        },
+        {
+          "age": "",
+          "geo": "Черкизовская волость, деревня Вашукино",
+          "info": "крестьянская дочь",
+          "name": "Наталия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузьмина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

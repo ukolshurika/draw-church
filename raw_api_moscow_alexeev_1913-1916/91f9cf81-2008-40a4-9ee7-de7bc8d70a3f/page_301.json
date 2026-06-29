@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 301,
+  "node_id": "29ece5b4-d9c7-4202-af0c-81a8d5f591b2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 468,
+        "width": 1423,
+        "x": 1089,
+        "y": 1110
+      },
+      "entry_id": "29ece5b4-d9c7-4202-af0c-81a8d5f591b2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедиловская волость, Стрелецкая слобода",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Епихин"
+        },
+        {
+          "age": "20 минут",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Епихин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 565,
+        "width": 1427,
+        "x": 1090,
+        "y": 1762
+      },
+      "entry_id": "29ece5b4-d9c7-4202-af0c-81a8d5f591b2_1",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гришин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Михайловская волость, деревня Бобрик",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гришина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 1415,
+        "x": 1104,
+        "y": 2516
+      },
+      "entry_id": "29ece5b4-d9c7-4202-af0c-81a8d5f591b2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, деревня Старая Кашира",
+          "info": "крестьянка, вдова",
+          "name": "Татиана",
+          "other_status": "мать умершего",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бабаева"
+        },
+        {
+          "age": "2",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бабаева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 515,
+        "width": 1415,
+        "x": 1115,
+        "y": 3298
+      },
+      "entry_id": "29ece5b4-d9c7-4202-af0c-81a8d5f591b2_2",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "незаконнорожденный",
+          "name": "Михаил",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Удомельский уезд, Арининская волость, деревня Заполье",
+          "info": "Московско-Казанской железной дороги крестьянка, девица",
+          "name": "Анастасия",
+          "other_status": "мать умершего",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

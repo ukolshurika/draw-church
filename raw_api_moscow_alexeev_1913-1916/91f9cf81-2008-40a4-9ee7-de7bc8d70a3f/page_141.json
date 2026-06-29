@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 141,
+  "node_id": "509e64c5-1c69-46b6-bc02-a989b6d33127",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 465,
+        "width": 2786,
+        "x": 920,
+        "y": 1047
+      },
+      "entry_id": "509e64c5-1c69-46b6-bc02-a989b6d33127_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Борышов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, село Титово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фетисов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Костылева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Борышова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Титовская волость, село Титово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Борышов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 614,
+        "width": 2792,
+        "x": 913,
+        "y": 1591
+      },
+      "entry_id": "509e64c5-1c69-46b6-bc02-a989b6d33127_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Грязовецкий уезд, Раменская волость, деревня Коргочево",
+          "info": "крестьянка, девица",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Березина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Березин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Городенский уезд, Городенская волость, деревня Низовка",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аничкина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Пятницкая волость, деревня Приветок",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 655,
+        "width": 2822,
+        "x": 904,
+        "y": 2210
+      },
+      "entry_id": "509e64c5-1c69-46b6-bc02-a989b6d33127_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фокина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фокина"
+        },
+        {
+          "age": "",
+          "geo": "Егорьевский уезд, Старовская волость, сельцо Взорково",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Взорков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Порчская волость, деревня Астафьево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Руссков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Взоркова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Нечаевская волость, деревня Батраков",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фокин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 744,
+        "width": 2841,
+        "x": 882,
+        "y": 2905
+      },
+      "entry_id": "509e64c5-1c69-46b6-bc02-a989b6d33127_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Костикова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Барановка",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Костикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, деревня Барановка",
+          "info": "в доме Владимирского монастыря запасный рядовой 137 пехотного Нежинского полка из крестьян",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Костиков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, деревня Костина",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дворецкая"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

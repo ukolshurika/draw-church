@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 155,
+  "node_id": "acec4b59-6db6-4b5d-9391-3b2265174ce2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 572,
+        "width": 2765,
+        "x": 867,
+        "y": 822
+      },
+      "entry_id": "acec4b59-6db6-4b5d-9391-3b2265174ce2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мокшино",
+          "info": "в деревне Цветково, запасной рядовой из крестьян Московской губернии, Клинского Завидовского волости, деревни Мокшино",
+          "name": "Игнатий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 610,
+        "width": 2778,
+        "x": 859,
+        "y": 1465
+      },
+      "entry_id": "acec4b59-6db6-4b5d-9391-3b2265174ce2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вятская губерния, Котельнический уезд, Батаевская волость, деревня Рагозникова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рагозников"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Слободской уезд, Сезеневская волость, деревня Онохина",
+          "info": "крестьянин",
+          "name": "Онохин",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Митрюкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Костина"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Щербининская волость, 1-я Бодиновская",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Костин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 602,
+        "width": 2833,
+        "x": 846,
+        "y": 2083
+      },
+      "entry_id": "acec4b59-6db6-4b5d-9391-3b2265174ce2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Кирицкая волость, деревня Большое Пирово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крылов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Еропкинская волость, село Березовка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Ермолинская волость, деревня Марьина",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2846,
+        "x": 836,
+        "y": 2706
+      },
+      "entry_id": "acec4b59-6db6-4b5d-9391-3b2265174ce2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Казинка",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карнеев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Казанская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Абрамкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Абрамкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Абрамкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антонова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

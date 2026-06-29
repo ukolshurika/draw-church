@@ -1,0 +1,227 @@
+{
+  "year": 1914,
+  "page": 152,
+  "node_id": "05200561-f84c-44eb-9acf-54d0cf1f7b2b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2871,
+        "x": 761,
+        "y": 963
+      },
+      "entry_id": "05200561-f84c-44eb-9acf-54d0cf1f7b2b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедиловская волость, село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антонов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бухарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Самохина"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Нижнеломовский уезд, Студенецкая волость, деревня Кургановка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Самохина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2910,
+        "x": 757,
+        "y": 1635
+      },
+      "entry_id": "05200561-f84c-44eb-9acf-54d0cf1f7b2b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Троицкая волость, село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новожилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новожилов"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Троицкая волость, деревня Стрелкова",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Селезнева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савельев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новожилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2885,
+        "x": 753,
+        "y": 2254
+      },
+      "entry_id": "05200561-f84c-44eb-9acf-54d0cf1f7b2b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбург, Канцелярская слобода",
+          "info": "в деревне Шапошниковой Рязанской губернии, канцеляриста дочь, девица",
+          "name": "Надежда",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Томилина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Томилина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Томилина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусатский уезд, Столбово-Струбинская волость, деревня Горново",
+          "info": "дворянин",
+          "name": "Димитрий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Томилин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 430,
+        "width": 2884,
+        "x": 742,
+        "y": 2793
+      },
+      "entry_id": "05200561-f84c-44eb-9acf-54d0cf1f7b2b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Черкутинская волость, деревня Гаврильцево",
+          "info": "крестьянин",
+          "name": "",
+          "second_name": "Анастасиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Санин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Санина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Нераджи",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Семенова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

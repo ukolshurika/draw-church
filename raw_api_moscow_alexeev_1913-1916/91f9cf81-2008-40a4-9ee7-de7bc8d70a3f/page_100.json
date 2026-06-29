@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 100,
+  "node_id": "84fa6166-82da-47c1-bdee-84e5775c183d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2621,
+        "x": 919,
+        "y": 1037
+      },
+      "entry_id": "84fa6166-82da-47c1-bdee-84e5775c183d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Трифонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Петровская волость, деревня Богаиха",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Будаевская"
+        },
+        {
+          "age": "",
+          "geo": "Авчининская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Агапов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Авчининская волость, деревня Авчинино",
+          "info": "крестьянин",
+          "name": "Трифон",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2684,
+        "x": 914,
+        "y": 1715
+      },
+      "entry_id": "84fa6166-82da-47c1-bdee-84e5775c183d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Михайловская волость, Мертвецкое общество, деревня Неплюково",
+          "info": "крестьянин",
+          "name": "Вукол",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коротаев"
+        },
+        {
+          "age": "",
+          "geo": "Мценский уезд, Долговская волость, деревня Новая Онтужка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скоков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Вуколов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Коротаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коротаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, деревня Маленищи",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дешина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 603,
+        "width": 2678,
+        "x": 909,
+        "y": 2362
+      },
+      "entry_id": "84fa6166-82da-47c1-bdee-84e5775c183d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Гончарная слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шведов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Давыдовская волость, село Большое Кузьминское",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Волковысский уезд, Порозовская волость, село Горностаевское",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крук"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шведова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шведова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 662,
+        "width": 2654,
+        "x": 917,
+        "y": 3038
+      },
+      "entry_id": "84fa6166-82da-47c1-bdee-84e5775c183d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Потетинская волость, село",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Раевская волость, деревня Поганово",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Луженская волость, деревня Шаталово",
+          "info": "запасный нижний чин из крестьян Тульской губернии",
+          "name": "Герасим",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

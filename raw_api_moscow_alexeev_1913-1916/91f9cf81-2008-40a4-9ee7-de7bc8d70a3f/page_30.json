@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 30,
+  "node_id": "3407bcb0-c9b9-4d15-b9a5-ee3463593b6c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 610,
+        "width": 2833,
+        "x": 892,
+        "y": 1017
+      },
+      "entry_id": "3407bcb0-c9b9-4d15-b9a5-ee3463593b6c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, крестьянка",
+          "name": "Параскева",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Елисеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, деревня Чесноковка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Логинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Закрасин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Лобановская волость, деревня Бурхино",
+          "info": "в доме Павловой, запасный рядовой, призванный на военную службу из крестьян",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Закрасин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагея",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Закрасина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2830,
+        "x": 894,
+        "y": 1779
+      },
+      "entry_id": "3407bcb0-c9b9-4d15-b9a5-ee3463593b6c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыжинская волость, деревня Свистягино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Болдин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Непецынская волость, село Андреевка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Королев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2811,
+        "x": 902,
+        "y": 2539
+      },
+      "entry_id": "3407bcb0-c9b9-4d15-b9a5-ee3463593b6c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Бобрицы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Климов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Анастасия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Климова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Климова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Васильевская волость, деревня Пуршево",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Кругловская волость, деревня Новикова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гордеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2795,
+        "x": 907,
+        "y": 3252
+      },
+      "entry_id": "3407bcb0-c9b9-4d15-b9a5-ee3463593b6c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Пятницкая волость, деревня Васильевка",
+          "info": "крестьянка, вдова",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прокофьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Краснинская волость, деревня Дорок",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чикурников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

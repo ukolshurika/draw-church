@@ -1,0 +1,248 @@
+{
+  "year": 1915,
+  "page": 42,
+  "node_id": "5506e293-73ec-42bc-8abc-e583a2cb454c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 734,
+        "width": 2911,
+        "x": 932,
+        "y": 1150
+      },
+      "entry_id": "5506e293-73ec-42bc-8abc-e583a2cb454c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "49",
+          "geo": "",
+          "info": "вдова, сын надворного советника",
+          "name": "Виктория",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гласина"
+        },
+        {
+          "age": "",
+          "geo": "Напрудная слобода",
+          "info": "московская мещанка, вдова",
+          "name": "Дария",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жарова"
+        },
+        {
+          "age": "",
+          "geo": "Сретенская слобода",
+          "info": "московский мещанин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 483,
+        "width": 2907,
+        "x": 926,
+        "y": 2049
+      },
+      "entry_id": "5506e293-73ec-42bc-8abc-e583a2cb454c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тимаков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Куклеиха",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лопуцкая"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "сын",
+          "other_status": "муж крестной матери",
+          "second_name": "Александр",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тимаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 2904,
+        "x": 917,
+        "y": 2684
+      },
+      "entry_id": "5506e293-73ec-42bc-8abc-e583a2cb454c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Самолеевская волость, деревня Князевских выселок",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Суслин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Суслин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Суслин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Суслина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Суслина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2922,
+        "x": 911,
+        "y": 3226
+      },
+      "entry_id": "5506e293-73ec-42bc-8abc-e583a2cb454c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Уфимская губерния, Мензелинский уезд, Благодарская волость, село Новый Мазин",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Анастасиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Тарасова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Муравьинская волость, село",
+          "info": "вдова",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Велишковского уезда, Антоньково",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тарасов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

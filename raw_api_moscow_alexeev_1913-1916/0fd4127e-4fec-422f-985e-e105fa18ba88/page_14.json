@@ -1,0 +1,312 @@
+{
+  "year": 1914,
+  "page": 14,
+  "node_id": "75747c26-d303-41dd-b710-80aeaa903cb3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 385,
+        "width": 2995,
+        "x": 725,
+        "y": 886
+      },
+      "entry_id": "75747c26-d303-41dd-b710-80aeaa903cb3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Курмышский уезд, Чембелеевская волость, деревня Медянь",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Подчерковская волость, деревня Маринина",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коныжев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Пелагия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Рославльский уезд",
+          "info": "мещанин",
+          "name": "Филимон",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 3017,
+        "x": 718,
+        "y": 1255
+      },
+      "entry_id": "75747c26-d303-41dd-b710-80aeaa903cb3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Углич",
+          "info": "мещанин",
+          "name": "Антон",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Глуховицкая волость, село Сушково",
+          "info": "крестьянка, девица",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Туколкина"
+        },
+        {
+          "age": "",
+          "geo": "город Рославль",
+          "info": "девица",
+          "name": "Пелагия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 434,
+        "width": 3018,
+        "x": 708,
+        "y": 1600
+      },
+      "entry_id": "75747c26-d303-41dd-b710-80aeaa903cb3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Улейминская волость, деревня Володинское",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вдовина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Глуховическая волость, село Сушково",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дрыгин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Ступинская волость, село Хомяково",
+          "info": "ремесленник сапожного цеха",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 434,
+        "width": 3042,
+        "x": 696,
+        "y": 2024
+      },
+      "entry_id": "75747c26-d303-41dd-b710-80aeaa903cb3_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Ильина, город Москва",
+          "info": "ремесленник сапожного цеха",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "село Старые Горки, Чернская волость, Липецкий уезд, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Баграмово",
+          "info": "состоящий на действительной службе крестьянин",
+          "name": "Григорий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балакин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анастасия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева (Бурмистрова)"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 559,
+        "width": 2965,
+        "x": 684,
+        "y": 2512
+      },
+      "entry_id": "75747c26-d303-41dd-b710-80aeaa903cb3_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гладчиков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Липецкая волость, село Старые Горки",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Балакин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балакина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гладчикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Балакина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

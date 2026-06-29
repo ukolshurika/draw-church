@@ -1,0 +1,251 @@
+{
+  "year": 1915,
+  "page": 301,
+  "node_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 182,
+        "width": 1425,
+        "x": 1157,
+        "y": 1063
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_7",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Денисовской волости, село Горшково",
+          "info": "крестьянин",
+          "name": "Артемон",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Артемонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 281,
+        "width": 1400,
+        "x": 1148,
+        "y": 1348
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Куртинская волость, село Кочкарово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шашкин"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шашкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1433,
+        "x": 1148,
+        "y": 1731
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_5",
+      "people": [
+        {
+          "age": "28 лет",
+          "geo": "",
+          "info": "Архангельская мещанка, девица",
+          "name": "Александра",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Орлова (Сверлова)"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 208,
+        "width": 1397,
+        "x": 1134,
+        "y": 2031
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_3",
+      "people": [
+        {
+          "age": "27",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Фролов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 194,
+        "width": 1386,
+        "x": 1143,
+        "y": 2346
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московский уезд, Ланинская волость, деревня Старо-Куркино",
+          "info": "",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Минин"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Минин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1393,
+        "x": 1147,
+        "y": 2640
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Белопесоцкая волость, деревня Старая Ситня",
+          "info": "крестьянка",
+          "name": "Александра",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 185,
+        "width": 1407,
+        "x": 1145,
+        "y": 3057
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_4",
+      "people": [
+        {
+          "age": "5",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская мѣщанина Алексѣевской слободы",
+          "info": "",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 283,
+        "width": 1388,
+        "x": 1144,
+        "y": 3362
+      },
+      "entry_id": "6146c5dd-2cb5-444d-aa2d-620ef218ee29_1",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пилюгин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, деревня Ильшанова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пилюгин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

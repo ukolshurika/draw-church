@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 66,
+  "node_id": "bbedab93-d0e4-4165-90d2-bcef05b7fd20",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2780,
+        "x": 914,
+        "y": 1009
+      },
+      "entry_id": "bbedab93-d0e4-4165-90d2-bcef05b7fd20_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая, Сапожного цеха",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Анейчик"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Игуменский уезд, Дудичская волость, село Дудичи",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Анейчик"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Анейчик"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Городинщенская волость, деревня Коптево",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 653,
+        "width": 2758,
+        "x": 922,
+        "y": 1674
+      },
+      "entry_id": "bbedab93-d0e4-4165-90d2-bcef05b7fd20_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Рудневская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Монахов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Шигоцкое",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Левакина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Панова"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Нерехтский уезд, Марьинско-Александровская волость, деревня Бортникова",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 554,
+        "width": 2752,
+        "x": 930,
+        "y": 2449
+      },
+      "entry_id": "bbedab93-d0e4-4165-90d2-bcef05b7fd20_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Трехденево",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Виноградов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Виноградова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стопинский уезд, Стопинская волость, деревня Карандышево",
+          "info": "крестьянка",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Виноградова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 655,
+        "width": 2760,
+        "x": 934,
+        "y": 3158
+      },
+      "entry_id": "bbedab93-d0e4-4165-90d2-bcef05b7fd20_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калабин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Ахтырская волость, деревня Азарово",
+          "info": "крестьянин",
+          "name": "Анисим",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Долговская волость, 3-е Усачевское общество",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калабин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Березниковская волость, деревня Брюхово",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каллистратова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Макрина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калабина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

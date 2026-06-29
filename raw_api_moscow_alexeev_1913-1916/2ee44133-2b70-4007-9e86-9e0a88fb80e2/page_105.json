@@ -1,0 +1,186 @@
+{
+  "year": 1915,
+  "page": 105,
+  "node_id": "0a567a5c-2f13-47b6-a7df-ed010eef54ae",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 592,
+        "width": 2878,
+        "x": 880,
+        "y": 1061
+      },
+      "entry_id": "0a567a5c-2f13-47b6-a7df-ed010eef54ae_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, волость села Рюминское",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Графов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Увяземский уезд, Фомищевская волость, деревня Лешутиха",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Вяземский уезд, Спас-Унженская волость, деревня Шутово",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Симеон",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2872,
+        "x": 875,
+        "y": 1937
+      },
+      "entry_id": "0a567a5c-2f13-47b6-a7df-ed010eef54ae_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Евдокия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Извольская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Извольская"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Зубакинская волость, деревня Агаршево",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Черкизовский уезд, Черкизовская волость, село Петровское",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Извольская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 2867,
+        "x": 878,
+        "y": 2785
+      },
+      "entry_id": "0a567a5c-2f13-47b6-a7df-ed010eef54ae_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "отставной капитан",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Потулов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Клин",
+          "info": "мещанин",
+          "name": "Евгений",
+          "other_status": "муж крестной матери",
+          "second_name": "Прокопьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Истомин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Потулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Потулова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена ротмистра",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Потулова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

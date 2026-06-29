@@ -1,0 +1,257 @@
+{
+  "year": 1914,
+  "page": 80,
+  "node_id": "9bc30488-7c6d-4f90-836e-36c218fbb962",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 561,
+        "width": 2841,
+        "x": 759,
+        "y": 859
+      },
+      "entry_id": "9bc30488-7c6d-4f90-836e-36c218fbb962_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "Бротинская волость, Лобановская волость, деревня Сальмыкова",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сигалова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ламакина, Тульская губерния, Кротиленский уезд, Царевская волость, село Липово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Евсеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зотова"
+        },
+        {
+          "age": "",
+          "geo": "Лопотинская волость, деревня Верхние Марможи",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавыгин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2848,
+        "x": 748,
+        "y": 1420
+      },
+      "entry_id": "9bc30488-7c6d-4f90-836e-36c218fbb962_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Востров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Кораблинская волость, деревня Бобровжиков",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мартынова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2875,
+        "x": 744,
+        "y": 1975
+      },
+      "entry_id": "9bc30488-7c6d-4f90-836e-36c218fbb962_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Логинов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд, Покровская волость, село Большой Кривец",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Головин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Забылино",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кочнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ефимия",
+          "second_name": "Флорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Логинова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Погостинская волость, деревня Забелино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Логинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2925,
+        "x": 733,
+        "y": 2672
+      },
+      "entry_id": "9bc30488-7c6d-4f90-836e-36c218fbb962_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Уфимская губерния, Стерлитамакский уезд, Ишпарсовская волость, деревня Петровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Клинской уезд, Довыуковская волость, деревня Покровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Захаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

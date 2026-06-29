@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 73,
+  "node_id": "021c336b-5731-4322-9c48-a5fc688afeb2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2887,
+        "x": 739,
+        "y": 911
+      },
+      "entry_id": "021c336b-5731-4322-9c48-a5fc688afeb2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Богатырев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Давыдкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Любимовка, Ефремовская волость, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богатырев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богатырева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2901,
+        "x": 743,
+        "y": 1520
+      },
+      "entry_id": "021c336b-5731-4322-9c48-a5fc688afeb2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Фофоновская волость, Стрелецкая слобода",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Серебряков"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Щедринская волость, деревня Прибытково",
+          "info": "крестьянин",
+          "name": "Илия",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бабурин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Григорьевская волость, деревня Марьино Горы",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "other_status": "муж крестной матери",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Жогалева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Серебрякова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Серебрякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 2918,
+        "x": 735,
+        "y": 2128
+      },
+      "entry_id": "021c336b-5731-4322-9c48-a5fc688afeb2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "село Архангельское, Курская губерния, Грай-Воронский уезд, слобода Горы",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яньков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кобина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Флекенштейн, Тамбовская губерния, Козловский уезд, Иловая-Дмитровская волость, село Архангельское",
+          "info": "",
+          "name": "Кирилл",
+          "second_name": "Елеазаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 2935,
+        "x": 733,
+        "y": 2721
+      },
+      "entry_id": "021c336b-5731-4322-9c48-a5fc688afeb2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Носенко"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Богодуховский уезд, Краснокутская волость",
+          "info": "крестьянин",
+          "name": "Моисей",
+          "second_name": "Лукианов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Носенко"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Растовецкая волость, деревня Маслово",
+          "info": "коллежский регистратор",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пипер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисія",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Носенко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Минаева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

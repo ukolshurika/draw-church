@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 40,
+  "node_id": "3b3d9f44-14a8-4e5f-ad11-a966ef63fafc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2842,
+        "x": 903,
+        "y": 1063
+      },
+      "entry_id": "3b3d9f44-14a8-4e5f-ad11-a966ef63fafc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "кандидата математических наук жена",
+          "name": "София",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лащенова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Серединская волость, деревня Старая",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мусатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Орловская мещанка, девица",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Свѣшникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 543,
+        "width": 2849,
+        "x": 909,
+        "y": 1724
+      },
+      "entry_id": "3b3d9f44-14a8-4e5f-ad11-a966ef63fafc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбунов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Клинская волость, село Новое",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горбунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горбунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горбунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Наталья",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбунова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 652,
+        "width": 2832,
+        "x": 916,
+        "y": 2358
+      },
+      "entry_id": "3b3d9f44-14a8-4e5f-ad11-a966ef63fafc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбунова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Предтеченская волость, село 2-е Предтеченское",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Симонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Горская волость, деревня Ворова",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Суровов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Ново-Ивинская волость, село Новое",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбунов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Вельяминовская волость, село Просфорниково",
+          "info": "крестьянка, девица",
+          "name": "Татьяна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Симонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 706,
+        "width": 2829,
+        "x": 913,
+        "y": 3042
+      },
+      "entry_id": "3b3d9f44-14a8-4e5f-ad11-a966ef63fafc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Старовская волость, деревня Лыщиково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чеханин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, деревня Ольховка",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чуракова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мещерская волость, деревня Починская",
+          "info": "крестьянская девица",
+          "name": "Агриппина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кеновалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чураков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

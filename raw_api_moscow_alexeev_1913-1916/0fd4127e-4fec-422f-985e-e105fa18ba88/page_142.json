@@ -1,0 +1,206 @@
+{
+  "year": 1914,
+  "page": 142,
+  "node_id": "828c78d4-32fc-41e1-86cf-243def8943e2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 542,
+        "width": 2931,
+        "x": 750,
+        "y": 1952
+      },
+      "entry_id": "828c78d4-32fc-41e1-86cf-243def8943e2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Каменская волость, деревня Ракитина",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Левин"
+        },
+        {
+          "age": "",
+          "geo": "Бобриковская волость, деревня Лемки",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Канунников"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бобриковская волость, деревня Колодезная",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Канунников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Свирина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канунникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2951,
+        "x": 742,
+        "y": 2486
+      },
+      "entry_id": "828c78d4-32fc-41e1-86cf-243def8943e2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Каменская волость, деревня Ракитина",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Левин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Левин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд",
+          "info": "мещанка, девица",
+          "name": "Ольга",
+          "second_name": "Адрианова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Левина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Левина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2979,
+        "x": 714,
+        "y": 3012
+      },
+      "entry_id": "828c78d4-32fc-41e1-86cf-243def8943e2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ярославцева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колобашкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Кодратов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ярославцев"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Задонский уезд, Козинская волость, село Верхний Студенец",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ильинская волость, село Жилконец",
+          "info": "запасный ефрейтор",
+          "name": "Кодрат",
+          "second_name": "Феоктистов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ярославцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

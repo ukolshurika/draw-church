@@ -58,9 +58,10 @@ class ArchiveMeta:
     fund: str | None = None
     opis: str | None = None
     delo: str | None = None
+    total_pages: int | None = None
 
     def is_populated(self) -> bool:
-        return any(getattr(self, f.name) for f in fields(self))
+        return any(getattr(self, f.name) for f in fields(self) if f.name != "total_pages")
 
     def to_dict(self) -> dict[str, str | None]:
         return {f.name: getattr(self, f.name) for f in fields(self)}
@@ -360,14 +361,26 @@ class LinkDownloader:
 
         with BrowserSession(self._browser) as session:
             if meta is None:
-                meta = self._try_extract_first_meta(session, uuid, link.from_page)
+                meta, total_pages = self._try_extract_first_meta(session, uuid, link.from_page)
+                if meta is None and total_pages is None:
+                    print(f"    could not load first page, skipping")
+                    return
+            else:
+                total_pages = meta.total_pages if meta else None
 
-            end_page = link.to_page
-            if end_page is None:
-                end_page = self._discover_total_pages(session, uuid, link.from_page)
-                if end_page is None:
+            if link.to_page is not None:
+                end_page = link.to_page
+            elif total_pages is not None:
+                end_page = total_pages
+            else:
+                total_pages = self._discover_total_pages(session, uuid, link.from_page)
+                if total_pages is None:
                     print(f"    could not discover total pages, skipping")
                     return
+                end_page = total_pages
+                if meta:
+                    meta.total_pages = total_pages
+                    self._storage.write_meta(uuid, meta)
                 print(f"    auto-discovered {end_page} total pages")
 
             for pn in range(link.from_page, end_page + 1):
@@ -379,17 +392,30 @@ class LinkDownloader:
             return meta
         return None
 
-    def _try_extract_first_meta(self, session: BrowserSession, uuid: str, first_page: int) -> ArchiveMeta | None:
+    def _try_extract_first_meta(self, session: BrowserSession, uuid: str, first_page: int) -> tuple[ArchiveMeta | None, int | None]:
         url = f"https://yandex.ru/archive/catalog/{uuid}/{first_page}"
         if not session.navigate(url):
-            return None
+            return None, None
 
-        meta = MetadataExtractor.from_page(session.page)
-        if meta and meta.is_populated():
-            self._storage.write_meta(uuid, meta)
-            print(f"    _meta.json: {meta}")
-            return meta
-        return None
+        raw = PageDataExtractor.from_page(session.page)
+        meta = None
+        total_pages = None
+        if raw:
+            meta = MetadataExtractor.from_breadcrumbs(raw.breadcrumbs)
+            total_pages = raw.total_pages
+            if meta:
+                meta.total_pages = total_pages
+                if meta.is_populated():
+                    self._storage.write_meta(uuid, meta)
+                    print(f"    _meta.json: {meta}")
+            return meta, total_pages
+        else:
+            meta = MetadataExtractor.from_page(session.page)
+            if meta:
+                if meta.is_populated():
+                    self._storage.write_meta(uuid, meta)
+                    print(f"    _meta.json: {meta}")
+            return meta, None
 
     def _discover_total_pages(self, session: BrowserSession, uuid: str, page_num: int) -> int | None:
         if self._storage.is_page_cached(uuid, page_num):
@@ -469,7 +495,7 @@ class LinkDownloader:
 # ── Orchestration: Main ──
 
 class DownloadOrchestrator:
-    def run(self) -> None:
+    def run(self, output_dir: Path | None = None) -> None:
         print("=" * 60)
         print("Yandex Archive Raw Downloader")
         print("=" * 60)
@@ -487,7 +513,7 @@ class DownloadOrchestrator:
                 print(f"  {l.uuid}: {l.from_page}-? (auto-discover)")
 
         api_client = YandexApiClient()
-        storage = FileStorage()
+        storage = FileStorage(output_dir or RAW_API_DIR)
 
         with sync_playwright() as pw:
             browser = pw.chromium.launch(headless=True)
@@ -502,7 +528,12 @@ class DownloadOrchestrator:
 
 
 def main():
-    DownloadOrchestrator().run()
+    import argparse
+    parser = argparse.ArgumentParser(description="Download raw API data from Yandex Archive")
+    parser.add_argument("--output-dir", type=Path, default=None,
+                        help="Output directory for raw API data (default: raw_api/)")
+    args = parser.parse_args()
+    DownloadOrchestrator().run(output_dir=args.output_dir)
 
 
 if __name__ == "__main__":

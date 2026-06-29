@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 31,
+  "node_id": "fa931967-d6db-4737-9af8-22bf444002d8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2769,
+        "x": 915,
+        "y": 1077
+      },
+      "entry_id": "fa931967-d6db-4737-9af8-22bf444002d8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Юревский уезд, Новогубская волость, село",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степанида",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мягкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, слобода",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мягков"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мягков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мягков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 723,
+        "width": 2797,
+        "x": 914,
+        "y": 1761
+      },
+      "entry_id": "fa931967-d6db-4737-9af8-22bf444002d8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Красновская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лутовинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лутовинова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Большевская волость, деревня Нероново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ипатов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лутовинов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Еремеевская волость, деревня Духанина",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Скворцова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2768,
+        "x": 913,
+        "y": 2511
+      },
+      "entry_id": "fa931967-d6db-4737-9af8-22bf444002d8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Красное",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лутовинова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Краснинская волость, село Красное",
+          "info": "",
+          "name": "Никита",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лутовиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лутовиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лутовикова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мышегский уезд, Кузовская волость, деревня Водопьянова",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скворцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 666,
+        "width": 2815,
+        "x": 905,
+        "y": 3350
+      },
+      "entry_id": "fa931967-d6db-4737-9af8-22bf444002d8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Агеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Большевская волость, деревня Нероново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ипатов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Неронов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Еремеевская волость, деревня Духино",
+          "info": "крестьянская дочь, девица",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Скворцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Агеева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Толуцкая волость, село Есипово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Агеев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

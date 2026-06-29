@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 
 from .loader import load_data
@@ -12,7 +13,16 @@ OUTPUT = BASE_DIR / "graph.html"
 
 
 def main():
-    all_nodes, all_edges = load_data(NODES_FILE, EDGES_FILE)
+    parser = argparse.ArgumentParser(description="Build graph HTML from nodes+edges")
+    parser.add_argument("--nodes", type=Path, default=NODES_FILE,
+                        help="Input nodes JSON file")
+    parser.add_argument("--edges", type=Path, default=EDGES_FILE,
+                        help="Input edges JSON file")
+    parser.add_argument("--output", type=Path, default=OUTPUT,
+                        help="Output HTML file")
+    args = parser.parse_args()
+
+    all_nodes, all_edges = load_data(args.nodes, args.edges)
 
     components = split_components(all_nodes, all_edges)
 
@@ -25,5 +35,5 @@ def main():
         print(f"  #{i+1}: {c['size']} nodes, {c['edge_count']} edges{tag}")
 
     html = render(components, colour_map)
-    OUTPUT.write_text(html, encoding="utf-8")
-    print(f"\nSaved: {OUTPUT}")
+    args.output.write_text(html, encoding="utf-8")
+    print(f"\nSaved: {args.output}")

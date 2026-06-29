@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 355,
+  "node_id": "f47b92f8-34c3-479d-91ba-081372c8d768",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 416,
+        "width": 1478,
+        "x": 1068,
+        "y": 1047
+      },
+      "entry_id": "f47b92f8-34c3-479d-91ba-081372c8d768_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевский уезд, Бахмачевская волость, деревня Свистово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитриев"
+        },
+        {
+          "age": "1 год 8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Дмитриева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 391,
+        "width": 1403,
+        "x": 1059,
+        "y": 1633
+      },
+      "entry_id": "f47b92f8-34c3-479d-91ba-081372c8d768_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Плосковская волость, деревня Гордино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мосягин"
+        },
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мосягин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1472,
+        "x": 1058,
+        "y": 2145
+      },
+      "entry_id": "f47b92f8-34c3-479d-91ba-081372c8d768_3",
+      "people": [
+        {
+          "age": "50",
+          "geo": "Алексеевский монастырь",
+          "info": "рясофорная послушница",
+          "name": "Екатерина",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 434,
+        "width": 1392,
+        "x": 1052,
+        "y": 2601
+      },
+      "entry_id": "f47b92f8-34c3-479d-91ba-081372c8d768_0",
+      "people": [
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бадров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Маревская волость, деревня Алтыново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бадров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 439,
+        "width": 1477,
+        "x": 1034,
+        "y": 3185
+      },
+      "entry_id": "f47b92f8-34c3-479d-91ba-081372c8d768_2",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Анохина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, деревня Раковая",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Анохин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

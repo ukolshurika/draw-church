@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 289,
+  "node_id": "b6cb0679-9429-4501-aa8b-25b284193586",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 364,
+        "width": 1468,
+        "x": 1091,
+        "y": 1182
+      },
+      "entry_id": "b6cb0679-9429-4501-aa8b-25b284193586_4",
+      "people": [
+        {
+          "age": "29",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Савостина"
+        },
+        {
+          "age": "",
+          "geo": "Московская Панкратьевская слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "other_status": "муж умершего",
+          "second_name": "Прокопьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савостин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1441,
+        "x": 1090,
+        "y": 1685
+      },
+      "entry_id": "b6cb0679-9429-4501-aa8b-25b284193586_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сидоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1479,
+        "x": 1086,
+        "y": 2145
+      },
+      "entry_id": "b6cb0679-9429-4501-aa8b-25b284193586_2",
+      "people": [
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Рагожина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминская волость, деревня Волхоны",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рагожин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1399,
+        "x": 1088,
+        "y": 2623
+      },
+      "entry_id": "b6cb0679-9429-4501-aa8b-25b284193586_1",
+      "people": [
+        {
+          "age": "1 год 2 месяца",
+          "geo": "Тульская губерния, Ефремовский уезд, Павлюхуторская волость, село",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Панькин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Павлюхуторская волость, село",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Панькин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1480,
+        "x": 1091,
+        "y": 3120
+      },
+      "entry_id": "b6cb0679-9429-4501-aa8b-25b284193586_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лапкина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Яковлевская волость, деревня Федотово",
+          "info": "",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лапкин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

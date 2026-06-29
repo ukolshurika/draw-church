@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 269,
+  "node_id": "afd18e11-c45b-44f2-b158-1d9dd7a79f35",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 290,
+        "width": 1465,
+        "x": 1092,
+        "y": 1142
+      },
+      "entry_id": "afd18e11-c45b-44f2-b158-1d9dd7a79f35_3",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "",
+          "info": "из дома Скалкина. Московская цеховая кондитерского цеха",
+          "name": "Евдокия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Томашевская"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 365,
+        "width": 1423,
+        "x": 1091,
+        "y": 1636
+      },
+      "entry_id": "afd18e11-c45b-44f2-b158-1d9dd7a79f35_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Троицкая волость, село Крестьяниново",
+          "info": "из дома Лаврова крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новожилов"
+        },
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Новожилов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 456,
+        "width": 1419,
+        "x": 1098,
+        "y": 2192
+      },
+      "entry_id": "afd18e11-c45b-44f2-b158-1d9dd7a79f35_1",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горбачев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Маковская волость, деревня Толмачевка",
+          "info": "из дома Шихина крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горбачев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 477,
+        "width": 1454,
+        "x": 1097,
+        "y": 2843
+      },
+      "entry_id": "afd18e11-c45b-44f2-b158-1d9dd7a79f35_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевская волость, деревня Клухина",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Скузоров"
+        },
+        {
+          "age": "3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Скузоров"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

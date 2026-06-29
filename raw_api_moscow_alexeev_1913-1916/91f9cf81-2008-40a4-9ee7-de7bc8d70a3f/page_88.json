@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 88,
+  "node_id": "a849ced3-cef0-4629-85ff-4a773f68cc85",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2711,
+        "x": 930,
+        "y": 1010
+      },
+      "entry_id": "a849ced3-cef0-4629-85ff-4a773f68cc85_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Микляевская волость, деревня Тощебылово",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бурценкова"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Ардатовский уезд, Киржеминская волость, село",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "село Киржемин",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Устимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кириллов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2721,
+        "x": 919,
+        "y": 1652
+      },
+      "entry_id": "a849ced3-cef0-4629-85ff-4a773f68cc85_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чухнова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Лапошковская волость, село Карамышево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чухнов"
+        },
+        {
+          "age": "",
+          "geo": "село Карамышево",
+          "info": "крестьянин",
+          "name": "Лев",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Безгубов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иустиния",
+          "second_name": "Лаврентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чухнова"
+        },
+        {
+          "age": "",
+          "geo": "село Карамышево",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чухнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2733,
+        "x": 927,
+        "y": 2331
+      },
+      "entry_id": "a849ced3-cef0-4629-85ff-4a773f68cc85_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Панькова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Филиппова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Круговская волость, деревня Свистуново",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Николо-Вяземская волость, деревня Синниково",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Паньков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 656,
+        "width": 2732,
+        "x": 923,
+        "y": 3089
+      },
+      "entry_id": "a849ced3-cef0-4629-85ff-4a773f68cc85_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Хавертовская волость, село Хавертово",
+          "info": "жена крестьянина",
+          "name": "Евдокия",
+          "second_name": "Феодотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Феодотова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Хавертовская волость, деревня Малое Поярково",
+          "info": "крестьянин",
+          "name": "Евдоким",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Жиловская волость, село Жилово",
+          "info": "крестьянин",
+          "name": "Иаков",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

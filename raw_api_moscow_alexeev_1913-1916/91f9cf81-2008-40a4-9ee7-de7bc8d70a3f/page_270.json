@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 270,
+  "node_id": "eeea7ad5-3642-4753-8962-2fea6e54d40c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 425,
+        "width": 1469,
+        "x": 1081,
+        "y": 1111
+      },
+      "entry_id": "eeea7ad5-3642-4753-8962-2fea6e54d40c_3",
+      "people": [
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Самохина"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Нижнеломовский уезд, Студенецская волость, деревня Кургановка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Самохин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 471,
+        "width": 1473,
+        "x": 1068,
+        "y": 1732
+      },
+      "entry_id": "eeea7ad5-3642-4753-8962-2fea6e54d40c_2",
+      "people": [
+        {
+          "age": "71",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, деревня Нудовля",
+          "info": "вдова отставного рядового из крестьян",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бакунина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1474,
+        "x": 1075,
+        "y": 2405
+      },
+      "entry_id": "eeea7ad5-3642-4753-8962-2fea6e54d40c_0",
+      "people": [
+        {
+          "age": "86",
+          "geo": "Московская губерния, Серпуховский уезд, Бавыкинская волость, деревня Заволитьево",
+          "info": "из дома Алексеевского монастыря крестьянка, девица",
+          "name": "Ксения",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 454,
+        "width": 1374,
+        "x": 1077,
+        "y": 3092
+      },
+      "entry_id": "eeea7ad5-3642-4753-8962-2fea6e54d40c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Михайловская волость, деревня Козловка",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Качурин"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Качурин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

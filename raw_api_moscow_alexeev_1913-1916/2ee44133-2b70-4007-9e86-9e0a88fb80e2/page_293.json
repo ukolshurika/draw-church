@@ -1,0 +1,108 @@
+{
+  "year": 1915,
+  "page": 293,
+  "node_id": "5f4095b3-4236-49b2-86d1-58d19a6dfee8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 293,
+        "width": 1413,
+        "x": 1054,
+        "y": 1077
+      },
+      "entry_id": "5f4095b3-4236-49b2-86d1-58d19a6dfee8_3",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, село Докукино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мо"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 302,
+        "width": 1494,
+        "x": 1051,
+        "y": 1499
+      },
+      "entry_id": "5f4095b3-4236-49b2-86d1-58d19a6dfee8_1",
+      "people": [
+        {
+          "age": "65",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, село Липово",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Зотова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 262,
+        "width": 1423,
+        "x": 1050,
+        "y": 1926
+      },
+      "entry_id": "5f4095b3-4236-49b2-86d1-58d19a6dfee8_2",
+      "people": [
+        {
+          "age": "37",
+          "geo": "",
+          "info": "потомственный дворянин, прапорщик запаса",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Астафьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 378,
+        "width": 1446,
+        "x": 1046,
+        "y": 2332
+      },
+      "entry_id": "5f4095b3-4236-49b2-86d1-58d19a6dfee8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Карашская волость, деревня Кирвчина",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "other_status": "отец умершего",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Калинин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

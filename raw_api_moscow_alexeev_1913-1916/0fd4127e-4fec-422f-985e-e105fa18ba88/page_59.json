@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 59,
+  "node_id": "aed30885-f273-49eb-83bf-0fe3c63d75f8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 407,
+        "width": 2867,
+        "x": 744,
+        "y": 942
+      },
+      "entry_id": "aed30885-f273-49eb-83bf-0fe3c63d75f8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Войтневичи",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белевич"
+        },
+        {
+          "age": "",
+          "geo": "село Больше-Грызлово",
+          "info": "Калужского уезда, Больше-Грызловской волости крестьянка",
+          "name": "Евдокия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кубышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Наталия",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белевич"
+        },
+        {
+          "age": "",
+          "geo": "село Горшково",
+          "info": "Тульского уезда, Денисовской волости крестьянин",
+          "name": "Ефим",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Денисов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2881,
+        "x": 748,
+        "y": 1420
+      },
+      "entry_id": "aed30885-f273-49eb-83bf-0fe3c63d75f8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Гармоново, Веневский уезд, Тульская губерния",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гончаров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Запинки, Старосельская волость, Мстиславский уезд, Могилевская губерния",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гончаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Антонина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Наумова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гончарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 465,
+        "width": 2864,
+        "x": 747,
+        "y": 1963
+      },
+      "entry_id": "aed30885-f273-49eb-83bf-0fe3c63d75f8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Андреевско-Годуновская волость, село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вихрин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лаврова, Московская губерния, Зюзинская волость",
+          "info": "приписанный к оной крестьянин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зудин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зудина"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Остроуховская волость, село Большое Фурсово",
+          "info": "крестьянская дочь",
+          "name": "Пелагия",
+          "second_name": "Глебова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аверьянова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зудина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 552,
+        "width": 2912,
+        "x": 748,
+        "y": 2573
+      },
+      "entry_id": "aed30885-f273-49eb-83bf-0fe3c63d75f8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Витебская губерния, Режицкий уезд, Санстыгальская волость, деревня Боровой Слободы",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Дометиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Медведкій"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Селезневская волость, деревня Саватеевка",
+          "info": "крестьянин",
+          "name": "Селезнев",
+          "other_status": "отец крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Петрушинская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мишин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Медведкій"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Елена",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Илюхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Медведкій"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

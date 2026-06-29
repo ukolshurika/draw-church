@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 335,
+  "node_id": "719c4201-60d2-49a0-9d69-b3961c5e8e3e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1440,
+        "x": 1080,
+        "y": 1056
+      },
+      "entry_id": "719c4201-60d2-49a0-9d69-b3961c5e8e3e_3",
+      "people": [
+        {
+          "age": "9 дней",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Буров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Раковая",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 522,
+        "width": 1451,
+        "x": 1081,
+        "y": 1649
+      },
+      "entry_id": "719c4201-60d2-49a0-9d69-b3961c5e8e3e_2",
+      "people": [
+        {
+          "age": "14 дней",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Панова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Панова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Краснинская волость, деревня Выглядовка",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Панова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1439,
+        "x": 1090,
+        "y": 2362
+      },
+      "entry_id": "719c4201-60d2-49a0-9d69-b3961c5e8e3e_1",
+      "people": [
+        {
+          "age": "1 день",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Ловецкая волость, село Любич",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Котов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 1431,
+        "x": 1091,
+        "y": 3014
+      },
+      "entry_id": "719c4201-60d2-49a0-9d69-b3961c5e8e3e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ухоловская волость, деревня Глинок",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Прибылов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Прибылова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

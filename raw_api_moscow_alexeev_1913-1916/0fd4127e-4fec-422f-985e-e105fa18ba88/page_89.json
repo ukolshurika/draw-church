@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 89,
+  "node_id": "cca7ee33-4ef3-48af-adcf-0df869e935e5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 515,
+        "width": 2850,
+        "x": 742,
+        "y": 855
+      },
+      "entry_id": "cca7ee33-4ef3-48af-adcf-0df869e935e5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Климовская волость, деревня Тупичина",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Климовская волость, деревня Тупичина",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Карповская волость, деревня Шевлагино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Митягин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Митягина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2860,
+        "x": 738,
+        "y": 1497
+      },
+      "entry_id": "cca7ee33-4ef3-48af-adcf-0df869e935e5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Копнинская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнечихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузнечихина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнечихина"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Тотемский уезд, Чучковская волость, деревня Жилино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шкарин"
+        },
+        {
+          "age": "",
+          "geo": "Копнинская волость, деревня Мериново",
+          "info": "крестьянская дочь",
+          "name": "Надежда",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каняева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 2858,
+        "x": 734,
+        "y": 2107
+      },
+      "entry_id": "cca7ee33-4ef3-48af-adcf-0df869e935e5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Амхина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рогашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Амхина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Ивановская",
+          "info": "",
+          "name": "Федор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Амхин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминский уезд, деревня Волханы",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крючков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 690,
+        "width": 2854,
+        "x": 736,
+        "y": 2729
+      },
+      "entry_id": "cca7ee33-4ef3-48af-adcf-0df869e935e5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Логиновская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Лукин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баринов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Акругина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баринова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баринов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Сеньницкая волость, деревня Коблучково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дмитриев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, деревня Ребинино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Акругин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

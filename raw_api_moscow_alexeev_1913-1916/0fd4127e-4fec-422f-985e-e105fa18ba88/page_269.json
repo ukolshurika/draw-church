@@ -1,0 +1,196 @@
+{
+  "year": 1914,
+  "page": 269,
+  "node_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 365,
+        "width": 1492,
+        "x": 1027,
+        "y": 784
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Кичибухино",
+          "info": "крестьянин",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Назаров"
+        },
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Назарова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 390,
+        "width": 1440,
+        "x": 1029,
+        "y": 1242
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смолевская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Михайлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1488,
+        "x": 1030,
+        "y": 1709
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Горовский уезд, Серединская волость, деревня Семичевка",
+          "info": "крестьянин",
+          "name": "Глеб",
+          "other_status": "отецумершего",
+          "second_name": "Терентиева",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Агафонов"
+        },
+        {
+          "age": "5 лет",
+          "geo": "Горовский уезд, Серединская волость, деревня Семичевка",
+          "info": "крестьянка, дочь крестьянина Глеба Терентиева Агафонова",
+          "name": "Антонина",
+          "second_name": "Агафонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 1421,
+        "x": 1028,
+        "y": 2139
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, из Бутырок",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бобров"
+        },
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бобров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 315,
+        "width": 1419,
+        "x": 1032,
+        "y": 2613
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_2",
+      "people": [
+        {
+          "age": "44",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Григорий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Герасимов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1506,
+        "x": 1024,
+        "y": 3015
+      },
+      "entry_id": "b31327f7-8a9b-4962-83dd-3e8494c7de70_1",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кротова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Василевская волость, деревня Персово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Ефремов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кротов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

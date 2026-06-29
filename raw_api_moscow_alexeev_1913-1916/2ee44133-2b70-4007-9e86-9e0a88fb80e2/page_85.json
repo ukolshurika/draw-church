@@ -1,0 +1,321 @@
+{
+  "year": 1915,
+  "page": 85,
+  "node_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 404,
+        "width": 2795,
+        "x": 904,
+        "y": 1017
+      },
+      "entry_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ряжский уезд, Нагайская волость, деревня Ценино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Афиногенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самойлов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Фофановская волость, деревня Крапотинских выселок",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Меркулова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самойлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Морозов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 2794,
+        "x": 909,
+        "y": 1586
+      },
+      "entry_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шарай"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Круглянский уезд, местечко Друцк",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дудкевич"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дудкевич"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Мацковская волость, деревня Пещанки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Якимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шарай"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шарай"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Круглянский уезд, местечко Друцк",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Валентов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 2804,
+        "x": 910,
+        "y": 2209
+      },
+      "entry_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калесник"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Романовская волость, село Камень",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калесник"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Одоевская волость, село Ярослав",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шемякин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Паниченская волость, деревня Замятино",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калесник"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 2759,
+        "x": 918,
+        "y": 2727
+      },
+      "entry_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Смоленская мещанка",
+          "name": "Пелагия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Буканская волость, деревня Ледохово",
+          "info": "крестьянка, девица",
+          "name": "Василисса",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермачкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Василиссова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ермачкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2805,
+        "x": 924,
+        "y": 3203
+      },
+      "entry_id": "51884b09-21c0-47fd-9844-fe7e3f61ba66_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Еголдаевская волость, деревня Мардвиново",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мячков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мячкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Адамова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулагина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кулагин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Леоновская волость, деревня Хадюшино",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Деленков"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Дертевская волость, деревня Сабуровки",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кулагин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

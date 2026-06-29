@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 296,
+  "node_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1459,
+        "x": 1067,
+        "y": 1091
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_2",
+      "people": [
+        {
+          "age": "1 год 4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Казимирова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Жуковская волость, деревня Савино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "мать умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Казимиров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 325,
+        "width": 1394,
+        "x": 1069,
+        "y": 1522
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_4",
+      "people": [
+        {
+          "age": "безн.",
+          "geo": "Касимовский уезд, Татарская слобода",
+          "info": "казенный крестьянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Муратов"
+        },
+        {
+          "age": "безн.",
+          "geo": "Касимовский уезд, Татарская слобода",
+          "info": "казенный крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Муратов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 271,
+        "width": 1472,
+        "x": 1076,
+        "y": 1946
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_5",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пирог"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Дисненский уезд, Прозорковская волость, село Лапоть",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пирог"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1400,
+        "x": 1075,
+        "y": 2401
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_0",
+      "people": [
+        {
+          "age": "8 1/2 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сусановская волость, деревня Язвы",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отецумершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баранов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 228,
+        "width": 1493,
+        "x": 1083,
+        "y": 2858
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Павловская слобода",
+          "info": "мещанин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Власов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 307,
+        "width": 1468,
+        "x": 1081,
+        "y": 3269
+      },
+      "entry_id": "f1f9c195-2c76-4fd2-b413-2a4ff9b9eb64_1",
+      "people": [
+        {
+          "age": "72",
+          "geo": "Волоколамский уезд, Яропольская волость, деревня Шилово",
+          "info": "крестьянка, вдова",
+          "name": "Агафья",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лукьянова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

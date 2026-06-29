@@ -1,0 +1,247 @@
+{
+  "year": 1914,
+  "page": 157,
+  "node_id": "c7bf2f6d-3dff-49cf-8d98-c2df35dab062",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2775,
+        "x": 818,
+        "y": 1020
+      },
+      "entry_id": "c7bf2f6d-3dff-49cf-8d98-c2df35dab062_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Заворовская волость, сельцо",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горячев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Студковская волость, деревня Ивановка",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Бирюкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горячев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горячева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2901,
+        "x": 811,
+        "y": 1661
+      },
+      "entry_id": "c7bf2f6d-3dff-49cf-8d98-c2df35dab062_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Бобылево",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рогунович"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рогунович"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Городищенское 1-е, Фроловское общество",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Секретарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рогунович"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоневская волость, деревня Великие Луки",
+          "info": "крестьянка",
+          "name": "Фекла",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Колпокова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2880,
+        "x": 799,
+        "y": 2295
+      },
+      "entry_id": "c7bf2f6d-3dff-49cf-8d98-c2df35dab062_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Покровская волость, село Троицкое",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щеглаков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Покровская волость, село Федоровка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сикунов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Щеглакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бобылева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щеглакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 643,
+        "width": 2858,
+        "x": 786,
+        "y": 2993
+      },
+      "entry_id": "c7bf2f6d-3dff-49cf-8d98-c2df35dab062_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Агриппина",
+          "second_name": "Фаддеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Озурцова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Константиновская волость, деревня Симоново",
+          "info": "мещанин",
+          "name": "Степан",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цветков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Самойлово, Тверская губерния",
+          "info": "Курчевский мещанин",
+          "name": "Георгий",
+          "second_name": "Аксенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Седяхкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Седяхкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Фаддеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Седяхкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

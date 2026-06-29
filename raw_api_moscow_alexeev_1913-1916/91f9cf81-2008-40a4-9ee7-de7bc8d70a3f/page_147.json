@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 147,
+  "node_id": "a2188349-5d48-4fda-b33a-8a08996b4191",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2740,
+        "x": 927,
+        "y": 1016
+      },
+      "entry_id": "a2188349-5d48-4fda-b33a-8a08996b4191_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Задонский уезд, Дохторская волость, село Донских Избищ",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "other_status": "муж крестной матери",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Сушкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Кондратьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бладурина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "",
+          "second_name": "Агрипина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сушкова"
+        },
+        {
+          "age": "",
+          "geo": "Черепянская волость, деревня Куликовка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бузин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Мардариев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бладурин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Черепянская волость, деревня Дубровка",
+          "info": "крестьянин",
+          "name": "Мардарий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бладурин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2728,
+        "x": 914,
+        "y": 1663
+      },
+      "entry_id": "a2188349-5d48-4fda-b33a-8a08996b4191_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Ивлево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Стремиловская волость, деревня Филипповское",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Буланова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2698,
+        "x": 923,
+        "y": 2374
+      },
+      "entry_id": "a2188349-5d48-4fda-b33a-8a08996b4191_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбатова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Чернышенская волость, деревня Горстни",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Парфенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимиева",
+          "second_name": "Анисимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Герасимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 691,
+        "width": 2731,
+        "x": 917,
+        "y": 3100
+      },
+      "entry_id": "a2188349-5d48-4fda-b33a-8a08996b4191_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Калеевская волость, деревня Пристанина",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хренова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Иконская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Назаров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Мячковская волость, деревня Каменного Тяжина",
+          "info": "по паспорту из волостного правления от 12 ноября 1916 года за №1693, крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хромова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

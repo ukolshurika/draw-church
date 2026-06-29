@@ -1,0 +1,185 @@
+{
+  "year": 1914,
+  "page": 270,
+  "node_id": "c817a696-f67f-4434-9a8e-88fbbc754648",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 283,
+        "width": 1515,
+        "x": 980,
+        "y": 860
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_4",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд",
+          "info": "мещанин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 268,
+        "width": 1516,
+        "x": 978,
+        "y": 1259
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_3",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Фоломина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Насилово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фоломин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 278,
+        "width": 1439,
+        "x": 985,
+        "y": 1668
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_2",
+      "people": [
+        {
+          "age": "36",
+          "geo": "Московская губерния, Рузский уезд, Судниковская волость, деревня Власьево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Григорьев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 340,
+        "width": 1479,
+        "x": 985,
+        "y": 2115
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_0",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Арешин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Дорищенская волость, село Залесное",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Арешин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 292,
+        "width": 1460,
+        "x": 995,
+        "y": 2612
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Симбирский мещанин",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гунин"
+        },
+        {
+          "age": "6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гунин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 198,
+        "width": 1446,
+        "x": 998,
+        "y": 3028
+      },
+      "entry_id": "c817a696-f67f-4434-9a8e-88fbbc754648_5",
+      "people": [
+        {
+          "age": "46",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Никанор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гаврилов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

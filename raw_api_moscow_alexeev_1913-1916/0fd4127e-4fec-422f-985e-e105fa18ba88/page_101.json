@@ -1,0 +1,300 @@
+{
+  "year": 1914,
+  "page": 101,
+  "node_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 419,
+        "width": 2883,
+        "x": 761,
+        "y": 879
+      },
+      "entry_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Садовская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Селищенская волость, деревня Александрова",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "second_name": "Парфениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Исмаева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 2910,
+        "x": 755,
+        "y": 1395
+      },
+      "entry_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Сергиевская волость, деревня Дудино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "other_status": "отец крестной матери",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Костюхин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Кривская волость, село Колычево",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Костюхина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Исмаево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 523,
+        "width": 2882,
+        "x": 764,
+        "y": 1862
+      },
+      "entry_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Нотошенская слобода",
+          "info": "мещанка, девица",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гощина"
+        },
+        {
+          "age": "",
+          "geo": "город Москва, Московский почтамт",
+          "info": "мещанин, почтамт Московского почтамта",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 333,
+        "width": 2871,
+        "x": 762,
+        "y": 2462
+      },
+      "entry_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Миняево",
+          "info": "крестьянка, ремесленница, сапожного цеха девица",
+          "name": "Надежда",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "того же цеха ремесленник",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 477,
+        "width": 2872,
+        "x": 763,
+        "y": 2835
+      },
+      "entry_id": "23839849-45a7-49a5-a3a7-7fcd3f06a907_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Тимашевская волость, деревня Сапегино",
+          "info": "крестьянская дочь, девица",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Епихина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость и село Дедово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Глинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Епихина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедовская волость, Стрелецкая слобода",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Епихин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

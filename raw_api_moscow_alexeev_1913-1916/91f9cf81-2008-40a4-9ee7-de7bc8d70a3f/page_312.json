@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 312,
+  "node_id": "8debfedb-97d4-4b4a-b299-3860d2e00c03",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 449,
+        "width": 1402,
+        "x": 1093,
+        "y": 1039
+      },
+      "entry_id": "8debfedb-97d4-4b4a-b299-3860d2e00c03_3",
+      "people": [
+        {
+          "age": "1 год и 10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пудов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рощинская волость, деревня Баршкарово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пудов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 1414,
+        "x": 1099,
+        "y": 1673
+      },
+      "entry_id": "8debfedb-97d4-4b4a-b299-3860d2e00c03_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Каблуковский уезд, деревня Крупшево",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Евсеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Огневая"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "внебрачная дочь",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Огневая"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 1399,
+        "x": 1116,
+        "y": 2376
+      },
+      "entry_id": "8debfedb-97d4-4b4a-b299-3860d2e00c03_1",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Страхова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Ягунинская волость, село Луцино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Страхов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 505,
+        "width": 1329,
+        "x": 1130,
+        "y": 3106
+      },
+      "entry_id": "8debfedb-97d4-4b4a-b299-3860d2e00c03_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Мамошинская волость, село Сычи",
+          "info": "из дома Флякенштейн, крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Григорьев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

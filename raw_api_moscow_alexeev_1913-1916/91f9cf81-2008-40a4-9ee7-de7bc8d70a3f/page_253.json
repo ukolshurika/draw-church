@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 253,
+  "node_id": "98d30df5-006a-4904-b0c2-f433e94e3b91",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 460,
+        "width": 1434,
+        "x": 1065,
+        "y": 1134
+      },
+      "entry_id": "98d30df5-006a-4904-b0c2-f433e94e3b91_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Костюков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Костюкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 435,
+        "width": 1463,
+        "x": 1071,
+        "y": 1770
+      },
+      "entry_id": "98d30df5-006a-4904-b0c2-f433e94e3b91_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Меленки",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Козлова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1461,
+        "x": 1069,
+        "y": 2383
+      },
+      "entry_id": "98d30df5-006a-4904-b0c2-f433e94e3b91_1",
+      "people": [
+        {
+          "age": "76 лет",
+          "geo": "Московская губерния, Клинский уезд, Селинская волость, деревня Васильева",
+          "info": "вдова крестьянина",
+          "name": "Ирина",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Рыбакова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 1393,
+        "x": 1082,
+        "y": 3075
+      },
+      "entry_id": "98d30df5-006a-4904-b0c2-f433e94e3b91_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

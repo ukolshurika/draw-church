@@ -1,0 +1,250 @@
+{
+  "year": 1916,
+  "page": 61,
+  "node_id": "b40111ac-6d54-48b0-a162-b418f42729fa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 603,
+        "width": 2817,
+        "x": 911,
+        "y": 1020
+      },
+      "entry_id": "b40111ac-6d54-48b0-a162-b418f42729fa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "в честь святителя Николая, празднуемого 4 мая",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кулакова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Доматовская волость, деревня Ардаманова",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ардаманов"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Борисовский уезд, Березинская волость, деревня Отрубно",
+          "info": "в доме Нарышкина, крестьянская девица",
+          "name": "Александра",
+          "second_name": "Людвигова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поддубная"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Столяров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2822,
+        "x": 898,
+        "y": 1718
+      },
+      "entry_id": "b40111ac-6d54-48b0-a162-b418f42729fa_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Красновская волость, село Воробьево",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Агрипин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Константинов"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, город Устюжна",
+          "info": "мещанин, девица",
+          "name": "Агрипин",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Константинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2813,
+        "x": 913,
+        "y": 2382
+      },
+      "entry_id": "b40111ac-6d54-48b0-a162-b418f42729fa_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никодимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Крупина"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, город Устюжна",
+          "info": "мещанка, девица",
+          "name": "Агрипина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Константинова"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, город Тетюши",
+          "info": "мещанин",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "Евграфов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Крупин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуговская волость, деревня Крутцы",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2830,
+        "x": 914,
+        "y": 3085
+      },
+      "entry_id": "b40111ac-6d54-48b0-a162-b418f42729fa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полыгалова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Константиново",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фадеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Звенигородский уезд, Козачинская волость, село Казацкое",
+          "info": "крестьянка, девица",
+          "name": "Марина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Подлисняя"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Александровская волость, деревня Новинок-Абрамово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Полыгалов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

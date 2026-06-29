@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 70,
+  "node_id": "7fc0590b-b92d-4845-a6c8-369e8de703e5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2742,
+        "x": 934,
+        "y": 1004
+      },
+      "entry_id": "7fc0590b-b92d-4845-a6c8-369e8de703e5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Лаптевская волость, сельцо Воловниково",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хрулева"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоград-Волынский уезд, Полонская волость, деревня Понинки",
+          "info": "в доме Малышева",
+          "name": "Анна",
+          "second_name": "Станиславова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шалай"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Корочанский уезд, Алексеевская волость, село Алексеевка",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Стрельцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2749,
+        "x": 920,
+        "y": 1751
+      },
+      "entry_id": "7fc0590b-b92d-4845-a6c8-369e8de703e5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Амвросиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Куличева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Аникин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аникина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Лекинская волость, деревня Перхурово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аникин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Волынская волость, деревня Елизаветинка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2765,
+        "x": 914,
+        "y": 2419
+      },
+      "entry_id": "7fc0590b-b92d-4845-a6c8-369e8de703e5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Глазовская волость, деревня Антонова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кириллов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Фалалеева",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Приданцев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кириллова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кириллова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 652,
+        "width": 2782,
+        "x": 913,
+        "y": 3130
+      },
+      "entry_id": "7fc0590b-b92d-4845-a6c8-369e8de703e5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Широмасовская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Милованов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермолаева"
+        },
+        {
+          "age": "",
+          "geo": "город Москва, дом Шапошникова",
+          "info": "московский ремесленник, ленточного цеха мещанин",
+          "name": "Михаил",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ермолаев"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Горбатовский уезд, Пустынская волость, село Давидово",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 136,
+  "node_id": "7b7787ee-5b20-4438-9922-4ef385d9bb5f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 436,
+        "width": 2744,
+        "x": 909,
+        "y": 1022
+      },
+      "entry_id": "7b7787ee-5b20-4438-9922-4ef385d9bb5f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Костромская губерния, город Чухлома",
+          "info": "мещанин",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Сухиничи",
+          "info": "мещанка",
+          "name": "Наталия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зерюкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Исаева"
+        },
+        {
+          "age": "",
+          "geo": "тот же город",
+          "info": "мещанин",
+          "name": "Константин",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Исаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 583,
+        "width": 2794,
+        "x": 905,
+        "y": 1614
+      },
+      "entry_id": "7b7787ee-5b20-4438-9922-4ef385d9bb5f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Новоприборная волость, Беломестная слобода",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зуева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Ивашевская волость, деревня Расхино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Арифьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прокофьев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Ивашевская волость, деревня Расхино",
+          "info": "вдова, потомственная почетная гражданка из духовного звания",
+          "name": "Пелагия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Касаткина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 616,
+        "width": 2771,
+        "x": 900,
+        "y": 2270
+      },
+      "entry_id": "7b7787ee-5b20-4438-9922-4ef385d9bb5f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Починковская волость, село",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зенин"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Коротоякский уезд, Хотовская волость, село",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Евсеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Толстов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Куравщинская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Толстов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Толстова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2745,
+        "x": 902,
+        "y": 3007
+      },
+      "entry_id": "7b7787ee-5b20-4438-9922-4ef385d9bb5f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кельнер"
+        },
+        {
+          "age": "",
+          "geo": "Волинская губерния, Дубинский уезд, Млыновская волость",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кельнер"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Большие Лужники",
+          "info": "мещанин",
+          "name": "Семен",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кельнер"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Савельева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

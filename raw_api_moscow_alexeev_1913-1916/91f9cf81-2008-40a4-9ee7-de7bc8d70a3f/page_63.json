@@ -1,0 +1,134 @@
+{
+  "year": 1916,
+  "page": 63,
+  "node_id": "dd4bb4ad-42f1-400c-9bed-574e5a21a2d2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 682,
+        "width": 2832,
+        "x": 903,
+        "y": 995
+      },
+      "entry_id": "dd4bb4ad-42f1-400c-9bed-574e5a21a2d2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "незаконнорожденная",
+          "name": "Прасковья",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславльский уезд, Хомниковская волость, деревня Пылавки",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алинова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Торжок",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Устинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Константинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 731,
+        "width": 2839,
+        "x": 895,
+        "y": 1753
+      },
+      "entry_id": "dd4bb4ad-42f1-400c-9bed-574e5a21a2d2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Ян",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Колк"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Горецкий уезд, Савская волость, деревня Ректы",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Блиндеров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, село Петровское",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Блиндерова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колк"
+        },
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Юрьевский уезд, Ново-Кустская волость",
+          "info": "крестьянин лютеранского вероисповедания",
+          "name": "Ян",
+          "second_name": "Иоганнов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колк"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 300,
+  "node_id": "c0a604fd-7d66-47c9-8081-d56c1093e583",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 224,
+        "width": 1398,
+        "x": 1117,
+        "y": 1114
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_6",
+      "people": [
+        {
+          "age": "61",
+          "geo": "Московская губерния, Хорошевская волость, деревня Мякинино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бердочников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 213,
+        "width": 1463,
+        "x": 1115,
+        "y": 1486
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_5",
+      "people": [
+        {
+          "age": "56",
+          "geo": "",
+          "info": "монахиня Алексеевского монастыря",
+          "name": "Емилия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 334,
+        "width": 1411,
+        "x": 1125,
+        "y": 1844
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Караблинская волость, деревня Исаевка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Медведков"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Медведков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 275,
+        "width": 1486,
+        "x": 1117,
+        "y": 2276
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Федорцевская волость, деревня Юрцево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карпов"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Карпова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 206,
+        "width": 1406,
+        "x": 1130,
+        "y": 2638
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Федорцевская волость, деревня Исаевка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Медведков"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Медведков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 198,
+        "width": 1458,
+        "x": 1133,
+        "y": 2936
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_4",
+      "people": [
+        {
+          "age": "66",
+          "geo": "",
+          "info": "Московская цеховая фортепианного цеха",
+          "name": "Екатерина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Горяинова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 301,
+        "width": 1476,
+        "x": 1133,
+        "y": 3275
+      },
+      "entry_id": "c0a604fd-7d66-47c9-8081-d56c1093e583_0",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Калатурина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Бедишевская волость, деревня Николаевского поселка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калатурин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

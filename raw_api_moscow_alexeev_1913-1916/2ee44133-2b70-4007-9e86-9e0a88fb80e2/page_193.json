@@ -1,0 +1,250 @@
+{
+  "year": 1915,
+  "page": 193,
+  "node_id": "ef503337-7ecf-47c4-925f-bec8ecfa3e2c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 496,
+        "width": 2693,
+        "x": 912,
+        "y": 984
+      },
+      "entry_id": "ef503337-7ecf-47c4-925f-bec8ecfa3e2c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Огаревская волость, село Огарево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Обров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмичевский уезд, деревня Хуторы",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дергачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Сережанская волость, деревня Еськово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Харлампиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дергачева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 569,
+        "width": 2719,
+        "x": 913,
+        "y": 1616
+      },
+      "entry_id": "ef503337-7ecf-47c4-925f-bec8ecfa3e2c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Субботниковская волость, деревня Малые Подъелки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Новгород-Северский уезд, Раевская волость, деревня Поповка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Выставский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, село Ясенево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Куранов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Выставская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 488,
+        "width": 2740,
+        "x": 903,
+        "y": 2368
+      },
+      "entry_id": "ef503337-7ecf-47c4-925f-bec8ecfa3e2c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Тельчинская волость, село Старое",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркина",
+          "info": "крестьянская девица",
+          "name": "Татиана",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Старых"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 631,
+        "width": 2784,
+        "x": 890,
+        "y": 2974
+      },
+      "entry_id": "ef503337-7ecf-47c4-925f-bec8ecfa3e2c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Сланимский уезд, Мошневская волость, деревня Цецеровец",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрицкий"
+        },
+        {
+          "age": "",
+          "geo": "Курляндская губерния, Тальшинский уезд, местечко Цадель",
+          "info": "крестьянская девица лютеранского вероисповедания",
+          "name": "Вера",
+          "other_status": "мать крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Виттоль"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Сергиево-Скворчинская волость, деревня Котельники",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Луканин"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Сланимский уезд, Мошневская волость, деревня Цецеровец",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудрицкая"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 262,
+  "node_id": "5c54fa63-a92b-4670-8fe7-0559ffdbfc06",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 429,
+        "width": 1458,
+        "x": 1056,
+        "y": 1136
+      },
+      "entry_id": "5c54fa63-a92b-4670-8fe7-0559ffdbfc06_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Мишино-Полянская волость, деревня Земляково",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Александров"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 628,
+        "width": 1478,
+        "x": 1052,
+        "y": 1749
+      },
+      "entry_id": "5c54fa63-a92b-4670-8fe7-0559ffdbfc06_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Казанская волость, село Спасское",
+          "info": "из крестьян запасной канонир Ново-Георгиевской крепостной артиллерии",
+          "name": "Антоний",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пашеев"
+        },
+        {
+          "age": "1 г. 4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Антониева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пашеева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1405,
+        "x": 1063,
+        "y": 2567
+      },
+      "entry_id": "5c54fa63-a92b-4670-8fe7-0559ffdbfc06_1",
+      "people": [
+        {
+          "age": "13 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Устинов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиев Посад",
+          "info": "из дома Титова мещанин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Устинов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 1450,
+        "x": 1073,
+        "y": 3170
+      },
+      "entry_id": "5c54fa63-a92b-4670-8fe7-0559ffdbfc06_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Пирочинская волость, деревня Негоможи",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Черкасов"
+        },
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Черкасова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

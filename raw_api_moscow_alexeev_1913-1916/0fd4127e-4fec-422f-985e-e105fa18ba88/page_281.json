@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 281,
+  "node_id": "094afef4-4e8a-49b1-8e54-5eeb73b9e0bb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 400,
+        "width": 1545,
+        "x": 950,
+        "y": 854
+      },
+      "entry_id": "094afef4-4e8a-49b1-8e54-5eeb73b9e0bb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Трехденево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Затравкин"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Затравкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 1530,
+        "x": 964,
+        "y": 1472
+      },
+      "entry_id": "094afef4-4e8a-49b1-8e54-5eeb73b9e0bb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова коллежского советника",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "1 год 1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Алевтина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 1520,
+        "x": 956,
+        "y": 2106
+      },
+      "entry_id": "094afef4-4e8a-49b1-8e54-5eeb73b9e0bb_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Башмакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Анишинская волость, деревня Филатова",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Башмаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1523,
+        "x": 960,
+        "y": 2749
+      },
+      "entry_id": "094afef4-4e8a-49b1-8e54-5eeb73b9e0bb_1",
+      "people": [
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лозинцева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Спасская волость, село Крица",
+          "info": "",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лозинцев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

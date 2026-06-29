@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 60,
+  "node_id": "fc2a7d70-9db6-45e7-a25d-115d6d51e9b0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 428,
+        "width": 2850,
+        "x": 742,
+        "y": 922
+      },
+      "entry_id": "fc2a7d70-9db6-45e7-a25d-115d6d51e9b0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рузский уезд, Васильевская волость, деревня Савинова",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Платонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Пречисто-Каменская волость, деревня Ховань",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Вяжевская волость, село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 438,
+        "width": 2828,
+        "x": 738,
+        "y": 1401
+      },
+      "entry_id": "fc2a7d70-9db6-45e7-a25d-115d6d51e9b0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Башмакова"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Аксининская волость, деревня Игнатьева",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Башмакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Розонова, Тульская губерния, Алишинская волость, деревня Филатова",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Башмаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 2863,
+        "x": 736,
+        "y": 1877
+      },
+      "entry_id": "fc2a7d70-9db6-45e7-a25d-115d6d51e9b0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский мещанин",
+          "info": "",
+          "name": "Егор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фоминых"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Игнатовская волость, деревня Ковшова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка, девица",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фоминых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 483,
+        "width": 2869,
+        "x": 728,
+        "y": 2369
+      },
+      "entry_id": "fc2a7d70-9db6-45e7-a25d-115d6d51e9b0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Береговская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "законная жена его",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, деревня Комина",
+          "info": "бывший почтамт Москвы почтамт Московского почтамта",
+          "name": "Никифор",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Береговский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Береговская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

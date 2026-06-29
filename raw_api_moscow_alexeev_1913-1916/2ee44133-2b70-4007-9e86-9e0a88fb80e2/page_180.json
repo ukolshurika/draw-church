@@ -1,0 +1,205 @@
+{
+  "year": 1915,
+  "page": 180,
+  "node_id": "fb9f56eb-d750-4afe-a8a5-b6a556405cfa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 860,
+        "width": 2775,
+        "x": 939,
+        "y": 1119
+      },
+      "entry_id": "fb9f56eb-d750-4afe-a8a5-b6a556405cfa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Мокровская волость, деревня Замошина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня Никулина",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Наринская волость, деревня Понькина",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болотина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фомина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 740,
+        "width": 2816,
+        "x": 934,
+        "y": 1979
+      },
+      "entry_id": "fb9f56eb-d750-4afe-a8a5-b6a556405cfa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Трушин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Шофская волость, село Шофск",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Лужковская волость, село Нюховец",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трушин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, завод Гусь-Баташева",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ястребцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трушина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1169,
+        "width": 2866,
+        "x": 931,
+        "y": 2691
+      },
+      "entry_id": "fb9f56eb-d750-4afe-a8a5-b6a556405cfa_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Богачев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Авдуевская волость, деревня Михеева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Аркадиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Богачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богачева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Абдуловская волость, деревня Хомякова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малашкин"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Семеновская слобода",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михельсон"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

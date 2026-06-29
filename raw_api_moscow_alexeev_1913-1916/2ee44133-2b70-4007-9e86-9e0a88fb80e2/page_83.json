@@ -1,0 +1,310 @@
+{
+  "year": 1915,
+  "page": 83,
+  "node_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2860,
+        "x": 881,
+        "y": 1060
+      },
+      "entry_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь",
+          "name": "Дария",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троскуровская волость, Нижне-Бруслановская деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пашинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 444,
+        "width": 2880,
+        "x": 886,
+        "y": 1708
+      },
+      "entry_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ситников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ситникова"
+        },
+        {
+          "age": "",
+          "geo": "село Аршиновка",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Разтягаева"
+        },
+        {
+          "age": "",
+          "geo": "то же село Ива",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Нижнеломовский уезд, Артиновская волость, село Ива",
+          "info": "почтальон Московского почтамта",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ситников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 307,
+        "width": 2873,
+        "x": 891,
+        "y": 2299
+      },
+      "entry_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крымова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ковганкин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Каминского уезда, Брылинская волость, деревня Крюково",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 420,
+        "width": 2842,
+        "x": 884,
+        "y": 2788
+      },
+      "entry_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Юреневская волость, деревня Алексеевская",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Поруска",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Алексеевская",
+          "info": "девица",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 2865,
+        "x": 888,
+        "y": 3289
+      },
+      "entry_id": "c0797cf5-4c2d-466e-992c-7b9c9433ccbf_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смелова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смелова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Васильевская волость, село Каменка",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кононов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Меленковский уезд, Грачевская волость, село Грачево",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воеводина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыженская волость, село Степановское",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смелов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

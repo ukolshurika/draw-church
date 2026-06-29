@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 325,
+  "node_id": "ffa573c0-c7f6-45d8-991a-85700851c661",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 438,
+        "width": 1483,
+        "x": 995,
+        "y": 1022
+      },
+      "entry_id": "ffa573c0-c7f6-45d8-991a-85700851c661_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Перестреженская волость, село Воиново",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матюхин"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Матюхин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 376,
+        "width": 1497,
+        "x": 992,
+        "y": 1640
+      },
+      "entry_id": "ffa573c0-c7f6-45d8-991a-85700851c661_2",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тихомиров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Волоколамск",
+          "info": "мещанин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тихомиров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 408,
+        "width": 1487,
+        "x": 999,
+        "y": 2180
+      },
+      "entry_id": "ffa573c0-c7f6-45d8-991a-85700851c661_0",
+      "people": [
+        {
+          "age": "54",
+          "geo": "Сухумский округ, Гузоутский участок, селение Мохны",
+          "info": "жена жителя, из санатория Игнатьева",
+          "name": "Елена",
+          "second_name": "Флорентиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Киртбайя"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 372,
+        "width": 1411,
+        "x": 1005,
+        "y": 2759
+      },
+      "entry_id": "ffa573c0-c7f6-45d8-991a-85700851c661_1",
+      "people": [
+        {
+          "age": "60 лет",
+          "geo": "Смоленская губерния, Сычевский уезд, Мольвинская волость, деревня Высоково",
+          "info": "крестьянин",
+          "name": "Дометий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

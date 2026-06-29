@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 70,
+  "node_id": "f0a150c2-7de1-4ec9-a2c5-913e008c38da",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2790,
+        "x": 901,
+        "y": 1084
+      },
+      "entry_id": "f0a150c2-7de1-4ec9-a2c5-913e008c38da_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Мещеринская волость, деревня Боброва",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пугачева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Докудовская волость, деревня Павлова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поварков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Поваркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поваркова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Ястребанская волость, деревня Тольская",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Конов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 2811,
+        "x": 903,
+        "y": 1823
+      },
+      "entry_id": "f0a150c2-7de1-4ec9-a2c5-913e008c38da_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бакина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Соколовская волость, деревня Маленькое-Петровское",
+          "info": "вдова",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чистякова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Стрельцовская волость, село Сторожево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бакин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бакина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "священник",
+          "name": "Иванов",
+          "second_name": "Антонцев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 552,
+        "width": 2822,
+        "x": 896,
+        "y": 2535
+      },
+      "entry_id": "f0a150c2-7de1-4ec9-a2c5-913e008c38da_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Троицко-Лесновский уезд, деревня Незжаново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макушина"
+        },
+        {
+          "age": "",
+          "geo": "село Филатово",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макушина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Макушин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2861,
+        "x": 886,
+        "y": 3192
+      },
+      "entry_id": "f0a150c2-7de1-4ec9-a2c5-913e008c38da_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Троицкая волость, деревня Подчерняго",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Валясов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хлопьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд",
+          "info": "мещанин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Хлопьев"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Подкуревская волость, деревня Скугаревка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

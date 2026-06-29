@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 110,
+  "node_id": "7345c45c-a192-4c17-957a-bef6b1ba1c04",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2822,
+        "x": 930,
+        "y": 1088
+      },
+      "entry_id": "7345c45c-a192-4c17-957a-bef6b1ba1c04_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Еремьевский уезд, Еремьевская волость, деревня Ершово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "почтово-телеграфный чиновник",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Веснин"
+        },
+        {
+          "age": "",
+          "geo": "Петроградская губерния, город Шлиссельбург",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Веснина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2849,
+        "x": 925,
+        "y": 1903
+      },
+      "entry_id": "7345c45c-a192-4c17-957a-bef6b1ba1c04_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода Красносельская",
+          "info": "девица",
+          "name": "Алевтина",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Байкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода Панкратьевская",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бакун"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Подольск",
+          "info": "мещанин",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ильин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 718,
+        "width": 2869,
+        "x": 925,
+        "y": 2727
+      },
+      "entry_id": "7345c45c-a192-4c17-957a-bef6b1ba1c04_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Ерахтурская волость, село Ерахтурово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, вдова",
+          "name": "Ксения",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Карташева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

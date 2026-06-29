@@ -1,0 +1,218 @@
+{
+  "year": 1915,
+  "page": 20,
+  "node_id": "c0549536-e934-48da-a99c-93f9973d09c0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 618,
+        "width": 2827,
+        "x": 886,
+        "y": 1063
+      },
+      "entry_id": "c0549536-e934-48da-a99c-93f9973d09c0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лушникова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Романова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Будылин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Аладьинская волость, деревня Романова",
+          "info": "вдова",
+          "name": "Параскева",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Будылина"
+        },
+        {
+          "age": "",
+          "geo": "Херсонская губерния",
+          "info": "мещанин",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лушников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Параскевин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Будылин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2835,
+        "x": 883,
+        "y": 1775
+      },
+      "entry_id": "c0549536-e934-48da-a99c-93f9973d09c0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Подсолнечное волость, село",
+          "info": "крестьянская дочь",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фомина"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевское уединение, Красновская волость, деревня Воробьево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2871,
+        "x": 868,
+        "y": 2481
+      },
+      "entry_id": "c0549536-e934-48da-a99c-93f9973d09c0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Замостская волость, деревня Сырцово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яковлева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 818,
+        "width": 2886,
+        "x": 868,
+        "y": 3060
+      },
+      "entry_id": "c0549536-e934-48da-a99c-93f9973d09c0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Дьяконовская волость, деревня Пряхино",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Невзюдина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Нарышкинская волость, деревня Горюшек",
+          "info": "крестьянка, вдова",
+          "name": "Феодора",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семина"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Руковский стан, Антоновская волость, деревня Антоново",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

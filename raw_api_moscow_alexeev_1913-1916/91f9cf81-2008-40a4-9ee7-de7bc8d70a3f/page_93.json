@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 93,
+  "node_id": "427388cc-cb2e-42d0-beff-976fc44e372f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 568,
+        "width": 2762,
+        "x": 910,
+        "y": 1012
+      },
+      "entry_id": "427388cc-cb2e-42d0-beff-976fc44e372f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Юреневская волость, деревня Алексеевская",
+          "info": "крестьянка, девица",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Петровская волость, деревня Троицкая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Потапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Еленин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Курляндская губерния, Тальсинский уезд, Зенкинская волость",
+          "info": "вдова крестьянина",
+          "name": "Мария",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аболина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2732,
+        "x": 911,
+        "y": 1610
+      },
+      "entry_id": "427388cc-cb2e-42d0-beff-976fc44e372f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Оскарова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Случаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Случаева"
+        },
+        {
+          "age": "",
+          "geo": "Напрудная слобода",
+          "info": "московский мещанин",
+          "name": "Оскар-Роберт",
+          "second_name": "Венгеман",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2767,
+        "x": 899,
+        "y": 2297
+      },
+      "entry_id": "427388cc-cb2e-42d0-beff-976fc44e372f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Спас-Журовская волость, деревня Комова",
+          "info": "крестьянка, девица",
+          "name": "Агафия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жаворонкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисья",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спас-Журовская волость, село Назарьево",
+          "info": "крестьянин",
+          "name": "Иаков",
+          "second_name": "Исидоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "Спас-Журовская волость, деревня Комова",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жаворонков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иаковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сорокин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2789,
+        "x": 896,
+        "y": 3049
+      },
+      "entry_id": "427388cc-cb2e-42d0-beff-976fc44e372f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мещеринова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "надворный советник",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Феодорович",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стефановский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "поручик 10-го Гренадерского Малороссийского полка, потомственный дворянин",
+          "name": "Алексей",
+          "second_name": "Андреевич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "товарищ прокурора Нижегородского окружного суда, коллежский советник",
+          "name": "Александр",
+          "second_name": "Александрович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мещеринов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Феодоровна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Стефановская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мещеринова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

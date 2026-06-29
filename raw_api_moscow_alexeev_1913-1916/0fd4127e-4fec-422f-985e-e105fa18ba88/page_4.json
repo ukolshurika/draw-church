@@ -1,0 +1,300 @@
+{
+  "year": 1914,
+  "page": 4,
+  "node_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 534,
+        "width": 3130,
+        "x": 697,
+        "y": 881
+      },
+      "entry_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сухова"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Слободской уезд, Климковская волость, Климковский завод",
+          "info": "крестьянин",
+          "name": "Венедикт",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сухов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Вотчинская волость, деревня Александровка",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бурлакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Венедиктовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сухова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Баскановская волость, деревня Заболотье",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 3138,
+        "x": 678,
+        "y": 1469
+      },
+      "entry_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Мечкинская волость",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новоселов"
+        },
+        {
+          "age": "",
+          "geo": "село Старая Ситня",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Белопесочская волость, село Старая Ситня",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 3162,
+        "x": 663,
+        "y": 2013
+      },
+      "entry_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иулитка",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Коноплинская волость, село Волынщино",
+          "info": "",
+          "name": "Яков",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гришин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Коноплинская волость, деревня Прибытки",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абрамова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, деревня Бонаково",
+          "info": "",
+          "name": "Кирилл",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 402,
+        "width": 3204,
+        "x": 653,
+        "y": 2510
+      },
+      "entry_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Улитка",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грачева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Орешковская волость, деревня Богаево",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Лукианов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лукьянов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Орешковская волость, деревня Орешково",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гушкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Никольская волость, деревня Бочаково",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грачева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 396,
+        "width": 3194,
+        "x": 666,
+        "y": 2821
+      },
+      "entry_id": "63eafc67-e48e-4cc1-a5d5-200730b6d188_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Воздвиженский",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дмитраков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Беловская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "помощник Московского окружного суда",
+          "name": "Николай",
+          "second_name": "Петрович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Беловский"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Никольская волость, деревня Дуровино",
+          "info": "крестьянка",
+          "name": "Евлампия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Беловская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

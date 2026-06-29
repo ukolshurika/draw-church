@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 78,
+  "node_id": "a458a0d2-60a6-42e1-8084-a0c2054c9bc0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 587,
+        "width": 2718,
+        "x": 954,
+        "y": 1062
+      },
+      "entry_id": "a458a0d2-60a6-42e1-8084-a0c2054c9bc0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ивашкин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Больше-Екатериновская волость, деревня Федоровка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ивашкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Сергиевская волость, село Крапивно",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ларин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Зосимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ивашкина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Лужинская волость, село Воскресенское",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузьмин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2728,
+        "x": 950,
+        "y": 1727
+      },
+      "entry_id": "a458a0d2-60a6-42e1-8084-a0c2054c9bc0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Куробинская волость, деревня Ламанова",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Нестерова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "Тверской уезд, Никулинский дол, село Ямской слободы",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Богатов"
+        },
+        {
+          "age": "",
+          "geo": "Каширский уезд, Спасо-Жировлевская волость",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Захарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2713,
+        "x": 971,
+        "y": 2418
+      },
+      "entry_id": "a458a0d2-60a6-42e1-8084-a0c2054c9bc0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Луговская волость, деревня Коротёевка",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Щепелев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Щепелев"
+        },
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Куркинская волость, село Коротёвка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Надрёзов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Наумова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Щепелева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Коротёвка",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щепелева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 2740,
+        "x": 958,
+        "y": 3159
+      },
+      "entry_id": "a458a0d2-60a6-42e1-8084-a0c2054c9bc0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Далматовская волость, село Ромазаново",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кулакова"
+        },
+        {
+          "age": "",
+          "geo": "Запольская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крылов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Долматовская волость, село Ромазаново",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кулаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кулаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

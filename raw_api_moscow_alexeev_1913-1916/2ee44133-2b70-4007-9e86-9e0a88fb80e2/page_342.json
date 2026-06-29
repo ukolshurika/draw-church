@@ -1,0 +1,152 @@
+{
+  "year": 1915,
+  "page": 342,
+  "node_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1486,
+        "x": 1087,
+        "y": 1108
+      },
+      "entry_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Кожинская волость, деревня Сапунова",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Серов"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Серова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 361,
+        "width": 1485,
+        "x": 1088,
+        "y": 1676
+      },
+      "entry_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48_2",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Московская губерния, Царицынский уезд, Царицынская волость, деревня Шепилово",
+          "info": "вдова крестьянина",
+          "name": "Дария",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Рыжкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 270,
+        "width": 1417,
+        "x": 1087,
+        "y": 2162
+      },
+      "entry_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48_3",
+      "people": [
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "ремесленник города Москвы, сапожного цеха Андрея Андреева сын",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 1437,
+        "x": 1086,
+        "y": 2585
+      },
+      "entry_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Никольско-Мало-Ломовская волость, село Грибоводово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сидоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 1456,
+        "x": 1087,
+        "y": 3170
+      },
+      "entry_id": "91bf7568-3306-4b5f-8a2e-74e00e92cb48_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Воронин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Малое Пирово",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

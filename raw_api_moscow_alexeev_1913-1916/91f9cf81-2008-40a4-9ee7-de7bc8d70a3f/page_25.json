@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 25,
+  "node_id": "553617d5-bb12-4a1b-bb1a-6160a2df41a7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2692,
+        "x": 962,
+        "y": 1003
+      },
+      "entry_id": "553617d5-bb12-4a1b-bb1a-6160a2df41a7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ажанова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аржанова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Лопатковская волость, деревня Верхние Мормажи",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавмин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздинский уезд, Вертская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ажанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ажанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 467,
+        "width": 2699,
+        "x": 969,
+        "y": 1705
+      },
+      "entry_id": "553617d5-bb12-4a1b-bb1a-6160a2df41a7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козляков"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния",
+          "info": "потомственный дворянин",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тернопольский"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Колязинский уезд, Расловская волость, деревня Горки",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козляков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 522,
+        "width": 2685,
+        "x": 977,
+        "y": 2331
+      },
+      "entry_id": "553617d5-bb12-4a1b-bb1a-6160a2df41a7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Змиевская волость, деревня Данилово",
+          "info": "девица",
+          "name": "Евдокия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Данилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гребешков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гребешкова"
+        },
+        {
+          "age": "",
+          "geo": "Змиевская волость, деревня Данилово",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Змиевская волость, село Потапово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гребешков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 612,
+        "width": 2689,
+        "x": 993,
+        "y": 3022
+      },
+      "entry_id": "553617d5-bb12-4a1b-bb1a-6160a2df41a7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Афонина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Афонина"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Чернобаевская волость, деревня Михалково",
+          "info": "крестьянка",
+          "name": "Лидия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полякова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Запольская волость, деревня Душкино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рогачев"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Суйская волость, село Овсяниково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Афонин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

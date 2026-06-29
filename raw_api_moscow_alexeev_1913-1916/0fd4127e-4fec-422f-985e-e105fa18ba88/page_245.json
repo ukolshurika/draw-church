@@ -1,0 +1,185 @@
+{
+  "year": 1914,
+  "page": 245,
+  "node_id": "caaa1130-7e0d-4b01-b143-75e048a392f4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1440,
+        "x": 959,
+        "y": 777
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_3",
+      "people": [
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Задворнов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Добрятинская волость, деревня Холопово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Задворнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 261,
+        "width": 1409,
+        "x": 965,
+        "y": 1227
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_5",
+      "people": [
+        {
+          "age": "12",
+          "geo": "Верейский уезд, Шелковская волость, деревня Накани",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Потылев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 326,
+        "width": 1492,
+        "x": 956,
+        "y": 1590
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_2",
+      "people": [
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Порфириева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Липчева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Назинская волость, деревня Хрущевка",
+          "info": "крестьянин",
+          "name": "Порфирий",
+          "other_status": "отец умершего",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Липчев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1477,
+        "x": 966,
+        "y": 2031
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_1",
+      "people": [
+        {
+          "age": "17 дней",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Старкова"
+        },
+        {
+          "age": "",
+          "geo": "Оренбургская губерния, Илекский уезд, приписан к Павловской волости",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Старков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 419,
+        "width": 1420,
+        "x": 975,
+        "y": 2468
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_0",
+      "people": [
+        {
+          "age": "31",
+          "geo": "",
+          "info": "не имеющий чина почтово-телеграфный чиновник 5 разряда Управления Московских городских телеграфов",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сувар"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 297,
+        "width": 1425,
+        "x": 984,
+        "y": 3025
+      },
+      "entry_id": "caaa1130-7e0d-4b01-b143-75e048a392f4_4",
+      "people": [
+        {
+          "age": "1 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, сельцо Срезнево",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "other_status": "отец умершего",
+          "second_name": "Несторов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Самохин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

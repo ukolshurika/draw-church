@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 46,
+  "node_id": "b1d9c97b-523e-4250-8b89-ca6ce60010c5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 444,
+        "width": 2833,
+        "x": 913,
+        "y": 1039
+      },
+      "entry_id": "b1d9c97b-523e-4250-8b89-ca6ce60010c5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, село Костино",
+          "info": "крестьянин",
+          "name": "Никанор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Киселева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Киселева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Киселев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Киселева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2870,
+        "x": 897,
+        "y": 1614
+      },
+      "entry_id": "b1d9c97b-523e-4250-8b89-ca6ce60010c5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Троицкая волость, село Троицкое",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кутанов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Феодосия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Конисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Давыдовская волость, деревня Демина",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Власов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2855,
+        "x": 896,
+        "y": 2273
+      },
+      "entry_id": "b1d9c97b-523e-4250-8b89-ca6ce60010c5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марія",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Давыдовская волость, деревня Демина",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Шипова",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Большого Высокого",
+          "info": "крестьянин",
+          "name": "Харитон",
+          "second_name": "Авдеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алешин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 664,
+        "width": 2851,
+        "x": 893,
+        "y": 2988
+      },
+      "entry_id": "b1d9c97b-523e-4250-8b89-ca6ce60010c5_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Больше-Григоровская волость, деревня Теренина",
+          "info": "крестьянин",
+          "name": "Иаков",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зубков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зубкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иаковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зубков"
+        },
+        {
+          "age": "",
+          "geo": "Больше-Григоровская волость, деревня Горицы",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Опрятнов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Порцевская волость, деревня Кулигино",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яковлева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

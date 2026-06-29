@@ -1,0 +1,257 @@
+{
+  "year": 1914,
+  "page": 137,
+  "node_id": "91464686-9aa4-49db-8293-b9820a3c8b56",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 609,
+        "width": 2899,
+        "x": 763,
+        "y": 917
+      },
+      "entry_id": "91464686-9aa4-49db-8293-b9820a3c8b56_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Колчеманова",
+          "info": "московский мещанин, огородной слободы",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Колесниковская волость, деревня Часлова",
+          "info": "крестьянская дочь",
+          "name": "Елена",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Никитина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2900,
+        "x": 739,
+        "y": 1629
+      },
+      "entry_id": "91464686-9aa4-49db-8293-b9820a3c8b56_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кинков"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чудакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Корнильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кинкова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ступина, Белопесоцкая волость, Серпуховский уезд",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кинков"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Чухломской уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тарамыкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 2946,
+        "x": 739,
+        "y": 2239
+      },
+      "entry_id": "91464686-9aa4-49db-8293-b9820a3c8b56_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Башкардова",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пудова"
+        },
+        {
+          "age": "",
+          "geo": "Боровский уезд, Рощинская волость, деревня Башкардова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пудов"
+        },
+        {
+          "age": "",
+          "geo": "Боровский уезд, Красносельская волость, деревня Лучни",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Евстафиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пудова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Пудов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2882,
+        "x": 737,
+        "y": 2937
+      },
+      "entry_id": "91464686-9aa4-49db-8293-b9820a3c8b56_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фитисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Крутая",
+          "info": "крапивенский у., Царевская волость, Тульская губерния",
+          "name": "Фома",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Фомов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Липово",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Серегин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

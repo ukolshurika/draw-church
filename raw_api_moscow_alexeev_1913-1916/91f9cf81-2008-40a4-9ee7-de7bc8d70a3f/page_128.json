@@ -1,0 +1,269 @@
+{
+  "year": 1916,
+  "page": 128,
+  "node_id": "c5e0ce99-2bb6-4df8-9d04-c772645d4f39",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 541,
+        "width": 2765,
+        "x": 894,
+        "y": 1030
+      },
+      "entry_id": "c5e0ce99-2bb6-4df8-9d04-c772645d4f39_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Малое Пирово",
+          "info": "крестьянка, девица",
+          "name": "Елена",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воронина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Малое Пирово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воронин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2780,
+        "x": 888,
+        "y": 1720
+      },
+      "entry_id": "c5e0ce99-2bb6-4df8-9d04-c772645d4f39_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Филатово",
+          "info": "запасный унтер-офицер 31 Сибирского полка, крестьянин",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федотеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макушина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макушина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макушин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 687,
+        "width": 2774,
+        "x": 886,
+        "y": 2440
+      },
+      "entry_id": "c5e0ce99-2bb6-4df8-9d04-c772645d4f39_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Кощинский уезд, Поръчеевская волость",
+          "info": "безземельный крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиев Посад",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лейхер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ермакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Поръчеевский уезд, Свистовическая волость, село Нескучно",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Цветков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 774,
+        "width": 2799,
+        "x": 884,
+        "y": 3257
+      },
+      "entry_id": "c5e0ce99-2bb6-4df8-9d04-c772645d4f39_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Литуновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Литуновский"
+        },
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Ломовская волость, село",
+          "info": "запасный младший унтер-офицер 32 Кременчугского полка, из крестьян Рязанской губернии",
+          "name": "Гавриил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Литуновский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сафонова"
+        },
+        {
+          "age": "",
+          "geo": "Оршанский уезд, Старо-Толочинская волость, деревня Плешивец",
+          "info": "запасный старший фейерверкер Кронштадской крепостной артиллерии, из крестьян Могилевской губернии",
+          "name": "Трифон",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пригода"
+        },
+        {
+          "age": "",
+          "geo": "Трубчевский уезд, Копанская волость, деревня Нижняя Слобода",
+          "info": "крестьянин",
+          "name": "Иона",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сафонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

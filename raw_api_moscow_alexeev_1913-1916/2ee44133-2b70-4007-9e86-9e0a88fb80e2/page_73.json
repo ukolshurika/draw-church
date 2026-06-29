@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 73,
+  "node_id": "199f6022-0a0c-4677-a199-b8a361da730a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 705,
+        "width": 2773,
+        "x": 907,
+        "y": 1088
+      },
+      "entry_id": "199f6022-0a0c-4677-a199-b8a361da730a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Пирочинская волость, село Городец",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "Пермская губерния, Оханский уезд, Частинская волость, деревня Западная",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Макаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кустов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Мураевская волость, село Городец",
+          "info": "крестьянская дочь",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дроздова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кустов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кустова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 606,
+        "width": 2785,
+        "x": 901,
+        "y": 1816
+      },
+      "entry_id": "199f6022-0a0c-4677-a199-b8a361da730a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Добрая",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кунаков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Непецынская волость, село Настасьино",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Смоленская губерния, Вяземская дворянка, девица",
+          "name": "Анастасия",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ивиленова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 702,
+        "width": 2815,
+        "x": 904,
+        "y": 2444
+      },
+      "entry_id": "199f6022-0a0c-4677-a199-b8a361da730a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Сердобский уезд, Сапожковская волость, деревня Рямзы",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Виноградова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Аркадий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Константинов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Корытовская волость, деревня Баранова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Виноградов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 799,
+        "width": 2810,
+        "x": 905,
+        "y": 3221
+      },
+      "entry_id": "199f6022-0a0c-4677-a199-b8a361da730a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Молочский уезд, Покровско-Ситская волость, деревня Панкратово",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Циркулев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Севский уезд, Апраксинская волость, село Горасово",
+          "info": "крестьянка, девица",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Барыкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Вячеславов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Саватьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Саватьева"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Валдайский уезд",
+          "info": "мещанин",
+          "name": "Вячеслав",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Саватьев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

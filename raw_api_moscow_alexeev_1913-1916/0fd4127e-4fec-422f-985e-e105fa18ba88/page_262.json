@@ -1,0 +1,152 @@
+{
+  "year": 1914,
+  "page": 262,
+  "node_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1472,
+        "x": 925,
+        "y": 757
+      },
+      "entry_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60_4",
+      "people": [
+        {
+          "age": "57",
+          "geo": "Косимовский уезд, Колесниковская волость, село Романово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 379,
+        "width": 1617,
+        "x": 922,
+        "y": 1192
+      },
+      "entry_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Ижеславская волость, деревня Натски",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Веселев"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Веселева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 357,
+        "width": 1478,
+        "x": 924,
+        "y": 1694
+      },
+      "entry_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Рогичевская волость, село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стасков"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Стасков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 358,
+        "width": 1462,
+        "x": 912,
+        "y": 2123
+      },
+      "entry_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60_1",
+      "people": [
+        {
+          "age": "68 лет",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Сергей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Эрин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 1479,
+        "x": 904,
+        "y": 2638
+      },
+      "entry_id": "a1b56f05-ed51-41fa-9538-423ebfc37a60_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Малоярославецкий уезд, Овчининская волость, деревня Крапьево",
+          "info": "крестьянин",
+          "name": "Евдоким",
+          "other_status": "отец умершего",
+          "second_name": "Дометиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гранков"
+        },
+        {
+          "age": "мц",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гранков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

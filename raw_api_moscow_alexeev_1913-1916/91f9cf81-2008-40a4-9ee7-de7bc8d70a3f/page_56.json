@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 56,
+  "node_id": "381327d0-c316-4001-878b-910c08d62ae6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 564,
+        "width": 2717,
+        "x": 907,
+        "y": 1001
+      },
+      "entry_id": "381327d0-c316-4001-878b-910c08d62ae6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рогачевская волость, Дмитровский уезд, деревня Кочаргино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Докин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Стрелинская волость, деревня Козино",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Митичкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "мещанин кондитерского цеха",
+          "name": "Константин",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 547,
+        "width": 2727,
+        "x": 907,
+        "y": 1715
+      },
+      "entry_id": "381327d0-c316-4001-878b-910c08d62ae6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Печки",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Розанова"
+        },
+        {
+          "age": "",
+          "geo": "село Пиковые Рясы",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свиридов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиковые Рясы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Полянский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полянская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 611,
+        "width": 2742,
+        "x": 922,
+        "y": 2431
+      },
+      "entry_id": "381327d0-c316-4001-878b-910c08d62ae6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Пелагиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Булыгинская волость, сельцо Покровское",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горшкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Высоково",
+          "info": "крестьянка, девица",
+          "name": "Пелагия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Хрущевская волость, село Спѣшнево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 510,
+        "width": 2703,
+        "x": 925,
+        "y": 3121
+      },
+      "entry_id": "381327d0-c316-4001-878b-910c08d62ae6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фадеева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Палагин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Липенская волость, деревня Новая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "та же Липенская волость, деревня Напутная",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фадеев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

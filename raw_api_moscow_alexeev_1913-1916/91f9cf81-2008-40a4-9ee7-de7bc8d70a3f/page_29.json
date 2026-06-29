@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 29,
+  "node_id": "cc49d267-3afb-4faf-876a-27967ceee8e7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 558,
+        "width": 2846,
+        "x": 867,
+        "y": 1021
+      },
+      "entry_id": "cc49d267-3afb-4faf-876a-27967ceee8e7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Змеева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иулиан",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Змеев"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Боголюбская волость, село Старая Александровка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Змеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Змеева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Артемовская волость, деревня Малая Прокопова",
+          "info": "крестьянка, вдова",
+          "name": "Матрона",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 615,
+        "width": 2888,
+        "x": 866,
+        "y": 1696
+      },
+      "entry_id": "cc49d267-3afb-4faf-876a-27967ceee8e7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Корытовская волость, деревня Власова",
+          "info": "крестьянка, девица",
+          "name": "Серафима",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, сельцо Никулино",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Мокровская волость, деревня Замошицы",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 492,
+        "width": 2809,
+        "x": 874,
+        "y": 2422
+      },
+      "entry_id": "cc49d267-3afb-4faf-876a-27967ceee8e7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Зубцов",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дунаевский"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, город Жиздра",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лопатин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Агрипина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лопатина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дунаевская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дунаевская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 476,
+        "width": 2788,
+        "x": 885,
+        "y": 3102
+      },
+      "entry_id": "cc49d267-3afb-4faf-876a-27967ceee8e7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Ильинская волость, село Бортниково",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "other_status": "муж крестной матери",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Авдеев"
+        },
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник портновского цеха",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Разуваев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Авдеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Разуваева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Разуваева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

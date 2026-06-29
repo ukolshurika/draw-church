@@ -1,0 +1,217 @@
+{
+  "year": 1915,
+  "page": 151,
+  "node_id": "d5d8dbf5-d6ef-4bd1-b9be-4f491f7b0195",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 751,
+        "width": 2812,
+        "x": 906,
+        "y": 1068
+      },
+      "entry_id": "d5d8dbf5-d6ef-4bd1-b9be-4f491f7b0195_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Суровская волость, деревня Горенки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Подкопаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Подкопаев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Непейцино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Агапиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Каверинская волость, село Спасское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Евлампиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Подкопаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 706,
+        "width": 2788,
+        "x": 904,
+        "y": 1900
+      },
+      "entry_id": "d5d8dbf5-d6ef-4bd1-b9be-4f491f7b0195_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бормичевская волость, село Желчино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдков"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Рогачевский уезд, Калымякинская волость, село Новоселки",
+          "info": "вдова крестьянина",
+          "name": "Мария",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 710,
+        "width": 2776,
+        "x": 903,
+        "y": 2754
+      },
+      "entry_id": "d5d8dbf5-d6ef-4bd1-b9be-4f491f7b0195_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бутусов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, село Бредихино",
+          "info": "крестьянин",
+          "name": "Антонин",
+          "other_status": "отец крестной матери",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинской уезд, Борщевская волость, деревня Слобода",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лазарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лазарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лазарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Антонина",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Никитина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

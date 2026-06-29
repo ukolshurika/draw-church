@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 60,
+  "node_id": "7541d4ee-1795-46f7-9b7f-2fec180ffdf6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 727,
+        "width": 2784,
+        "x": 930,
+        "y": 1118
+      },
+      "entry_id": "7541d4ee-1795-46f7-9b7f-2fec180ffdf6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Песочки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Сольвычегодский уезд, Алексеевская волость, деревня Степановская",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ширяев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ширяева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Козмодемьянская волость, деревня Черных Озер",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "21 мая",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ширяева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 699,
+        "width": 2817,
+        "x": 917,
+        "y": 1906
+      },
+      "entry_id": "7541d4ee-1795-46f7-9b7f-2fec180ffdf6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Анна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Токарева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Хамьяново",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Устинова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Бабичевская волость, деревня Якушево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Аристархов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Блинов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Токарева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 539,
+        "width": 2824,
+        "x": 913,
+        "y": 2587
+      },
+      "entry_id": "7541d4ee-1795-46f7-9b7f-2fec180ffdf6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марія",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиковых Ряс",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Полянскій"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская дочь, девица",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свиридов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 549,
+        "width": 2843,
+        "x": 883,
+        "y": 3294
+      },
+      "entry_id": "7541d4ee-1795-46f7-9b7f-2fec180ffdf6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вердасова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиковых Ряс",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Полянский"
+        },
+        {
+          "age": "",
+          "geo": "деревня Федорова",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Игнатьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Поддѣвулина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Полянский"
+        },
+        {
+          "age": "",
+          "geo": "деревня Семянцево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец крестной матери",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Маринков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Федорова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вердасов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

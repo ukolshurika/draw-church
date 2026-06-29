@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 307,
+  "node_id": "79e859ec-c03a-4f68-8b7d-1ce7a137f8cf",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 505,
+        "width": 1520,
+        "x": 1002,
+        "y": 1000
+      },
+      "entry_id": "79e859ec-c03a-4f68-8b7d-1ce7a137f8cf_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Минская губерния, Острошицкий уезд, Городецкая волость, деревня Рудня",
+          "info": "из дома Пашковой крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ботяновский"
+        },
+        {
+          "age": "1 месяц 8 дней",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ботяновская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 531,
+        "width": 1504,
+        "x": 1001,
+        "y": 1677
+      },
+      "entry_id": "79e859ec-c03a-4f68-8b7d-1ce7a137f8cf_1",
+      "people": [
+        {
+          "age": "6 1/2 месяцев",
+          "geo": "",
+          "info": "внебрачный сын",
+          "name": "Константин",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, город Подольск",
+          "info": "вдова, мещанка",
+          "name": "Надежда",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 1417,
+        "x": 1007,
+        "y": 2398
+      },
+      "entry_id": "79e859ec-c03a-4f68-8b7d-1ce7a137f8cf_3",
+      "people": [
+        {
+          "age": "20 лет",
+          "geo": "город Москва",
+          "info": "из мещан, рядовой 165-го Луцкого полка",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 597,
+        "width": 1537,
+        "x": 1007,
+        "y": 3038
+      },
+      "entry_id": "79e859ec-c03a-4f68-8b7d-1ce7a137f8cf_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Нижнедевицкий уезд, Пригородненская волость, слобода Гусевка",
+          "info": "крестьянка, девица",
+          "name": "Пелагия",
+          "other_status": "мать умершего",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гусева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

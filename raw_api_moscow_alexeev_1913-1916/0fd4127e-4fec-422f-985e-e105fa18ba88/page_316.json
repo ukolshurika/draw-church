@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 316,
+  "node_id": "b08845d9-a4b7-4275-8625-9f4bedd80218",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 389,
+        "width": 1424,
+        "x": 960,
+        "y": 844
+      },
+      "entry_id": "b08845d9-a4b7-4275-8625-9f4bedd80218_3",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Глеб",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Самарин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Добрынское",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Самарин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 408,
+        "width": 1479,
+        "x": 957,
+        "y": 1378
+      },
+      "entry_id": "b08845d9-a4b7-4275-8625-9f4bedd80218_1",
+      "people": [
+        {
+          "age": "74",
+          "geo": "Смоленская губерния, Вяземский уезд, Холмовская волость, деревня Григорьевская",
+          "info": "крестьянка, вдова",
+          "name": "Фекла",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 437,
+        "width": 1432,
+        "x": 952,
+        "y": 1917
+      },
+      "entry_id": "b08845d9-a4b7-4275-8625-9f4bedd80218_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Денисово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "2 года",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 1502,
+        "x": 931,
+        "y": 2624
+      },
+      "entry_id": "b08845d9-a4b7-4275-8625-9f4bedd80218_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, деревня Второе Клейменово",
+          "info": "крестьянин",
+          "name": "Клейменов",
+          "other_status": "муж умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "60",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 290,
+  "node_id": "da882573-cfef-463f-91fd-f6929928dff8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 224,
+        "width": 1463,
+        "x": 1079,
+        "y": 1154
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_5",
+      "people": [
+        {
+          "age": "67",
+          "geo": "",
+          "info": "Алексеевского монастыря монахиня",
+          "name": "Марфа",
+          "second_name": "Алексеевская",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 239,
+        "width": 1390,
+        "x": 1074,
+        "y": 1544
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Веневский",
+          "info": "мещанин",
+          "name": "Илья",
+          "other_status": "отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Корелин"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корелин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1438,
+        "x": 1061,
+        "y": 1963
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_0",
+      "people": [
+        {
+          "age": "5 лет",
+          "geo": "Рязанская губерния, Ряжский уезд, Пустотинская волость, село Зараново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тарарышкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 353,
+        "width": 1407,
+        "x": 1064,
+        "y": 2444
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Иверская волость, село Станитино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Малюгин"
+        },
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Малюгин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1411,
+        "x": 1064,
+        "y": 2959
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_3",
+      "people": [
+        {
+          "age": "65",
+          "geo": "Рязанская губерния, Новосильский уезд, село Пащуново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Масленников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 239,
+        "width": 1397,
+        "x": 1067,
+        "y": 3321
+      },
+      "entry_id": "da882573-cfef-463f-91fd-f6929928dff8_2",
+      "people": [
+        {
+          "age": "47",
+          "geo": "Рязанская губерния, Зарайский уезд, Луховическая волость, село Луховицы",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Анисимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пяткин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

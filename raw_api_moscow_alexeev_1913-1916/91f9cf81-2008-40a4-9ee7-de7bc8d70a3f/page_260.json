@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 260,
+  "node_id": "46c9960e-d089-4304-8ecd-59eb7ea1407e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 471,
+        "width": 1478,
+        "x": 1032,
+        "y": 1143
+      },
+      "entry_id": "46c9960e-d089-4304-8ecd-59eb7ea1407e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село",
+          "info": "из дома Егорова крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савушкин"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Савушкина"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 527,
+        "width": 1490,
+        "x": 1016,
+        "y": 1804
+      },
+      "entry_id": "46c9960e-d089-4304-8ecd-59eb7ea1407e_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Трыченкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Бортниковская волость, деревня Сутормина",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "other_status": "мать умершего",
+          "second_name": "Онисимова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Трыченкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 382,
+        "width": 1471,
+        "x": 1020,
+        "y": 2559
+      },
+      "entry_id": "46c9960e-d089-4304-8ecd-59eb7ea1407e_1",
+      "people": [
+        {
+          "age": "81",
+          "geo": "Орловская губерния, город Ливны",
+          "info": "мещанка, вдова",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Потапова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 450,
+        "width": 1392,
+        "x": 1021,
+        "y": 3137
+      },
+      "entry_id": "46c9960e-d089-4304-8ecd-59eb7ea1407e_0",
+      "people": [
+        {
+          "age": "32",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Михалково",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Еременков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

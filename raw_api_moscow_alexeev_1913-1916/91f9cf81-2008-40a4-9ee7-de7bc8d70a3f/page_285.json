@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 285,
+  "node_id": "8e09317f-e129-426a-8416-ea0ccbf73724",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 323,
+        "width": 1471,
+        "x": 1067,
+        "y": 1163
+      },
+      "entry_id": "8e09317f-e129-426a-8416-ea0ccbf73724_3",
+      "people": [
+        {
+          "age": "68",
+          "geo": "город Минск",
+          "info": "из дома Борисова мещанка девица",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Калминская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 1400,
+        "x": 1074,
+        "y": 1690
+      },
+      "entry_id": "8e09317f-e129-426a-8416-ea0ccbf73724_1",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Алексиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сульков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Новоселки",
+          "info": "крестьянин",
+          "name": "Алексий",
+          "other_status": "отец умершего",
+          "second_name": "Терентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сульков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 1435,
+        "x": 1084,
+        "y": 2353
+      },
+      "entry_id": "8e09317f-e129-426a-8416-ea0ccbf73724_2",
+      "people": [
+        {
+          "age": "3 часа",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Вахов"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Юрьевецкий уезд, Нововоскресенская волость, деревня Мардаково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Вахов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 497,
+        "width": 1463,
+        "x": 1093,
+        "y": 3100
+      },
+      "entry_id": "8e09317f-e129-426a-8416-ea0ccbf73724_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяное",
+          "info": "крестьянин",
+          "name": "Илия",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пенькин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Ильинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пенькина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

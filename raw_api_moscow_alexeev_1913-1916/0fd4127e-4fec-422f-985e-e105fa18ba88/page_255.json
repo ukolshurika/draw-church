@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 255,
+  "node_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1452,
+        "x": 951,
+        "y": 773
+      },
+      "entry_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c_4",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Парамонов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Царевская волость, село Поповка",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Феодосиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Парамонов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1480,
+        "x": 957,
+        "y": 1319
+      },
+      "entry_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кузнецкая слобода",
+          "info": "московский мещанин",
+          "name": "Феодор",
+          "other_status": "муж умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "56",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 386,
+        "width": 1454,
+        "x": 955,
+        "y": 1781
+      },
+      "entry_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c_1",
+      "people": [
+        {
+          "age": "47",
+          "geo": "Вологодская губерния, Тотемский уезд, Шевденицкая волость, Долговицкого общества деревня Ермолинская",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шабанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 332,
+        "width": 1429,
+        "x": 952,
+        "y": 2302
+      },
+      "entry_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c_2",
+      "people": [
+        {
+          "age": "4",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мишин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевский уезд, Бахмачевская волость, село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мишин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 448,
+        "width": 1507,
+        "x": 935,
+        "y": 2748
+      },
+      "entry_id": "84de2f8c-a320-4c93-bda3-5464c2d34e8c_0",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ковалева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокринская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ковалев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

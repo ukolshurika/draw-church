@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 282,
+  "node_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1480,
+        "x": 1058,
+        "y": 1197
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_5",
+      "people": [
+        {
+          "age": "61",
+          "geo": "Московская губерния, Звенигородский уезд, Аксиньинская волость, селение Ларюшино",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ветрова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 223,
+        "width": 1429,
+        "x": 1042,
+        "y": 1639
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_3",
+      "people": [
+        {
+          "age": "35",
+          "geo": "Москва",
+          "info": "ремесленник парикмахерского цеха",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 310,
+        "width": 1485,
+        "x": 1052,
+        "y": 2043
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Серединская волость, село Середы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Крупенин"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Крупенина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1411,
+        "x": 1061,
+        "y": 2510
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Сенноненский уезд, Ульяновичская волость, деревня Сергееки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Мезавцов"
+        },
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Мезавцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1399,
+        "x": 1073,
+        "y": 3001
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_0",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ясеневская волость, деревня Борисовка",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коротков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 253,
+        "width": 1477,
+        "x": 1081,
+        "y": 3471
+      },
+      "entry_id": "69611f20-2ae6-4bb2-a6f3-f06d933caec6_4",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Смоленская губерния, Гжатский уезд, Острицкая волость, деревня Гороватово",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чернышева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

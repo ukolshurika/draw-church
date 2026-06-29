@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 72,
+  "node_id": "39319c6d-6db3-470d-bed6-9f9ea15bc338",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2749,
+        "x": 924,
+        "y": 1034
+      },
+      "entry_id": "39319c6d-6db3-470d-bed6-9f9ea15bc338_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Лосьминская волость, деревня Малая Гусево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархотская волость, деревня Федорова",
+          "info": "крестьянин",
+          "name": "Абрам",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поддъявулин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Сельковская волость, деревня Лучинка",
+          "info": "крестьянская девица",
+          "name": "Наталия",
+          "second_name": "Арсеньева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пенькина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2746,
+        "x": 918,
+        "y": 1698
+      },
+      "entry_id": "39319c6d-6db3-470d-bed6-9f9ea15bc338_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Пиковые Рясы",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Неретин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Скуратов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скуратов"
+        },
+        {
+          "age": "",
+          "geo": "село Пиковые Рясы",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Абрамова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Скуратов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиковые Рясы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скуратов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 714,
+        "width": 2765,
+        "x": 912,
+        "y": 2399
+      },
+      "entry_id": "39319c6d-6db3-470d-bed6-9f9ea15bc338_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Полотняно-Заводская волость, село Крестьянки",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белевитин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянская девица",
+          "name": "Наталия",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Столярова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Романо-Борисоглебский уезд, Давыдковская волость, село Раменье",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бочкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2766,
+        "x": 909,
+        "y": 3143
+      },
+      "entry_id": "39319c6d-6db3-470d-bed6-9f9ea15bc338_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Казанская волость, деревня Селиверстова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Гельванский уезд, Гельванская волость, деревня Посельги",
+          "info": "жена крестьянина",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Раговская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фомина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния",
+          "info": "надворный советник из дворян",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гюльцгов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фомина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

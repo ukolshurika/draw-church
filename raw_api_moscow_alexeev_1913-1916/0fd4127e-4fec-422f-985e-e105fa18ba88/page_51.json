@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 51,
+  "node_id": "0e4cd20d-fd1d-4858-b7e5-fedfadcefeef",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 423,
+        "width": 2892,
+        "x": 705,
+        "y": 922
+      },
+      "entry_id": "0e4cd20d-fd1d-4858-b7e5-fedfadcefeef_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Карпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Чернобаевская волость, деревня Горбачево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Клешеки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка",
+          "name": "Елена",
+          "second_name": "Феофанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ренева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Макарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 536,
+        "width": 2899,
+        "x": 703,
+        "y": 1452
+      },
+      "entry_id": "0e4cd20d-fd1d-4858-b7e5-fedfadcefeef_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Саблино",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максимкина"
+        },
+        {
+          "age": "",
+          "geo": "село Малых Платов",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Павлохуторская волость, село Малых Платов",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Сотницкая волость, село Саблино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шерстенин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 539,
+        "width": 2883,
+        "x": 705,
+        "y": 2032
+      },
+      "entry_id": "0e4cd20d-fd1d-4858-b7e5-fedfadcefeef_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, село Бородухино",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Евграфова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, село Бородухино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лялин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дмитриев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Еленинский уезд, Дубосищенская волость, деревня Чувахи",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Исаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дмитриев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2840,
+        "x": 718,
+        "y": 2625
+      },
+      "entry_id": "0e4cd20d-fd1d-4858-b7e5-fedfadcefeef_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "село Кочкарово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мохов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шашкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шашкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Куртинская волость, село Кочкарово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шашкин"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Малинская волость, деревня Владимировка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

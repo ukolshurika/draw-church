@@ -1,0 +1,153 @@
+{
+  "year": 1914,
+  "page": 201,
+  "node_id": "ad6eb3db-aee8-44a4-985d-796d60940f5b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1123,
+        "width": 3542,
+        "x": 556,
+        "y": 807
+      },
+      "entry_id": "ad6eb3db-aee8-44a4-985d-796d60940f5b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Большеевский уезд, село Вышегород",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Федосов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Верещагин"
+        },
+        {
+          "age": "",
+          "geo": "Варшавская губерния, Скерневицкий уезд, деревня Беднари",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Свионтек"
+        },
+        {
+          "age": "21",
+          "geo": "Калужская губерния, Лугутинский уезд, село Дерны",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Верещагин"
+        },
+        {
+          "age": "20",
+          "geo": "Калужская губерния, Скерневицкий уезд, деревня Беднари",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Верещагина (Ершова)"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 1050,
+        "width": 3546,
+        "x": 551,
+        "y": 1952
+      },
+      "entry_id": "ad6eb3db-aee8-44a4-985d-796d60940f5b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин, казенной слободы",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Черников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "скопинский мещанин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Титов"
+        },
+        {
+          "age": "25",
+          "geo": "Рязанская губерния, Скопинский уезд, Раненбургское у., Ганская волость, сельцо Денисьево",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Титов"
+        },
+        {
+          "age": "18",
+          "geo": "",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Титова (Полякова)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин, Семеновской слободы",
+          "name": "Гавриил",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Большевская волость, село Вышегород",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Федосов"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

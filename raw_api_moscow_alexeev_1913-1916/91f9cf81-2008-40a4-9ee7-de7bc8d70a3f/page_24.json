@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 24,
+  "node_id": "d00cb4ae-eb6a-47b7-9bae-d6f6bd60bc85",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2724,
+        "x": 922,
+        "y": 1013
+      },
+      "entry_id": "d00cb4ae-eb6a-47b7-9bae-d6f6bd60bc85_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Михалевская волость, деревня Надеждино",
+          "info": "крестьянка",
+          "name": "Вера",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Копченова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кашеев"
+        },
+        {
+          "age": "",
+          "geo": "Тверь",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шубкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кашеева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, деревня Паткино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кашеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 2711,
+        "x": 922,
+        "y": 1725
+      },
+      "entry_id": "d00cb4ae-eb6a-47b7-9bae-d6f6bd60bc85_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Горки",
+          "info": "крестьянка",
+          "name": "Юстиния",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ковалева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зеленова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Быковский уезд, деревня Черенково",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Ананьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зеленов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зеленова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Горки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Артамонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2706,
+        "x": 931,
+        "y": 2400
+      },
+      "entry_id": "d00cb4ae-eb6a-47b7-9bae-d6f6bd60bc85_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Дмитровская волость, деревня Чемоданова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Проселков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Безобразовская волость, село Крестьяниново",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Леонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Леонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Поподьинская волость, село Крестьяниново",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шереметева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Проселков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2745,
+        "x": 943,
+        "y": 3169
+      },
+      "entry_id": "d00cb4ae-eb6a-47b7-9bae-d6f6bd60bc85_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Насонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Насонова"
+        },
+        {
+          "age": "",
+          "geo": "Березовская волость, село Кличино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карабанов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Грешная",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Насонов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд, Измалковская волость, деревня Прилеп",
+          "info": "крестьянская жена",
+          "name": "Екатерина",
+          "second_name": "Мандронова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванникова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 28,
+  "node_id": "9bc838d4-3a04-4148-bfbd-f29f95fcb2ef",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 632,
+        "width": 2785,
+        "x": 952,
+        "y": 1061
+      },
+      "entry_id": "9bc838d4-3a04-4148-bfbd-f29f95fcb2ef_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Островская"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Дученская волость, село Дучно",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гагина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Островская"
+        },
+        {
+          "age": "",
+          "geo": "Подольская губерния, Ушицкий уезд, Мукаровская волость, село Мицовец",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Мартинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Островский"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Ивановская волость, деревня Галахова",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хренов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2776,
+        "x": 962,
+        "y": 1812
+      },
+      "entry_id": "9bc838d4-3a04-4148-bfbd-f29f95fcb2ef_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Данилова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Мирошкинская волость, деревня Мотякино",
+          "info": "жена крестьянина",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Трусова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Жаровская волость, деревня Старое Стимино",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Данилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Данилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 2773,
+        "x": 963,
+        "y": 2553
+      },
+      "entry_id": "9bc838d4-3a04-4148-bfbd-f29f95fcb2ef_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Муром",
+          "info": "Владимирской губернии мещанин",
+          "name": "Александр",
+          "second_name": "Евграфов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Кира",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Калинина"
+        },
+        {
+          "age": "",
+          "geo": "город Муром",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "город Спасск",
+          "info": "Рязанская губерния, мещанка",
+          "name": "Екатерина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 518,
+        "width": 2731,
+        "x": 978,
+        "y": 3207
+      },
+      "entry_id": "9bc838d4-3a04-4148-bfbd-f29f95fcb2ef_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Виленская губерния, Лидский уезд, Белицкая волость, деревня Метевичи",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глусский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глусская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Демидова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глусская"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Багимовская волость, деревня Кирзино",
+          "info": "крестьянин",
+          "name": "Зинаида",
+          "other_status": "муж крестной матери",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

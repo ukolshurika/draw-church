@@ -1,0 +1,97 @@
+{
+  "year": 1914,
+  "page": 290,
+  "node_id": "8cd2c201-ca83-4257-a8fd-5ffe88abfa23",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 467,
+        "width": 1465,
+        "x": 959,
+        "y": 787
+      },
+      "entry_id": "8cd2c201-ca83-4257-a8fd-5ffe88abfa23_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Наумовская волость, деревня Нижнее Дойца",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Темнов"
+        },
+        {
+          "age": "6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Темнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1470,
+        "x": 952,
+        "y": 1460
+      },
+      "entry_id": "8cd2c201-ca83-4257-a8fd-5ffe88abfa23_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Боровская волость, село Городецкое",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ломакин"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ломакин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 273,
+        "width": 1455,
+        "x": 964,
+        "y": 1995
+      },
+      "entry_id": "8cd2c201-ca83-4257-a8fd-5ffe88abfa23_2",
+      "people": [
+        {
+          "age": "76",
+          "geo": "",
+          "info": "московский 2 гильдии купец",
+          "name": "Павел",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горбунов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,119 @@
+{
+  "year": 1914,
+  "page": 304,
+  "node_id": "bd2f1ea6-9cd4-4abe-803d-9fc72e05fac8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 715,
+        "width": 1487,
+        "x": 902,
+        "y": 831
+      },
+      "entry_id": "bd2f1ea6-9cd4-4abe-803d-9fc72e05fac8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Луховическая волость, деревня Подлесная Слобода",
+          "info": "крестьянка",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Фишина"
+        },
+        {
+          "age": "3 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Фишина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 246,
+        "width": 1496,
+        "x": 897,
+        "y": 1719
+      },
+      "entry_id": "bd2f1ea6-9cd4-4abe-803d-9fc72e05fac8_2",
+      "people": [
+        {
+          "age": "75",
+          "geo": "",
+          "info": "вдова, московская купца",
+          "name": "Марія",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Коченова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 1446,
+        "x": 892,
+        "y": 2203
+      },
+      "entry_id": "bd2f1ea6-9cd4-4abe-803d-9fc72e05fac8_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Грушевский"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Артемова",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Грушевский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 425,
+        "width": 1498,
+        "x": 889,
+        "y": 2924
+      },
+      "entry_id": "bd2f1ea6-9cd4-4abe-803d-9fc72e05fac8_1",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Московская губерния, Моршинская волость, деревня Каверина",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Депре"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

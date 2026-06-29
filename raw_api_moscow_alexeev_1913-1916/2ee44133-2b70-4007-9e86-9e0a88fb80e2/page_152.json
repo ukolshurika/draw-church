@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 152,
+  "node_id": "f5b987cf-38a1-48a6-a937-5edf11da5a5c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 854,
+        "width": 2785,
+        "x": 899,
+        "y": 1065
+      },
+      "entry_id": "f5b987cf-38a1-48a6-a937-5edf11da5a5c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Петровская волость, деревня Захарово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Спас-Клепиковская волость, село",
+          "info": "крестьянская девица",
+          "name": "Клавдия",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Феодорова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Чадаевская волость, село Сонниково",
+          "info": "крестьянин",
+          "name": "Адриан",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вяльцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Поликарпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Попов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 820,
+        "width": 2770,
+        "x": 898,
+        "y": 1968
+      },
+      "entry_id": "f5b987cf-38a1-48a6-a937-5edf11da5a5c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Кехотская волость, Княжестровский уезд, деревня Мечни",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новоселов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Белопесоцкая волость, село Старое Ситня",
+          "info": "крестьянская девица",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 853,
+        "width": 2797,
+        "x": 899,
+        "y": 2868
+      },
+      "entry_id": "f5b987cf-38a1-48a6-a937-5edf11da5a5c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Хисловичская волость, деревня Козлово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Анисимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филипенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Князева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокринская волость, село Чубарово",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бондорева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Князев"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Моревская волость, деревня Масеево",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Князев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

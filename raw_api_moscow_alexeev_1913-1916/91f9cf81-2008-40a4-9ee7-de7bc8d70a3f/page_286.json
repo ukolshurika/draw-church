@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 286,
+  "node_id": "d2381757-3f72-457f-a5e3-204964cec9aa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 499,
+        "width": 1480,
+        "x": 1046,
+        "y": 1150
+      },
+      "entry_id": "d2381757-3f72-457f-a5e3-204964cec9aa_3",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Железцовская волость, село",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Цыпленков"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1377,
+        "x": 1039,
+        "y": 1832
+      },
+      "entry_id": "d2381757-3f72-457f-a5e3-204964cec9aa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Лаптевский уезд, Лаптевская волость, село Мостец",
+          "info": "из дома Казанской железной дороги крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Никитин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 498,
+        "width": 1453,
+        "x": 1032,
+        "y": 2501
+      },
+      "entry_id": "d2381757-3f72-457f-a5e3-204964cec9aa_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Старосельская волость, деревня Горшаново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Федосеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1466,
+        "x": 1037,
+        "y": 3183
+      },
+      "entry_id": "d2381757-3f72-457f-a5e3-204964cec9aa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Слядневский уезд, Селиверстовская волость, деревня Селиверстово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "муж умершего",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "26 лет",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Алексеева"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

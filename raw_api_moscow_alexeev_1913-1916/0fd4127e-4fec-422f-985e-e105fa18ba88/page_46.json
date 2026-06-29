@@ -1,0 +1,330 @@
+{
+  "year": 1914,
+  "page": 46,
+  "node_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 443,
+        "width": 2871,
+        "x": 751,
+        "y": 921
+      },
+      "entry_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Слонимская волость, деревня Золотнева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Конец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Строганова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильевич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гринцевич"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Конец"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Малоархангельский уезд, Федоровская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Конец"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 2869,
+        "x": 758,
+        "y": 1439
+      },
+      "entry_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Заддын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Заддын"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Таганская слобода",
+          "info": "мещанка, девица",
+          "name": "Лидия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "деревня №17 (Митьковский уезд), Смильтенская волость, Валкский уезд, Лифляндская губерния",
+          "info": "прапорщик запаса",
+          "name": "Петр",
+          "second_name": "Давов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Заддын"
+        },
+        {
+          "age": "",
+          "geo": "Витебский уезд",
+          "info": "потомственный дворянин",
+          "name": "Владимир",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хруцкий"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 2862,
+        "x": 758,
+        "y": 1969
+      },
+      "entry_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульский уезд, Архангельская волость, деревня Каменка",
+          "info": "вдова",
+          "name": "Васса",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виталий",
+          "second_name": "Гликериев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Селиховская волость, деревня Кленово",
+          "info": "крестьянин",
+          "name": "Гликерий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Османовская волость, деревня Новоботово",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Муравлев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2873,
+        "x": 755,
+        "y": 2402
+      },
+      "entry_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня №27 (Красинская улица), Архангельская",
+          "info": "мещанка, девица",
+          "name": "Евдокія",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бородавка"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, пригородная волость, Верховенская слобода",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поздняков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Прудищенская волость, деревня Белицы",
+          "info": "крестьянка",
+          "name": "Евдокія",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2851,
+        "x": 757,
+        "y": 2872
+      },
+      "entry_id": "a189aa2d-151f-4a15-9f0c-73a7e8458a79_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Никитина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Далматовская волость, село",
+          "info": "крестьянка",
+          "name": "Дарья",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антонова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Прудищенская волость, деревня Белицы",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Старогальская волость, деревня Гордоново",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Филаретов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Котов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Пригородная волость, Верховенская слобода",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поздняков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Никитина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Вялухина",
+          "info": "московский мещанин, Семеновской слободы",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Никитин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,197 @@
+{
+  "year": 1915,
+  "page": 175,
+  "node_id": "f14a13ee-ae95-4131-81bf-95e6e81d5ecb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 739,
+        "width": 2776,
+        "x": 912,
+        "y": 1151
+      },
+      "entry_id": "f14a13ee-ae95-4131-81bf-95e6e81d5ecb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "австрийская подданная девица",
+          "name": "Мария",
+          "second_name": "Вейс",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Борисовская волость, село Суходол",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Лохвицкий уезд, Песковская волость, село Пески",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гузенко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Александрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 755,
+        "width": 2796,
+        "x": 920,
+        "y": 1888
+      },
+      "entry_id": "f14a13ee-ae95-4131-81bf-95e6e81d5ecb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Подольский уезд, Ванчуковская волость, деревня Андрейцева",
+          "info": "",
+          "name": "Андрейцев",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федулова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Потуповская волость, деревня Большие Крупцы",
+          "info": "крестьянин",
+          "name": "Арсений",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Десенская волость, сельцо Никольское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ираида",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белоусова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 884,
+        "width": 2815,
+        "x": 909,
+        "y": 2639
+      },
+      "entry_id": "f14a13ee-ae95-4131-81bf-95e6e81d5ecb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Сканская волость, деревня Лаговицы",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Дмитриево-Локотецкая волость, сельцо Сенькино",
+          "info": "крестьянская девица",
+          "name": "Гликерия",
+          "second_name": "Лукьянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Панова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Воскресенский уезд, Максимовской волости деревня",
+          "info": "крестьянская девица",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 288,
+  "node_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 292,
+        "width": 1423,
+        "x": 1093,
+        "y": 1074
+      },
+      "entry_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Нагорская волость, деревня Малая Нагорская",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Евпловов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 228,
+        "width": 1374,
+        "x": 1098,
+        "y": 1557
+      },
+      "entry_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4_3",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Звенигород",
+          "info": "мещанин",
+          "name": "Филипп",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1470,
+        "x": 1088,
+        "y": 1941
+      },
+      "entry_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитриев"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Полякова"
+        },
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Гагинская волость, деревня Денисьева",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1473,
+        "x": 1093,
+        "y": 2538
+      },
+      "entry_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4_1",
+      "people": [
+        {
+          "age": "51",
+          "geo": "Ярославская губерния, Рыбинский уезд",
+          "info": "вдова, мещанка",
+          "name": "Ксения",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Дмитриева Рыбакова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1472,
+        "x": 1091,
+        "y": 3077
+      },
+      "entry_id": "ff1cc838-42b3-48b2-827e-c1e2c92482f4_2",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Могилевская губерния, Цецелинская волость, деревня Костекович",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Сидорова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

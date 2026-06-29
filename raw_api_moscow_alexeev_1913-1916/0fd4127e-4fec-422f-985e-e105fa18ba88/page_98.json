@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 98,
+  "node_id": "993710b2-a92e-4740-956c-8ad896c694da",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 480,
+        "width": 2868,
+        "x": 754,
+        "y": 871
+      },
+      "entry_id": "993710b2-a92e-4740-956c-8ad896c694da_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Никандровна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Ряжский уезд, Троицко-Лесиновская волость, деревня Чигасово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Лобановская волость, село Введенское",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Палицын"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "Троицко-Лесиновская волость, деревня Демьянова",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Никандрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 2911,
+        "x": 755,
+        "y": 1456
+      },
+      "entry_id": "993710b2-a92e-4740-956c-8ad896c694da_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Вышневолоцкий уезд, Песчаницкая волость, деревня Ворожейкино",
+          "info": "крестьянка, вдова",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Вахуркина",
+          "info": "гусатская мещанка, девица",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мало-Скуратовская волость, деревня Орловки",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Луличев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 436,
+        "width": 2893,
+        "x": 745,
+        "y": 1924
+      },
+      "entry_id": "993710b2-a92e-4740-956c-8ad896c694da_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Касимовская мещанка, девица",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Акимова",
+          "info": "Касимовский мещанин",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "Богородский уезд, Васильевская волость, село Каменки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Морозова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 2915,
+        "x": 740,
+        "y": 2468
+      },
+      "entry_id": "993710b2-a92e-4740-956c-8ad896c694da_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Евфимия",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Нетухина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Бедишевская волость, деревня Николаевка",
+          "info": "серпуховский мещанин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Илья",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Хребтовская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сампсонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 447,
+        "width": 2891,
+        "x": 740,
+        "y": 3101
+      },
+      "entry_id": "993710b2-a92e-4740-956c-8ad896c694da_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село Серкино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Мамонтов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чижаков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Покаревская волость, село Серкино",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чижаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Татиана",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чижакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чижакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,152 @@
+{
+  "year": 1915,
+  "page": 348,
+  "node_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 410,
+        "width": 1480,
+        "x": 1099,
+        "y": 1096
+      },
+      "entry_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Минская губерния, Новогрудский уезд, Стволовичская волость, деревня Залобечь",
+          "info": "запасного нижнего чина из крестьян",
+          "name": "Моисей",
+          "other_status": "отец умершего",
+          "second_name": "Викентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 247,
+        "width": 1468,
+        "x": 1101,
+        "y": 1621
+      },
+      "entry_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a_3",
+      "people": [
+        {
+          "age": "71",
+          "geo": "слобода Нахаловка",
+          "info": "вдова московского мещанина Кошелева",
+          "name": "Наталия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лакреева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 1417,
+        "x": 1087,
+        "y": 2038
+      },
+      "entry_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a_2",
+      "people": [
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Секретарев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Городищенская волость, 1-е Фроловское общество",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Секретарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 354,
+        "width": 1409,
+        "x": 1085,
+        "y": 2639
+      },
+      "entry_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a_1",
+      "people": [
+        {
+          "age": "58 лет",
+          "geo": "Смоленская губерния, Бельский уезд, Антушевская волость, деревня Азарово",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 419,
+        "width": 1496,
+        "x": 1077,
+        "y": 3142
+      },
+      "entry_id": "d7aa0cdc-fcbd-4ea0-8b1e-8dec09d0638a_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Долгих"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Зенкинская волость, село Голожоково",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Долгих"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

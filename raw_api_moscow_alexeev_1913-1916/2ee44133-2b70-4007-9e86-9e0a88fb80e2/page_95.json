@@ -1,0 +1,330 @@
+{
+  "year": 1915,
+  "page": 95,
+  "node_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 447,
+        "width": 2970,
+        "x": 900,
+        "y": 1088
+      },
+      "entry_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Одоевская волость, село Ярослав",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рочагов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Борятино",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рочагов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рочагова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Бобровская волость, село Малое Захарово",
+          "info": "крестьянская дочь, девица",
+          "name": "Феодосия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 2973,
+        "x": 899,
+        "y": 1603
+      },
+      "entry_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тихвинский уезд, Титовская волость, деревня Меньчиково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Меньчиков",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Хабаров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Малышева",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванушкин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Морозовская волость, деревня Звягино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хабарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Борисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 2966,
+        "x": 894,
+        "y": 2166
+      },
+      "entry_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Фролова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Балакина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Апонитищенская волость, село Кончаково",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рысаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Фролова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рысакова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Жеребятниково",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Фролов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Деев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Рысакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2976,
+        "x": 899,
+        "y": 2692
+      },
+      "entry_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Аксиньинская волость, село Козино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Корбовская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Седова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхинский уезд, Ласминская волость, деревня Слободки",
+          "info": "вдова",
+          "name": "Олимпиада",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2965,
+        "x": 911,
+        "y": 3181
+      },
+      "entry_id": "6188ab6c-1089-4ff3-a31d-f0bcdd397e40_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Тютчевская волость, деревня Грачевка",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Артемьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, дочь придворного служителя Большого Кремлевского Дворца",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Молочкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Денисова"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Подвязинская волость, деревня Большая Шакола",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соломатин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 53,
+  "node_id": "0de901f3-0bb4-4384-8b59-5c188cacbe31",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 426,
+        "width": 2908,
+        "x": 701,
+        "y": 921
+      },
+      "entry_id": "0de901f3-0bb4-4384-8b59-5c188cacbe31_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Болотневская волость, село Вышгород",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Заборов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Заборова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Заборова"
+        },
+        {
+          "age": "",
+          "geo": "село Богоявленское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 558,
+        "width": 2922,
+        "x": 691,
+        "y": 1425
+      },
+      "entry_id": "0de901f3-0bb4-4384-8b59-5c188cacbe31_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Платонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Колыберевская волость, деревня Неверова",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Буянова"
+        },
+        {
+          "age": "",
+          "geo": "город Москва, деревня Покровская",
+          "info": "ремесленник, сапожного цеха",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Дубовщищенская волость, деревня Маркина",
+          "info": "крестьянин",
+          "name": "Парфений",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыганков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2872,
+        "x": 701,
+        "y": 2038
+      },
+      "entry_id": "0de901f3-0bb4-4384-8b59-5c188cacbe31_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд",
+          "info": "мещанка, девица",
+          "name": "Ольга",
+          "second_name": "Адрианова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Денисова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Судниковская волость, деревня Клишина",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малолетнов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, деревня Дмитриевка",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 707,
+        "width": 2914,
+        "x": 700,
+        "y": 2666
+      },
+      "entry_id": "0de901f3-0bb4-4384-8b59-5c188cacbe31_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, село Богоявленское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Еманчинская волость, село Глазка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гончаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гончарова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Никольско-Погореловская волость",
+          "info": "крестьянская жена",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ермилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гончаров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

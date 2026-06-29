@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 314,
+  "node_id": "c1a701a9-8a36-41fa-984b-da8e24e415e8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 500,
+        "width": 1415,
+        "x": 972,
+        "y": 878
+      },
+      "entry_id": "c1a701a9-8a36-41fa-984b-da8e24e415e8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троскуровская волость, деревня Нижняя Брусланова",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Палинин"
+        },
+        {
+          "age": "4",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Палинин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 287,
+        "width": 1448,
+        "x": 983,
+        "y": 1522
+      },
+      "entry_id": "c1a701a9-8a36-41fa-984b-da8e24e415e8_3",
+      "people": [
+        {
+          "age": "39",
+          "geo": "",
+          "info": "жена полковника",
+          "name": "Мария",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чистякова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1398,
+        "x": 961,
+        "y": 1974
+      },
+      "entry_id": "c1a701a9-8a36-41fa-984b-da8e24e415e8_1",
+      "people": [
+        {
+          "age": "62",
+          "geo": "Новгородская слобода",
+          "info": "московский мещанин",
+          "name": "Евфимий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Вольфсон"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 420,
+        "width": 1496,
+        "x": 934,
+        "y": 2672
+      },
+      "entry_id": "c1a701a9-8a36-41fa-984b-da8e24e415e8_0",
+      "people": [
+        {
+          "age": "64",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, село Царево",
+          "info": "крестьянка, вдова",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Талызина"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

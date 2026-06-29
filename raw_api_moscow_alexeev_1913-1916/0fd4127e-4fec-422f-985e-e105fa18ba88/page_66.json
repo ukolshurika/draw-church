@@ -1,0 +1,145 @@
+{
+  "year": 1914,
+  "page": 66,
+  "node_id": "a50fc60e-66f9-4508-aa4d-e38f18f857ac",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 651,
+        "width": 2856,
+        "x": 759,
+        "y": 901
+      },
+      "entry_id": "a50fc60e-66f9-4508-aa4d-e38f18f857ac_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Сельскохозяйственного института",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карельский"
+        },
+        {
+          "age": "3",
+          "geo": "",
+          "info": "мальчик неизвестных родителей, поступивший в городское убежище для сирот",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь коллежского регистратора",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1100,
+        "width": 2900,
+        "x": 756,
+        "y": 1730
+      },
+      "entry_id": "a50fc60e-66f9-4508-aa4d-e38f18f857ac_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Добрятинская волость, деревня Кучина",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Борисовъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Обрывалин"
+        },
+        {
+          "age": "",
+          "geo": "Клинское",
+          "info": "из Борщевской волости, села Трехсвятского, брошенная без всякого призора на улицах города Москвы",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Новосельская волость, деревня Коренева",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 644,
+        "width": 2903,
+        "x": 756,
+        "y": 2838
+      },
+      "entry_id": "a50fc60e-66f9-4508-aa4d-e38f18f857ac_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кузнецкая слобода",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Богданов"
+        },
+        {
+          "age": "7 лет",
+          "geo": "Клинское",
+          "info": "девочка неизвестных родителей, доставленная в городское убежище для сирот из приемного покоя Тверского участка",
+          "name": "Елизавета",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова почтово-телеграфного чиновника",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

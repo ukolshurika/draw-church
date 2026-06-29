@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 114,
+  "node_id": "0fab2206-68e1-48fe-ac28-07652b693800",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 481,
+        "width": 2748,
+        "x": 924,
+        "y": 1009
+      },
+      "entry_id": "0fab2206-68e1-48fe-ac28-07652b693800_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка",
+          "name": "Клавдия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Максимова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Обрывалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Обрывалина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Добрятинская волость, деревня Кучино",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Обрывалин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Обрывалина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 617,
+        "width": 2734,
+        "x": 927,
+        "y": 1616
+      },
+      "entry_id": "0fab2206-68e1-48fe-ac28-07652b693800_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Боброва"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Дудинская волость, деревня Чесноковка",
+          "info": "крестьянка, девица",
+          "name": "Иустиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Боченкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Боброва"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Бутырки",
+          "info": "запасный ефрейтор 2-го стрелкового полка из крестьян",
+          "name": "Никита",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бобров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бутырки",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Янов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2718,
+        "x": 940,
+        "y": 2360
+      },
+      "entry_id": "0fab2206-68e1-48fe-ac28-07652b693800_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня Спасское",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бурмистрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Суховская волость, деревня Спасское",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бурмистров"
+        },
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник, сапожного цеха",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 572,
+        "width": 2709,
+        "x": 935,
+        "y": 3049
+      },
+      "entry_id": "0fab2206-68e1-48fe-ac28-07652b693800_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Пелагия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тачкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Крылова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крылов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

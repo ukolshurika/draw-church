@@ -1,0 +1,247 @@
+{
+  "year": 1915,
+  "page": 27,
+  "node_id": "4e5a9f5c-6563-4beb-84b3-c5c0366bfc13",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 791,
+        "width": 2787,
+        "x": 923,
+        "y": 1091
+      },
+      "entry_id": "4e5a9f5c-6563-4beb-84b3-c5c0366bfc13_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Крутицкая волость, деревня Пустое",
+          "info": "крестьянская вдова",
+          "name": "Мария",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нистраткина"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Морозовская волость, Троицкая слобода",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пикунов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, деревня Кондаково",
+          "info": "крестьянская вдова",
+          "name": "Екатерина",
+          "second_name": "Мартынова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прохорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 644,
+        "width": 2760,
+        "x": 904,
+        "y": 1793
+      },
+      "entry_id": "4e5a9f5c-6563-4beb-84b3-c5c0366bfc13_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодора",
+          "second_name": "Евфимиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Морозовская волость, Троицкая слобода",
+          "info": "",
+          "name": "Семен",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пикунов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Стремиловская волость, деревня Филипповская",
+          "info": "",
+          "name": "Евфимий",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Трифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанский уезд, Екимовская волость, деревня Кондаково",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартынова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 697,
+        "width": 2804,
+        "x": 904,
+        "y": 2596
+      },
+      "entry_id": "4e5a9f5c-6563-4beb-84b3-c5c0366bfc13_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "вдова",
+          "name": "Любовь",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Простоквашева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Юлия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глушкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Абакумовская волость, деревня Тонкачево",
+          "info": "дворянин",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глушков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глушкова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Долматская волость, деревня Енниска",
+          "info": "дворянин",
+          "name": "Иван",
+          "second_name": "Ларионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белялюбский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2833,
+        "x": 909,
+        "y": 3387
+      },
+      "entry_id": "4e5a9f5c-6563-4beb-84b3-c5c0366bfc13_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Старолетовская волость, село Срезнево",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баранцев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд",
+          "info": "вдова, купчиха",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Папкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Баранцева"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Колодинский уезд, село Шумаково",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Люборцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баранцева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

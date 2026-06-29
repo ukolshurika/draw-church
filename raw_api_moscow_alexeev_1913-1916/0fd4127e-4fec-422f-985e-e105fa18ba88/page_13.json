@@ -1,0 +1,310 @@
+{
+  "year": 1914,
+  "page": 13,
+  "node_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 409,
+        "width": 2967,
+        "x": 714,
+        "y": 869
+      },
+      "entry_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, деревня Филина",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Андреевъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мамюхинъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жаренова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Подольская волость, деревня Улыбышево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлевъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жареновъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Жаренова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Улыбышево",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жаренова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 2980,
+        "x": 709,
+        "y": 1414
+      },
+      "entry_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ростокинская"
+        },
+        {
+          "age": "",
+          "geo": "Голутвенная слобода",
+          "info": "московская мещанка",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ростокинская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ныркова, Московская губерния",
+          "info": "подмосковный мещанин",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ростокинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ростокинская"
+        },
+        {
+          "age": "",
+          "geo": "Казенная слобода",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ростокинский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 2965,
+        "x": 700,
+        "y": 1926
+      },
+      "entry_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Разумова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Старниково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Разумов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Разумов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ананьин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский 1-й гильдии купец",
+          "name": "Мария",
+          "other_status": "муж крестной матери",
+          "second_name": "Евграфова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Разумова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 2978,
+        "x": 690,
+        "y": 2422
+      },
+      "entry_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Данковский уезд, Знаменская волость, село Срезнево",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Нестеров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Белинская волость, деревня Беклиновка",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грибов"
+        },
+        {
+          "age": "",
+          "geo": "Данковский уезд, Остро-Каменская волость, село",
+          "info": "крестьянка, вдова",
+          "name": "Ксения",
+          "second_name": "Савельева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Халдеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 2976,
+        "x": 702,
+        "y": 2899
+      },
+      "entry_id": "9482aead-5820-476c-a9b3-e6c3ccfbd410_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Малоярославецкая волость, Башмаковская волость, деревня Ожьгина",
+          "info": "крестьянская дочь",
+          "name": "Анна",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коменцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сорокина"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Давыдковская волость",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдов"
+        },
+        {
+          "age": "",
+          "geo": "Заиковский уезд, Малоярославецкая волость, Марьинская волость, деревня Староселье",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сорокин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

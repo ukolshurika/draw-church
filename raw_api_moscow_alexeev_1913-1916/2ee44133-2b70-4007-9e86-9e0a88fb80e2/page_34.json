@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 34,
+  "node_id": "06175209-ce9a-45d4-864f-e7c0b78f9851",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2791,
+        "x": 903,
+        "y": 1097
+      },
+      "entry_id": "06175209-ce9a-45d4-864f-e7c0b78f9851_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спасо-Жаравенская волость, село Болотня",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "other_status": "муж крестной матери",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Аглев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баринов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Тросненская волость, село Тросна",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баринов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горашников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аглева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Артемова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баринова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 665,
+        "width": 2813,
+        "x": 901,
+        "y": 1845
+      },
+      "entry_id": "06175209-ce9a-45d4-864f-e7c0b78f9851_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Волочковская волость, деревня Бычкова",
+          "info": "дочь потомственного почетного гражданина",
+          "name": "Мария",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Волочковская волость, деревня Бычкова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Волочковская волость, деревня Бычкова",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2798,
+        "x": 903,
+        "y": 2537
+      },
+      "entry_id": "06175209-ce9a-45d4-864f-e7c0b78f9851_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Палкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Палкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Перхушинская волость, село Юдино",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шелипова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, село Хатуньское",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Палкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 757,
+        "width": 2818,
+        "x": 897,
+        "y": 3227
+      },
+      "entry_id": "06175209-ce9a-45d4-864f-e7c0b78f9851_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Старолесковская волость, село Белых Колодезей",
+          "info": "крестьянка",
+          "name": "Наталия",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мамаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Вышегородская волость, село Благовещенское",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Комков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Комков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Шамаева",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гвоздов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Хиония",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Комкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

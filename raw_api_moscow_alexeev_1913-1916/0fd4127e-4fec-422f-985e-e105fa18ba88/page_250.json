@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 250,
+  "node_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 414,
+        "width": 1447,
+        "x": 1011,
+        "y": 807
+      },
+      "entry_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Хорошеводская волость, село Скородное",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чернышев"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Серафима",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чернышева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1420,
+        "x": 1004,
+        "y": 1364
+      },
+      "entry_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Тисниково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1471,
+        "x": 1006,
+        "y": 1902
+      },
+      "entry_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Новорский уезд, Милюковская волость, деревня Малая Купалица",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Голубев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 413,
+        "width": 1486,
+        "x": 994,
+        "y": 2428
+      },
+      "entry_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Борщевская волость, деревня Крупенина",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Леонтиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Букин"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Букина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 417,
+        "width": 1437,
+        "x": 986,
+        "y": 2972
+      },
+      "entry_id": "9d912eb3-2e27-4ad6-80f1-2b21cdc9c453_3",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Московская губерния, Богородский уезд, Дор-Ковежская волость, Никитское общество, сельцо Никитское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пауков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

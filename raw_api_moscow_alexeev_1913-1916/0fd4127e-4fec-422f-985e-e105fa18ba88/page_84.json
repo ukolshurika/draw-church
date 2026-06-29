@@ -1,0 +1,290 @@
+{
+  "year": 1914,
+  "page": 84,
+  "node_id": "d22b2c5b-dda8-466c-b1b5-fde72382bcc4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 558,
+        "width": 2796,
+        "x": 749,
+        "y": 866
+      },
+      "entry_id": "d22b2c5b-dda8-466c-b1b5-fde72382bcc4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Узуновская волость, деревня Ильина",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гришков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гришков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иулиания",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гришкова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белинская волость, деревня Косой",
+          "info": "крестьянин",
+          "name": "Косой",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2831,
+        "x": 741,
+        "y": 1503
+      },
+      "entry_id": "d22b2c5b-dda8-466c-b1b5-fde72382bcc4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Тургиновская волость, деревня Головачева",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ильинская волость, деревня Пестово",
+          "info": "крестьянская дочь, девица",
+          "name": "Елена",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Леонова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Большие Селища",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Титов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Корсаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 644,
+        "width": 2861,
+        "x": 723,
+        "y": 2121
+      },
+      "entry_id": "d22b2c5b-dda8-466c-b1b5-fde72382bcc4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Сергиев посад",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Левитинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Левитинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Левитинов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Желѣзцовская волость, село Козлова",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "муж крестной матери",
+          "second_name": "Кирьянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сафонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сычев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Двитской волость, деревня Скорнева",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ерасова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2836,
+        "x": 726,
+        "y": 2673
+      },
+      "entry_id": "d22b2c5b-dda8-466c-b1b5-fde72382bcc4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Железцовская волость, село Козлово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Кирьянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сафонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Дмитрово-Илыинская волость, деревня Скорнево",
+          "info": "крестьянин",
+          "name": "Емельян",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колпаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сычев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сычев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

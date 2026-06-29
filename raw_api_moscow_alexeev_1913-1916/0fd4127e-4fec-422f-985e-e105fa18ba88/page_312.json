@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 312,
+  "node_id": "d47974bd-66a9-4fc7-8a66-85621d90590f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 299,
+        "width": 1488,
+        "x": 938,
+        "y": 816
+      },
+      "entry_id": "d47974bd-66a9-4fc7-8a66-85621d90590f_3",
+      "people": [
+        {
+          "age": "71",
+          "geo": "",
+          "info": "Тульская мещанка, вдова",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Борщева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 363,
+        "width": 1425,
+        "x": 930,
+        "y": 1223
+      },
+      "entry_id": "d47974bd-66a9-4fc7-8a66-85621d90590f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовский уезд, Екимовская волость, деревня Кондаково",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "other_status": "мать умершего",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Осипова"
+        },
+        {
+          "age": "1 год 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Осипов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 488,
+        "width": 1406,
+        "x": 919,
+        "y": 1851
+      },
+      "entry_id": "d47974bd-66a9-4fc7-8a66-85621d90590f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ордышкин"
+        },
+        {
+          "age": "8 лет",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ордышкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 497,
+        "width": 1422,
+        "x": 912,
+        "y": 2564
+      },
+      "entry_id": "d47974bd-66a9-4fc7-8a66-85621d90590f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сычев"
+        },
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сычев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

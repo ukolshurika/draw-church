@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 313,
+  "node_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 207,
+        "width": 1457,
+        "x": 1159,
+        "y": 1137
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 233,
+        "width": 1446,
+        "x": 1159,
+        "y": 1515
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Тверской мещанин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шубин"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Капитолина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шубина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 297,
+        "width": 1454,
+        "x": 1156,
+        "y": 1861
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, деревня Вшивки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Марков",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кочкин"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кочкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 295,
+        "width": 1420,
+        "x": 1166,
+        "y": 2285
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_1",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Синицын"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Ивняговский уезд, Чаплыгинская волость, бывшая деревня Вшивки",
+          "info": "крепостной",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Синицын"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 296,
+        "width": 1401,
+        "x": 1165,
+        "y": 2751
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_2",
+      "people": [
+        {
+          "age": "24",
+          "geo": "Владимирская губерния, Муромский уезд, Монаковская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Киреев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 326,
+        "width": 1410,
+        "x": 1169,
+        "y": 3208
+      },
+      "entry_id": "0c0423a4-6bcd-41cf-996d-d7ab1a081ca8_0",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ионов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Кузнецовская волость, деревня Дмитриева",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ионов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

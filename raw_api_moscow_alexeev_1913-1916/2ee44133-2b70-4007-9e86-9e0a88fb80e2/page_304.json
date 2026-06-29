@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 304,
+  "node_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 271,
+        "width": 1484,
+        "x": 1077,
+        "y": 1122
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, село Тюнежа",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ратин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ратина"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 265,
+        "width": 1492,
+        "x": 1066,
+        "y": 1503
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_5",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Холмовская волость, деревня Федяши",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Прохоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 258,
+        "width": 1423,
+        "x": 1070,
+        "y": 1880
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_3",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Карпов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Петровская волость, деревня Богаиха",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "other_status": "отец умершего",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карпов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 285,
+        "width": 1493,
+        "x": 1064,
+        "y": 2244
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дёдновоновская волость, деревня Акимовка",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Демин"
+        },
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Демина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 297,
+        "width": 1399,
+        "x": 1069,
+        "y": 2655
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_0",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Садовинская волость, деревня Васильева",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Горюнов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 342,
+        "width": 1375,
+        "x": 1070,
+        "y": 3106
+      },
+      "entry_id": "c6ae9ffb-271c-45c3-b16d-b2a2eedf51f9_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Крымов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Брыменская волость, деревня Крюково",
+          "info": "вдова",
+          "name": "Варвара",
+          "other_status": "мать умершего",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Крымова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

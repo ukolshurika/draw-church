@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 258,
+  "node_id": "2f6f6b01-f070-49c4-80e7-033e05afc485",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 510,
+        "width": 1486,
+        "x": 1048,
+        "y": 1100
+      },
+      "entry_id": "2f6f6b01-f070-49c4-80e7-033e05afc485_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Рождественская волость, деревня Холмина",
+          "info": "крестьянская вдова",
+          "name": "Марфа",
+          "other_status": "мать умершего",
+          "second_name": "Адамова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "внебрачный сын",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Королева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 302,
+        "width": 1447,
+        "x": 1053,
+        "y": 1806
+      },
+      "entry_id": "2f6f6b01-f070-49c4-80e7-033e05afc485_3",
+      "people": [
+        {
+          "age": "60 лет",
+          "geo": "",
+          "info": "из дома Финляндского. Потомственный почетный гражданин",
+          "name": "Иоанн",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Назаров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 399,
+        "width": 1387,
+        "x": 1056,
+        "y": 2324
+      },
+      "entry_id": "2f6f6b01-f070-49c4-80e7-033e05afc485_1",
+      "people": [
+        {
+          "age": "37",
+          "geo": "Тульская губерния, Каширский уезд, Спас-Журовская волость, село Феодоровка",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "second_name": "Евтиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Захаров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 560,
+        "width": 1382,
+        "x": 1052,
+        "y": 2942
+      },
+      "entry_id": "2f6f6b01-f070-49c4-80e7-033e05afc485_0",
+      "people": [
+        {
+          "age": "20 лет",
+          "geo": "",
+          "info": "привезенный из лечебницы Солдатенкова студент Императорского Харьковского университета юридического факультета 1-го семестра, из дворян",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Калугин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

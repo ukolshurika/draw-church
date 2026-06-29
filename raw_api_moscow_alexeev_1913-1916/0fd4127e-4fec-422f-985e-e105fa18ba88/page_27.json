@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 27,
+  "node_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 355,
+        "width": 2948,
+        "x": 765,
+        "y": 931
+      },
+      "entry_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Борисоглебский уезд, Андреевская волость",
+          "info": "безземельная крестьянка",
+          "name": "Анна",
+          "second_name": "Онисимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрина"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Мячковская волость, село Верхнее Мячково",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рожков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горбачев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Бабичевская волость, деревня Вороново",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горбачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горбачева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 348,
+        "width": 2948,
+        "x": 753,
+        "y": 1314
+      },
+      "entry_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская волость, деревня Тиучерь",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Голованова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Смоленская волость, деревня Безмина",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Каширская волость, деревня Звойки",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зотов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 377,
+        "width": 2933,
+        "x": 752,
+        "y": 1707
+      },
+      "entry_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Канатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канатова"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Осташевская волость, село Новлянское",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Бухоловская волость, деревня Лукьянова",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Канатов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 394,
+        "width": 2941,
+        "x": 754,
+        "y": 2213
+      },
+      "entry_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Акимочкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Косяевская волость, село Беззубово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Долкин"
+        },
+        {
+          "age": "",
+          "geo": "Веневский уезд, Узуновская волость, деревня Закрутые",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Разсказова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Долкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Долкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 2962,
+        "x": 757,
+        "y": 2714
+      },
+      "entry_id": "139a1a82-7b60-4410-bc53-3b1407f5db9d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталиия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савушкина"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макушин"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жукова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савушкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Егорова, Пронского уезда, Юраковской волости, село Степан",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савушкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

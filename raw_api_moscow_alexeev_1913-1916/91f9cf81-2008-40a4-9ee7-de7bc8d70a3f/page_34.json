@@ -1,0 +1,206 @@
+{
+  "year": 1916,
+  "page": 34,
+  "node_id": "bd5a6cb8-38ea-4e71-9360-812dbfbec069",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 779,
+        "width": 2748,
+        "x": 915,
+        "y": 1040
+      },
+      "entry_id": "bd5a6cb8-38ea-4e71-9360-812dbfbec069_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валерія",
+          "second_name": "Феофилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гоцуляк"
+        },
+        {
+          "age": "",
+          "geo": "Подольская губерния, Ямпольский уезд, Тимановская волость, деревня Вербовая",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гоцуляк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гоцуляк"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Владимир-Волынский уезд, Крыменская волость, село Дубечно",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Максимук"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, село",
+          "info": "крестьянка, девица",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сокорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 717,
+        "width": 2709,
+        "x": 919,
+        "y": 2048
+      },
+      "entry_id": "bd5a6cb8-38ea-4e71-9360-812dbfbec069_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "тот же уезд, Михайловская волость, деревня Старики",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кулиничев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Будаевская волость, деревня Орехова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кулиничев"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Щекина",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулиничева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 725,
+        "width": 2709,
+        "x": 930,
+        "y": 2972
+      },
+      "entry_id": "bd5a6cb8-38ea-4e71-9360-812dbfbec069_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Чернавская волость, село Чернавки",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Московская мещанка Устюжской слободы",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мишле"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария-Гелена",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "город Рига",
+          "info": "ратник ополчения II-го разряда, приписанный по рабочему окладу",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

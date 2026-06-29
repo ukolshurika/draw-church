@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 83,
+  "node_id": "d802aa94-f327-4049-b5b0-f63f520e438d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 502,
+        "width": 2695,
+        "x": 911,
+        "y": 1016
+      },
+      "entry_id": "d802aa94-f327-4049-b5b0-f63f520e438d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник сапожного цеха",
+          "name": "Александр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник сапожного цеха",
+          "name": "Павел",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Бежецкий уезд, Легощинская волость, деревня Сенино",
+          "info": "девица",
+          "name": "Пелагия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 663,
+        "width": 2688,
+        "x": 916,
+        "y": 1641
+      },
+      "entry_id": "d802aa94-f327-4049-b5b0-f63f520e438d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Ильинская волость, деревня Сенькино",
+          "info": "крестьянин",
+          "name": "Иларион",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петроковская волость, деревня Коврова",
+          "info": "крестьянка, девица",
+          "name": "Стефанида",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Курмышский уезд, Знаменская волость, село Княжья Гора",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никифоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2661,
+        "x": 932,
+        "y": 2369
+      },
+      "entry_id": "d802aa94-f327-4049-b5b0-f63f520e438d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шлюкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шлюков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Нестерово",
+          "info": "запасный нижний чин из крестьян",
+          "name": "Яков",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шлюков"
+        },
+        {
+          "age": "",
+          "geo": "село Пречистая Гора",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Евсеева"
+        },
+        {
+          "age": "",
+          "geo": "село Нестерово",
+          "info": "означенного села крестьянин",
+          "name": "Алексей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шлюков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 652,
+        "width": 2646,
+        "x": 924,
+        "y": 3107
+      },
+      "entry_id": "d802aa94-f327-4049-b5b0-f63f520e438d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, село",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Евтеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Киреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Киреев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Луховицкая волость, село Троицкие Боры",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гаврилин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Жуковская волость, село",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Киреев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

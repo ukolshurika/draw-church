@@ -1,0 +1,301 @@
+{
+  "year": 1914,
+  "page": 65,
+  "node_id": "de7dce46-9e14-4cf0-9221-bc5312fe3dea",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 459,
+        "width": 2872,
+        "x": 745,
+        "y": 901
+      },
+      "entry_id": "de7dce46-9e14-4cf0-9221-bc5312fe3dea_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сурканов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прохорова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Высокиническая волость, деревня Вязовка",
+          "info": "крестьянин",
+          "name": "Адриан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Портнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сурканова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Селиховская волость, деревня Марьино",
+          "info": "крестьянин",
+          "name": "Илия",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Прохоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сурканов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2882,
+        "x": 746,
+        "y": 1502
+      },
+      "entry_id": "de7dce46-9e14-4cf0-9221-bc5312fe3dea_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Лаврова, Московская губерния",
+          "info": "Верейский мещанин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Карасева"
+        },
+        {
+          "age": "",
+          "geo": "Верейский уезд, Смоленская волость, деревня Чоблокова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Журавлев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Кончинская волость, деревня Головинкина",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "муж крестной матери",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Карасев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 510,
+        "width": 2911,
+        "x": 732,
+        "y": 2051
+      },
+      "entry_id": "de7dce46-9e14-4cf0-9221-bc5312fe3dea_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Самцовская волость, деревня Ленькина",
+          "info": "",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тарасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Бакун, Московская губерния",
+          "info": "рузский мещанин",
+          "name": "Владимир",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "рузский мещанин",
+          "name": "Николай",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 450,
+        "width": 2892,
+        "x": 737,
+        "y": 2606
+      },
+      "entry_id": "de7dce46-9e14-4cf0-9221-bc5312fe3dea_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Красная",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Солдатов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Болотово",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Егоревов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Самозванцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Емельяновна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Самозванцева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Борисова, Пронского уезда, Абакумовской волости, деревня Болотово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Паврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самозванцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрена",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самозванцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Самозванцев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 331,
+  "node_id": "4afcbf9d-6069-42fd-80fc-06f20fd38604",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 470,
+        "width": 1488,
+        "x": 1090,
+        "y": 1078
+      },
+      "entry_id": "4afcbf9d-6069-42fd-80fc-06f20fd38604_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Губанков"
+        },
+        {
+          "age": "1 6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Губанкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1456,
+        "x": 1100,
+        "y": 1710
+      },
+      "entry_id": "4afcbf9d-6069-42fd-80fc-06f20fd38604_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Винкентиевич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Савицкий"
+        },
+        {
+          "age": "",
+          "geo": "Новогрудский уезд, Стволовичская волость, деревня Ольсевичи",
+          "info": "крестьянин",
+          "name": "Винкентий",
+          "other_status": "отец умершего",
+          "second_name": "Адамов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савицкий"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 658,
+        "width": 1430,
+        "x": 1109,
+        "y": 2385
+      },
+      "entry_id": "4afcbf9d-6069-42fd-80fc-06f20fd38604_0",
+      "people": [
+        {
+          "age": "30 лет",
+          "geo": "из дома Казанской железной дороги, Смоленская губерния, Гжатский уезд, Чальско-Дорская волость, деревня Колпиты",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Павлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 271,
+        "width": 1406,
+        "x": 1132,
+        "y": 3283
+      },
+      "entry_id": "4afcbf9d-6069-42fd-80fc-06f20fd38604_2",
+      "people": [
+        {
+          "age": "58 лет",
+          "geo": "",
+          "info": "из Петрограда надворный советник",
+          "name": "Сергей",
+          "second_name": "Сергеевич",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

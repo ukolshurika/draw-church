@@ -1,0 +1,372 @@
+{
+  "year": 1914,
+  "page": 103,
+  "node_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 447,
+        "width": 2868,
+        "x": 775,
+        "y": 836
+      },
+      "entry_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Сольвычегодский уезд, Березиволоцкая волость, деревня Толчин",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Каллистратова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пономарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский цеховой медной цеха",
+          "name": "Петр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филиппов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Леонид",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Афанасия",
+          "second_name": "Каллистратова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пономарева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 369,
+        "width": 2885,
+        "x": 763,
+        "y": 1391
+      },
+      "entry_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Савельевское, Петроградская губерния, посад Колпино",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Викентиевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Котрос"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котрос"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский цеховой медного цеха",
+          "name": "Петр",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орленкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Котрос"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 507,
+        "width": 2916,
+        "x": 744,
+        "y": 1830
+      },
+      "entry_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокія",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гермогенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константинъ",
+          "second_name": "Григорьевъ",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гермогеновъ"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Суходольская волость, село Петрушино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Герасимовъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гермогеновъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гермогенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокія",
+          "second_name": "Игнатіева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гермогенова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Белецкий уезд, Пречистенская волость, деревня Великое Село",
+          "info": "крестьянин",
+          "name": "Максимъ",
+          "second_name": "Ермолаевъ",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Морозовъ"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Даниловский уезд, Богословская волость, деревня Новенькое Село",
+          "info": "крестьянка",
+          "name": "Евгенія",
+          "second_name": "Ефремова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Белецкий уезд, Пречистенская волость, деревня Великое Село",
+          "info": "крестьянин",
+          "name": "Максимъ",
+          "other_status": "отец крестной матери",
+          "second_name": "Ермолаевъ",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Морозовъ"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 463,
+        "width": 2886,
+        "x": 755,
+        "y": 2366
+      },
+      "entry_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Жданова",
+          "info": "Грузинской волости",
+          "name": "Иван",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Горицы",
+          "info": "той же Грузинской волости",
+          "name": "Иван",
+          "second_name": "Касмин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверской уезд, Кулгардинская волость, деревня Галычево",
+          "info": "",
+          "name": "Илларион",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 591,
+        "width": 2895,
+        "x": 739,
+        "y": 2889
+      },
+      "entry_id": "5d2a0322-ba1f-4b3f-ba5b-307144fe0967_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Грузинская волость, деревня Горицы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чудинов"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Грузинская волость, деревня Горицы",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Клинская волость, деревня Мильшино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чудинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Барулина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Василиса",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чудинова"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Хорошовская волость, деревня Мневники",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Барулин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

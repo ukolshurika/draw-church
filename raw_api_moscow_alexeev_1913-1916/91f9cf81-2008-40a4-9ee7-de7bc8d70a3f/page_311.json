@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 311,
+  "node_id": "52aa33f7-0862-4535-8dac-ef61af5b0605",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 454,
+        "width": 1434,
+        "x": 1084,
+        "y": 1016
+      },
+      "entry_id": "52aa33f7-0862-4535-8dac-ef61af5b0605_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Арнищицкая волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ромашков"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ромашков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 327,
+        "width": 1412,
+        "x": 1100,
+        "y": 1664
+      },
+      "entry_id": "52aa33f7-0862-4535-8dac-ef61af5b0605_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Покровский Московский цеховой, Сапожный цех",
+          "info": "",
+          "name": "Павел",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 1404,
+        "x": 1111,
+        "y": 2214
+      },
+      "entry_id": "52aa33f7-0862-4535-8dac-ef61af5b0605_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Митино",
+          "info": "из дома Флякенштейн",
+          "name": "Димитрий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Молчанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 351,
+        "width": 1394,
+        "x": 1128,
+        "y": 2988
+      },
+      "entry_id": "52aa33f7-0862-4535-8dac-ef61af5b0605_1",
+      "people": [
+        {
+          "age": "25 лет",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 285,
+  "node_id": "0b491634-cbfa-4298-a979-1d676b44de50",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1489,
+        "x": 931,
+        "y": 827
+      },
+      "entry_id": "0b491634-cbfa-4298-a979-1d676b44de50_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Пятницкая волость, деревня Лапино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савоскин"
+        },
+        {
+          "age": "8",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Савоскина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 435,
+        "width": 1489,
+        "x": 933,
+        "y": 1448
+      },
+      "entry_id": "0b491634-cbfa-4298-a979-1d676b44de50_0",
+      "people": [
+        {
+          "age": "8 лет",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Тальцына"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, село Царево",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тальцын"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 298,
+        "width": 1475,
+        "x": 948,
+        "y": 2062
+      },
+      "entry_id": "0b491634-cbfa-4298-a979-1d676b44de50_2",
+      "people": [
+        {
+          "age": "77",
+          "geo": "",
+          "info": "Алексеевского монастыря монахиня",
+          "name": "Нектария",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 1473,
+        "x": 945,
+        "y": 2477
+      },
+      "entry_id": "0b491634-cbfa-4298-a979-1d676b44de50_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Боровская волость, село Городецкое",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ломакин"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ломакин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

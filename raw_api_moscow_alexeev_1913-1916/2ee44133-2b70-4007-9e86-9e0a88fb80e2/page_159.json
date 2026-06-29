@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 159,
+  "node_id": "db3199ea-bed4-48d9-bea1-29f2f96890ec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2767,
+        "x": 930,
+        "y": 1078
+      },
+      "entry_id": "db3199ea-bed4-48d9-bea1-29f2f96890ec_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Белореченская волость, деревня Брусяная",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Селифонов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыженская волость, деревня Степанщино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Селифонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Селифонова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Пелагия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Селифанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 679,
+        "width": 2779,
+        "x": 924,
+        "y": 1829
+      },
+      "entry_id": "db3199ea-bed4-48d9-bea1-29f2f96890ec_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "other_status": "жена крестного отца",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Шестеркина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грашева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шестеркин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Ямбиринская волость, село Аламазово",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грашев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грашева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 726,
+        "width": 2778,
+        "x": 942,
+        "y": 2619
+      },
+      "entry_id": "db3199ea-bed4-48d9-bea1-29f2f96890ec_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Гордеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Евфросиния",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Демидовская волость, деревня Лукино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соловьев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Хмельниковская волость, деревня Деревенск",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Еремьев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

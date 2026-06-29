@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 333,
+  "node_id": "01098dc6-e4de-4839-b462-f3bc5d4218bb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1467,
+        "x": 1087,
+        "y": 1074
+      },
+      "entry_id": "01098dc6-e4de-4839-b462-f3bc5d4218bb_3",
+      "people": [
+        {
+          "age": "64",
+          "geo": "",
+          "info": "указная послушница Алексеевского монастыря",
+          "name": "Мария",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Нахалова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 1461,
+        "x": 1094,
+        "y": 1580
+      },
+      "entry_id": "01098dc6-e4de-4839-b462-f3bc5d4218bb_2",
+      "people": [
+        {
+          "age": "6 часов",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из дома Шугаевых, сын потомственного дворянина",
+          "name": "Борис",
+          "other_status": "отец умершего",
+          "second_name": "Леонидович",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федосеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 679,
+        "width": 1456,
+        "x": 1100,
+        "y": 2227
+      },
+      "entry_id": "01098dc6-e4de-4839-b462-f3bc5d4218bb_1",
+      "people": [
+        {
+          "age": "11 дней",
+          "geo": "",
+          "info": "незаконнорожденная дочь",
+          "name": "Евгения",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Реброва"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Шебанцевская волость, деревня Сырьевая",
+          "info": "вдова, крестьянка",
+          "name": "Екатерина",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Реброва"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 1447,
+        "x": 1108,
+        "y": 3093
+      },
+      "entry_id": "01098dc6-e4de-4839-b462-f3bc5d4218bb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Апушкинская волость, село Островки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отецумершего",
+          "second_name": "Евстигнеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тюрин"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тюрин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

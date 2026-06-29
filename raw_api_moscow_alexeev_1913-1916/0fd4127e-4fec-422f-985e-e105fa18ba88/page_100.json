@@ -1,0 +1,299 @@
+{
+  "year": 1914,
+  "page": 100,
+  "node_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2867,
+        "x": 748,
+        "y": 878
+      },
+      "entry_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Новотинеевская волость, село",
+          "info": "крестьянка",
+          "name": "Фекла",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Белей",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Косенков"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Занковское, Логиновская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Герасимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2878,
+        "x": 752,
+        "y": 1401
+      },
+      "entry_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Просяные Поляны, Полтевская волость, Елатомский уезд, Тамбовская губерния",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Никоноров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Верина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Озерки, Козьмо-Демьянская волость, Ряжский уезд, Рязанская губерния",
+          "info": "крестьянская жена",
+          "name": "Вера",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Новикова, Рудневская волость, Верейский уезд, Московская губерния",
+          "info": "крестьянская девица",
+          "name": "Анисия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абрамова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 2840,
+        "x": 751,
+        "y": 2017
+      },
+      "entry_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Борецкая волость, село Борца",
+          "info": "крестьянская девица",
+          "name": "Марфа",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергачский уезд, Нечаевское село, деревня Никольская",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Диомидова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Белоречинская волость, деревня Брусяная",
+          "info": "",
+          "name": "Анастасий",
+          "second_name": "Пантелеимонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 473,
+        "width": 2849,
+        "x": 754,
+        "y": 2397
+      },
+      "entry_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Артишицкая волость, деревня Егорьевская",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фильченков"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Сергачский уезд, село Абосимово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фильченкова"
+        },
+        {
+          "age": "",
+          "geo": "Артишицкая волость, деревня Никольская",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Диомидова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фильченкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 2845,
+        "x": 759,
+        "y": 2938
+      },
+      "entry_id": "fbcb9e07-9ac4-43a1-81bd-9a209d96d8ed_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трисина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Савкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Смыгаловка, Рязанская губерния, Пронский уезд, Суйская волость",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Заречье, Виленская губерния, Лидский уезд, Шугинская волость",
+          "info": "крестьянин",
+          "name": "Варфоломей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козловскій"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

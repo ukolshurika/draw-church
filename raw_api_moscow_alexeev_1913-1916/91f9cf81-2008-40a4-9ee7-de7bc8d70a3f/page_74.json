@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 74,
+  "node_id": "c3faea80-2b4b-466a-aea1-efc0347d3b94",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 627,
+        "width": 2765,
+        "x": 957,
+        "y": 1017
+      },
+      "entry_id": "c3faea80-2b4b-466a-aea1-efc0347d3b94_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Денисова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андриянова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Ильинская волость, деревня Ераково",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, деревня Крутое",
+          "info": "крестьянин",
+          "name": "Кирил",
+          "other_status": "муж крестной матери",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Старожилово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Андриянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Андриянов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 2762,
+        "x": 960,
+        "y": 1660
+      },
+      "entry_id": "c3faea80-2b4b-466a-aea1-efc0347d3b94_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Каменская волость, деревня Михалево",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Субботинская волость, деревня Малые",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Каменская волость, деревня Михалево",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Одинцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 781,
+        "width": 2794,
+        "x": 949,
+        "y": 2315
+      },
+      "entry_id": "c3faea80-2b4b-466a-aea1-efc0347d3b94_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Богатищенская волость, село Рождествено",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Большаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Жданова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Дементиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жданова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Аладьинская волость, село Нижнее Мальцево",
+          "info": "крестьянка, девица",
+          "name": "Надежда",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Бозобразовская волость, деревня Тарасова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жданов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 621,
+        "width": 2806,
+        "x": 944,
+        "y": 3117
+      },
+      "entry_id": "c3faea80-2b4b-466a-aea1-efc0347d3b94_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "Ельнинский уезд, Мархоткинская волость, деревня Торжка",
+          "info": "крестьянка",
+          "name": "Мавра",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Лучанская волость, деревня Лапчик",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Прокофьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Агуров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Осельская волость, деревня Рёчицы",
+          "info": "крестьянин",
+          "name": "Платон",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Казакова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

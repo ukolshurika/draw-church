@@ -1,0 +1,320 @@
+{
+  "year": 1914,
+  "page": 114,
+  "node_id": "0345892d-c879-4292-b4ca-b22d8f4023c6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 466,
+        "width": 2934,
+        "x": 763,
+        "y": 870
+      },
+      "entry_id": "0345892d-c879-4292-b4ca-b22d8f4023c6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Моисеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гранева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Наумовка, Михайловская волость, Рязанская губерния",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гранев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Бычки, Маковская волость, Михайловская губерния",
+          "info": "вдова",
+          "name": "Пелагия",
+          "second_name": "Ионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филиппова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гранев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грошев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 2890,
+        "x": 754,
+        "y": 1400
+      },
+      "entry_id": "0345892d-c879-4292-b4ca-b22d8f4023c6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская дочь, девица",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тихомирова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Поповцева"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Московская губерния, Плосковская волость, деревня Новая Михайловская",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поповцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Поповцев"
+        },
+        {
+          "age": "",
+          "geo": "тот же уезд, Муриковской волости, деревня Лаврина",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 434,
+        "width": 2910,
+        "x": 754,
+        "y": 1951
+      },
+      "entry_id": "0345892d-c879-4292-b4ca-b22d8f4023c6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Всехсвятский уезд, деревня Алешнина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нила",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Павлова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Ковергинская волость, деревня Гамаенова",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чемоданов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Павлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2922,
+        "x": 740,
+        "y": 2494
+      },
+      "entry_id": "0345892d-c879-4292-b4ca-b22d8f4023c6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Сенгилеевский уезд, Старо-Тукшумско-Протоковская волость, село Бекетовка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Громов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Чальско-Дорская волость, деревня Босино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Кодратов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Громов"
+        },
+        {
+          "age": "",
+          "geo": "та же волость",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Гру",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Тюрамилин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Громова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2900,
+        "x": 745,
+        "y": 3018
+      },
+      "entry_id": "0345892d-c879-4292-b4ca-b22d8f4023c6_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Муриковская волость, деревня Судислово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

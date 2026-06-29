@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 134,
+  "node_id": "27b89b66-54e0-442a-a639-084d884786db",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 588,
+        "width": 2719,
+        "x": 921,
+        "y": 1136
+      },
+      "entry_id": "27b89b66-54e0-442a-a639-084d884786db_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Акимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чевкиная",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балясников"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, деревня Чевкиная",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чевкиная",
+          "info": "крестьянская девица",
+          "name": "Наталия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сорокина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 569,
+        "width": 2736,
+        "x": 918,
+        "y": 1906
+      },
+      "entry_id": "27b89b66-54e0-442a-a639-084d884786db_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чанаев"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "other_status": "жена крестного отца",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Копина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чанаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чанаева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село Петрушино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чанаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 697,
+        "width": 2754,
+        "x": 913,
+        "y": 2710
+      },
+      "entry_id": "27b89b66-54e0-442a-a639-084d884786db_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Покровско-Васильевская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Паршинова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Иверская волость, село Станишино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Паршинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Паршинова"
+        },
+        {
+          "age": "",
+          "geo": "Старицкий уезд, Тредубовская волость, деревня Бутово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

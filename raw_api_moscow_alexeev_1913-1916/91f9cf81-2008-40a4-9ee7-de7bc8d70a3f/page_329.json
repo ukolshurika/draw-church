@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 329,
+  "node_id": "1e2fc9d8-8860-46d4-b1fd-7433f25b7434",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 563,
+        "width": 1397,
+        "x": 1099,
+        "y": 1027
+      },
+      "entry_id": "1e2fc9d8-8860-46d4-b1fd-7433f25b7434_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Грязовецкий уезд, Раменская волость, деревня Коргачево",
+          "info": "крестьянка, девица",
+          "name": "Екатерина",
+          "other_status": "мать умершего",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Березина"
+        },
+        {
+          "age": "12 дней",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Березин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 401,
+        "width": 1446,
+        "x": 1109,
+        "y": 1752
+      },
+      "entry_id": "1e2fc9d8-8860-46d4-b1fd-7433f25b7434_1",
+      "people": [
+        {
+          "age": "54",
+          "geo": "Владимирская губерния, город Муром",
+          "info": "из дома Григорьева мещанка, девица",
+          "name": "Олимпиада",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гладкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 1452,
+        "x": 1109,
+        "y": 2353
+      },
+      "entry_id": "1e2fc9d8-8860-46d4-b1fd-7433f25b7434_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Косяевская волость, село Малынь",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бурмистров"
+        },
+        {
+          "age": "2 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бурмистров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 1438,
+        "x": 1109,
+        "y": 3049
+      },
+      "entry_id": "1e2fc9d8-8860-46d4-b1fd-7433f25b7434_2",
+      "people": [
+        {
+          "age": "1 месяц 17 дней",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чеховский"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

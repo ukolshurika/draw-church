@@ -1,0 +1,331 @@
+{
+  "year": 1914,
+  "page": 19,
+  "node_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 358,
+        "width": 2923,
+        "x": 768,
+        "y": 894
+      },
+      "entry_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федонин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Куркинская волость, село Щербаково",
+          "info": "крестьянин",
+          "name": "Никанор",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федонин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федонина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 429,
+        "width": 2925,
+        "x": 761,
+        "y": 1276
+      },
+      "entry_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пасынкова"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Парфентьевская волость, деревня Хорошева",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Барзыгин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пасынкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Романенко"
+        },
+        {
+          "age": "",
+          "geo": "Слободской уезд, Косинская волость, деревня Андрошинская",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пасынков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2933,
+        "x": 764,
+        "y": 1747
+      },
+      "entry_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Фроловская волость, деревня Иванково",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курынин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ильина",
+          "info": "Рязанский цеховой",
+          "name": "Иван",
+          "second_name": "Титов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Рязанская цеховая девица",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алексеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 468,
+        "width": 2931,
+        "x": 765,
+        "y": 2197
+      },
+      "entry_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Раевская волость, деревня Бахарево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Иларионова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Давыдковская волость, деревня Аксентьево",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2938,
+        "x": 770,
+        "y": 2666
+      },
+      "entry_id": "573d2f8a-7e4e-4cb2-9206-50d7a5131186_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыпленкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова",
+          "name": "Матрона",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Евтеева"
+        },
+        {
+          "age": "",
+          "geo": "Перемышльский уезд, Желѣзцовская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыпленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Цыпленков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Большесельская волость, деревня Сохи",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

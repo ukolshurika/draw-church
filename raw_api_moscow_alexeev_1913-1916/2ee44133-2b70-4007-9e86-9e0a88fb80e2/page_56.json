@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 56,
+  "node_id": "344ff496-3ed3-4dec-b62c-c0bb64537b42",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 593,
+        "width": 2754,
+        "x": 911,
+        "y": 1166
+      },
+      "entry_id": "344ff496-3ed3-4dec-b62c-c0bb64537b42_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горюнова"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Щербининский уезд, Щербининская волость, деревня Родинцы",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Ардатовский уезд, Симбирская волость, деревня Михайловки",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Покровская волость, деревня Нечаева",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кошина"
+        },
+        {
+          "age": "въ 4",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горюнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2776,
+        "x": 907,
+        "y": 1893
+      },
+      "entry_id": "344ff496-3ed3-4dec-b62c-c0bb64537b42_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фаддеева"
+        },
+        {
+          "age": "",
+          "geo": "Сергиев Посад",
+          "info": "мещанка, девица",
+          "name": "Анастасия",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фаддеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фаддеева"
+        },
+        {
+          "age": "",
+          "geo": "Сергиев Посад",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фаддеев"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ольговская волость, деревня Мышинково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мосягин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2791,
+        "x": 906,
+        "y": 2510
+      },
+      "entry_id": "344ff496-3ed3-4dec-b62c-c0bb64537b42_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Антошин"
+        },
+        {
+          "age": "",
+          "geo": "Троицко-Лобановская волость, село Троицкое",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, волость и село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фябовичев"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Троицко-Лобановская волость, деревня Полупироговая",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Миронов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Антошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Антошина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2796,
+        "x": 910,
+        "y": 3218
+      },
+      "entry_id": "344ff496-3ed3-4dec-b62c-c0bb64537b42_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Милюковская волость, деревня Малые Купалищи",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гусева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Тириблевская волость, деревня Брыковы Горы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гусев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

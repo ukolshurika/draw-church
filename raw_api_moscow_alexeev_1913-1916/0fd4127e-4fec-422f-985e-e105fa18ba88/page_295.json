@@ -1,0 +1,86 @@
+{
+  "year": 1914,
+  "page": 295,
+  "node_id": "d49c5503-ada6-442e-be38-84d033d58c8e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 402,
+        "width": 1497,
+        "x": 969,
+        "y": 843
+      },
+      "entry_id": "d49c5503-ada6-442e-be38-84d033d58c8e_2",
+      "people": [
+        {
+          "age": "76",
+          "geo": "Тверская губерния, Зубцовский уезд, Столыпинская волость, деревня Барашево",
+          "info": "крестьянин",
+          "name": "Евгений",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лазарев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 377,
+        "width": 1457,
+        "x": 972,
+        "y": 1410
+      },
+      "entry_id": "d49c5503-ada6-442e-be38-84d033d58c8e_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федулов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, село Стафурлово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федулов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1448,
+        "x": 961,
+        "y": 1938
+      },
+      "entry_id": "d49c5503-ada6-442e-be38-84d033d58c8e_1",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Калужская губерния, Тарусский уезд, Буриковская волость, село",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Фролов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

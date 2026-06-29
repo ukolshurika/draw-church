@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 138,
+  "node_id": "7f8a37d5-67ac-462d-8ae0-a0b9e89f6b63",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 674,
+        "width": 2726,
+        "x": 926,
+        "y": 1067
+      },
+      "entry_id": "7f8a37d5-67ac-462d-8ae0-a0b9e89f6b63_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Хлопков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Кузнецовская волость, село Бабаева",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хлопков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хлопкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Шараповская волость, деревня Татарки",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Волков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2730,
+        "x": 925,
+        "y": 1972
+      },
+      "entry_id": "7f8a37d5-67ac-462d-8ae0-a0b9e89f6b63_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шорина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена инженера-строителя",
+          "name": "Екатерина",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Петерка"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "помощник присяжного поверенного",
+          "name": "Николай",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Холин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "инженер-механик",
+          "name": "Алексей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шорин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Олимпиада",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шорина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 691,
+        "width": 2715,
+        "x": 929,
+        "y": 2738
+      },
+      "entry_id": "7f8a37d5-67ac-462d-8ae0-a0b9e89f6b63_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Савоцкая волость, деревня Большие Савки",
+          "info": "крестьянка",
+          "name": "Иустиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрушина"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Кадниковский уезд, Рубелевская волость, деревня Сидорова",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мартюшев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Козак"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Хисловская волость, деревня Осиповка",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козак"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козак"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

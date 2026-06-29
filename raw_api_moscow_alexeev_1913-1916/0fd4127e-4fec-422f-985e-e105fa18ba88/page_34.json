@@ -1,0 +1,434 @@
+{
+  "year": 1914,
+  "page": 34,
+  "node_id": "8de2363d-dbad-48e6-9994-131495dfc30b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 432,
+        "width": 2842,
+        "x": 686,
+        "y": 910
+      },
+      "entry_id": "8de2363d-dbad-48e6-9994-131495dfc30b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Артемиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чувикова"
+        },
+        {
+          "age": "",
+          "geo": "той же слободы",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чибуров"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Стрелецкая волость, деревня Красенок",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Мартинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чуев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чувикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смолевская волость, село Лубянки",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чувиков"
+        },
+        {
+          "age": "",
+          "geo": "той же слободы",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Протасова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 462,
+        "width": 2850,
+        "x": 693,
+        "y": 1397
+      },
+      "entry_id": "8de2363d-dbad-48e6-9994-131495dfc30b_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "Ряжский уезд, село Пушкина",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Квасыничи",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Кодратов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Люцко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Новая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Квасыничи",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Петров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 521,
+        "width": 2839,
+        "x": 701,
+        "y": 1820
+      },
+      "entry_id": "8de2363d-dbad-48e6-9994-131495dfc30b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Виленская волость, деревня Кукуб",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Белыкинская волость, деревня Люторская",
+          "info": "крестьянин",
+          "name": "Павел",
+          "other_status": "муж другой крестной матери",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Комаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Серпуховский уезд, Белыкинская волость, деревня Люторская",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Олимпиада",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "other_status": "другая крестная мать",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Комарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 679,
+        "width": 2861,
+        "x": 707,
+        "y": 2284
+      },
+      "entry_id": "8de2363d-dbad-48e6-9994-131495dfc30b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Нарышкинская волость, деревня Струково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Люторская",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рельнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Серпуховский уезд, Белыкинская волость, деревня Люторская",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Люторская",
+          "info": "крестьянка",
+          "name": "Олимпияда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Комарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сомова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село Сутки",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сомов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сомова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Люторская",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Филатова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1706,
+        "x": 709,
+        "y": 2955
+      },
+      "entry_id": "8de2363d-dbad-48e6-9994-131495dfc30b_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Андреянов"
+        },
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Белыкинская волость, деревня Люторцевская",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комаров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Люторцевская",
+          "info": "крестьянка",
+          "name": "Олимпиада",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Комар"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Серпуховский уезд, Белыкинская волость, деревня Люторцевская",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Адерхинская волость, деревня Струкова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Андреянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Филатова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андреянова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Люторцевская",
+          "info": "крестьянка",
+          "name": "Екатерина",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рельнова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

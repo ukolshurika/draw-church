@@ -1,0 +1,309 @@
+{
+  "year": 1914,
+  "page": 107,
+  "node_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 429,
+        "width": 2776,
+        "x": 754,
+        "y": 846
+      },
+      "entry_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Завьялов"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Микляевская волость, деревня Лытково",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Завьялов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Завьялова"
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, Никольская волость, деревня Варвариха",
+          "info": "крестьянская дочь, девица",
+          "name": "Анета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Заозерская волость, деревня Губино",
+          "info": "священник",
+          "name": "Василий",
+          "second_name": "Смирнов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2799,
+        "x": 736,
+        "y": 1283
+      },
+      "entry_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Буйгородская волость, село Кузино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Темнов"
+        },
+        {
+          "age": "",
+          "geo": "Клинцовский уезд, Калеевская волость, деревня Кузино",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Родионов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, девица",
+          "name": "Домника",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 505,
+        "width": 2780,
+        "x": 739,
+        "y": 1830
+      },
+      "entry_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "Боровский уезд, Спасопрогнаньинская деревня Исинской Заводи",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ягунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Исканская волость, деревня Услиново",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Остин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сусановская волость, деревня Язвы",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баранов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 478,
+        "width": 2788,
+        "x": 727,
+        "y": 2338
+      },
+      "entry_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Мериново",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бурилова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мериново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бурилов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Копнинская волость, деревня Мериново",
+          "info": "крестьянка, девица",
+          "name": "Анастасия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бурилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бурилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 568,
+        "width": 2813,
+        "x": 722,
+        "y": 2852
+      },
+      "entry_id": "2299a8e7-c790-4d2c-bf67-7d0280ab4295_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сотикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Тульская мещанка, вдова",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Долгова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Коптевская волость, сельцо Старое Петрищево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сотиков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд",
+          "info": "мещанин",
+          "name": "Максим",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Глафира",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сотикова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

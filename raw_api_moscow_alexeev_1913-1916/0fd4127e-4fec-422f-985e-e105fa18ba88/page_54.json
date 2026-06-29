@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 54,
+  "node_id": "f1ccc911-5b1c-484e-9835-e8e6a2a97a13",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 484,
+        "width": 2892,
+        "x": 696,
+        "y": 907
+      },
+      "entry_id": "f1ccc911-5b1c-484e-9835-e8e6a2a97a13_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Тарусский уезд, Бялянинская волость, деревня Шохово",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственная дворянка",
+          "name": "Александра",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыбинская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Терентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Романова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Мытищинская волость, деревня Малыя Мытицы",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жаринов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 544,
+        "width": 2910,
+        "x": 702,
+        "y": 1452
+      },
+      "entry_id": "f1ccc911-5b1c-484e-9835-e8e6a2a97a13_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Александровский уезд, Константиновская волость, деревня Козлова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Ереминская волость, деревня Комарова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Леонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Леонова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Никольско-Тульское село Козинки",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Леонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 538,
+        "width": 2873,
+        "x": 688,
+        "y": 2038
+      },
+      "entry_id": "f1ccc911-5b1c-484e-9835-e8e6a2a97a13_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Широнин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "other_status": "муж крестной матери",
+          "second_name": "Прокопьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Голикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Леонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Леонова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Бронницкий уезд, Чанлыженская волость, деревня Комаровская",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Леонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 691,
+        "width": 2897,
+        "x": 692,
+        "y": 2643
+      },
+      "entry_id": "f1ccc911-5b1c-484e-9835-e8e6a2a97a13_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Брыни, Ельнинский уезд, Смоленская губерния, Коноплинская волость, Мархоткинская волость, Сырокоренье",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сафанеков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Сырокоренье, Мархоткинская волость, Ельнинский уезд, Смоленская губерния",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гайдуков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сафанекова"
+        },
+        {
+          "age": "",
+          "geo": "село Селенино, Романовская волость, Борисоглебский уезд, Ярославская губерния",
+          "info": "крестьянка",
+          "name": "Анисья",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Разина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сафанеков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

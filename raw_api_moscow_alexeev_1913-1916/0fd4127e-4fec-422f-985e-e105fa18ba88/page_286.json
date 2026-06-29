@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 286,
+  "node_id": "e2d9e451-bc77-4e4a-96de-07929105f0b9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 445,
+        "width": 1442,
+        "x": 957,
+        "y": 803
+      },
+      "entry_id": "e2d9e451-bc77-4e4a-96de-07929105f0b9_3",
+      "people": [
+        {
+          "age": "36",
+          "geo": "Смоленская губерния, Ельнинский уезд, Налокнинская волость, деревня Зем. Починка",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кругликов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 335,
+        "width": 1438,
+        "x": 965,
+        "y": 1433
+      },
+      "entry_id": "e2d9e451-bc77-4e4a-96de-07929105f0b9_0",
+      "people": [
+        {
+          "age": "63",
+          "geo": "Малоярославецкий уезд, Московская волость, деревня Екомовка",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Зеленцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 358,
+        "width": 1469,
+        "x": 960,
+        "y": 2035
+      },
+      "entry_id": "e2d9e451-bc77-4e4a-96de-07929105f0b9_2",
+      "people": [
+        {
+          "age": "75",
+          "geo": "",
+          "info": "вдова статского советника",
+          "name": "Наталья",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Залуговская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 1461,
+        "x": 962,
+        "y": 2566
+      },
+      "entry_id": "e2d9e451-bc77-4e4a-96de-07929105f0b9_1",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Коновалов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Верхоупская волость, деревня Красная Слобода",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коновалов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

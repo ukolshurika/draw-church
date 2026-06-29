@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 190,
+  "node_id": "9cd6b5e2-9293-4c00-a0e7-de4d02dc0052",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2785,
+        "x": 896,
+        "y": 1012
+      },
+      "entry_id": "9cd6b5e2-9293-4c00-a0e7-de4d02dc0052_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ионочкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Погостинская волость, деревня Полухтинских выселок",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ионочкин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ионочкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ионочкина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня, Полухтинских выселок",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мелехин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2792,
+        "x": 897,
+        "y": 1630
+      },
+      "entry_id": "9cd6b5e2-9293-4c00-a0e7-de4d02dc0052_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Губинская волость, деревня Новое Новоселье",
+          "info": "крестьянская девица",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Проскуровская волость, деревня Нижняя Бруслановка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Лебедянский уезд, Ищенская волость, село Рождество",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жигалов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 505,
+        "width": 2808,
+        "x": 898,
+        "y": 2305
+      },
+      "entry_id": "9cd6b5e2-9293-4c00-a0e7-de4d02dc0052_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Афанасьевская волость, село",
+          "info": "вдова крестьянина",
+          "name": "Мавра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Савощева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лапин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Малевка",
+          "info": "крестьянская девица",
+          "name": "Екатерина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лапина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, село Малевка",
+          "info": "священник",
+          "name": "Симеон",
+          "second_name": "Корчагин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Малевка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юдаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 668,
+        "width": 2837,
+        "x": 884,
+        "y": 2876
+      },
+      "entry_id": "9cd6b5e2-9293-4c00-a0e7-de4d02dc0052_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Благодухова",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "other_status": "муж крестной матери",
+          "second_name": "Минаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Секретарева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Фомич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Копин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Харитонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Секретарева"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Городищенская волость, 1-е Флоровское общество",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Секретарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Секретарев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

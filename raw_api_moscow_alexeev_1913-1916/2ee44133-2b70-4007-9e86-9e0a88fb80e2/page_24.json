@@ -1,0 +1,145 @@
+{
+  "year": 1915,
+  "page": 24,
+  "node_id": "eebc052a-cd6f-4d0d-9be3-5644d9fced63",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 527,
+        "width": 2836,
+        "x": 915,
+        "y": 1070
+      },
+      "entry_id": "eebc052a-cd6f-4d0d-9be3-5644d9fced63_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Калужского мещанина жена",
+          "name": "Анна",
+          "other_status": "муж крестной матери",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Дымова"
+        },
+        {
+          "age": "",
+          "geo": "Алексеевская слобода",
+          "info": "московский мещанин",
+          "name": "Илья",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Черных"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Черных"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "той же слободы мещанин",
+          "name": "Дмитрий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Черных"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Черных"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 788,
+        "width": 2849,
+        "x": 916,
+        "y": 1690
+      },
+      "entry_id": "eebc052a-cd6f-4d0d-9be3-5644d9fced63_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, село Кистово",
+          "info": "",
+          "name": "Ларіонъ",
+          "second_name": "Косминъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Оськинъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Глебовская волость, село Мартиновское",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Житков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Вера",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Житкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Степан",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость, деревня Козанская",
+          "info": "",
+          "name": "Филипп",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 48,
+  "node_id": "eebe6467-16fa-4c64-ac81-b0429068a66c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2771,
+        "x": 973,
+        "y": 1073
+      },
+      "entry_id": "eebe6467-16fa-4c64-ac81-b0429068a66c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Чулковская волость, деревня Михайловских слобод",
+          "info": "крестьянин",
+          "name": "Евсей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сироткин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Воскресенский уезд",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Лаврентьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка, вдова Гостиной слободы",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прохорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 2787,
+        "x": 968,
+        "y": 1732
+      },
+      "entry_id": "eebe6467-16fa-4c64-ac81-b0429068a66c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Зинаидова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Изотова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка, жена крестьянина",
+          "name": "Пелагия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Золотарева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Дешовская волость, сельцо Демовка",
+          "info": "крестьянка, вдова",
+          "name": "Зинаида",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Изотова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 581,
+        "width": 2788,
+        "x": 970,
+        "y": 2279
+      },
+      "entry_id": "eebe6467-16fa-4c64-ac81-b0429068a66c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Хатунская волость, деревня Митино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Молчанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Молчанова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лапшин"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, деревня Матвеевка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шестоперов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лапшина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2788,
+        "x": 967,
+        "y": 3009
+      },
+      "entry_id": "eebe6467-16fa-4c64-ac81-b0429068a66c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Старолетовская волость, село Вокино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Калинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московская мещанка, девица Бронной слободы",
+          "name": "Лидия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алексеева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

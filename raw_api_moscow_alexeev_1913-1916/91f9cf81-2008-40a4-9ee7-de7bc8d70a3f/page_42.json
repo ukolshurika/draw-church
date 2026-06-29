@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 42,
+  "node_id": "9eb5364f-d40a-4f45-a1c8-61460c4f7538",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2775,
+        "x": 920,
+        "y": 1032
+      },
+      "entry_id": "9eb5364f-d40a-4f45-a1c8-61460c4f7538_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Зинаида",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кулькова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, деревня Ивановка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кульков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кульков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Бобровская волость",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Озерецкий"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2782,
+        "x": 917,
+        "y": 1686
+      },
+      "entry_id": "9eb5364f-d40a-4f45-a1c8-61460c4f7538_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мигунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мигунов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Угодско-Заводская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лисыцын"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Спасская волость, деревня Пирогова",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чененова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Коробовщинская волость, село Флорищи",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мигунов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2756,
+        "x": 916,
+        "y": 2391
+      },
+      "entry_id": "9eb5364f-d40a-4f45-a1c8-61460c4f7538_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Лохвицкий уезд, Песковская волость, село Песок",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гузенко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гузенко"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, село Мочиль",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гузенко"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Кормовская волость, село Мочиль",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Столярова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2770,
+        "x": 924,
+        "y": 3106
+      },
+      "entry_id": "9eb5364f-d40a-4f45-a1c8-61460c4f7538_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Болдина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Богородская волость, село Летниковка",
+          "info": "крестьянка",
+          "name": "Варвара",
+          "other_status": "жена крестьянина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Болдин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Остроуховская волость, деревня Летниковка",
+          "info": "крестьянин",
+          "name": "Леонтий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Болдин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Одуевская волость, село Летниковка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мешков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

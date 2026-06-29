@@ -1,0 +1,97 @@
+{
+  "year": 1914,
+  "page": 258,
+  "node_id": "892adb15-f45c-4bd1-a994-d0027f20f0ef",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 436,
+        "width": 1430,
+        "x": 951,
+        "y": 800
+      },
+      "entry_id": "892adb15-f45c-4bd1-a994-d0027f20f0ef_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гусатинский уезд, Рождественская волость, деревня Холмины",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Королев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 328,
+        "width": 1421,
+        "x": 953,
+        "y": 1324
+      },
+      "entry_id": "892adb15-f45c-4bd1-a994-d0027f20f0ef_1",
+      "people": [
+        {
+          "age": "21",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "мещанин",
+          "name": "Борис",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шамов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1481,
+        "x": 950,
+        "y": 1783
+      },
+      "entry_id": "892adb15-f45c-4bd1-a994-d0027f20f0ef_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "отставной капитан",
+          "name": "Борис",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шамов"
+        },
+        {
+          "age": "54",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Ситникова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

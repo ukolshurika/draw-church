@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 6,
+  "node_id": "1708667f-aed3-41f5-8bf6-78f58eaec59a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 820,
+        "width": 2831,
+        "x": 904,
+        "y": 1017
+      },
+      "entry_id": "1708667f-aed3-41f5-8bf6-78f58eaec59a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мартьянова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мартьянов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Никольско-Птанская волость, село Никольское",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мартьянов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Московская волость, деревня Образцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федосеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Колуберенская волость, деревня Новоселово",
+          "info": "девица",
+          "name": "Марфа",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ефремова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 663,
+        "width": 2818,
+        "x": 906,
+        "y": 1845
+      },
+      "entry_id": "1708667f-aed3-41f5-8bf6-78f58eaec59a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Серпухов",
+          "info": "мещанка, девица",
+          "name": "Евдокия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белоусова"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Чебоксарский уезд, Посадско-Сотниковская волость, деревня Новинская",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фралов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фралова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фралова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 601,
+        "width": 2843,
+        "x": 888,
+        "y": 2589
+      },
+      "entry_id": "1708667f-aed3-41f5-8bf6-78f58eaec59a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Веневский уезд, Косявская волость, деревня Клемово",
+          "info": "вдова крестьянина",
+          "name": "Екатерина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Узуновская волость, деревня Ильина",
+          "info": "в доме Разумовского крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маркина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Белыническая волость, деревня Косово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Данилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Маркин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2858,
+        "x": 882,
+        "y": 3262
+      },
+      "entry_id": "1708667f-aed3-41f5-8bf6-78f58eaec59a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Констанденкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Констанденков"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Азарово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кондрашкин"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "жена крестьянина",
+          "name": "Минодора",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Констанденкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Торуска",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Устинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Констанденков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

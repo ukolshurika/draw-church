@@ -1,0 +1,257 @@
+{
+  "year": 1914,
+  "page": 138,
+  "node_id": "93605b9b-16e4-40a4-95e8-fd701fac4e81",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 477,
+        "width": 2834,
+        "x": 778,
+        "y": 896
+      },
+      "entry_id": "93605b9b-16e4-40a4-95e8-fd701fac4e81_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Силаева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мещеринская волость, село Починино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Силаев"
+        },
+        {
+          "age": "",
+          "geo": "село Починино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Силаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверская мещанка, девица",
+          "name": "Елена",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Силаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 510,
+        "width": 2862,
+        "x": 768,
+        "y": 1533
+      },
+      "entry_id": "93605b9b-16e4-40a4-95e8-fd701fac4e81_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Шихино",
+          "info": "крестьянская девица",
+          "name": "Евфимия",
+          "second_name": "Филимонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, деревня Шихино",
+          "info": "диакон",
+          "name": "Владимир",
+          "second_name": "Фортунатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Комово",
+          "info": "греческий подданный",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "село Комово",
+          "info": "крестьянская девица",
+          "name": "Елена",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 542,
+        "width": 2885,
+        "x": 761,
+        "y": 2138
+      },
+      "entry_id": "93605b9b-16e4-40a4-95e8-fd701fac4e81_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дьяконова"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Знаменский уезд, Домовская волость, деревня Новая Слободка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Онисимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Сезеновская волость, село Сланское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Фирсов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сысоев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 679,
+        "width": 2885,
+        "x": 747,
+        "y": 2776
+      },
+      "entry_id": "93605b9b-16e4-40a4-95e8-fd701fac4e81_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, деревня Иванищи",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Прохоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Ионатиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Песчаницкая волость, село Матвеево",
+          "info": "крестьянин",
+          "name": "Ионатий",
+          "second_name": "Доматов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Песчаницкая волость, деревня Трубина",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Дометиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Павлова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

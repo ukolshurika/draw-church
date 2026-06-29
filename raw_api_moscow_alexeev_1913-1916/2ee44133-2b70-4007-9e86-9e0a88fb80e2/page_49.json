@@ -1,0 +1,248 @@
+{
+  "year": 1915,
+  "page": 49,
+  "node_id": "0b6deced-6125-4c2f-a123-e28679585904",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 571,
+        "width": 2750,
+        "x": 969,
+        "y": 1093
+      },
+      "entry_id": "0b6deced-6125-4c2f-a123-e28679585904_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксиньинская волость, деревня Бороздоток",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Логгинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шереметьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шереметьев"
+        },
+        {
+          "age": "",
+          "geo": "Щукинская волость, деревня Соколово",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кулемов"
+        },
+        {
+          "age": "",
+          "geo": "Щукинская волость, село Никольское",
+          "info": "крестьянка",
+          "name": "Просковья",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гордеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шереметьева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 547,
+        "width": 2762,
+        "x": 977,
+        "y": 1817
+      },
+      "entry_id": "0b6deced-6125-4c2f-a123-e28679585904_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Богословская волость, село Братовщина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гуськов"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Марковская волость, деревня Можасеево",
+          "info": "крестьянская дочь, девица",
+          "name": "Матрона",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Луканина"
+        },
+        {
+          "age": "",
+          "geo": "Мытищинская волость, село Пушкино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кабинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кабинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кабинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 461,
+        "width": 2753,
+        "x": 985,
+        "y": 2380
+      },
+      "entry_id": "0b6deced-6125-4c2f-a123-e28679585904_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Леонидов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "инженер-агроном",
+          "name": "Леонид",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "имеющая звание зубного врача",
+          "name": "Нина",
+          "other_status": "отец крестной матери",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "брат родителя",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2763,
+        "x": 990,
+        "y": 3029
+      },
+      "entry_id": "0b6deced-6125-4c2f-a123-e28679585904_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Мокринская волость, село Церлево",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Андреева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шапошникова"
+        },
+        {
+          "age": "",
+          "geo": "Норский посад, Ярославская губерния",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шапошников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шапошникова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

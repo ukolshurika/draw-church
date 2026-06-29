@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 297,
+  "node_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 324,
+        "width": 1466,
+        "x": 1077,
+        "y": 1122
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_5",
+      "people": [
+        {
+          "age": "80",
+          "geo": "Тульская губерния, Ефремовский уезд, Ступинская волость, село Слободское",
+          "info": "вдова",
+          "name": "Феодосия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Клепичева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 352,
+        "width": 1397,
+        "x": 1078,
+        "y": 1574
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_4",
+      "people": [
+        {
+          "age": "21",
+          "geo": "Киевская губерния, Васильковский уезд, Узинская волость, село Блощинец",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ковченков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 292,
+        "width": 1486,
+        "x": 1087,
+        "y": 2058
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Мосальский уезд, Масурская волость, деревня Заугорская",
+          "info": "",
+          "name": "Василиса",
+          "other_status": "мать умершего",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 319,
+        "width": 1476,
+        "x": 1085,
+        "y": 2509
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гжатская",
+          "info": "мещанин",
+          "name": "Матвей",
+          "other_status": "отец умершей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Матвеева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1490,
+        "x": 1087,
+        "y": 2962
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Ольговская волость, село Новое",
+          "info": "",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Терентьев"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Терентьева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 380,
+        "width": 1435,
+        "x": 1083,
+        "y": 3370
+      },
+      "entry_id": "fcb531b0-a67e-4a14-a4e9-7630de5ad436_1",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "Рязанская губерния, Раненбургский уезд, Новотишевская волость, деревня Лопатки",
+          "info": "крестьянин, сын вдовы Татьяны Кирилловой Объедковой",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 143,
+  "node_id": "c5c73617-d188-463b-8f6f-e943e7e40797",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2786,
+        "x": 929,
+        "y": 1045
+      },
+      "entry_id": "c5c73617-d188-463b-8f6f-e943e7e40797_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Романовская волость, деревня Маслова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бычков"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Слободской уезд, Касинская волость, деревня Андрошина",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пасынкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Устюжская слобода",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сироткин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сироткин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сироткина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 613,
+        "width": 2793,
+        "x": 917,
+        "y": 1618
+      },
+      "entry_id": "c5c73617-d188-463b-8f6f-e943e7e40797_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость",
+          "info": "безземельный крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горчаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена полицейского надзирателя 1-го участка Рогожской части коллежского регистратора",
+          "name": "Анна",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Наволочная"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2817,
+        "x": 900,
+        "y": 2261
+      },
+      "entry_id": "c5c73617-d188-463b-8f6f-e943e7e40797_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "тот же уезд, Жерновская волость, деревня Высокая",
+          "info": "жена крестьянина",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Малоархангельский уезд, Воровцовская волость, село Ворово",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алехин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алехина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алехина"
+        },
+        {
+          "age": "",
+          "geo": "Малоархангельский уезд, Дроздовская волость, деревня Лазаревка",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гревцев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 716,
+        "width": 2826,
+        "x": 891,
+        "y": 3022
+      },
+      "entry_id": "c5c73617-d188-463b-8f6f-e943e7e40797_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд",
+          "info": "мещанин",
+          "name": "Афанасий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Розанов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Серединская волость, деревня Добронивка",
+          "info": "вдова крестьянина",
+          "name": "Елена",
+          "second_name": "Терентьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Конова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Арефиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смолякова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Чальско-Дорская волость, деревня Игнатово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смоляков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смолякова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

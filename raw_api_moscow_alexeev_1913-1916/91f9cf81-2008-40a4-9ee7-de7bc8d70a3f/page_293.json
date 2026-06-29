@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 293,
+  "node_id": "eeec0778-d25a-483c-8ff6-9bc5f8d738b0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 485,
+        "width": 1487,
+        "x": 1009,
+        "y": 1104
+      },
+      "entry_id": "eeec0778-d25a-483c-8ff6-9bc5f8d738b0_3",
+      "people": [
+        {
+          "age": "15 лет",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Копасово",
+          "info": "из дома Розанова крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Жидкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1467,
+        "x": 997,
+        "y": 1743
+      },
+      "entry_id": "eeec0778-d25a-483c-8ff6-9bc5f8d738b0_2",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Горовидка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "other_status": "отец умершего",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 500,
+        "width": 1482,
+        "x": 978,
+        "y": 2385
+      },
+      "entry_id": "eeec0778-d25a-483c-8ff6-9bc5f8d738b0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Дубровино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рубцов"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Рубцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1482,
+        "x": 965,
+        "y": 3086
+      },
+      "entry_id": "eeec0778-d25a-483c-8ff6-9bc5f8d738b0_1",
+      "people": [
+        {
+          "age": "8 дней",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Поречская волость, деревня Курицыно",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

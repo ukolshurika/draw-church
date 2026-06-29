@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 267,
+  "node_id": "9678d854-0700-4f09-95fb-ce9142256594",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 296,
+        "width": 1477,
+        "x": 1088,
+        "y": 1136
+      },
+      "entry_id": "9678d854-0700-4f09-95fb-ce9142256594_3",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Московская губерния, Красносельская слобода",
+          "info": "вдова, мещанка",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 320,
+        "width": 1373,
+        "x": 1101,
+        "y": 1615
+      },
+      "entry_id": "9678d854-0700-4f09-95fb-ce9142256594_2",
+      "people": [
+        {
+          "age": "41",
+          "geo": "город Медынь, Калужская губерния",
+          "info": "из дома Корюкова, мещанин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кабанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 946,
+        "width": 1487,
+        "x": 1091,
+        "y": 2122
+      },
+      "entry_id": "9678d854-0700-4f09-95fb-ce9142256594_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "other_status": "муж умершего",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "22",
+          "geo": "Климовичский уезд, Загустинская волость, деревня Косачевка",
+          "info": "из крестьян Могилевской губернии",
+          "name": "Григорий",
+          "second_name": "Поликарпов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 337,
+        "width": 1474,
+        "x": 1108,
+        "y": 3216
+      },
+      "entry_id": "9678d854-0700-4f09-95fb-ce9142256594_1",
+      "people": [
+        {
+          "age": "73",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанка",
+          "name": "Дария",
+          "second_name": "Мартинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Осипова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

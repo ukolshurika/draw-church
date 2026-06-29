@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 320,
+  "node_id": "27b00500-1602-46c4-8c65-285fe8c48f1b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 399,
+        "width": 1412,
+        "x": 1075,
+        "y": 1075
+      },
+      "entry_id": "27b00500-1602-46c4-8c65-285fe8c48f1b_4",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Ипполитов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолоцкий уезд, Песчаницкая волость, деревня Матвеево",
+          "info": "крестьянин",
+          "name": "Ипполит",
+          "other_status": "отец умершего",
+          "second_name": "Дометиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 392,
+        "width": 1488,
+        "x": 1076,
+        "y": 1604
+      },
+      "entry_id": "27b00500-1602-46c4-8c65-285fe8c48f1b_2",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Куркаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Ульянинская волость, деревня Михеево",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "other_status": "отец умершего",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Куркаев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 240,
+        "width": 1492,
+        "x": 1080,
+        "y": 2132
+      },
+      "entry_id": "27b00500-1602-46c4-8c65-285fe8c48f1b_3",
+      "people": [
+        {
+          "age": "60 лет",
+          "geo": "Сыромятная слобода",
+          "info": "московская мещанка, вдова",
+          "name": "Варвара",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Волкович"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 1513,
+        "x": 1071,
+        "y": 2553
+      },
+      "entry_id": "27b00500-1602-46c4-8c65-285fe8c48f1b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Перновский уезд, Колышведская волость",
+          "info": "крестьянская девица лютеранского вероисповедания",
+          "name": "Мария",
+          "other_status": "мать умершего",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Коск"
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Коск"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1432,
+        "x": 1073,
+        "y": 3209
+      },
+      "entry_id": "27b00500-1602-46c4-8c65-285fe8c48f1b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Прокофьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Знаменский"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Знаменский"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

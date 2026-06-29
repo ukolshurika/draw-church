@@ -1,0 +1,280 @@
+{
+  "year": 1915,
+  "page": 52,
+  "node_id": "95f1f586-d49a-41ae-b5db-e6bf89801ce3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2656,
+        "x": 961,
+        "y": 1079
+      },
+      "entry_id": "95f1f586-d49a-41ae-b5db-e6bf89801ce3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московский цеховой позументного цеха",
+          "name": "Петр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шарков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Беседина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Морозовская волость, село Рахманово",
+          "info": "",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Беседин"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Ветлужский уезд, Николо-Шанская волость, деревня Горюшкино",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Торопова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 624,
+        "width": 2670,
+        "x": 949,
+        "y": 1783
+      },
+      "entry_id": "95f1f586-d49a-41ae-b5db-e6bf89801ce3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же Казачья слобода",
+          "info": "крестьянин",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гайдуков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Вознесенская"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Денисовская волость, деревня Казачья слобода",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Нагибин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Нагибина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нагибина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "губернский секретарь",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Вознесенский"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 2661,
+        "x": 944,
+        "y": 2507
+      },
+      "entry_id": "95f1f586-d49a-41ae-b5db-e6bf89801ce3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Хорошеводская волость, село Скородное",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чернышев"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Шаховская",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гущин"
+        },
+        {
+          "age": "",
+          "geo": "Знаменское село Скородное",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Евгениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Амвросиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чернышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чернышев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 702,
+        "width": 2673,
+        "x": 933,
+        "y": 3157
+      },
+      "entry_id": "95f1f586-d49a-41ae-b5db-e6bf89801ce3_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "те же Купенковские выселки",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Ионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Вологин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Володин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственный почетный гражданин",
+          "name": "Татьяна",
+          "other_status": "муж крестной матери",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Покровская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Покровская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Володина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Токаревская волость, деревня Купенковских выселок",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Володин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

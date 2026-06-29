@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 194,
+  "node_id": "e356fdc6-8485-45de-826a-e90d730cf1df",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2637,
+        "x": 851,
+        "y": 1042
+      },
+      "entry_id": "e356fdc6-8485-45de-826a-e90d730cf1df_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Новотишевская волость, село",
+          "info": "вдова крестьянина",
+          "name": "Фекла",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домна",
+          "second_name": "Евсеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Быченкова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Кромовский уезд, Баевская волость, сельцо Хлыстово",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пирогов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Царевская волость, деревня Крутая",
+          "info": "крестьянин",
+          "name": "Антоний",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Быченков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Антониев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Быченков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2668,
+        "x": 851,
+        "y": 1685
+      },
+      "entry_id": "e356fdc6-8485-45de-826a-e90d730cf1df_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Филатова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Брамбалова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Брамбалова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воронцов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Масурская волость, деревня Шенягино",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Филатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Брамбалов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Бехтеевская волость, деревня Голопуповка",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "муж крестной матери",
+          "second_name": "Филатов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Брамбалов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 503,
+        "width": 2676,
+        "x": 847,
+        "y": 2427
+      },
+      "entry_id": "e356fdc6-8485-45de-826a-e90d730cf1df_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Елисеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Елисеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кротов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кротова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Васильевская волость, деревня Перхово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Ефремов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кротов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Елисеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кротова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 533,
+        "width": 2709,
+        "x": 843,
+        "y": 3016
+      },
+      "entry_id": "e356fdc6-8485-45de-826a-e90d730cf1df_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд",
+          "info": "мещанин",
+          "name": "Феодор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Махринская волость, деревня Алешино",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Акилина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

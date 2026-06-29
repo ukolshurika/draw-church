@@ -1,0 +1,226 @@
+{
+  "year": 1916,
+  "page": 15,
+  "node_id": "2b2fc756-debe-4cdc-b7a0-0c9bb26aab72",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2858,
+        "x": 905,
+        "y": 1051
+      },
+      "entry_id": "2b2fc756-debe-4cdc-b7a0-0c9bb26aab72_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузьмина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Глебовская волость, село Троицкое",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузьмин"
+        },
+        {
+          "age": "",
+          "geo": "та же Плахинская волость, деревня Пустышки",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Захарова"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Плахинская волость, село Высокое",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Головин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 1003,
+        "width": 2887,
+        "x": 897,
+        "y": 1768
+      },
+      "entry_id": "2b2fc756-debe-4cdc-b7a0-0c9bb26aab72_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Копнинская волость, деревня Селезнево",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Корсаковская волость, деревня Грязная",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Серова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Корсаковская волость, деревня Грязная",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ульянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Погостовская волость, деревня Телиши",
+          "info": "крестьянка",
+          "name": "Евфимия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбатенко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Погостовская волость, деревня Телиши",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ульянов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 885,
+        "width": 2864,
+        "x": 890,
+        "y": 2835
+      },
+      "entry_id": "2b2fc756-debe-4cdc-b7a0-0c9bb26aab72_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Радомская губерния, Радомский уезд, местечко Белобже",
+          "info": "рядовой 194 запасного батальона из мещан",
+          "name": "Абрам",
+          "second_name": "Берков",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Манухайт"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, город Козлов",
+          "info": "вдова мещанина",
+          "name": "Евгений",
+          "other_status": "муж крестной матери",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шатилов"
+        },
+        {
+          "age": "",
+          "geo": "Радомская губерния, Радомский уезд, местечко Белобже",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колесов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Мячковская волость, село Нижнее Мячково",
+          "info": "московский купец 2-й гильдии",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самойлов"
+        },
+        {
+          "age": "25",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Манухайт"
+        },
+        {
+          "age": "",
+          "geo": "город Владимир",
+          "info": "потомственная дворянка",
+          "name": "Анастасия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Костенецкая"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

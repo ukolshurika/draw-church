@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 76,
+  "node_id": "a5f0d6f6-49f5-44d3-849c-0fd4180659a8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 515,
+        "width": 2829,
+        "x": 908,
+        "y": 1017
+      },
+      "entry_id": "a5f0d6f6-49f5-44d3-849c-0fd4180659a8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пермяков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь личного почетного гражданина, девица",
+          "name": "Любовь",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Архангельская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Самуилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Афанасьева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митякинская волость, деревня Елисеевка",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Афанасьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 670,
+        "width": 2819,
+        "x": 912,
+        "y": 1692
+      },
+      "entry_id": "a5f0d6f6-49f5-44d3-849c-0fd4180659a8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "город Скопин",
+          "info": "мещанка",
+          "name": "Екатерина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Ефремов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Артамонов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "в доме Вялухина, Запасный младший унтер-офицер 140 пехотного Зарайского полка, почтальон Московского почтамта",
+          "name": "Феодор",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 699,
+        "width": 2825,
+        "x": 906,
+        "y": 2544
+      },
+      "entry_id": "a5f0d6f6-49f5-44d3-849c-0fd4180659a8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мышкинский уезд, Спасская волость, деревня Еросимова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Недоростков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Недоросткова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Медынский уезд, Глуховская волость, деревня Слобода",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Редкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Волково-Егоровская волость, село Щербино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Щербин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Недоросткова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2835,
+        "x": 899,
+        "y": 3255
+      },
+      "entry_id": "a5f0d6f6-49f5-44d3-849c-0fd4180659a8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Малолеткова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Малолеткова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малолетков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Федосьинская волость, село Крестьянка",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шмилева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Судниковская волость, деревня Клишино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Малолетков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

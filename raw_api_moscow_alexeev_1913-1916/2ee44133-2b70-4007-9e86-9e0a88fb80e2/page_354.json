@@ -1,0 +1,152 @@
+{
+  "year": 1915,
+  "page": 354,
+  "node_id": "ce7d948c-925e-4396-b832-5072e4842706",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 503,
+        "width": 1484,
+        "x": 1094,
+        "y": 1069
+      },
+      "entry_id": "ce7d948c-925e-4396-b832-5072e4842706_4",
+      "people": [
+        {
+          "age": "1 год 1 месяц",
+          "geo": "",
+          "info": "внебрачная дочь",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лопатина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский город, Жиздра",
+          "info": "мещанка, девица",
+          "name": "Агриппина",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Лопатина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 390,
+        "width": 1402,
+        "x": 1097,
+        "y": 1796
+      },
+      "entry_id": "ce7d948c-925e-4396-b832-5072e4842706_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Спас-Журовская волость, село Назарьево",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Сидоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сорокин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 270,
+        "width": 1474,
+        "x": 1094,
+        "y": 2298
+      },
+      "entry_id": "ce7d948c-925e-4396-b832-5072e4842706_3",
+      "people": [
+        {
+          "age": "72",
+          "geo": "",
+          "info": "вдова Калужского мещанина",
+          "name": "Елизавета",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Виноградова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1408,
+        "x": 1094,
+        "y": 2710
+      },
+      "entry_id": "ce7d948c-925e-4396-b832-5072e4842706_0",
+      "people": [
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Гавриилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Игнатов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Игнатов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 339,
+        "width": 1393,
+        "x": 1098,
+        "y": 3278
+      },
+      "entry_id": "ce7d948c-925e-4396-b832-5072e4842706_1",
+      "people": [
+        {
+          "age": "66",
+          "geo": "Рязанская губерния, Михайловский уезд, Новопанская волость, село Новопанское",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Аксенов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

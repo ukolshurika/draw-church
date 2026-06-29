@@ -1,0 +1,289 @@
+{
+  "year": 1914,
+  "page": 23,
+  "node_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 369,
+        "width": 2978,
+        "x": 716,
+        "y": 926
+      },
+      "entry_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лукичева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Журавлева, Зарайский уезд, Рязанская губерния, Апонитищенская волость, деревня М. Эскина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лукичев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лукичев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Михайловская волость, деревня Сичитки",
+          "info": "крестьянка",
+          "name": "Агриппина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Столыпинская волость, деревня Подол",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матвеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 397,
+        "width": 2976,
+        "x": 710,
+        "y": 1316
+      },
+      "entry_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Глебовская волость, село Тишково",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Курмышский уезд",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Молчанов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Митино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Молчанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 416,
+        "width": 2914,
+        "x": 717,
+        "y": 1745
+      },
+      "entry_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Котов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Грибцово, Шелковская волость, Верейский уезд",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Афонасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Котов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ханина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Котов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 401,
+        "width": 2953,
+        "x": 713,
+        "y": 2208
+      },
+      "entry_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гуляев"
+        },
+        {
+          "age": "",
+          "geo": "Клинский уезд, Троицкая волость, деревня Подчистра",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бодров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гуляева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Нагорская волость, деревня Бителево",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гуляев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "можайская мещанка",
+          "name": "Параскева",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ивлева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 383,
+        "width": 2922,
+        "x": 724,
+        "y": 2724
+      },
+      "entry_id": "7da9d61c-8fe5-40bf-8e58-e16ee81a707d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Яковлевская волость, деревня Кожевнева",
+          "info": "московский мещанин",
+          "name": "Петр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Стыков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стыков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Малышева Дмитровского уезда Рогачевской волости",
+          "info": "священник",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стыков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

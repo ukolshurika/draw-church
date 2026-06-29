@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 101,
+  "node_id": "d2cb08bc-d98c-4c75-ae42-18a985992bae",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2835,
+        "x": 925,
+        "y": 1044
+      },
+      "entry_id": "d2cb08bc-d98c-4c75-ae42-18a985992bae_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "Огородная слобода",
+          "info": "мещанка",
+          "name": "Нина",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Малышкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская мещанская слобода",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Огородная слобода",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малышкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 786,
+        "width": 2850,
+        "x": 921,
+        "y": 1784
+      },
+      "entry_id": "d2cb08bc-d98c-4c75-ae42-18a985992bae_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Аннин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Борунов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Вышегородская волость, деревня Загряжская",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Игнатьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пискарев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Лошаковская волость, деревня Бегичевки",
+          "info": "крестьянская девица",
+          "name": "Анна",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Борунова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Перволоковская волость, село Троицкое",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лобова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 887,
+        "width": 2864,
+        "x": 913,
+        "y": 2676
+      },
+      "entry_id": "d2cb08bc-d98c-4c75-ae42-18a985992bae_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, Дегтяно-Барковская волость, село",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бесков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савоскина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская жена",
+          "name": "Евдокия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Уорксинская"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Пятницкая волость, деревня Лапино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савоскин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савоскин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

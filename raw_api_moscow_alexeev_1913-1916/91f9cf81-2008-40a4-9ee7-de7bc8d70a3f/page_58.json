@@ -1,0 +1,278 @@
+{
+  "year": 1916,
+  "page": 58,
+  "node_id": "6bb4b311-7232-4248-ae75-65e154a0b02f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 581,
+        "width": 2746,
+        "x": 912,
+        "y": 1013
+      },
+      "entry_id": "6bb4b311-7232-4248-ae75-65e154a0b02f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Ильинская волость, село Титово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Лавров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Афанасьев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, деревня Черепенино",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Масленникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Афанасьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Афанасьева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевская волость, деревня Вытино",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 529,
+        "width": 2731,
+        "x": 912,
+        "y": 1627
+      },
+      "entry_id": "6bb4b311-7232-4248-ae75-65e154a0b02f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кочетова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кочетова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "диакон",
+          "name": "Иоанн",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "GODMOTHER",
+          "surname": "Успенский"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Перемышльский уезд, Курынинская волость, деревня Аграфеновка",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Власов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кочетов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "священник",
+          "name": "Петр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Воздвиженский"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Крайснянская волость, село Наумово",
+          "info": "жена крестьянина",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гонкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2726,
+        "x": 917,
+        "y": 2330
+      },
+      "entry_id": "6bb4b311-7232-4248-ae75-65e154a0b02f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ведоновская волость, деревня Чеголово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Аладьинская волость, деревня Романова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Саушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Стефанида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Виссарионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Саушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Саушкин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Евлатомский уезд, Мокринская волость, село",
+          "info": "крестьянин",
+          "name": "Терентий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ковальков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 614,
+        "width": 2736,
+        "x": 922,
+        "y": 3055
+      },
+      "entry_id": "6bb4b311-7232-4248-ae75-65e154a0b02f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "законная жена Михаила Тимофеева Котляра",
+          "name": "Евгения",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Котляр"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лозок"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Новогрудский уезд, Мерсовская волость, деревня Лозок",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лозок"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лозок"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лозок",
+          "info": "помощник разъездного чиновника 2-го отдела перевозки почты по железным дорогам, не имеющий чина",
+          "name": "Михаил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Котляр"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

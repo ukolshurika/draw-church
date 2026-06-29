@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 119,
+  "node_id": "731bb023-3bdb-4af5-a733-f81e75d0d4b5",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2821,
+        "x": 930,
+        "y": 1125
+      },
+      "entry_id": "731bb023-3bdb-4af5-a733-f81e75d0d4b5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Углов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Гагинская волость, село Топки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чернышов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Углов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Курбатовская волость, деревня Полотебная",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Углов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Филимонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Углов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2806,
+        "x": 934,
+        "y": 1970
+      },
+      "entry_id": "731bb023-3bdb-4af5-a733-f81e75d0d4b5_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Филатово",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Жукова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Юраково",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савушкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савушкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Савушкина"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, деревня Павловка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Титов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кузнецов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 649,
+        "width": 2809,
+        "x": 932,
+        "y": 2771
+      },
+      "entry_id": "731bb023-3bdb-4af5-a733-f81e75d0d4b5_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Гордеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Якимовский уезд, Якимовская волость, деревня Лесцова",
+          "info": "крестьянка, девица",
+          "name": "Марфа",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Брюхова"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Долговский уезд, Долговская волость, деревня Новая Слободка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Белов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

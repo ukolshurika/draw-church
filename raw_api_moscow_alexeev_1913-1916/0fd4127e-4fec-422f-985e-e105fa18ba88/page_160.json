@@ -1,0 +1,290 @@
+{
+  "year": 1914,
+  "page": 160,
+  "node_id": "d7573c65-46d5-4f66-a95e-24f6df4ce8a1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 449,
+        "width": 2818,
+        "x": 743,
+        "y": 867
+      },
+      "entry_id": "d7573c65-46d5-4f66-a95e-24f6df4ce8a1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Троицкая",
+          "info": "девица",
+          "name": "Елена",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Котанова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Пережогин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Потапова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Потапов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Нахилово, Клинского уезда, Петровской волости, деревня Троицкая",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Потапов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2831,
+        "x": 747,
+        "y": 1449
+      },
+      "entry_id": "d7573c65-46d5-4f66-a95e-24f6df4ce8a1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Желобцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Желобцова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Прудовская волость, деревня Константинова",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петров"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соголевская волость, деревня Борис-Глеб",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Желобцов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Желобцова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2836,
+        "x": 739,
+        "y": 2109
+      },
+      "entry_id": "d7573c65-46d5-4f66-a95e-24f6df4ce8a1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Владимирова"
+        },
+        {
+          "age": "",
+          "geo": "Вяземский уезд, Семлевская волость",
+          "info": "безземельный крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Владимирова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Наволочная"
+        },
+        {
+          "age": "",
+          "geo": "деревня Настасьиха, Суткинская волость, Дорогобужский уезд, Смоленская губерния",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский регистратор",
+          "name": "Николай",
+          "other_status": "муж крестной матери",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Наволочный"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2835,
+        "x": 734,
+        "y": 2738
+      },
+      "entry_id": "d7573c65-46d5-4f66-a95e-24f6df4ce8a1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Правкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Владимирова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Настасьиха",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец крестной матери",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буриков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Владимирова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Настасьиха",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Владимиров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Екатерина",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бурикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "other_status": "мать крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бурикова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

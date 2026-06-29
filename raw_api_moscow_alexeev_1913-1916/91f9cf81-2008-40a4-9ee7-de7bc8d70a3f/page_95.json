@@ -1,0 +1,228 @@
+{
+  "year": 1916,
+  "page": 95,
+  "node_id": "8b38b6ae-dd58-4e42-9c0c-22a14dd3e2d7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 427,
+        "width": 2755,
+        "x": 925,
+        "y": 1016
+      },
+      "entry_id": "8b38b6ae-dd58-4e42-9c0c-22a14dd3e2d7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Леонид",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Забродина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Забродина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Смоленская губерния, город Рославль, мещанка, девица",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронецкая"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "московский мещанин Сретенской слободы № 1692",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Забродин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2788,
+        "x": 906,
+        "y": 1598
+      },
+      "entry_id": "8b38b6ae-dd58-4e42-9c0c-22a14dd3e2d7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Аксиньинская волость, селение Кобяково",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балясникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Мариин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Балясников"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Бухоловская волость, деревня Якшино",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, деревня Срезнево",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Безпалов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2806,
+        "x": 899,
+        "y": 2314
+      },
+      "entry_id": "8b38b6ae-dd58-4e42-9c0c-22a14dd3e2d7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Сергиевский уезд, Сергиевская волость, село Сергиевское",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Бавыкинская волость, деревня Люторецкая",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, село Александровка",
+          "info": "крестьянин",
+          "name": "Агрипин",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Зорин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 745,
+        "width": 2795,
+        "x": 892,
+        "y": 2979
+      },
+      "entry_id": "8b38b6ae-dd58-4e42-9c0c-22a14dd3e2d7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Данковский уезд, Рязанская губерния, Баловневская волость, село Баловнево",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Самарина"
+        },
+        {
+          "age": "",
+          "geo": "Данковский уезд, Рязанская губерния, Баловневская волость, село Баловнево",
+          "info": "коллежский асессор",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Преображенский"
+        },
+        {
+          "age": "",
+          "geo": "город Звенигород, Московская губерния",
+          "info": "мещанин",
+          "name": "Исаак",
+          "second_name": "Гирш",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шленович"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Исааков",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шленович"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

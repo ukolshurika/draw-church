@@ -1,0 +1,290 @@
+{
+  "year": 1915,
+  "page": 43,
+  "node_id": "4685a0af-348e-4d1b-9583-6fac7a014293",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 596,
+        "width": 2804,
+        "x": 1025,
+        "y": 1081
+      },
+      "entry_id": "4685a0af-348e-4d1b-9583-6fac7a014293_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Весьегонский уезд, Кесенская волость, деревня Губачево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Осипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Осипова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Фофоновская волость, слобода Захупты",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скамрова"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Алатырский уезд, Барышская волость, село Засарье",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скамров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Скамрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 571,
+        "width": 2816,
+        "x": 1020,
+        "y": 1766
+      },
+      "entry_id": "4685a0af-348e-4d1b-9583-6fac7a014293_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславльский уезд, Копнинская волость, деревня Селезенево",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сысоев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сысоев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сысоева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сысоева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 504,
+        "width": 2808,
+        "x": 1019,
+        "y": 2546
+      },
+      "entry_id": "4685a0af-348e-4d1b-9583-6fac7a014293_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село Рождества",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Прокопьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Прокопьевна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабанова"
+        },
+        {
+          "age": "",
+          "geo": "то же село Рождества",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жигалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жигалова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Ищеинская волость, село Рождества",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жигалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Жигалов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 527,
+        "width": 2810,
+        "x": 1020,
+        "y": 3217
+      },
+      "entry_id": "4685a0af-348e-4d1b-9583-6fac7a014293_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стояров"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Родионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Столяров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стоярова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стояров"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Полянская волость, село Вольное",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

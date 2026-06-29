@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 67,
+  "node_id": "2248fe8a-e25d-4aeb-9e26-e8d5253af49c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2753,
+        "x": 943,
+        "y": 1005
+      },
+      "entry_id": "2248fe8a-e25d-4aeb-9e26-e8d5253af49c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Дубовская волость, село Буховое",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глебов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Спиридонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глебова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мещеринская волость, село Бабурино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глебова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Карашинская волость, деревня Григорово",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Посудникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 529,
+        "width": 2785,
+        "x": 943,
+        "y": 1656
+      },
+      "entry_id": "2248fe8a-e25d-4aeb-9e26-e8d5253af49c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Орловская волость, деревня Донских Озерков",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Миронов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Починок",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фатеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Асташкина"
+        },
+        {
+          "age": "",
+          "geo": "Епифанский уезд, Рыхотская волость, деревня Грязновка",
+          "info": "запасный нижний чин из крестьян Тульской губернии",
+          "name": "Стефан",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Асташкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Починок",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Фатеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Асташкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2749,
+        "x": 940,
+        "y": 2355
+      },
+      "entry_id": "2248fe8a-e25d-4aeb-9e26-e8d5253af49c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминский уезд, волость Селецкая, село Селец",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Онисимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кандалов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Спасская волость, село Жадомо",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Самохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кандалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кандалов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2752,
+        "x": 946,
+        "y": 3153
+      },
+      "entry_id": "2248fe8a-e25d-4aeb-9e26-e8d5253af49c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московского Алексеевского монастыря протоиерей",
+          "name": "Симеон",
+          "second_name": "Афанасьевич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ковчанкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "Симеоновна",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова действительного статского советника",
+          "name": "Елизавета",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "оставленный при Московском Императорском Университете для подготовки к профессорскому званию",
+          "name": "Юрий",
+          "second_name": "Матвеевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Юрьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

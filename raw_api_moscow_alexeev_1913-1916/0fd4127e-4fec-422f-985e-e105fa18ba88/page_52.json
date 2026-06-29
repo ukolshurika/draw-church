@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 52,
+  "node_id": "538e95c1-4f28-4257-8bca-3345f40063fa",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 424,
+        "width": 2912,
+        "x": 702,
+        "y": 923
+      },
+      "entry_id": "538e95c1-4f28-4257-8bca-3345f40063fa_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, село Старожилово",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Косоруков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кодыкова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Полянская волость, село Нашлево",
+          "info": "крестьянин",
+          "name": "Никифор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лялякин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федора",
+          "second_name": "Анастасиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Косорукова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кодыкова"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Трасненская волость, село Дятлово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кодыков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 455,
+        "width": 2920,
+        "x": 703,
+        "y": 1435
+      },
+      "entry_id": "538e95c1-4f28-4257-8bca-3345f40063fa_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дударева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дударева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Ольховская волость, деревня Обидина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дударев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинского уезда, Борщевская волость, село Захарово",
+          "info": "крестьянская дочь",
+          "name": "Марфа",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Круглова"
+        },
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Покровская волость, деревня Крестовая",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Крестинов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2927,
+        "x": 692,
+        "y": 1991
+      },
+      "entry_id": "538e95c1-4f28-4257-8bca-3345f40063fa_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "Старицкий уезд, Иверская волость, деревня Новая",
+          "info": "девица",
+          "name": "Наталия",
+          "second_name": "Евграфова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каравашкина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Нарышкино",
+          "info": "тверской мещанин",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Игнатьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Игнатьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "тверской мещанин",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Игнатьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 634,
+        "width": 2924,
+        "x": 684,
+        "y": 2551
+      },
+      "entry_id": "538e95c1-4f28-4257-8bca-3345f40063fa_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуновская волость, село Незнаново",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Федотова",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевки",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Федотова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майданская волость, деревня Авдалово",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шерин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нефедова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

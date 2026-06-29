@@ -1,0 +1,507 @@
+{
+  "year": 1914,
+  "page": 8,
+  "node_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 391,
+        "width": 2893,
+        "x": 739,
+        "y": 885
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чикаров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Хамута",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Храмов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Храмова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Зотова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Храмова"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, деревня Ухарь",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гуляева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 425,
+        "width": 2879,
+        "x": 745,
+        "y": 1308
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Желтова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд",
+          "info": "мещанин",
+          "name": "Ксений",
+          "other_status": "муж крестной матери",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Игнатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Игнатова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Солищенская волость, деревня Гармоних",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Желтов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Желтов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Желтова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 395,
+        "width": 2879,
+        "x": 746,
+        "y": 1715
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бессарабская губерния, город Аккерман",
+          "info": "мещанин",
+          "name": "Ксеній",
+          "other_status": "отец крестной матери",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Челченков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глинская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глинская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Дедиловская волость, Стрелецкая слобода",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глинский"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ешехин"
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Сердобский уезд, Сапожковская волость, деревня Ранзн",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семенов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 375,
+        "width": 2857,
+        "x": 750,
+        "y": 2065
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Сердобский уезд, Сапожковская волость, деревня Ранзн",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанка",
+          "name": "Ольга",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Непецынская волость, село Пруссы",
+          "info": "крестьянин",
+          "name": "Мефодий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "other_status": "муж крестной матери",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 338,
+        "width": 2861,
+        "x": 738,
+        "y": 2396
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фролова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Рязанка",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанин",
+          "name": "Евгений",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Константинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Мефодиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Лазарева, Коломенского уезда, Непецинской волости, село Пруссы",
+          "info": "крестьянин",
+          "name": "Мефодий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Марков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 355,
+        "width": 2847,
+        "x": 740,
+        "y": 2719
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Крутицкая"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маликова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Дометиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Крутицкая"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сухановское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Крутицкий"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грачев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 421,
+        "width": 2862,
+        "x": 741,
+        "y": 3048
+      },
+      "entry_id": "0edcf38d-53f1-42d1-a5af-557f54fb4b4d_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Богдановская волость, деревня Шипулина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Королев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Королева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь, девица",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Акимова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Сигорская волость, деревня Матвеевка",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шестоперов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

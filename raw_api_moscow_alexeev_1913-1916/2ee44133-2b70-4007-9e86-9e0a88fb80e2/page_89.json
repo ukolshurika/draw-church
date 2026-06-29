@@ -1,0 +1,278 @@
+{
+  "year": 1915,
+  "page": 89,
+  "node_id": "43b694f5-b5ac-4c91-99f4-99648796c5ab",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 381,
+        "width": 2798,
+        "x": 924,
+        "y": 1114
+      },
+      "entry_id": "43b694f5-b5ac-4c91-99f4-99648796c5ab_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Юрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бражникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Юрова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Троеенская волость, деревня Бутьково",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Юров"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Траска",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бражников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 456,
+        "width": 2786,
+        "x": 925,
+        "y": 1622
+      },
+      "entry_id": "43b694f5-b5ac-4c91-99f4-99648796c5ab_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Сомовская волость, село Нижнее Покровское",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зубарев"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Илюшина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зубарев"
+        },
+        {
+          "age": "",
+          "geo": "Бессарабская губерния, Аккерманский уезд, посад Шабо",
+          "info": "мещанин",
+          "name": "Евфимий",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лафазан"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агафия",
+          "second_name": "Мефриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зубарева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 2791,
+        "x": 923,
+        "y": 2128
+      },
+      "entry_id": "43b694f5-b5ac-4c91-99f4-99648796c5ab_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Сомовская волость, село Нижнее Покровское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Вертинская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский мещанин",
+          "info": "мещанин",
+          "name": "Федор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гоголев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Аршанова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 737,
+        "width": 2779,
+        "x": 928,
+        "y": 2668
+      },
+      "entry_id": "43b694f5-b5ac-4c91-99f4-99648796c5ab_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Броховецкий уезд, Красносельская волость, деревня Хорошево",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Симеон",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Агафонова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Татаркин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Хорошево",
+          "info": "крестьянка",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сергеева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

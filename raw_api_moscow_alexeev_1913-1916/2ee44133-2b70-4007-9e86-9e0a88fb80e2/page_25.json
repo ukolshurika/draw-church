@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 25,
+  "node_id": "ec3fc95c-4e97-4235-8af6-430e29cdfb85",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 541,
+        "width": 2804,
+        "x": 908,
+        "y": 1106
+      },
+      "entry_id": "ec3fc95c-4e97-4235-8af6-430e29cdfb85_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Прокопиевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Савостин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Елизавета",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Меркулова"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Меркулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Савостина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Савостин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 691,
+        "width": 2815,
+        "x": 904,
+        "y": 1746
+      },
+      "entry_id": "ec3fc95c-4e97-4235-8af6-430e29cdfb85_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ананьева"
+        },
+        {
+          "age": "",
+          "geo": "Александровский уезд, село Макарьево",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трофимов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Завалинская волость, деревня Собина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ананьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ананьева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Космодемьянская волость, деревня Павловская",
+          "info": "крестьянская дочь",
+          "name": "Анастасия",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воробьева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 523,
+        "width": 2787,
+        "x": 906,
+        "y": 2469
+      },
+      "entry_id": "ec3fc95c-4e97-4235-8af6-430e29cdfb85_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Рунцево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Якушин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, село Киселево",
+          "info": "крестьянин",
+          "name": "Гордей",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Рунцево",
+          "info": "крестьянская жена",
+          "name": "Надежда",
+          "second_name": "Аггеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Фомина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Аггеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Фомин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Гордеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фомин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 707,
+        "width": 2777,
+        "x": 912,
+        "y": 3136
+      },
+      "entry_id": "ec3fc95c-4e97-4235-8af6-430e29cdfb85_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глаголева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Ивановская волость, деревня",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глаголев"
+        },
+        {
+          "age": "",
+          "geo": "Одоевский уезд, Ивановская волость, деревня",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сорокин"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Яковлевская волость, село Долгое",
+          "info": "вдова",
+          "name": "Марія",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глаголева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

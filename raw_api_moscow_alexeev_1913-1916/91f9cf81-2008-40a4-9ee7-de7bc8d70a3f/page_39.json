@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 39,
+  "node_id": "12786fbe-1c29-49d5-beb6-155d25e84fc0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2742,
+        "x": 914,
+        "y": 998
+      },
+      "entry_id": "12786fbe-1c29-49d5-beb6-155d25e84fc0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ратина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, село Тюнеж",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ратин"
+        },
+        {
+          "age": "",
+          "geo": "Данковский уезд, Змиевская волость, село",
+          "info": "крестьянка",
+          "name": "Агрипина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тюрмина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Космодамиановская волость, деревня Черное Озеро",
+          "info": "крестьянин",
+          "name": "Глеб",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чернышов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ратин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 512,
+        "width": 2707,
+        "x": 916,
+        "y": 1665
+      },
+      "entry_id": "12786fbe-1c29-49d5-beb6-155d25e84fc0_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ермакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Нагаевская волость, село Агламазово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Исидоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Острецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Острецов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Яблоневская волость, деревня Великая Лука",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ермаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Архипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Острецова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 571,
+        "width": 2697,
+        "x": 921,
+        "y": 2361
+      },
+      "entry_id": "12786fbe-1c29-49d5-beb6-155d25e84fc0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Юраковская волость, деревня Николаевка",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федотова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Хомут",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Хромов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Хромова"
+        },
+        {
+          "age": "",
+          "geo": "Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макушин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 651,
+        "width": 2699,
+        "x": 917,
+        "y": 3096
+      },
+      "entry_id": "12786fbe-1c29-49d5-beb6-155d25e84fc0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тулупова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петроковская волость, деревня Коврова",
+          "info": "крестьянка, девица",
+          "name": "Стефанида",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Выхонская волость, деревня Выхонь",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дронов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Синьковская волость, село Синьково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тулупов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тулупов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

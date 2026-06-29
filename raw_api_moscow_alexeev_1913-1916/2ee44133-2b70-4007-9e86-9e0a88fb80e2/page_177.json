@@ -1,0 +1,206 @@
+{
+  "year": 1915,
+  "page": 177,
+  "node_id": "aa32c500-24f9-4af0-a6dd-0dd0c96719ec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 787,
+        "width": 2771,
+        "x": 909,
+        "y": 1119
+      },
+      "entry_id": "aa32c500-24f9-4af0-a6dd-0dd0c96719ec_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лапшина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Митрофан",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лапшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лапшина"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Чухломской уезд, Ицкая волость, деревня Овсянка",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "отец крестной матери",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Кузьма",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лапшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 695,
+        "width": 2791,
+        "x": 905,
+        "y": 1909
+      },
+      "entry_id": "aa32c500-24f9-4af0-a6dd-0dd0c96719ec_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, село Шатрище",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Власьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дикова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, село Шатрище",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кунашев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищенская волость, деревня Фотьяновка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Диков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Диков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2827,
+        "x": 906,
+        "y": 2685
+      },
+      "entry_id": "aa32c500-24f9-4af0-a6dd-0dd0c96719ec_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рубцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка Точинской слободы девица",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Дуброва",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рубцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рубцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "казанский мещанин",
+          "name": "Владимир",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Невзоров"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

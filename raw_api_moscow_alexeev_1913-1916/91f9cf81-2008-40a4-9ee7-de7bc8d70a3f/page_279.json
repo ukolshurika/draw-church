@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 279,
+  "node_id": "1679d20b-c215-4743-909e-827ca3ab1b4b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 468,
+        "width": 1485,
+        "x": 1064,
+        "y": 1127
+      },
+      "entry_id": "1679d20b-c215-4743-909e-827ca3ab1b4b_3",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тучков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Покровская волость, село Троицкое",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "other_status": "мать умершего",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Тучкова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1488,
+        "x": 1063,
+        "y": 1802
+      },
+      "entry_id": "1679d20b-c215-4743-909e-827ca3ab1b4b_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Иконская волость, деревня Чернецовка",
+          "info": "крестьянин",
+          "name": "Пахомий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шибодаев"
+        },
+        {
+          "age": "1 месяц 3 дня",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Пахомиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Шибодаева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 233,
+        "width": 1471,
+        "x": 1072,
+        "y": 2499
+      },
+      "entry_id": "1679d20b-c215-4743-909e-827ca3ab1b4b_2",
+      "people": [
+        {
+          "age": "70",
+          "geo": "",
+          "info": "монахиня Алексеевского монастыря",
+          "name": "Агния",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 498,
+        "width": 1440,
+        "x": 1069,
+        "y": 2954
+      },
+      "entry_id": "1679d20b-c215-4743-909e-827ca3ab1b4b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Павловская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "2 года",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иоаннов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Романов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

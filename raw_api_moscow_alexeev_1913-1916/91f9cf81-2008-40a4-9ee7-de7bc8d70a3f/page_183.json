@@ -1,0 +1,153 @@
+{
+  "year": 1916,
+  "page": 183,
+  "node_id": "b0fcebdd-844b-4bbf-9315-2181021efce4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 1080,
+        "width": 3472,
+        "x": 785,
+        "y": 1094
+      },
+      "entry_id": "b0fcebdd-844b-4bbf-9315-2181021efce4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Чевкина",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Куретников",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Чевкина",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Морозов"
+        },
+        {
+          "age": "22",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищинская волость, деревня Никитина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Абашкин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чевкина",
+          "info": "крестьянин",
+          "name": "Кузьма",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Балясников"
+        },
+        {
+          "age": "",
+          "geo": "Олонецкая губерния, Каргопольский уезд, Александровская волость, деревня Лукьянова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Огорельцев"
+        },
+        {
+          "age": "18",
+          "geo": "Рязанская губерния, Спасский уезд, Шатрищинская волость, деревня Чевкина",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Абашкина (Сорокина)"
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 1209,
+        "width": 3513,
+        "x": 768,
+        "y": 2446
+      },
+      "entry_id": "b0fcebdd-844b-4bbf-9315-2181021efce4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Раненбургский уезд, Петеленская волость",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Есоков"
+        },
+        {
+          "age": "29",
+          "geo": "Великое княжество Финляндское, приход Раутус, губерния Выборгская, волость",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Михелева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Легедина (Карвенен)"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын личного почетного гражданина",
+          "name": "Алексей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Логздин"
+        },
+        {
+          "age": "29",
+          "geo": "слобода Красносельская №1387",
+          "info": "московский мещанин",
+          "name": "Михаил",
+          "second_name": "Якубович",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Легедин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын личного почетного гражданина",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Логздин"
+        },
+        {
+          "age": "",
+          "geo": "город Воскресенск",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "total_pages": null
+}

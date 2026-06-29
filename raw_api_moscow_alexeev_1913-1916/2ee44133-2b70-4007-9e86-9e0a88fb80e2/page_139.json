@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 139,
+  "node_id": "0d8a39e2-e7c2-4ca7-82a8-6318b41085fc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2733,
+        "x": 912,
+        "y": 1086
+      },
+      "entry_id": "0d8a39e2-e7c2-4ca7-82a8-6318b41085fc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Мокровская волость, деревня Ащепково",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Байков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Бобринская волость, деревня Колодезная",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гусев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "казачка станицы Калиновской",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Байкова"
+        },
+        {
+          "age": "17 лет",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Байкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 612,
+        "width": 2742,
+        "x": 918,
+        "y": 1834
+      },
+      "entry_id": "0d8a39e2-e7c2-4ca7-82a8-6318b41085fc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шмакова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Костемьевская волость, сельцо Вербов",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шмаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шмакова"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шмаков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Окатьевская волость, село Апраксино",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Демидова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2724,
+        "x": 915,
+        "y": 2697
+      },
+      "entry_id": "0d8a39e2-e7c2-4ca7-82a8-6318b41085fc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Зиновьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Овечкина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевский уезд, Олешнинская волость, село Олешни",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Назаров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Овечкин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Исаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Овечкин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

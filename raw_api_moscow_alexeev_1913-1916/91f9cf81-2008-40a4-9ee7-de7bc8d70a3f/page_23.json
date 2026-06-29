@@ -1,0 +1,195 @@
+{
+  "year": 1916,
+  "page": 23,
+  "node_id": "8f5fc24f-e54a-4d00-8fc0-507f99dc5eb0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 780,
+        "width": 2783,
+        "x": 906,
+        "y": 1064
+      },
+      "entry_id": "8f5fc24f-e54a-4d00-8fc0-507f99dc5eb0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Курская губерния, Рыльский уезд, Низовская волость, деревня Луговка",
+          "info": "крестьянка, девица",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пешкова"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, город Рыльск",
+          "info": "мещанин",
+          "name": "Анатолий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матохин"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Владимиро-Волынский уезд, Повицкой волости, деревня Древин",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Авксентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дыконюк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дыконюк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дыконюк"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 726,
+        "width": 2768,
+        "x": 909,
+        "y": 2110
+      },
+      "entry_id": "8f5fc24f-e54a-4d00-8fc0-507f99dc5eb0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Подрезов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Подрезова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Куркинская волость, село Куркино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Подрезов"
+        },
+        {
+          "age": "",
+          "geo": "село Куркино",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Подрезов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня Козловка",
+          "info": "крестьянка, девица",
+          "name": "Любовь",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бутузова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 656,
+        "width": 2746,
+        "x": 910,
+        "y": 3073
+      },
+      "entry_id": "8f5fc24f-e54a-4d00-8fc0-507f99dc5eb0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Короваевская волость, деревня Погорелец",
+          "info": "крестьянин",
+          "name": "Спиридон",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сысенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василиса",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Перепезина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Перепезин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Рязанская волость, село Рязаны",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Исаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Перепезин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская волость, деревня Ниловки",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Уткина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

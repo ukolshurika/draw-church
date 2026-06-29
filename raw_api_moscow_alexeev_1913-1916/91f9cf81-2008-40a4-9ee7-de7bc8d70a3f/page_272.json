@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 272,
+  "node_id": "839a7076-b949-424a-9ac4-ca4fa3fce6ab",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 439,
+        "width": 1492,
+        "x": 1045,
+        "y": 1100
+      },
+      "entry_id": "839a7076-b949-424a-9ac4-ca4fa3fce6ab_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, село Ольховец",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Евгениев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Чураков"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чуракова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1474,
+        "x": 1040,
+        "y": 1734
+      },
+      "entry_id": "839a7076-b949-424a-9ac4-ca4fa3fce6ab_2",
+      "people": [
+        {
+          "age": "15 дней",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кулиничев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Будаевская волость, деревня Орехова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кулиничев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 469,
+        "width": 1483,
+        "x": 1032,
+        "y": 2376
+      },
+      "entry_id": "839a7076-b949-424a-9ac4-ca4fa3fce6ab_1",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Давыдова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Осино-Гаевская волость, село Гаево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Давыдов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 1422,
+        "x": 1034,
+        "y": 3048
+      },
+      "entry_id": "839a7076-b949-424a-9ac4-ca4fa3fce6ab_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Першинская волость, село Павшино",
+          "info": "Московско-Казанской железной дороги, крестьянская девица",
+          "name": "Феодосия",
+          "other_status": "мать умершего",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "1 месяц 20 дней",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Феодосиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

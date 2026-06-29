@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 310,
+  "node_id": "6843118f-2c4e-4195-91be-a2162ded0282",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 457,
+        "width": 1479,
+        "x": 950,
+        "y": 770
+      },
+      "entry_id": "6843118f-2c4e-4195-91be-a2162ded0282_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Коломенки",
+          "info": "крестьянин",
+          "name": "Борис",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Югунов"
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Югунова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 252,
+        "width": 1474,
+        "x": 943,
+        "y": 1404
+      },
+      "entry_id": "6843118f-2c4e-4195-91be-a2162ded0282_3",
+      "people": [
+        {
+          "age": "80",
+          "geo": "",
+          "info": "вдова, тульский мещанин",
+          "name": "Мария",
+          "second_name": "Германова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Жукова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 435,
+        "width": 1490,
+        "x": 929,
+        "y": 1872
+      },
+      "entry_id": "6843118f-2c4e-4195-91be-a2162ded0282_1",
+      "people": [
+        {
+          "age": "18 дней",
+          "geo": "",
+          "info": "",
+          "name": "Лариса",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Богомолова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малиновская волость, село Кривцово",
+          "info": "",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Богомолов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 1504,
+        "x": 907,
+        "y": 2495
+      },
+      "entry_id": "6843118f-2c4e-4195-91be-a2162ded0282_0",
+      "people": [
+        {
+          "age": "24",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Ново-Покровская волость, деревня Введенская",
+          "info": "крестьянин",
+          "name": "Константин",
+          "other_status": "муж умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Николаев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

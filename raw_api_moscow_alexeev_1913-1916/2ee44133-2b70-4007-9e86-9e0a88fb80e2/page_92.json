@@ -1,0 +1,394 @@
+{
+  "year": 1915,
+  "page": 92,
+  "node_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 376,
+        "width": 2917,
+        "x": 897,
+        "y": 1079
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тихон",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кирюшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кирюшина"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Спасско-Никольская волость, деревня Малая Бизюкина",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коробаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Алексинская мещанка, вдова",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щеглова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Селявинская волость, село Кутепово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кирюшин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 480,
+        "width": 2920,
+        "x": 901,
+        "y": 1524
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксенія",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Суркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сурков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Воздвиженская волость, деревня Воздвиженка",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Меркулов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майдановская волость, село Матвеевское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Кадниковский уезд, Маныловская волость, деревня Раплова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сурков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 383,
+        "width": 2891,
+        "x": 911,
+        "y": 1989
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Старо-Полочинская волость, деревня Плешивец",
+          "info": "крестьянин",
+          "name": "Трифон",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пригоца"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Исидорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пригоца"
+        },
+        {
+          "age": "",
+          "geo": "Могилевский уезд, Круглянская волость, деревня Резцы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бакштаев"
+        },
+        {
+          "age": "",
+          "geo": "Могилевский уезд, Круглянская волость, деревня Резцы",
+          "info": "крестьянка",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бакштаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Трифонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пригоца"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 413,
+        "width": 2886,
+        "x": 913,
+        "y": 2466
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Конина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Чернобаевская волость, деревня Никифорова",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Кесарева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Конина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, село",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Конин"
+        },
+        {
+          "age": "",
+          "geo": "село Петрушинское",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чинаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 2872,
+        "x": 916,
+        "y": 2915
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "двинская мещанка",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Францева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Туровинок",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузенков"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Коверинская волость, село Спасское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузенкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузенков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 402,
+        "width": 2876,
+        "x": 919,
+        "y": 3376
+      },
+      "entry_id": "e50aa80d-eeeb-465c-af50-83468e20b0cc_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антошкина"
+        },
+        {
+          "age": "",
+          "geo": "Лифляндская губерния, Перновский уезд, Кольшведская волость",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коск"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Варшавский дворянин",
+          "name": "Валерьян",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мякотин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Искановская волость",
+          "info": "крестьянин",
+          "name": "Селиверст",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

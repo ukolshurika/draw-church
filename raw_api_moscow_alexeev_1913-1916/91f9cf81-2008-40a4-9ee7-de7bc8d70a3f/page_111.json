@@ -1,0 +1,217 @@
+{
+  "year": 1916,
+  "page": 111,
+  "node_id": "81d2ba96-1c68-4f35-9c75-f61d5a385534",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 516,
+        "width": 2781,
+        "x": 899,
+        "y": 1002
+      },
+      "entry_id": "81d2ba96-1c68-4f35-9c75-f61d5a385534_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Евфимия",
+          "second_name": "Елисеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Неброева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Духовщинский уезд, Чижовская волость, деревня Михайловка",
+          "info": "крестьянин",
+          "name": "Парфений",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Неброев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Флоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Самцовская волость, деревня Кондратово",
+          "info": "крестьянин",
+          "name": "Флор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 682,
+        "width": 2794,
+        "x": 897,
+        "y": 1686
+      },
+      "entry_id": "81d2ba96-1c68-4f35-9c75-f61d5a385534_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Покровско-Васильевская волость, село Федоровка",
+          "info": "запасный рядовой 29 пехотного Черниговского полка",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Макаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марья",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макаева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Космо-Демьянская волость, деревня Павловка",
+          "info": "крестьянин",
+          "name": "Марья",
+          "other_status": "муж крестной матери",
+          "second_name": "Степанова",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Морозова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Белищевская волость, село Тотмаково",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 629,
+        "width": 2806,
+        "x": 885,
+        "y": 2484
+      },
+      "entry_id": "81d2ba96-1c68-4f35-9c75-f61d5a385534_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Островская волость, деревня Коробова",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гурин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белова"
+        },
+        {
+          "age": "",
+          "geo": "Марфинская волость, деревня Долгинка",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Никитина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Марфинская волость, деревня Белозер",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Никитин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Никитин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

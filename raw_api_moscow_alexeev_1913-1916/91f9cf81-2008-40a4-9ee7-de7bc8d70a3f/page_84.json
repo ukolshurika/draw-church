@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 84,
+  "node_id": "0db1afc0-5f91-47ea-a92f-2036ec7df18a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2689,
+        "x": 936,
+        "y": 996
+      },
+      "entry_id": "0db1afc0-5f91-47ea-a92f-2036ec7df18a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Ухтомки",
+          "info": "означенной деревни крестьянин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шаманов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская ремесленница поваренного цеха",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "в честь святого апостола Павла, празднуемого святой церковью 29 июня",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шаманов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шаманова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Хованская волость, деревня Ухтомки",
+          "info": "в доме Ермолаева, запасной нижний чин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шаманов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 919,
+        "width": 2672,
+        "x": 937,
+        "y": 1679
+      },
+      "entry_id": "0db1afc0-5f91-47ea-a92f-2036ec7df18a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Мирславская волость, деревня Каты",
+          "info": "жандармский унтер-офицер Сергиевского отделения Сезерных железных дорог, из крестьян",
+          "name": "Евлампий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Малов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Перфильева"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Кологривский уезд, Ухтыбовская волость, деревня Осеева",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кудрявцев"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Грязовецкий уезд, Панфиловская волость, деревня Погорелки",
+          "info": "жандармский унтер-офицер Сергиевского отделения Сезерных железных дорог, из крестьян",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Перфильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудрявцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Перфильева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2665,
+        "x": 940,
+        "y": 2575
+      },
+      "entry_id": "0db1afc0-5f91-47ea-a92f-2036ec7df18a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кабинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кабинов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, село Братовщина",
+          "info": "крестьянка, девица",
+          "name": "Елена",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гуськова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Мытищищенский уезд, Пушкинская волость, село Пушкино",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кабинов"
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Липовецкий уезд, Лукашевская волость, деревня Ступки",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Денисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 535,
+        "width": 2671,
+        "x": 945,
+        "y": 3290
+      },
+      "entry_id": "0db1afc0-5f91-47ea-a92f-2036ec7df18a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненский уезд, Лашанская волость, деревня Баранова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Адамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Барановский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Шубзда"
+        },
+        {
+          "age": "",
+          "geo": "деревня Зарубежье",
+          "info": "крестьянка, девица",
+          "name": "Мелания",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рогачевская"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Горницкая волость, деревня Соломенки",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шубзда"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шубзда"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

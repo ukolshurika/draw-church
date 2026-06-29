@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 312,
+  "node_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 316,
+        "width": 1404,
+        "x": 1105,
+        "y": 1070
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Юхновский уезд, Безобразовская волость, деревня Тарасова",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Жданов"
+        },
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Гавриил",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жданов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 336,
+        "width": 1483,
+        "x": 1097,
+        "y": 1498
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_3",
+      "people": [
+        {
+          "age": "1 год 3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Петропавловская Глинковская волость, деревня Батюшкова",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 315,
+        "width": 1414,
+        "x": 1102,
+        "y": 1911
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Полянская волость, село Сторожилово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Андрианов"
+        },
+        {
+          "age": "7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Андрианов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 253,
+        "width": 1488,
+        "x": 1103,
+        "y": 2345
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Малинская волость, село Сторожилово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Буланов"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Буланова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 308,
+        "width": 1440,
+        "x": 1101,
+        "y": 2708
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Кровопускова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Посадов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Посадов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1418,
+        "x": 1103,
+        "y": 3140
+      },
+      "entry_id": "36415202-7750-4dfa-9f0c-4d31e81e07ef_1",
+      "people": [
+        {
+          "age": "65",
+          "geo": "Владимирская губерния, Переяславский уезд, Петровская волость, деревня Каблуково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 271,
+  "node_id": "8ede7122-6afa-4fef-9603-3c2aefaf80f2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 379,
+        "width": 1461,
+        "x": 1075,
+        "y": 1102
+      },
+      "entry_id": "8ede7122-6afa-4fef-9603-3c2aefaf80f2_3",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Евгеньева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Дьяконова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из дома Кошелева, потомственный почетный гражданин",
+          "name": "Евгений",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дьяконов"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 514,
+        "width": 1460,
+        "x": 1074,
+        "y": 1676
+      },
+      "entry_id": "8ede7122-6afa-4fef-9603-3c2aefaf80f2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Воскресенская волость, деревня Альютово",
+          "info": "из дома Титова вдова крестьянка",
+          "name": "Матрона",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 388,
+        "width": 1462,
+        "x": 1073,
+        "y": 2396
+      },
+      "entry_id": "8ede7122-6afa-4fef-9603-3c2aefaf80f2_1",
+      "people": [
+        {
+          "age": "66",
+          "geo": "Московская губерния, Красносельская слобода",
+          "info": "вдова, мещанка",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Игнатьева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 546,
+        "width": 1471,
+        "x": 1066,
+        "y": 2983
+      },
+      "entry_id": "8ede7122-6afa-4fef-9603-3c2aefaf80f2_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Валентинова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Рянзенская волость, село Крестьянка",
+          "info": "из дома Мусатова девица Татьяна Николаева Журихина",
+          "name": "Валентин",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

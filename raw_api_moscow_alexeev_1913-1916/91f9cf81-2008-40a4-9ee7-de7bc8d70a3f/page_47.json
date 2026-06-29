@@ -1,0 +1,248 @@
+{
+  "year": 1916,
+  "page": 47,
+  "node_id": "7e34e506-471c-4fdb-93ed-9c63c89eac73",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2841,
+        "x": 914,
+        "y": 1031
+      },
+      "entry_id": "7e34e506-471c-4fdb-93ed-9c63c89eac73_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "жена крестьянина",
+          "name": "Екатерина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мелания",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Корякова"
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Каневский уезд, Корниловская волость, село Бровахи",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николюк"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Чембарский уезд, Студенокская волость, село Починок",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коряков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Корякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2848,
+        "x": 915,
+        "y": 1724
+      },
+      "entry_id": "7e34e506-471c-4fdb-93ed-9c63c89eac73_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Ермолинская волость, деревня Милентьева",
+          "info": "крестьянская девица",
+          "name": "Матрона",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гузаева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Истратенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Савватиевич",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Истратенков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Армишицкая волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Савватий",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Истратенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Истратенкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 596,
+        "width": 2841,
+        "x": 916,
+        "y": 2410
+      },
+      "entry_id": "7e34e506-471c-4fdb-93ed-9c63c89eac73_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Зверинская волость, деревня Новоселки",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Аверкиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, село Рогачево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стосков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Краснинский уезд, Ивановская волость, деревня Сестрино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Евфимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маркин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Аверкиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стоскова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стосков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2849,
+        "x": 911,
+        "y": 3135
+      },
+      "entry_id": "7e34e506-471c-4fdb-93ed-9c63c89eac73_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Краснопогородская волость, деревня Немчиново",
+          "info": "крестьянин",
+          "name": "Андриан",
+          "second_name": "Афанасиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Попков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Нарышкинская волость, деревня Горюшек",
+          "info": "крестьянская вдова",
+          "name": "Феодора",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Семина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Коноплинская волость, деревня Селешни",
+          "info": "жена крестьянина",
+          "name": "Варвара",
+          "other_status": "муж крестной матери",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Савостьянова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

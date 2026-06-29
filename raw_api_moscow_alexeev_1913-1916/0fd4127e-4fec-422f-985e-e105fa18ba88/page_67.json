@@ -1,0 +1,145 @@
+{
+  "year": 1914,
+  "page": 67,
+  "node_id": "c3ed213b-edad-47fc-abe3-b7b804690f04",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 852,
+        "width": 2883,
+        "x": 743,
+        "y": 891
+      },
+      "entry_id": "c3ed213b-edad-47fc-abe3-b7b804690f04_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "домашняя учительница",
+          "name": "Клавдия",
+          "second_name": "Оттовна",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шнейдер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворянин",
+          "name": "Владимир",
+          "second_name": "Геннадиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дуров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 849,
+        "width": 2896,
+        "x": 750,
+        "y": 1873
+      },
+      "entry_id": "c3ed213b-edad-47fc-abe3-b7b804690f04_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "мальчик неизвестных родителей, брошенный без всякого призора на улице города Москвы, отданный на призрение и воспитание в Городское Убежище для сирот",
+          "name": "Афанасий",
+          "second_name": "Афонасиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дочь коллежского регистратора",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "учитель Городского училища",
+          "name": "Александр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нечаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 641,
+        "width": 2953,
+        "x": 745,
+        "y": 2755
+      },
+      "entry_id": "c3ed213b-edad-47fc-abe3-b7b804690f04_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сухиновская волость, деревня Сапроново",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сапронов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "домашняя учительница",
+          "name": "Ольга",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девочка неизвестных родителей, брошенная без всякого призора на улицах города Москвы, отданная на призрение и воспитание в Городское Убежище для сирот",
+          "name": "Анастасия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "5 лет",
+          "geo": "",
+          "info": "девочка неизвестных родителей, брошенная без всякого призора на улицах города Москвы, отданная на призрение и воспитание в Городское Убежище для сирот",
+          "name": "Анастасия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

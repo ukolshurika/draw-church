@@ -1,0 +1,185 @@
+{
+  "year": 1915,
+  "page": 161,
+  "node_id": "63ba39e8-e5d3-4f4f-bb26-3d36ecc159bc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 577,
+        "width": 2741,
+        "x": 958,
+        "y": 1024
+      },
+      "entry_id": "63ba39e8-e5d3-4f4f-bb26-3d36ecc159bc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Мячковская волость, деревня Островец",
+          "info": "крестьянка",
+          "name": "Агафия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Мячковская волость, деревня Островец",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Паршинская волость, сельцо Крапива",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Пимонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 784,
+        "width": 2740,
+        "x": 959,
+        "y": 1844
+      },
+      "entry_id": "63ba39e8-e5d3-4f4f-bb26-3d36ecc159bc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Горецкий уезд, Савская волость, деревня Ульяшино",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "second_name": "Архипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Савашевская волость, деревня Власово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Денисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Аксенов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Покровская волость, деревня Шимаево",
+          "info": "крестьянка",
+          "name": "Марфа",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гвоздева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 685,
+        "width": 2794,
+        "x": 936,
+        "y": 2633
+      },
+      "entry_id": "63ba39e8-e5d3-4f4f-bb26-3d36ecc159bc_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Старо-Казачья волость, сельцо Поддолье Одоевцева",
+          "info": "из бывших дворовых крестьян",
+          "name": "Георгий",
+          "second_name": "Парменов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ильин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, Горевская волость, село",
+          "info": "крестьянин",
+          "name": "Дионисий",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Адров"
+        },
+        {
+          "age": "",
+          "geo": "Спасский уезд, Узорская волость, деревня Большое Пирово",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Кононова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Атошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ильина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

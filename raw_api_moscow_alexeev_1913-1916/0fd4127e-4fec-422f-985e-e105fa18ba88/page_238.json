@@ -1,0 +1,174 @@
+{
+  "year": 1914,
+  "page": 238,
+  "node_id": "957f0053-e2fc-4b36-9e90-879059667274",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 288,
+        "width": 1475,
+        "x": 951,
+        "y": 855
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Лобановская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смыслов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Смыслова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1473,
+        "x": 953,
+        "y": 1293
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Кузнецкая слобода",
+          "info": "мещанка",
+          "name": "Ольга",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "8 дней",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Ольгина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Свиридова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 288,
+        "width": 1467,
+        "x": 960,
+        "y": 1743
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_0",
+      "people": [
+        {
+          "age": "70",
+          "geo": "Калужская губерния, Тарусский уезд, Высокиническая волость, село Кратово",
+          "info": "крестьянка, вдова",
+          "name": "Мавра",
+          "second_name": "Потапова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Зуева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 217,
+        "width": 1407,
+        "x": 953,
+        "y": 2209
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_3",
+      "people": [
+        {
+          "age": "2 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, город Скопин",
+          "info": "мещанин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Титов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1437,
+        "x": 950,
+        "y": 2567
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_2",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Рязанская губерния, Солотчинская волость, село Коростово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Рович"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 221,
+        "width": 1412,
+        "x": 941,
+        "y": 2920
+      },
+      "entry_id": "957f0053-e2fc-4b36-9e90-879059667274_4",
+      "people": [
+        {
+          "age": "62",
+          "geo": "",
+          "info": "отставной канцелярский служитель",
+          "name": "Феодор",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Турчанинов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,279 @@
+{
+  "year": 1916,
+  "page": 50,
+  "node_id": "1176a8d0-463e-4840-9b78-a45b7fb20f95",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 543,
+        "width": 2716,
+        "x": 924,
+        "y": 1016
+      },
+      "entry_id": "1176a8d0-463e-4840-9b78-a45b7fb20f95_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Немерзи",
+          "info": "крестьянин",
+          "name": "Фока",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шашков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Евменьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Панкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Фокина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шашкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шашкова"
+        },
+        {
+          "age": "",
+          "geo": "Волочковская волость, деревня Долговяжье",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Панков"
+        },
+        {
+          "age": "",
+          "geo": "Дорогобужский уезд, Дудинская волость, деревня Крушинники",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Авксентиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лещенков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 541,
+        "width": 2708,
+        "x": 924,
+        "y": 1731
+      },
+      "entry_id": "1176a8d0-463e-4840-9b78-a45b7fb20f95_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Нерехтский уезд, Красинская волость, деревня Парушево",
+          "info": "крестьянка, девица",
+          "name": "Таисия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соловьева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Успенская волость, деревня Песочни",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 485,
+        "width": 2699,
+        "x": 938,
+        "y": 2435
+      },
+      "entry_id": "1176a8d0-463e-4840-9b78-a45b7fb20f95_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Веренич"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Веренич"
+        },
+        {
+          "age": "",
+          "geo": "Пинск, Минская губерния",
+          "info": "мещанка",
+          "name": "Варвара",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борисевич"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Пинский уезд, город Пинск",
+          "info": "городенский мещанин",
+          "name": "Стефан",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Веренич"
+        },
+        {
+          "age": "",
+          "geo": "Брянск",
+          "info": "мещанин",
+          "name": "Павел",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поликарпов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 643,
+        "width": 2683,
+        "x": 952,
+        "y": 3106
+      },
+      "entry_id": "1176a8d0-463e-4840-9b78-a45b7fb20f95_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Морчугово",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Морчугов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд, Ивановская волость, сельцо Мишнево",
+          "info": "крестьянин",
+          "name": "Венедикт",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Решетин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Викентиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Решетина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кутакова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Константиновская волость, село Мишнево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чернышов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Венедиктовна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Решетина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 297,
+  "node_id": "ab2fa3ac-42ff-42f0-a634-5dbd16c83b2b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 486,
+        "width": 1484,
+        "x": 1076,
+        "y": 1107
+      },
+      "entry_id": "ab2fa3ac-42ff-42f0-a634-5dbd16c83b2b_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Черногорова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Спасский уезд, Майданская волость, село Боковой-Майдан",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Черногоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 482,
+        "width": 1468,
+        "x": 1082,
+        "y": 1788
+      },
+      "entry_id": "ab2fa3ac-42ff-42f0-a634-5dbd16c83b2b_2",
+      "people": [
+        {
+          "age": "1 г.",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Карасева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Марфинская волость, село Курово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карасев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 530,
+        "width": 1483,
+        "x": 1077,
+        "y": 2493
+      },
+      "entry_id": "ab2fa3ac-42ff-42f0-a634-5dbd16c83b2b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Козловская волость, деревня Крестьянка",
+          "info": "из дома Бобылева крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Глебов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бутузов"
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Бутузова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 486,
+        "width": 1459,
+        "x": 1092,
+        "y": 3223
+      },
+      "entry_id": "ab2fa3ac-42ff-42f0-a634-5dbd16c83b2b_1",
+      "people": [
+        {
+          "age": "36",
+          "geo": "",
+          "info": "дочь надворного советника",
+          "name": "Надежда",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Вольфарт"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

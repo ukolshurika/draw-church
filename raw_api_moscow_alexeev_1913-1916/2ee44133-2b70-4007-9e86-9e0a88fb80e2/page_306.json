@@ -1,0 +1,207 @@
+{
+  "year": 1915,
+  "page": 306,
+  "node_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 271,
+        "width": 1478,
+        "x": 1087,
+        "y": 1098
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Михалевская волость, деревня Надеждино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Конченов"
+        },
+        {
+          "age": "2",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Конченова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 293,
+        "width": 1508,
+        "x": 1082,
+        "y": 1480
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_4",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Евдокиина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чичагина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Рудневская волость, деревня Глаголево",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Чичагина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 314,
+        "width": 1435,
+        "x": 1081,
+        "y": 1915
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Пятницкая волость, сельцо 2-е Красное",
+          "info": "",
+          "name": "Дмитрий",
+          "other_status": "отецумершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Баканин"
+        },
+        {
+          "age": "11 месяцев",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Пятницкая волость, сельцо 2-е Красное",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Баканин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 312,
+        "width": 1432,
+        "x": 1086,
+        "y": 2338
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_0",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елеферий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Светилов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Петроградская цеховая жестяного цеха девица",
+          "name": "Зинаида",
+          "other_status": "мать умершего",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Светилова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 225,
+        "width": 1438,
+        "x": 1087,
+        "y": 2819
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_1",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Патапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Ливенский мещанин Орловской губернии",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Патапов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 327,
+        "width": 1419,
+        "x": 1094,
+        "y": 3207
+      },
+      "entry_id": "8d7fb945-03eb-410d-bea3-b11c0fdf6559_3",
+      "people": [
+        {
+          "age": "1 год 1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуновская волость, село Незнаново",
+          "info": "крестьянин",
+          "name": "Косма",
+          "other_status": "отец умершего",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Нефедов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,279 @@
+{
+  "year": 1914,
+  "page": 90,
+  "node_id": "7a50288e-bc03-43b5-83bc-c4649010dac1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 503,
+        "width": 2876,
+        "x": 741,
+        "y": 869
+      },
+      "entry_id": "7a50288e-bc03-43b5-83bc-c4649010dac1_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Порцевская волость, деревня Старая Тяга",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Никаноров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Серпуховская мещанка, девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Карпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Никанорова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Никанорова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Петенская волость, деревня Набережная",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Есаков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 524,
+        "width": 2876,
+        "x": 736,
+        "y": 1490
+      },
+      "entry_id": "7a50288e-bc03-43b5-83bc-c4649010dac1_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Соломония",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "село Дерново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дерново",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Роднова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, деревня Каверина",
+          "info": "",
+          "name": "Марина",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Роднова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2916,
+        "x": 729,
+        "y": 2106
+      },
+      "entry_id": "7a50288e-bc03-43b5-83bc-c4649010dac1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Можина, Лидынского уезда, Калужской губернии",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерошин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ерандуг, Екимовской волости, Рязанской губернии",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Овчиников"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ерандуг, Екимовской волости, Рязанской губернии",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "муж крестной матери",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Соломония",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерошина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерошин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 548,
+        "width": 2906,
+        "x": 726,
+        "y": 2729
+      },
+      "entry_id": "7a50288e-bc03-43b5-83bc-c4649010dac1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Жигарев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Журавльская волость, село Федоровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Захаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Клаузе"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жигарева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кошинский уезд, Тиволинская волость, деревня Спицина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Жигарев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

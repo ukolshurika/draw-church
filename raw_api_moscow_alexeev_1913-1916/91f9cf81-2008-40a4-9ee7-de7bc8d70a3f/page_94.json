@@ -1,0 +1,258 @@
+{
+  "year": 1916,
+  "page": 94,
+  "node_id": "b5818e26-e3ef-421c-9121-66b81eaf1b6e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 450,
+        "width": 2759,
+        "x": 908,
+        "y": 1029
+      },
+      "entry_id": "b5818e26-e3ef-421c-9121-66b81eaf1b6e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Арефиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Тумская волость, деревня Вышковицы",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Арефиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Генералов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, село Ермолово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Астахов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 678,
+        "width": 2770,
+        "x": 902,
+        "y": 1632
+      },
+      "entry_id": "b5818e26-e3ef-421c-9121-66b81eaf1b6e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Варшавская губерния, Груецкий уезд, Лимановская волость, деревня Будапозеская",
+          "info": "крестьянка девица",
+          "name": "Станислава",
+          "second_name": "Валентинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Янусик"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Евфросиниев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бакшеев"
+        },
+        {
+          "age": "",
+          "geo": "Казанская губерния, Лаишевский уезд, Зюзинская волость, деревня Новые Салтаны",
+          "info": "вдова крестьянина",
+          "name": "Евфросиния",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бакшеева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Алексеевская волость, деревня Чичагино",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 598,
+        "width": 2780,
+        "x": 893,
+        "y": 2335
+      },
+      "entry_id": "b5818e26-e3ef-421c-9121-66b81eaf1b6e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Теплинская волость, сельцо Новоселки",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горбатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Сергиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Намѣстникова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Луговская волость, село Караси",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Намѣстников"
+        },
+        {
+          "age": "",
+          "geo": "Чернский уезд, Спасская волость, село Соканиково",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Блинова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Намѣстников"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 2796,
+        "x": 886,
+        "y": 3085
+      },
+      "entry_id": "b5818e26-e3ef-421c-9121-66b81eaf1b6e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Спасская волость, деревня Малое-Бздюкино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Короваев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кирюшина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, город Алексин",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щеглова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кирюшина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Севрюковский уезд, Спасская волость, сельцо Кутепово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кирюшин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

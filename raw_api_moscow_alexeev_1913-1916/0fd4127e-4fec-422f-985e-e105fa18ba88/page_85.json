@@ -1,0 +1,259 @@
+{
+  "year": 1914,
+  "page": 85,
+  "node_id": "032484e3-b320-42ee-8324-5657377b5e93",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 518,
+        "width": 2873,
+        "x": 741,
+        "y": 871
+      },
+      "entry_id": "032484e3-b320-42ee-8324-5657377b5e93_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Ловацкая волость, деревня Меховая",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Буцелова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Липецкая волость, деревня Большое Гребенино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Буцелов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Буцелов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иосифова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Буцелова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2850,
+        "x": 745,
+        "y": 1460
+      },
+      "entry_id": "032484e3-b320-42ee-8324-5657377b5e93_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Евгения",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Галманова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галманова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Новикова, Рязанская губерния, Катишьевский уезд, село Чапкино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галманов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курбатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Галманова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 567,
+        "width": 2863,
+        "x": 737,
+        "y": 2061
+      },
+      "entry_id": "032484e3-b320-42ee-8324-5657377b5e93_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Онисимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бусурина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Осиповка",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бусурин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бусурина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Осиповка",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "муж крестной матери",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бусурина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивинская волость, село",
+          "info": "крестьянин",
+          "name": "Онисим",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бусурин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 694,
+        "width": 2891,
+        "x": 721,
+        "y": 2650
+      },
+      "entry_id": "032484e3-b320-42ee-8324-5657377b5e93_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, село Агибаново",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зиновьев"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Куйманская волость, деревня Кузминки",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Кодратова",
+          "sex": "FEMALE",
+          "status": "FATHER",
+          "surname": "Сулимина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Вышегорская волость, деревня Гридино",
+          "info": "крестьянка",
+          "name": "Марія",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "неграмотная",
+          "name": "Балагурина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

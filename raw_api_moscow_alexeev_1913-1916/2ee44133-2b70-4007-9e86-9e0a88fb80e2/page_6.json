@@ -1,0 +1,310 @@
+{
+  "year": 1915,
+  "page": 6,
+  "node_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 557,
+        "width": 2786,
+        "x": 949,
+        "y": 1077
+      },
+      "entry_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Капаевская волость, деревня Житонина",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Феодосиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Вилинская волость, деревня Бояркина",
+          "info": "крестьянин",
+          "name": "Иона",
+          "other_status": "муж крестной матери",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Ксенофонтова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2781,
+        "x": 939,
+        "y": 1716
+      },
+      "entry_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Тровской волости, село Родилово",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Князева"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Слободская волость, село Кузьминки",
+          "info": "крестьянка",
+          "name": "Олимпиада",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Жмыкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Дединовская волость, село Владыкино",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белоусов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 2754,
+        "x": 942,
+        "y": 2255
+      },
+      "entry_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ореховскія"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Белыничская волость, село Кудино",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ореховскій"
+        },
+        {
+          "age": "",
+          "geo": "село Кудино",
+          "info": "крестьянская жена",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ореховскія"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ореховскія"
+        },
+        {
+          "age": "",
+          "geo": "Подольск",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бутыгин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 584,
+        "width": 2756,
+        "x": 939,
+        "y": 2873
+      },
+      "entry_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Миротинская волость, деревня Клещина",
+          "info": "крестьянская дочь",
+          "name": "Наталия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дюжева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Хоршеводская волость, село Воскресенское",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глотова"
+        },
+        {
+          "age": "",
+          "geo": "Алексинский уезд, Миротинская волость, село Щеблово",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Игнатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глотова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 499,
+        "width": 2826,
+        "x": 942,
+        "y": 3497
+      },
+      "entry_id": "b7b97c08-f158-46c3-9d0a-37d58533db4c_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Будкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рощинская волость, село",
+          "info": "крестьянская дочь, девица",
+          "name": "Екатерина",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Эдемская волость, деревня Волковойная",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Будков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Будков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Гудков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

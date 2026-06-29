@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 17,
+  "node_id": "be63727d-af8a-4726-b34a-167915f56e59",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 644,
+        "width": 2748,
+        "x": 938,
+        "y": 1105
+      },
+      "entry_id": "be63727d-af8a-4726-b34a-167915f56e59_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пронский уезд, Дурновская волость, село Семеновское",
+          "info": "девица",
+          "name": "Клавдия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Живоложнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аникина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Богородский уезд",
+          "info": "мещанин",
+          "name": "Семен",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аникин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Аникин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Кашинский уезд, Космодемьяновская волость, деревня Степурино",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 594,
+        "width": 2744,
+        "x": 941,
+        "y": 1773
+      },
+      "entry_id": "be63727d-af8a-4726-b34a-167915f56e59_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "Киевская губерния, Сквирский уезд, село Быстрики",
+          "info": "священник",
+          "name": "Петр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осадчук"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "священник",
+          "name": "Дмитрий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пронский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Колпакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Затишьевский уезд, деревня Ялиная",
+          "info": "",
+          "name": "Емельян",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Колпаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Колпакова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 581,
+        "width": 2753,
+        "x": 931,
+        "y": 2463
+      },
+      "entry_id": "be63727d-af8a-4726-b34a-167915f56e59_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Непецинская волость, село Пруссы",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зеленов"
+        },
+        {
+          "age": "",
+          "geo": "Бронницкий уезд, Чаплыженская волость, деревня Свистягино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глотов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глотова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глотова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Булдина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2753,
+        "x": 928,
+        "y": 3097
+      },
+      "entry_id": "be63727d-af8a-4726-b34a-167915f56e59_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Крючковская волость, село Климово",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Флоров"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Крючковская волость, село Климово",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бизыкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Слободская волость, село",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "FATHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Параскевин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 120,
+  "node_id": "94a5c2e9-e329-4039-8f49-7f8272de8443",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 818,
+        "width": 2809,
+        "x": 910,
+        "y": 1111
+      },
+      "entry_id": "94a5c2e9-e329-4039-8f49-7f8272de8443_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Марьинская волость, деревня Рысковщина",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Пирогово-Зыковская волость, сельцо Рязаново",
+          "info": "вдова крестьянина",
+          "name": "Анна",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Акимова"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Устюженский уезд, Соболевская волость, деревня Исаково",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 724,
+        "width": 2809,
+        "x": 908,
+        "y": 2039
+      },
+      "entry_id": "94a5c2e9-e329-4039-8f49-7f8272de8443_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Федоровская волость, деревня Бобосовка",
+          "info": "крестьянка",
+          "name": "Вера",
+          "other_status": "жена крестьянина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Егорова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Денисово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Жиздринский уезд, Вертлинская волость, село Боброво",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Аржанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 708,
+        "width": 2835,
+        "x": 903,
+        "y": 2788
+      },
+      "entry_id": "94a5c2e9-e329-4039-8f49-7f8272de8443_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лысова"
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лысов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Малоскуратовская волость, сельцо Прилеп",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лысов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лысова"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанка Гостинной слободы",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Байкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

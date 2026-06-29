@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 244,
+  "node_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 198,
+        "width": 1478,
+        "x": 996,
+        "y": 856
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_5",
+      "people": [
+        {
+          "age": "74",
+          "geo": "",
+          "info": "Алексеевского монастыря монахиня",
+          "name": "Евгения",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1475,
+        "x": 993,
+        "y": 1215
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Клинской уезд, Троицкая волость, деревня Трушевки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гладров"
+        },
+        {
+          "age": "1 год 7 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гладрова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1453,
+        "x": 1001,
+        "y": 1665
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровская слобода",
+          "info": "рясофорная послушница Алексеевского монастыря, Московская мещанка",
+          "name": "Александра",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Юхова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 301,
+        "width": 1431,
+        "x": 1004,
+        "y": 2199
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_3",
+      "people": [
+        {
+          "age": "9 лет",
+          "geo": "Краснинское, Княжинская волость, деревня Мартинова",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Федоренков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 294,
+        "width": 1421,
+        "x": 1007,
+        "y": 2649
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_1",
+      "people": [
+        {
+          "age": "19",
+          "geo": "",
+          "info": "приведенный из города Дрездена в Германии сын одесского купца",
+          "name": "Валентин",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Яцинский"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 318,
+        "width": 1418,
+        "x": 1009,
+        "y": 3096
+      },
+      "entry_id": "db3e5bde-b1e5-4a48-bdbf-3d7ba2997112_0",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бабалин"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Ищеинская волость, село Рождество",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Фомин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бабалин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

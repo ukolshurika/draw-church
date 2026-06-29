@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 294,
+  "node_id": "c1c10710-d9c0-411c-aa13-846302f634b1",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 546,
+        "width": 1463,
+        "x": 1078,
+        "y": 1184
+      },
+      "entry_id": "c1c10710-d9c0-411c-aa13-846302f634b1_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Конпинская волость, деревня Селезнево",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "other_status": "мать умершего",
+          "second_name": "Сысоева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "other_status": "крестный отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1420,
+        "x": 1085,
+        "y": 1916
+      },
+      "entry_id": "c1c10710-d9c0-411c-aa13-846302f634b1_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Березовская волость, деревня Карьева",
+          "info": "крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Орешин"
+        },
+        {
+          "age": "23 дня",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Орешин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 380,
+        "width": 1370,
+        "x": 1090,
+        "y": 2590
+      },
+      "entry_id": "c1c10710-d9c0-411c-aa13-846302f634b1_1",
+      "people": [
+        {
+          "age": "72",
+          "geo": "Садово-Набережная слобода",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гаврилов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 474,
+        "width": 1388,
+        "x": 1095,
+        "y": 3201
+      },
+      "entry_id": "c1c10710-d9c0-411c-aa13-846302f634b1_0",
+      "people": [
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корнилаев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Богдановская волость, деревня Шипулино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Корнилаев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

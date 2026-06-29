@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 125,
+  "node_id": "65c6586a-6d1a-438a-a33a-a8f5e1f98e8a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 510,
+        "width": 2744,
+        "x": 907,
+        "y": 1051
+      },
+      "entry_id": "65c6586a-6d1a-438a-a33a-a8f5e1f98e8a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Спасская волость, деревня Митинки",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "личная почетная гражданка",
+          "name": "Зинаида",
+          "second_name": "Кузьмина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петровцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Петровцева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, город Александров",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петровцев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2748,
+        "x": 895,
+        "y": 1703
+      },
+      "entry_id": "65c6586a-6d1a-438a-a33a-a8f5e1f98e8a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анфиса",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Житкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Житков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Капитолина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Житкова"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, город Чериков",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Глебовская волость, село Мартыновское",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Житков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 650,
+        "width": 2741,
+        "x": 900,
+        "y": 2417
+      },
+      "entry_id": "65c6586a-6d1a-438a-a33a-a8f5e1f98e8a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Денисовский уезд, Горшкова волость, село",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Минская губерния, Новогрудский уезд, Столовецкая волость, деревня",
+          "info": "крестьянка",
+          "name": "Матрона",
+          "second_name": "Назарова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Сутковская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 643,
+        "width": 2764,
+        "x": 889,
+        "y": 3164
+      },
+      "entry_id": "65c6586a-6d1a-438a-a33a-a8f5e1f98e8a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Саватемская волость, деревня Власова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Якова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Оренина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Бодишевская волость, село Некрасово",
+          "info": "крестьянка",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Левушина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Савватемская волость, сельцо Котово",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Оренин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Оренина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

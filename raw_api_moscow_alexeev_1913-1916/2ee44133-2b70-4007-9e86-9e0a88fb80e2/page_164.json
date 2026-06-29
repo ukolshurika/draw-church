@@ -1,0 +1,195 @@
+{
+  "year": 1915,
+  "page": 164,
+  "node_id": "38000371-3ecf-474d-bf8f-e51b07482b09",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 782,
+        "width": 2821,
+        "x": 902,
+        "y": 1177
+      },
+      "entry_id": "38000371-3ecf-474d-bf8f-e51b07482b09_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Десенская волость, деревня Старосенова",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Мартынов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Баскаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горелова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая медного цеха",
+          "name": "Наталія",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Белевский уезд, Лучанская волость, деревня Нижние Лученки",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горелов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Горелов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 808,
+        "width": 2829,
+        "x": 917,
+        "y": 2110
+      },
+      "entry_id": "38000371-3ecf-474d-bf8f-e51b07482b09_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Салинская волость, деревня Колочево",
+          "info": "крестьянка",
+          "name": "Иулиания",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудинова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Столыпинская волость, деревня Степанцево",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Майоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Зубцовский уезд, Столыпинская волость, деревня Степанцево",
+          "info": "крестьянская девица",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Майорова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Куракинская волость, деревня Александровка",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Янков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Майоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 709,
+        "width": 2836,
+        "x": 908,
+        "y": 2867
+      },
+      "entry_id": "38000371-3ecf-474d-bf8f-e51b07482b09_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Скопинский уезд, Полянская волость, село Ермолово",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Астахов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "село Ермолово",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Астахова"
+        },
+        {
+          "age": "",
+          "geo": "село Ермолово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Астахов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Астахов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

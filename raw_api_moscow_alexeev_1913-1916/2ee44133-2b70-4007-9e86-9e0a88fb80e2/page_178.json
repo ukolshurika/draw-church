@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 178,
+  "node_id": "74d8ce00-328e-4c92-a6ba-1336e08c9796",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2777,
+        "x": 922,
+        "y": 1121
+      },
+      "entry_id": "74d8ce00-328e-4c92-a6ba-1336e08c9796_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, город Старая Русса",
+          "info": "мещанка, девица",
+          "name": "Вера",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мурашова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мурашова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Тараксинская волость, село Вялемы",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абашкина"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Троицкий уезд, село Винниково",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Киприанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Евдокимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 865,
+        "width": 2811,
+        "x": 911,
+        "y": 1941
+      },
+      "entry_id": "74d8ce00-328e-4c92-a6ba-1336e08c9796_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Непесинская волость, село Шкино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зуев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Коробинская волость, деревня Орловки",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чеботарева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Богородская волость, деревня Таганово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Воробьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Воробьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 843,
+        "width": 2881,
+        "x": 901,
+        "y": 2773
+      },
+      "entry_id": "74d8ce00-328e-4c92-a6ba-1336e08c9796_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Архангельский уезд, Архангельская волость, деревня Малахово",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "отец крестной матери",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Степанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Рождественская волость, деревня Жданская",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Степанов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

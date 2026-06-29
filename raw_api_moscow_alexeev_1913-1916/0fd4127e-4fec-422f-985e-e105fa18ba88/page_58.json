@@ -1,0 +1,257 @@
+{
+  "year": 1914,
+  "page": 58,
+  "node_id": "ebc3800e-4b9b-4e91-b168-a03847bf1462",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 423,
+        "width": 2876,
+        "x": 741,
+        "y": 926
+      },
+      "entry_id": "ebc3800e-4b9b-4e91-b168-a03847bf1462_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пантелеева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Дёчинская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Свирин"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Устюжский уезд, Популовская волость, деревня Михайловская Распаши",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пантелеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пантелеева"
+        },
+        {
+          "age": "",
+          "geo": "Устюжский уезд, деревня Пайтиха",
+          "info": "крестьянская вдова",
+          "name": "Александра",
+          "second_name": "Арсениева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Стрюкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 446,
+        "width": 2924,
+        "x": 743,
+        "y": 1420
+      },
+      "entry_id": "ebc3800e-4b9b-4e91-b168-a03847bf1462_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Пискарева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Петровская волость, деревня Каблуково",
+          "info": "крестьянка, девица",
+          "name": "Надежда",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тимофеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Пискарева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Мовенко",
+          "info": "медынский мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Пискарев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Петрушинская волость, слобода",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маликов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 580,
+        "width": 2861,
+        "x": 726,
+        "y": 1939
+      },
+      "entry_id": "ebc3800e-4b9b-4e91-b168-a03847bf1462_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василисса",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соликова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Судогодский уезд, Ялдинская волость, село Тихоново",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соликов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соликов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Поветкинская волость, село Теплое",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Полухин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Сапожковский уезд, село Смыково",
+          "info": "девица",
+          "name": "Марія",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тимохина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 699,
+        "width": 2938,
+        "x": 722,
+        "y": 2540
+      },
+      "entry_id": "ebc3800e-4b9b-4e91-b168-a03847bf1462_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Серединский волость, деревня Дунилово",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колачев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Ероминская волость, деревня Баглино",
+          "info": "крестьянская дочь, девица",
+          "name": "Анастасия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбачева"
+        },
+        {
+          "age": "",
+          "geo": "Можайский уезд, Порховская волость, деревня Нарёчина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Галкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Неонила",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Галкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

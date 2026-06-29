@@ -1,0 +1,268 @@
+{
+  "year": 1915,
+  "page": 14,
+  "node_id": "99d926b2-e388-4775-b2e5-fab90961d714",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2811,
+        "x": 903,
+        "y": 1091
+      },
+      "entry_id": "99d926b2-e388-4775-b2e5-fab90961d714_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Васильевская волость, деревня Зараза",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец крестной матери",
+          "second_name": "Антипов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пивоваров"
+        },
+        {
+          "age": "",
+          "geo": "Волоколамский уезд, Буйгородская волость, деревня Пашкова",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Акимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Акимов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Акимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пивоварова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Акимов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2811,
+        "x": 906,
+        "y": 1817
+      },
+      "entry_id": "99d926b2-e388-4775-b2e5-fab90961d714_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксининская волость, сельцо Ожеговка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нефедов"
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд, Домодедовская волость, деревня Прутки",
+          "info": "крестьянин",
+          "name": "Ефим",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Прыткин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Прыткина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Прыткина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Прутки",
+          "info": "крестьянская дочь",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Прыткина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 562,
+        "width": 2807,
+        "x": 914,
+        "y": 2398
+      },
+      "entry_id": "99d926b2-e388-4775-b2e5-fab90961d714_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд, Филиндинская волость, деревня Чертовиков",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Поляков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полякова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Дряпловская волость, деревня Ефимовка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жуков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Полякова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь, девица",
+          "name": "Вера",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полякова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 588,
+        "width": 2819,
+        "x": 910,
+        "y": 3031
+      },
+      "entry_id": "99d926b2-e388-4775-b2e5-fab90961d714_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же волость, деревня Клинники",
+          "info": "крестьянская дочь, девица",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гущина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гущин"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Богословская волость, деревня Клинники",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гущин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Никольская Кобылина",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Семенов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гущина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

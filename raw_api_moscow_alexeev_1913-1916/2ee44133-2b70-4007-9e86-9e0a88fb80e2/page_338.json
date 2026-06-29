@@ -1,0 +1,130 @@
+{
+  "year": 1915,
+  "page": 338,
+  "node_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 256,
+        "width": 1406,
+        "x": 1119,
+        "y": 1086
+      },
+      "entry_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b_4",
+      "people": [
+        {
+          "age": "52",
+          "geo": "",
+          "info": "коллежский асессор",
+          "name": "Борис",
+          "second_name": "Оттович",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Розенберг"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 451,
+        "width": 1473,
+        "x": 1111,
+        "y": 1491
+      },
+      "entry_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b_3",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Лучинская волость, деревня Котерево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 260,
+        "width": 1404,
+        "x": 1121,
+        "y": 2111
+      },
+      "entry_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b_2",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "город Варшава",
+          "info": "мещанин",
+          "name": "Владимир",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Корнолик"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 363,
+        "width": 1480,
+        "x": 1112,
+        "y": 2542
+      },
+      "entry_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b_0",
+      "people": [
+        {
+          "age": "62",
+          "geo": "Владимирская губерния, Юрьевский уезд, Горкинская волость, село Новое",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Егорова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 475,
+        "width": 1409,
+        "x": 1126,
+        "y": 3100
+      },
+      "entry_id": "d391b199-ed67-4c5f-b57c-aeccb6f4d89b_1",
+      "people": [
+        {
+          "age": "23",
+          "geo": "",
+          "info": "прапорщик 145 Новочеркасского Императора Александра III полка, потомственный почетный гражданин",
+          "name": "Борис",
+          "second_name": "Робертов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

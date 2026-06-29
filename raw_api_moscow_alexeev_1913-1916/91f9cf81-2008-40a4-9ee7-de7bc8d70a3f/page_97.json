@@ -1,0 +1,268 @@
+{
+  "year": 1916,
+  "page": 97,
+  "node_id": "cbba07f6-8cc9-4eb3-9419-2982e22a3bec",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 477,
+        "width": 2734,
+        "x": 924,
+        "y": 1015
+      },
+      "entry_id": "cbba07f6-8cc9-4eb3-9419-2982e22a3bec_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Кораблинская волость, село Кораблино",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Остров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Кораблинская волость, деревня Бобровниково",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мартынов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Варвара",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартынова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Мартынова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2734,
+        "x": 928,
+        "y": 1650
+      },
+      "entry_id": "cbba07f6-8cc9-4eb3-9419-2982e22a3bec_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Ломжа",
+          "info": "мещанка, девица",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Янгольд"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Кибергинская волость, село Кибергино",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коренев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Коренев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Петровская волость, деревня Захарово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Баранов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коренева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 2705,
+        "x": 919,
+        "y": 2368
+      },
+      "entry_id": "cbba07f6-8cc9-4eb3-9419-2982e22a3bec_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Сергиев Посад",
+          "info": "мещанин",
+          "name": "Сергий",
+          "other_status": "муж крестной матери",
+          "second_name": "Моисеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Моисеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Дубровка",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "Сычевский уезд, деревня Дубровка",
+          "info": "в доме Маттерн, запасной нижний чин из крестьян Смоленской губернии",
+          "name": "Григорий",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Яковлев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2742,
+        "x": 916,
+        "y": 3100
+      },
+      "entry_id": "cbba07f6-8cc9-4eb3-9419-2982e22a3bec_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Слонимский уезд",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Станиславова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Марчук"
+        },
+        {
+          "age": "",
+          "geo": "город Брест, Гродненская губерния, Кобринский уезд, Верхолесская волость, деревня Бельская",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Рыхлинский"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Кобринский уезд, Верхолесская волость, деревня Бельская",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ничипорук"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Рыхлинский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Емилия",
+          "second_name": "Людвигова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рыхлинская"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

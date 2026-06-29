@@ -1,0 +1,86 @@
+{
+  "year": 1916,
+  "page": 336,
+  "node_id": "282c84bb-41b3-44ae-847a-9817c4203384",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 484,
+        "width": 1402,
+        "x": 1025,
+        "y": 1042
+      },
+      "entry_id": "282c84bb-41b3-44ae-847a-9817c4203384_2",
+      "people": [
+        {
+          "age": "23",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Агафонова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Татаркин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 302,
+        "width": 1482,
+        "x": 1024,
+        "y": 1708
+      },
+      "entry_id": "282c84bb-41b3-44ae-847a-9817c4203384_1",
+      "people": [
+        {
+          "age": "58",
+          "geo": "тот же дом",
+          "info": "вдова коллежского асессора",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Островцова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 493,
+        "width": 1474,
+        "x": 1028,
+        "y": 2223
+      },
+      "entry_id": "282c84bb-41b3-44ae-847a-9817c4203384_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Мытищищенский уезд, Мытищищенская волость, село Копнино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж умершего",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Каинов"
+        },
+        {
+          "age": "42",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Каинова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

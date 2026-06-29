@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 91,
+  "node_id": "5b4ff01c-f72f-43c3-9b70-4f26a9902d2a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 564,
+        "width": 2869,
+        "x": 731,
+        "y": 872
+      },
+      "entry_id": "5b4ff01c-f72f-43c3-9b70-4f26a9902d2a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Клинской уезд, село Флоровское",
+          "info": "священник",
+          "name": "Михаил",
+          "second_name": "Алексеевич",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинской уезд, Давыдковская волость, деревня Мисирева",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Табачков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Табачков"
+        },
+        {
+          "age": "",
+          "geo": "Московская мещанская слобода Крымских лужников",
+          "info": "вдова",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лазарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Табачкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 548,
+        "width": 2886,
+        "x": 711,
+        "y": 1485
+      },
+      "entry_id": "5b4ff01c-f72f-43c3-9b70-4f26a9902d2a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цибикова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Тульская волость, село Дорофеево",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цибиков"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Ларинская волость, деревня Лукина",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Подобуев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Верховье-Малышевской волость, деревня Белькова",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гусева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 547,
+        "width": 2887,
+        "x": 712,
+        "y": 2018
+      },
+      "entry_id": "5b4ff01c-f72f-43c3-9b70-4f26a9902d2a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанин",
+          "name": "Архангеловский",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мандельштам"
+        },
+        {
+          "age": "",
+          "geo": "Вышневолочский уезд, Холохоленская волость, деревня Лахтева",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Вышневолочский уезд, Песчаницкая волость, деревня Горбунова",
+          "info": "безземельный крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 586,
+        "width": 2887,
+        "x": 700,
+        "y": 2647
+      },
+      "entry_id": "5b4ff01c-f72f-43c3-9b70-4f26a9902d2a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "цеховой, кумачного цеха",
+          "name": "Сергей",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Михайлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ганышина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ганышина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Новоприборненская волость, слобода Горбуново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Фирсов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ганышин"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "девица, столярного цеха",
+          "name": "Екатерина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

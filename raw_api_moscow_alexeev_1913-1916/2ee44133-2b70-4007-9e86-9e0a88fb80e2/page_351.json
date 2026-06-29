@@ -1,0 +1,141 @@
+{
+  "year": 1915,
+  "page": 351,
+  "node_id": "719e375c-9d88-4170-b5b6-a678c3a89f02",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 290,
+        "width": 1398,
+        "x": 1148,
+        "y": 1131
+      },
+      "entry_id": "719e375c-9d88-4170-b5b6-a678c3a89f02_4",
+      "people": [
+        {
+          "age": "30 лет",
+          "geo": "Московская губерния, Бронницкий уезд, Софьинская волость, село Синьково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ходаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1434,
+        "x": 1143,
+        "y": 1546
+      },
+      "entry_id": "719e375c-9d88-4170-b5b6-a678c3a89f02_2",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Никифорова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Елатомский уезд, Гришинская волость, деревня Андреевские Крестьяне",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Никифоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 229,
+        "width": 1440,
+        "x": 1144,
+        "y": 2115
+      },
+      "entry_id": "719e375c-9d88-4170-b5b6-a678c3a89f02_3",
+      "people": [
+        {
+          "age": "79",
+          "geo": "",
+          "info": "вдова московского ремесленного поваренного цеха",
+          "name": "Евдокия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1440,
+        "x": 1147,
+        "y": 2544
+      },
+      "entry_id": "719e375c-9d88-4170-b5b6-a678c3a89f02_0",
+      "people": [
+        {
+          "age": "20 лет",
+          "geo": "Тульская губерния, Каширский уезд, Богатищевская волость, село Зубово",
+          "info": "крестьянская девица",
+          "name": "Елизавета",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Заволуева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 1402,
+        "x": 1144,
+        "y": 3157
+      },
+      "entry_id": "719e375c-9d88-4170-b5b6-a678c3a89f02_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Дарская волость, деревня Высоково",
+          "info": "крестьянин",
+          "name": "Федосей",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Курочкин"
+        },
+        {
+          "age": "3 года 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Федосеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Курочкин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

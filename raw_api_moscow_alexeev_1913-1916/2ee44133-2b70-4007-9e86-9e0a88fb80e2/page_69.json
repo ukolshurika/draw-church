@@ -1,0 +1,237 @@
+{
+  "year": 1915,
+  "page": 69,
+  "node_id": "52cc9af6-fe05-4230-975a-33641a2c7cf2",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 509,
+        "width": 2769,
+        "x": 903,
+        "y": 1089
+      },
+      "entry_id": "52cc9af6-fe05-4230-975a-33641a2c7cf2_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "личный почетный гражданин",
+          "name": "Дмитрий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Абрикосов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ираида",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Абрикосова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена потомственного почетного гражданина",
+          "name": "Анна",
+          "second_name": "Исаакова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Калинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "коммерции советник",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Абрикосова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 665,
+        "width": 2827,
+        "x": 896,
+        "y": 1660
+      },
+      "entry_id": "52cc9af6-fe05-4230-975a-33641a2c7cf2_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "студент Московского Императорского Университета юридического факультета",
+          "name": "Борис",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова заштатного псаломщика Московской Понкратіевской близ Сухаревой башни церкви",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Борисов",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 564,
+        "width": 2807,
+        "x": 901,
+        "y": 2471
+      },
+      "entry_id": "52cc9af6-fe05-4230-975a-33641a2c7cf2_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Мещовский уезд, Подкопаевская волость, село Беклемишево",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Баламова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Конецпольская волость",
+          "info": "приписанный к волости крестьянин",
+          "name": "Василий",
+          "second_name": "Евгеньев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баламов"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Морозовская волость, деревня",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тибаков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баламова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2805,
+        "x": 902,
+        "y": 3187
+      },
+      "entry_id": "52cc9af6-fe05-4230-975a-33641a2c7cf2_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Данилова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лапкин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Яковлевская волость, деревня Федотово",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лапкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иванова",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лапкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Глафира",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лапкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

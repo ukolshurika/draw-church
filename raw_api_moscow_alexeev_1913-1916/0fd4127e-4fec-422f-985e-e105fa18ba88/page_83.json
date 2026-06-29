@@ -1,0 +1,269 @@
+{
+  "year": 1914,
+  "page": 83,
+  "node_id": "ea1a5dbf-c260-4fc4-bfc6-c62223a34b7d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 546,
+        "width": 2805,
+        "x": 751,
+        "y": 861
+      },
+      "entry_id": "ea1a5dbf-c260-4fc4-bfc6-c62223a34b7d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Белянъ, Семеновская волость, Губашский у. Калужская губ.",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комисаров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Белянъ, Заборьевская волость, Порчская у. Смоленская губ.",
+          "info": "в деревне Маттерн Запасный нижний чин",
+          "name": "Иван",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зорькин"
+        },
+        {
+          "age": "",
+          "geo": "деревня Белянъ, Кременская волость, Медынский у. Калужская губ.",
+          "info": "крестьянская дочь",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Зуйкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Емельянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зорькина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Зорькин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 630,
+        "width": 2897,
+        "x": 731,
+        "y": 1450
+      },
+      "entry_id": "ea1a5dbf-c260-4fc4-bfc6-c62223a34b7d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Спасская волость, деревня Тири",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Тири",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "Дорогобужский уезд, Леоновская волость, деревня Путятина",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Брусилов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 618,
+        "width": 2851,
+        "x": 734,
+        "y": 2082
+      },
+      "entry_id": "ea1a5dbf-c260-4fc4-bfc6-c62223a34b7d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Городищевская волость, село Мордыша",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Громов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Марусова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Громова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирский уезд, Давыдковская волость, деревня Выселок",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Марусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зиновия",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Громова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 692,
+        "width": 2850,
+        "x": 716,
+        "y": 2699
+      },
+      "entry_id": "ea1a5dbf-c260-4fc4-bfc6-c62223a34b7d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "царскосельский мещанин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Калмыков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Глеб",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Самарин"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Новохоперский уезд, Мазуровская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Павлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Самарина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Калмыкова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Симская волость, село Добрынское",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Самарин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

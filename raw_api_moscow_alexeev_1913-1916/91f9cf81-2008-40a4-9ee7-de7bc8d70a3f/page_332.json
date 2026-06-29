@@ -1,0 +1,120 @@
+{
+  "year": 1916,
+  "page": 332,
+  "node_id": "62e0d0d2-b634-441b-9c7a-d53af0458a83",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 418,
+        "width": 1478,
+        "x": 1083,
+        "y": 1057
+      },
+      "entry_id": "62e0d0d2-b634-441b-9c7a-d53af0458a83_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость, деревня Издорова",
+          "info": "из дома Родилина",
+          "name": "Илия",
+          "other_status": "отец умершего",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Ильиин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 239,
+        "width": 1462,
+        "x": 1099,
+        "y": 1697
+      },
+      "entry_id": "62e0d0d2-b634-441b-9c7a-d53af0458a83_3",
+      "people": [
+        {
+          "age": "75",
+          "geo": "",
+          "info": "Алексеевского монастыря монахиня",
+          "name": "Аглаида",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 459,
+        "width": 1451,
+        "x": 1113,
+        "y": 2152
+      },
+      "entry_id": "62e0d0d2-b634-441b-9c7a-d53af0458a83_0",
+      "people": [
+        {
+          "age": "70 лет",
+          "geo": "",
+          "info": "рясофорная послушница Алексеевского монастыря",
+          "name": "Ольга",
+          "other_status": "дочь умершего",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 1443,
+        "x": 1120,
+        "y": 2844
+      },
+      "entry_id": "62e0d0d2-b634-441b-9c7a-d53af0458a83_1",
+      "people": [
+        {
+          "age": "24",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гольман"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "из дома Малахова, отставной коллежский секретарь",
+          "name": "Владимир",
+          "other_status": "муж умершего",
+          "second_name": "Владимирович",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гольман"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 112,
+  "node_id": "3e1d7e02-1665-4820-9db0-e415737e1908",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 680,
+        "width": 2795,
+        "x": 943,
+        "y": 1094
+      },
+      "entry_id": "3e1d7e02-1665-4820-9db0-e415737e1908_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Маклецкая волость, село Грицово",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бубенцов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абрамова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Коробовщинская волость, деревня Старая",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Абрамов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Абрамова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Абрамова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 759,
+        "width": 2822,
+        "x": 938,
+        "y": 2015
+      },
+      "entry_id": "3e1d7e02-1665-4820-9db0-e415737e1908_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Луговская волость, село Баскаково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гаврилов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Дединовская волость, село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Лаптевская волость, сельцо Федякино",
+          "info": "вдова крестьянина",
+          "name": "Дарья",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Савастьянова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гаврилова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гаврилова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 692,
+        "width": 2803,
+        "x": 934,
+        "y": 2873
+      },
+      "entry_id": "3e1d7e02-1665-4820-9db0-e415737e1908_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Подчерковская волость, деревня Очево",
+          "info": "крестьянин",
+          "name": "Акила",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рушихин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Благова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Благова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Акилина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рушихина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Коробовская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "second_name": "Лазарев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Благов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

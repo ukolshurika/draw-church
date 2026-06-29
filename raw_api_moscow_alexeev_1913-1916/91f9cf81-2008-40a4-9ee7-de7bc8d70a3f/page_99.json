@@ -1,0 +1,227 @@
+{
+  "year": 1916,
+  "page": 99,
+  "node_id": "430514a6-96da-40cc-a4b4-c04d624c2333",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 458,
+        "width": 2620,
+        "x": 934,
+        "y": 1030
+      },
+      "entry_id": "430514a6-96da-40cc-a4b4-c04d624c2333_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Княжевская волость, деревня Хомутская",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд",
+          "info": "мещанка, девица",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тарасова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 675,
+        "width": 2644,
+        "x": 920,
+        "y": 1621
+      },
+      "entry_id": "430514a6-96da-40cc-a4b4-c04d624c2333_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Веры",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Влатковский"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Рославльский уезд, Костыревская волость, деревня Подмостки",
+          "info": "крестьянский сын",
+          "name": "Афанасий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горский"
+        },
+        {
+          "age": "",
+          "geo": "Новоладожский уезд, Шумская волость, деревня Концы",
+          "info": "потомственная почетная гражданка, дочь диакона",
+          "name": "Вера",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Влатковская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2667,
+        "x": 914,
+        "y": 2272
+      },
+      "entry_id": "430514a6-96da-40cc-a4b4-c04d624c2333_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Серебрено-Прудская волость, деревня Крестьянка",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Власова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Дубосищенская волость, деревня Марьино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Парфенов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыганов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Юсов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Парфеньевская волость, деревня Сергиевская",
+          "info": "крестьянка, вдова",
+          "name": "Александра",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Юсова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 642,
+        "width": 2677,
+        "x": 909,
+        "y": 3058
+      },
+      "entry_id": "430514a6-96da-40cc-a4b4-c04d624c2333_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, деревня Рябинки",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Карпова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козявкин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Частинский уезд, село Глухих Поляны",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козявкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козявкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козявкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

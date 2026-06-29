@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 248,
+  "node_id": "fe243f7b-89de-4397-ac5d-91c691b9bd19",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1475,
+        "x": 981,
+        "y": 802
+      },
+      "entry_id": "fe243f7b-89de-4397-ac5d-91c691b9bd19_2",
+      "people": [
+        {
+          "age": "1 год",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Холмогорова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Боровский уезд, Рождественская волость, сельцо Деденево",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Холмогоров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1486,
+        "x": 973,
+        "y": 1262
+      },
+      "entry_id": "fe243f7b-89de-4397-ac5d-91c691b9bd19_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Константиновская волость, деревня Солнцево",
+          "info": "крестьянка",
+          "name": "Агафья",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Орлов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 343,
+        "width": 1424,
+        "x": 983,
+        "y": 1703
+      },
+      "entry_id": "fe243f7b-89de-4397-ac5d-91c691b9bd19_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Елисов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Покрово-Слободская волость, деревня Теперок",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Елисов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

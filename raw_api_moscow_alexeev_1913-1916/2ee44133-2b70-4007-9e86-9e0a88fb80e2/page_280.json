@@ -1,0 +1,152 @@
+{
+  "year": 1915,
+  "page": 280,
+  "node_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 416,
+        "width": 1469,
+        "x": 1090,
+        "y": 1128
+      },
+      "entry_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864_4",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Капетолина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Колбасова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Окуньковская волость, село Большое Коровино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колбасов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 310,
+        "width": 1470,
+        "x": 1089,
+        "y": 1684
+      },
+      "entry_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864_2",
+      "people": [
+        {
+          "age": "5 лет",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Бельский уезд, Казилинская волость, деревня Аройменово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 390,
+        "width": 1399,
+        "x": 1089,
+        "y": 2118
+      },
+      "entry_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Богодуховская волость, село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1395,
+        "x": 1101,
+        "y": 2655
+      },
+      "entry_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864_1",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "Владимирская губерния, Муромский уезд, Булатниковская волость, село Крестьяне",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Семкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1454,
+        "x": 1099,
+        "y": 3120
+      },
+      "entry_id": "ed5726fb-0e8d-40a7-8c8e-cf171d70e864_3",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "Смоленская губерния, Гохловский уезд, Покровская волость, деревня Тесиникова",
+          "info": "крестьянский сын, по крестному отцу Яковлев",
+          "name": "Иоанн",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

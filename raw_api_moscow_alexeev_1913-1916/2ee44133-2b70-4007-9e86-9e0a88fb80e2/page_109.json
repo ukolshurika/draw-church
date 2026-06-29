@@ -1,0 +1,165 @@
+{
+  "year": 1915,
+  "page": 109,
+  "node_id": "0c990958-2988-48e1-9ed6-149dc16c2080",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 519,
+        "width": 2798,
+        "x": 976,
+        "y": 1186
+      },
+      "entry_id": "0c990958-2988-48e1-9ed6-149dc16c2080_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксиньинская волость, село Марыкино",
+          "info": "крестьянская девица",
+          "name": "Марфа",
+          "second_name": "Сидорова",
+          "sex": "FEMALE",
+          "status": "GODFATHER",
+          "surname": "Хохлова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Бельский",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Гаврилович",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Раиса",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 706,
+        "width": 2818,
+        "x": 981,
+        "y": 1854
+      },
+      "entry_id": "0c990958-2988-48e1-9ed6-149dc16c2080_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Краснопольско-Покровская волость, село Рождествено",
+          "info": "крестьянка, девица",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Митина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Финогенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузьмичева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Хрущевская волость, село Спѣшнево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузьмичев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кузьмичева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 945,
+        "width": 2869,
+        "x": 976,
+        "y": 2723
+      },
+      "entry_id": "0c990958-2988-48e1-9ed6-149dc16c2080_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Сабельникова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петрухин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тихоновская волость, деревня Сабельникова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петрухин"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Галичский уезд, Вознесенская волость, деревня Елеазаровская",
+          "info": "крестьянка, девица",
+          "name": "Татьяна",
+          "second_name": "Акимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кустова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петрухина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Петрухина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,330 @@
+{
+  "year": 1914,
+  "page": 133,
+  "node_id": "ae706797-b90e-4462-9349-6e255f80dbeb",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 484,
+        "width": 2914,
+        "x": 738,
+        "y": 882
+      },
+      "entry_id": "ae706797-b90e-4462-9349-6e255f80dbeb_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Куркаева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Ульянинская волость, село Михеево",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Куркаев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Большое Пирово",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Агафонин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Куркаева"
+        },
+        {
+          "age": "",
+          "geo": "деревня Большое Пирово",
+          "info": "крестьянская дочь, девица",
+          "name": "Феодосия",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Курпаева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 537,
+        "width": 2910,
+        "x": 741,
+        "y": 1409
+      },
+      "entry_id": "ae706797-b90e-4462-9349-6e255f80dbeb_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская мещанская слобода",
+          "info": "вдова",
+          "name": "Агафия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Тросненская волость, село Трегубово",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Гордиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Трушин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иустиния",
+          "second_name": "Гордиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Вахуркино",
+          "info": "личный почетный гражданин",
+          "name": "Николай",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 498,
+        "width": 2936,
+        "x": 736,
+        "y": 1956
+      },
+      "entry_id": "ae706797-b90e-4462-9349-6e255f80dbeb_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трусова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Маковская волость, деревня Иваньково",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петухов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Усмерская волость, деревня Кладьково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Трусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петухова"
+        },
+        {
+          "age": "",
+          "geo": "Псковская губерния, Холмский уезд, Медовская волость, село",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Хлусов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Димитрий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петухов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 432,
+        "width": 2960,
+        "x": 724,
+        "y": 2504
+      },
+      "entry_id": "ae706797-b90e-4462-9349-6e255f80dbeb_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Круглова"
+        },
+        {
+          "age": "",
+          "geo": "Логиновская губерния, деревня Шалимово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Евграфов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Комягин"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Логиновская волость, деревня Маттерн",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Круглов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Васильевская волость, деревня Рябцево",
+          "info": "девица",
+          "name": "Клавдия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Букварева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Круглов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 2928,
+        "x": 718,
+        "y": 2952
+      },
+      "entry_id": "ae706797-b90e-4462-9349-6e255f80dbeb_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кореневская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Дария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мельникова"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Старосельская волость, деревня Кувшино",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кореневский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кореневский"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Сафроновская волость, деревня Балматово",
+          "info": "крестьянин",
+          "name": "Антипа",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кореневский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

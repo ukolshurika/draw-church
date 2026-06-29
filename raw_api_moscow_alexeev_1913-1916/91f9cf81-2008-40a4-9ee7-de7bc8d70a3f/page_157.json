@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 157,
+  "node_id": "98759b69-b3e0-4828-8566-b0e6acbba550",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 572,
+        "width": 2899,
+        "x": 917,
+        "y": 1012
+      },
+      "entry_id": "98759b69-b3e0-4828-8566-b0e6acbba550_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынская волость, деревня Подлуга",
+          "info": "крестьянка, девица",
+          "name": "Анисия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Логашина"
+        },
+        {
+          "age": "",
+          "geo": "Богородицкий уезд, Лаптевская волость, деревня Владычни",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябчиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Денисов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Михайловская волость, село Кресты",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2891,
+        "x": 927,
+        "y": 1604
+      },
+      "entry_id": "98759b69-b3e0-4828-8566-b0e6acbba550_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Корашевская волость, деревня Щепачева",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Щепачев"
+        },
+        {
+          "age": "",
+          "geo": "деревня Щепачева",
+          "info": "жена крестьянина",
+          "name": "Наталия",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Щепачева"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Нижнее-Гаврильцово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мельников"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Чахинская волость, сельцо Нижнее-Гаврильцово",
+          "info": "крестьянка, девица",
+          "name": "Марфа",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Малашичева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2891,
+        "x": 924,
+        "y": 2266
+      },
+      "entry_id": "98759b69-b3e0-4828-8566-b0e6acbba550_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гурченкова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Пятницкая волость, деревня Ломакина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гурченков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Морозов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Параскева",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Короткова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Шишинский уезд, сельцо Сибекино",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агриппина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гурченкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 748,
+        "width": 2898,
+        "x": 925,
+        "y": 2987
+      },
+      "entry_id": "98759b69-b3e0-4828-8566-b0e6acbba550_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "город Рязань",
+          "info": "цеховой",
+          "name": "Иван",
+          "second_name": "Титов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Давыдовский уезд, деревня Корягино",
+          "info": "крестьянка, девица",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Данилова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, город Карачев",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Акулов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

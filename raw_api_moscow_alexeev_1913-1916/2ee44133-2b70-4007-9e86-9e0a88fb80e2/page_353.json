@@ -1,0 +1,141 @@
+{
+  "year": 1915,
+  "page": 353,
+  "node_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 389,
+        "width": 1461,
+        "x": 1116,
+        "y": 1088
+      },
+      "entry_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7_4",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Московская губерния, Звенигородский уезд, Еремеевская волость, сельцо Алексино",
+          "info": "вдова крестьянина",
+          "name": "Евфимий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Ботин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1482,
+        "x": 1102,
+        "y": 1580
+      },
+      "entry_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7_3",
+      "people": [
+        {
+          "age": "94",
+          "geo": "",
+          "info": "вдова отставного рядового, не приписанного ни к какому обществу из бывших дворовых людей",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Дрозцов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 404,
+        "width": 1488,
+        "x": 1094,
+        "y": 2103
+      },
+      "entry_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7_0",
+      "people": [
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость",
+          "info": "безземельный крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 430,
+        "width": 1431,
+        "x": 1094,
+        "y": 2651
+      },
+      "entry_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7_1",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Романушкин"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Бабаевской уезд, Бабаевской волости деревня Верховье",
+          "info": "крестьянин",
+          "name": "Никита",
+          "other_status": "отец умершего",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Романушкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 330,
+        "width": 1484,
+        "x": 1089,
+        "y": 3251
+      },
+      "entry_id": "1b299b7c-901b-43fe-91ec-b3535fddcdd7_2",
+      "people": [
+        {
+          "age": "67",
+          "geo": "город Медынь, Калужская губерния",
+          "info": "вдова, дворянка означенной губернии",
+          "name": "Мария",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Дубкова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

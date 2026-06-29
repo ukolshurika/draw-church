@@ -1,0 +1,215 @@
+{
+  "year": 1916,
+  "page": 134,
+  "node_id": "2215d6a0-22c8-4c51-a967-2dd1262c16f7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 729,
+        "width": 2731,
+        "x": 935,
+        "y": 1041
+      },
+      "entry_id": "2215d6a0-22c8-4c51-a967-2dd1262c16f7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Горюнова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Загорново, Загорновская волость, Бронницкий уезд, Московская губерния",
+          "info": "запасный бомбардир 9-й конно-артиллерийской батареи, из крестьян",
+          "name": "Павел",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иулиания",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Горюнова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Загорново, Загорновская волость, Бронницкий уезд, Московская губерния",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Горюнов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Руднева, Ильищенская волость, Зарайский уезд, Рязанская губерния",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 966,
+        "width": 2750,
+        "x": 921,
+        "y": 1931
+      },
+      "entry_id": "2215d6a0-22c8-4c51-a967-2dd1262c16f7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Солянкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Солянкин"
+        },
+        {
+          "age": "",
+          "geo": "село Гранки",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Дементиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лазутина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Гранковская волость, село Гранки",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Солянкин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Иваньково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Щербаков"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Гранки",
+          "info": "крестьянка, девица",
+          "name": "Ольга",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Огурцова"
+        },
+        {
+          "age": "",
+          "geo": "село Гранки",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Огурцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Солянкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 672,
+        "width": 2756,
+        "x": 919,
+        "y": 3132
+      },
+      "entry_id": "2215d6a0-22c8-4c51-a967-2dd1262c16f7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Кочнево",
+          "info": "крестьянка, девица",
+          "name": "Елизавета",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Бехтеевская волость, деревня Голопуповка",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Голопуповка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

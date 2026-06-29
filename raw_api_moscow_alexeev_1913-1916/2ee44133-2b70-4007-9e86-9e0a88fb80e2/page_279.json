@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 279,
+  "node_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 361,
+        "width": 1419,
+        "x": 1113,
+        "y": 1137
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_5",
+      "people": [
+        {
+          "age": "8 1/2 месяцев",
+          "geo": "Рязанская губерния, Михайловский уезд, Вилинская волость, деревня Соловьевка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Космин",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лапшин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 1428,
+        "x": 1115,
+        "y": 1619
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_3",
+      "people": [
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Трофимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Колпеников"
+        },
+        {
+          "age": "",
+          "geo": "Волынская губерния, Новоградволынский уезд, Романовская волость, село Камень",
+          "info": "крестьянин",
+          "name": "Трофим",
+          "other_status": "отец умершего",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Колпеников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1480,
+        "x": 1109,
+        "y": 2209
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_0",
+      "people": [
+        {
+          "age": "61",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, село Старая Дуброва",
+          "info": "жена крестьянина",
+          "name": "Марфа",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чудина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 244,
+        "width": 1417,
+        "x": 1119,
+        "y": 2663
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_4",
+      "people": [
+        {
+          "age": "75",
+          "geo": "",
+          "info": "коломенский мещанин",
+          "name": "Трофим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Лесик"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1400,
+        "x": 1120,
+        "y": 3024
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Лобановская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Смыслов"
+        },
+        {
+          "age": "4 недели",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Смыслов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 315,
+        "width": 1468,
+        "x": 1120,
+        "y": 3453
+      },
+      "entry_id": "5441d996-8f6a-4a1f-9ee2-42c259c1a8b0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Кехотская волость, деревня Мечки",
+          "info": "крестьянин",
+          "name": "Федор",
+          "other_status": "отец умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Новоселов"
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Новоселова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

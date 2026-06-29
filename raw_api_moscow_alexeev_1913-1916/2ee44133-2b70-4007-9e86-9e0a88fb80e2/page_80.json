@@ -1,0 +1,320 @@
+{
+  "year": 1915,
+  "page": 80,
+  "node_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 489,
+        "width": 2765,
+        "x": 905,
+        "y": 1038
+      },
+      "entry_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Ижеславская волость, деревня Натеки",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Весенев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Весенев"
+        },
+        {
+          "age": "",
+          "geo": "Виленская губерния, Десненский уезд, Лямпольская волость, деревня Сташули",
+          "info": "крестьянская дочь, девица",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Суковская волость, село Старая Кашира",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Быбаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Весенева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 408,
+        "width": 2766,
+        "x": 906,
+        "y": 1601
+      },
+      "entry_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода Хамовой",
+          "info": "Московский мещанин",
+          "name": "Федор",
+          "second_name": "Аверьянов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Савостин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Калужский мещанин",
+          "name": "Петр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "",
+          "geo": "Московский цех Кузнецкого цеха",
+          "info": "Московская цеховая",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Степанова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Борисова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 2779,
+        "x": 905,
+        "y": 2137
+      },
+      "entry_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Половинкина"
+        },
+        {
+          "age": "",
+          "geo": "та же Яковлевская волость",
+          "info": "село Жайское крестьянское хозяйство",
+          "name": "Василий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Володин"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Муромский уезд, Яковлевская волость, деревня Бежанова",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Половинкин"
+        },
+        {
+          "age": "",
+          "geo": "та же Яковлевская волость, деревня Бежанова",
+          "info": "крестьянское хозяйство, девица",
+          "name": "Валентина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Половинкина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Половинкин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 451,
+        "width": 2766,
+        "x": 906,
+        "y": 2776
+      },
+      "entry_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анисия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Полевина"
+        },
+        {
+          "age": "",
+          "geo": "то же село Беззубово",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Асташкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Полевина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Старо-Казаческая волость, деревня Большая Медовая",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "other_status": "муж крестной матери",
+          "second_name": "Каллиникова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Щербакова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Косяевская волость, село Беззубово",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Елисеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Полевин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 490,
+        "width": 2773,
+        "x": 904,
+        "y": 3283
+      },
+      "entry_id": "5cf20f57-749e-4a33-9593-cd10483cbe8a_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алферова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Ласки",
+          "info": "крестьянская дочь",
+          "name": "Акилина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Лазинская волость, деревня Лысково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Мефодиевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алферов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алферова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Двоинская волость, деревня Скорнево",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

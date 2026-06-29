@@ -1,0 +1,174 @@
+{
+  "year": 1915,
+  "page": 322,
+  "node_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 380,
+        "width": 1492,
+        "x": 1063,
+        "y": 1116
+      },
+      "entry_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9_4",
+      "people": [
+        {
+          "age": "2 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Семендяевская волость, деревня Кетково",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Титов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 290,
+        "width": 1494,
+        "x": 1069,
+        "y": 1630
+      },
+      "entry_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, титулярная советница",
+          "name": "Елена",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Тропаревская"
+        },
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Тропаревская"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 414,
+        "width": 1442,
+        "x": 1064,
+        "y": 2049
+      },
+      "entry_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Шенкурский уезд, Устьпаденская волость, Таруфтинская деревня",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Попов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 231,
+        "width": 1481,
+        "x": 1073,
+        "y": 2619
+      },
+      "entry_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Калуга",
+          "info": "мещанин",
+          "name": "Петр",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Борисов"
+        },
+        {
+          "age": "2 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Борисова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 431,
+        "width": 1423,
+        "x": 1071,
+        "y": 3054
+      },
+      "entry_id": "390107e4-db5c-4d01-a3d6-b0246e0995c9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Погостовская волость, деревня Григорово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Андреев"
+        },
+        {
+          "age": "10 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Андреев"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

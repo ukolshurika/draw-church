@@ -1,0 +1,152 @@
+{
+  "year": 1916,
+  "page": 316,
+  "node_id": "639e87c4-70de-446d-a6c3-026db1762c10",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 433,
+        "width": 1453,
+        "x": 1103,
+        "y": 993
+      },
+      "entry_id": "639e87c4-70de-446d-a6c3-026db1762c10_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Посконская волость, деревня Теплищево",
+          "info": "из дома Болотниковой крестьянин",
+          "name": "Егор",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семененков"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Семененков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 376,
+        "width": 1403,
+        "x": 1112,
+        "y": 1590
+      },
+      "entry_id": "639e87c4-70de-446d-a6c3-026db1762c10_3",
+      "people": [
+        {
+          "age": "66",
+          "geo": "",
+          "info": "из дома Виндавского подворья младший землемер 2 разряда Межевой канцелярии надворный советник",
+          "name": "Александр",
+          "second_name": "Феодорович",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Головин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 353,
+        "width": 1440,
+        "x": 1125,
+        "y": 2114
+      },
+      "entry_id": "639e87c4-70de-446d-a6c3-026db1762c10_2",
+      "people": [
+        {
+          "age": "69 лет",
+          "geo": "Тверская губерния, Корчевский уезд, Суворовская волость, деревня Гагусино",
+          "info": "крестьянка, вдова",
+          "name": "Пелагия",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Имодорова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 460,
+        "width": 1426,
+        "x": 1133,
+        "y": 2651
+      },
+      "entry_id": "639e87c4-70de-446d-a6c3-026db1762c10_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кочетова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Воронцовская волость, деревня Курово",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кочетов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 411,
+        "width": 1423,
+        "x": 1139,
+        "y": 3264
+      },
+      "entry_id": "639e87c4-70de-446d-a6c3-026db1762c10_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Десенская волость, сельцо Никольское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "муж умершего",
+          "second_name": "Димитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Белоусов"
+        },
+        {
+          "age": "25",
+          "geo": "",
+          "info": "",
+          "name": "Ираида",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Белоусова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

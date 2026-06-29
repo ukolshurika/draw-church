@@ -1,0 +1,259 @@
+{
+  "year": 1916,
+  "page": 14,
+  "node_id": "dfaccad6-c01f-478b-be63-79dc555bb3d4",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 506,
+        "width": 2858,
+        "x": 897,
+        "y": 1073
+      },
+      "entry_id": "dfaccad6-c01f-478b-be63-79dc555bb3d4_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Ивакино-Купровская волость, деревня Рябиновка",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Городнищенская волость, деревня Истомино",
+          "info": "крестьянин",
+          "name": "Пелагий",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Бобылев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "Кириллова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Игнатиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Смирнова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бобылева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 570,
+        "width": 2853,
+        "x": 895,
+        "y": 1735
+      },
+      "entry_id": "dfaccad6-c01f-478b-be63-79dc555bb3d4_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Высокиническая волость, село Никоново",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зоя",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Булаева-Кузьмичева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Суевская волость, деревня Смыгаловка",
+          "info": "крестьянка, девица",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Савкина"
+        },
+        {
+          "age": "",
+          "geo": "Пензенская губерния, Саранский уезд, Булгаковская волость, село Нечаевка",
+          "info": "крестьянская девица",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Булаева-Кузьмичева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 568,
+        "width": 2876,
+        "x": 881,
+        "y": 2428
+      },
+      "entry_id": "dfaccad6-c01f-478b-be63-79dc555bb3d4_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Иванькин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Аркадий",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Яшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Яшина"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мещовский уезд, Конецпольская волость, село Конецполь",
+          "info": "крестьянин",
+          "name": "Иосиф",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Яшин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Дьяконовская волость, деревня Пряхино",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Невзгодина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 647,
+        "width": 2913,
+        "x": 862,
+        "y": 3129
+      },
+      "entry_id": "dfaccad6-c01f-478b-be63-79dc555bb3d4_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Разинков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Караблинская волость, деревня Исаево",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Яковлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Разинкова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Афанасьевская волость, деревня Средне-Короткая",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Разинков"
+        },
+        {
+          "age": "",
+          "geo": "Афанасьевская волость, деревня Верхне-Короткая",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Левыкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Медведёва"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

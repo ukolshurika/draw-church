@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 191,
+  "node_id": "34e9bbdb-0abe-4de4-90ac-b1468dbe51f9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 483,
+        "width": 2730,
+        "x": 857,
+        "y": 1018
+      },
+      "entry_id": "34e9bbdb-0abe-4de4-90ac-b1468dbe51f9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Акилина",
+          "second_name": "Епифанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мурчикова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Ситовская волость, деревня Свечинских выселок",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Леонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гольцов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Фекла",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гольцова"
+        },
+        {
+          "age": "",
+          "geo": "Ситовская волость, деревня Мосоловка",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мочков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гольцов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 498,
+        "width": 2739,
+        "x": 859,
+        "y": 1676
+      },
+      "entry_id": "34e9bbdb-0abe-4de4-90ac-b1468dbe51f9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Силаев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Мещеринская волость, сельцо Починино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Силаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Силаева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, город Весьегонск",
+          "info": "мещанка, девица",
+          "name": "Елена",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Силаев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 654,
+        "width": 2783,
+        "x": 845,
+        "y": 2326
+      },
+      "entry_id": "34e9bbdb-0abe-4de4-90ac-b1468dbe51f9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Пятницкая волость, деревня Лычево",
+          "info": "жена крестьянина",
+          "name": "Зинаида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Карева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, деревня Подникольская",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лепнов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Климовская волость, деревня Тупичино",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Ксенофонтова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 566,
+        "width": 2788,
+        "x": 851,
+        "y": 2967
+      },
+      "entry_id": "34e9bbdb-0abe-4de4-90ac-b1468dbe51f9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Головачево",
+          "info": "крестьянская девица",
+          "name": "Юлиания",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Николаева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Тургиновский уезд, Тургиновская волость, деревня Головачево",
+          "info": "крестьянин",
+          "name": "Симеон",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Ильинский уезд, Ильинская волость, деревня Пестово",
+          "info": "крестьянин",
+          "name": "Нил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Леонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

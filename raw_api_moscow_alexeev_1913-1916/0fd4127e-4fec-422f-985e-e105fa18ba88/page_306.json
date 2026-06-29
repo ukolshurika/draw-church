@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 306,
+  "node_id": "2ea84938-3c65-4d08-85f4-29a29bc4b975",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 341,
+        "width": 1479,
+        "x": 925,
+        "y": 831
+      },
+      "entry_id": "2ea84938-3c65-4d08-85f4-29a29bc4b975_3",
+      "people": [
+        {
+          "age": "27",
+          "geo": "Клинское",
+          "info": "Троицкой волости, деревни Марьино крестьянская девица",
+          "name": "Евдокия",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 450,
+        "width": 1476,
+        "x": 922,
+        "y": 1390
+      },
+      "entry_id": "2ea84938-3c65-4d08-85f4-29a29bc4b975_1",
+      "people": [
+        {
+          "age": "60",
+          "geo": "Смоленская губерния, Гжатский уезд, Рождественская волость, деревня Синичина",
+          "info": "крестьянка, девица",
+          "name": "Екатерина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 513,
+        "width": 1449,
+        "x": 900,
+        "y": 2119
+      },
+      "entry_id": "2ea84938-3c65-4d08-85f4-29a29bc4b975_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Антониев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Пузиков"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Козловский уезд, Иловай-Дмитровская волость",
+          "info": "крестьянин",
+          "name": "Антоний",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пузиков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 352,
+        "width": 1484,
+        "x": 904,
+        "y": 2839
+      },
+      "entry_id": "2ea84938-3c65-4d08-85f4-29a29bc4b975_2",
+      "people": [
+        {
+          "age": "68",
+          "geo": "Порховская волость, деревня Параково",
+          "info": "крестьянка",
+          "name": "Иустиния",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,141 @@
+{
+  "year": 1916,
+  "page": 305,
+  "node_id": "22022ef0-2ce7-4dea-b1cc-edb1c4bbc27f",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 481,
+        "width": 1494,
+        "x": 1042,
+        "y": 1010
+      },
+      "entry_id": "22022ef0-2ce7-4dea-b1cc-edb1c4bbc27f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Мосальский уезд, Спасская волость, деревня Мамоновка",
+          "info": "крестьянин",
+          "name": "Конон",
+          "other_status": "отец умершего",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Паршиков"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Кононова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Паршикова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 489,
+        "width": 1488,
+        "x": 1046,
+        "y": 1692
+      },
+      "entry_id": "22022ef0-2ce7-4dea-b1cc-edb1c4bbc27f_1",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Тихонова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пышкина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Троекуровская волость, деревня Нижняя Бруслановка",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пышкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 1465,
+        "x": 1055,
+        "y": 2378
+      },
+      "entry_id": "22022ef0-2ce7-4dea-b1cc-edb1c4bbc27f_0",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Матвей",
+          "second_name": "Матвеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Савин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Малевская волость, деревня Малевка, Шишкинская слобода",
+          "info": "крестьянин",
+          "name": "Матвей",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Савин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 483,
+        "width": 1444,
+        "x": 1056,
+        "y": 3160
+      },
+      "entry_id": "22022ef0-2ce7-4dea-b1cc-edb1c4bbc27f_2",
+      "people": [
+        {
+          "age": "19 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентин",
+          "second_name": "Францов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Радомская губерния, Козенецкий уезд, Емин-Бонузы, деревня Ценцелевка",
+          "info": "крестьянин",
+          "name": "Франц",
+          "other_status": "отецумершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

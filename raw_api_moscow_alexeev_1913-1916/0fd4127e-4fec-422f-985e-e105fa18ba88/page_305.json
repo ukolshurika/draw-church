@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 305,
+  "node_id": "406d0b2e-ac62-4177-ac17-eaaebe21776b",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 590,
+        "width": 1500,
+        "x": 926,
+        "y": 791
+      },
+      "entry_id": "406d0b2e-ac62-4177-ac17-eaaebe21776b_3",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Воронова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Васильковский уезд, Быковская волость, село",
+          "info": "крестьянка",
+          "name": "Александра",
+          "other_status": "мать умершего",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Воронова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 345,
+        "width": 1488,
+        "x": 912,
+        "y": 1580
+      },
+      "entry_id": "406d0b2e-ac62-4177-ac17-eaaebe21776b_2",
+      "people": [
+        {
+          "age": "49",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Алфеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Губернский",
+          "other_status": "муж умершего",
+          "second_name": "Секретарь",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 415,
+        "width": 1483,
+        "x": 896,
+        "y": 2149
+      },
+      "entry_id": "406d0b2e-ac62-4177-ac17-eaaebe21776b_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Волоколамский",
+          "info": "мещанин",
+          "name": "Афанасий",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Розанов"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Розанов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 633,
+        "width": 1527,
+        "x": 891,
+        "y": 2769
+      },
+      "entry_id": "406d0b2e-ac62-4177-ac17-eaaebe21776b_1",
+      "people": [
+        {
+          "age": "5",
+          "geo": "Рязанская губерния, Зарайский уезд, Сеницкая волость, деревня Ковылино",
+          "info": "крестьянка",
+          "name": "Антонина",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кононова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

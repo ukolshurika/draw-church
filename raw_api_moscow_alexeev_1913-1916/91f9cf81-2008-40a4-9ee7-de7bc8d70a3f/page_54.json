@@ -1,0 +1,237 @@
+{
+  "year": 1916,
+  "page": 54,
+  "node_id": "2c70f832-60b5-497e-b9bc-f91116a8e55d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 527,
+        "width": 2693,
+        "x": 911,
+        "y": 994
+      },
+      "entry_id": "2c70f832-60b5-497e-b9bc-f91116a8e55d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Черная"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Коханович"
+        },
+        {
+          "age": "",
+          "geo": "Вилейский уезд, Виленская губерния, Парафиановская волость, село Гнездилово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Казимизов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Черный"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иосиф",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Черный"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Рязанская губерния, Финяевская волость, деревня Бобрик",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Филин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 643,
+        "width": 2702,
+        "x": 912,
+        "y": 1678
+      },
+      "entry_id": "2c70f832-60b5-497e-b9bc-f91116a8e55d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорновская волость, деревня Слепцово",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Обалин"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд, деревня Павлова",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мальцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мальцев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мальцева"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Лавровская волость, деревня Радивонцево",
+          "info": "крестьянка, девица",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Хламова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 549,
+        "width": 2695,
+        "x": 913,
+        "y": 2326
+      },
+      "entry_id": "2c70f832-60b5-497e-b9bc-f91116a8e55d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Димитриева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Лактионова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ланцова"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Тимский уезд, Успенская волость, село Подгородное",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лактионов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лактионова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Зубакинская волость, деревня Коробаново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дмитриев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 541,
+        "width": 2692,
+        "x": 917,
+        "y": 3044
+      },
+      "entry_id": "2c70f832-60b5-497e-b9bc-f91116a8e55d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Духовщина",
+          "info": "мещанка, девица",
+          "name": "Евфросиния",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Яковлева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Черниговская губерния, Глуховский уезд, Янпольская волость, село Янполь",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Евдокимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Слеса"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

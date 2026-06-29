@@ -1,0 +1,163 @@
+{
+  "year": 1915,
+  "page": 346,
+  "node_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 401,
+        "width": 1483,
+        "x": 1084,
+        "y": 1092
+      },
+      "entry_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56_4",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Пасынкова"
+        },
+        {
+          "age": "",
+          "geo": "Вятская губерния, Слободской уезд, Косинская волость, деревня Андрошинская",
+          "info": "крестьянка",
+          "name": "Дария",
+          "other_status": "мать умершего",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Пасынкова"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 420,
+        "width": 1496,
+        "x": 1086,
+        "y": 1654
+      },
+      "entry_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56_2",
+      "people": [
+        {
+          "age": "59 лет",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никанорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Семенова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Бавыкинская волость, деревня Бортнево",
+          "info": "крестьянин",
+          "name": "Марк",
+          "other_status": "муж умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Семенов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 338,
+        "width": 1484,
+        "x": 1094,
+        "y": 2220
+      },
+      "entry_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56_0",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Гузен"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Локотский уезд, Песковская волость, село Пески",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гузен"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1404,
+        "x": 1101,
+        "y": 2748
+      },
+      "entry_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56_3",
+      "people": [
+        {
+          "age": "42",
+          "geo": "Новгородская слобода",
+          "info": "московский мещанин",
+          "name": "Михаил",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гордеев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 347,
+        "width": 1483,
+        "x": 1100,
+        "y": 3211
+      },
+      "entry_id": "e101ca75-6b2b-4103-93e3-3668a51fbd56_1",
+      "people": [
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Груданова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд",
+          "info": "мещанин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Груданов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

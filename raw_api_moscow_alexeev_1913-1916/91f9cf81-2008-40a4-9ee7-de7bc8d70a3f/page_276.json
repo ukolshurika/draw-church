@@ -1,0 +1,108 @@
+{
+  "year": 1916,
+  "page": 276,
+  "node_id": "c944228d-aa6d-44d2-906c-6f87bae3a37c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 512,
+        "width": 1488,
+        "x": 1018,
+        "y": 1116
+      },
+      "entry_id": "c944228d-aa6d-44d2-906c-6f87bae3a37c_3",
+      "people": [
+        {
+          "age": "61",
+          "geo": "Владимирская губерния, Александровский уезд, Шеметовская волость, деревня Окулово",
+          "info": "рясофорная послушница Алексеевского монастыря, из крестьян",
+          "name": "Агрипина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 494,
+        "width": 1480,
+        "x": 1015,
+        "y": 1812
+      },
+      "entry_id": "c944228d-aa6d-44d2-906c-6f87bae3a37c_2",
+      "people": [
+        {
+          "age": "6/2",
+          "geo": "Калужская губерния, Жиздринский уезд, Заклевская волость, деревня Мурочевка",
+          "info": "из дома Сальникова крестьянка, вдова",
+          "name": "Мария",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Лепанова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 511,
+        "width": 1472,
+        "x": 1022,
+        "y": 2515
+      },
+      "entry_id": "c944228d-aa6d-44d2-906c-6f87bae3a37c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Елизаровская волость, деревня Вески",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Аксенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Седов"
+        },
+        {
+          "age": "3 года",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Седова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 416,
+        "width": 1480,
+        "x": 1016,
+        "y": 3214
+      },
+      "entry_id": "c944228d-aa6d-44d2-906c-6f87bae3a37c_1",
+      "people": [
+        {
+          "age": "52",
+          "geo": "слобода Лужники",
+          "info": "из дома Сосницкой, Московская мещанка, девица №1160",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Соколова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

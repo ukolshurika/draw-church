@@ -1,0 +1,130 @@
+{
+  "year": 1916,
+  "page": 334,
+  "node_id": "eb278028-5129-4836-b578-3cc9d75c4d12",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 472,
+        "width": 1467,
+        "x": 1092,
+        "y": 1070
+      },
+      "entry_id": "eb278028-5129-4836-b578-3cc9d75c4d12_3",
+      "people": [
+        {
+          "age": "56",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Александровский уезд, Александровская волость, деревня Мазлово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "муж умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Рыбаков"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 484,
+        "width": 1474,
+        "x": 1085,
+        "y": 1731
+      },
+      "entry_id": "eb278028-5129-4836-b578-3cc9d75c4d12_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Малое Пирово",
+          "info": "крестьянка, вдова",
+          "name": "Анастасия",
+          "other_status": "мать умершего",
+          "second_name": "Игнатова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Голякова"
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "внебрачный сын",
+          "name": "Евгений",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 487,
+        "width": 1463,
+        "x": 1099,
+        "y": 2395
+      },
+      "entry_id": "eb278028-5129-4836-b578-3cc9d75c4d12_1",
+      "people": [
+        {
+          "age": "1 неделя",
+          "geo": "Рязанская губерния, Спасский уезд, Ухорская волость, деревня Малое Пирово",
+          "info": "крестьянка, вдова",
+          "name": "Анастасия",
+          "second_name": "Игнатова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Голякова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 436,
+        "width": 1438,
+        "x": 1110,
+        "y": 3115
+      },
+      "entry_id": "eb278028-5129-4836-b578-3cc9d75c4d12_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Миргородский уезд, Зубовская волость, село Крестьянинка",
+          "info": "из дома Амосова крестьянин",
+          "name": "Феодот",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Феодотова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 40,
+  "node_id": "6ccf439d-0d8d-4446-a681-26c8e9e5e437",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 549,
+        "width": 2747,
+        "x": 940,
+        "y": 1012
+      },
+      "entry_id": "6ccf439d-0d8d-4446-a681-26c8e9e5e437_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Денисова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Васильевская волость, село Бибиково",
+          "info": "крестьянин",
+          "name": "Денис",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Аксенов"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Башмаковская волость, деревня Семендяевка",
+          "info": "крестьянка, девица",
+          "name": "Татиана",
+          "second_name": "Афанасиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гришина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфимия",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Аксенова"
+        },
+        {
+          "age": "",
+          "geo": "Московский цех Ленточного цеха",
+          "info": "цеховой",
+          "name": "Павел",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 527,
+        "width": 2720,
+        "x": 934,
+        "y": 1685
+      },
+      "entry_id": "6ccf439d-0d8d-4446-a681-26c8e9e5e437_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Корчевский уезд, Селиховская волость, деревня Марьина",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Ксенофонтов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Канин"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Покровка",
+          "info": "крестьянка, девица",
+          "name": "Агрипина",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шибалова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Канина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Канина"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Кривец",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 701,
+        "width": 2736,
+        "x": 939,
+        "y": 2373
+      },
+      "entry_id": "6ccf439d-0d8d-4446-a681-26c8e9e5e437_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Мархоткинская волость, деревня Березники",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Кириллов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Банбенков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Волочковская волость, деревня Городка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Клюшников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Клюшников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефанида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Клюшникова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Улеминская волость, деревня Увырцево",
+          "info": "жена крестьянина",
+          "name": "Домна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Глазунова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 589,
+        "width": 2731,
+        "x": 938,
+        "y": 3104
+      },
+      "entry_id": "6ccf439d-0d8d-4446-a681-26c8e9e5e437_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Хребтовская волость, деревня Селково",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тухтанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тухтанов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка, девица",
+          "name": "Татьяна",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Оршина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тухтанова"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, деревня Петрушино",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рябов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

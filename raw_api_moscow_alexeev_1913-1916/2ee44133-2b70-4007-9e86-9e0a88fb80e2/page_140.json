@@ -1,0 +1,175 @@
+{
+  "year": 1915,
+  "page": 140,
+  "node_id": "928070a9-aabc-47e0-8d1c-d6f409b1fb80",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 671,
+        "width": 2830,
+        "x": 903,
+        "y": 1110
+      },
+      "entry_id": "928070a9-aabc-47e0-8d1c-d6f409b1fb80_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Адриан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Обухов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Соболевская волость, деревня Кореньково",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лысков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "вдова, крестьянка",
+          "name": "Ирина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Родина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лыскова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лысков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 595,
+        "width": 2806,
+        "x": 904,
+        "y": 1996
+      },
+      "entry_id": "928070a9-aabc-47e0-8d1c-d6f409b1fb80_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Нуждин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Мариин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Нуждин"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Остроуховская волость, деревня Летнина",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Болдина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митякинская волость, деревня Журавлевка",
+          "info": "вдова крестьянка",
+          "name": "Мария",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Нуждина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 797,
+        "width": 2824,
+        "x": 906,
+        "y": 2853
+      },
+      "entry_id": "928070a9-aabc-47e0-8d1c-d6f409b1fb80_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Богородицкий уезд, Непрядинская волость, село Новгородское",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Гордеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Саутина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Марьина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Саутина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Апонитищенская волость, село Кончаково",
+          "info": "крестьянин",
+          "name": "Федор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ульянов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Соколовская волость, деревня Максимково",
+          "info": "крестьянка",
+          "name": "Ксения",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пашайкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

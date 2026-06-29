@@ -1,0 +1,258 @@
+{
+  "year": 1915,
+  "page": 44,
+  "node_id": "fd0c8598-6b7b-4385-9857-008a4a5536a3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 550,
+        "width": 2777,
+        "x": 960,
+        "y": 1130
+      },
+      "entry_id": "fd0c8598-6b7b-4385-9857-008a4a5536a3_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена потомственного почетного гражданина",
+          "name": "Евгения",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кеденка"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Валковский уезд, Огульчанская волость, село",
+          "info": "крестьянин",
+          "name": "Косма",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Набока"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евфросиния",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Набока"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "отставной капитан",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Солежаревский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Набока"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 587,
+        "width": 2789,
+        "x": 961,
+        "y": 1900
+      },
+      "entry_id": "fd0c8598-6b7b-4385-9857-008a4a5536a3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена почтово-телеграфного чиновника",
+          "name": "Валентина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Исаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "сын почтово-телеграфного чиновника",
+          "name": "Виктор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Исаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Елизаветова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Воинова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Малинковская волость, деревня Суренка",
+          "info": "крестьянка, вдова",
+          "name": "Елизавета",
+          "second_name": "Самсонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Воинова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 603,
+        "width": 2811,
+        "x": 946,
+        "y": 2539
+      },
+      "entry_id": "fd0c8598-6b7b-4385-9857-008a4a5536a3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Чернский уезд, Раевская волость, деревня Погасицево",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, деревня Шаталово",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Игнатов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "Веневский уезд, Потетинская волость, село",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2825,
+        "x": 953,
+        "y": 3220
+      },
+      "entry_id": "fd0c8598-6b7b-4385-9857-008a4a5536a3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мурзина"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Озерецкая волость, деревня Новинок",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рюков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Ольговская волость, Храброво",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Емельянов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мурзин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мурзин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дмитриева"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Новоторжский уезд, Машковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Евфимий",
+          "other_status": "муж крестной матери",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дмитриев"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 265,
+  "node_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 466,
+        "width": 1531,
+        "x": 931,
+        "y": 796
+      },
+      "entry_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909_4",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Кокушкина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Борская волость, деревня Татьянино",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "other_status": "мать умершего",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Кокушкина"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 495,
+        "width": 1433,
+        "x": 929,
+        "y": 1415
+      },
+      "entry_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыженская волость, деревня Свистинская",
+          "info": "",
+          "name": "Константин",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Черемушкин"
+        },
+        {
+          "age": "4",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Черемушкин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 357,
+        "width": 1514,
+        "x": 927,
+        "y": 2061
+      },
+      "entry_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909_0",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Клюева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Хорошёвский уезд, село Ромашково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Клюев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 353,
+        "width": 1461,
+        "x": 923,
+        "y": 2553
+      },
+      "entry_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909_3",
+      "people": [
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Копчиков"
+        },
+        {
+          "age": "",
+          "geo": "Гжатский уезд, Мокринская волость, деревня Киселева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Копчиков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 361,
+        "width": 1521,
+        "x": 919,
+        "y": 3028
+      },
+      "entry_id": "88d6e14f-9f5c-4bf3-91ee-bc7fda46b909_1",
+      "people": [
+        {
+          "age": "58",
+          "geo": "Владимирская губерния, Стопинская волость, село Калитеево",
+          "info": "крестьянская вдова",
+          "name": "Параскева",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Никисова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,248 @@
+{
+  "year": 1915,
+  "page": 61,
+  "node_id": "4b9338d4-3499-4a5f-9c45-ffe5ad375757",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 491,
+        "width": 2769,
+        "x": 928,
+        "y": 1100
+      },
+      "entry_id": "4b9338d4-3499-4a5f-9c45-ffe5ad375757_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московский уезд, Шапочный цех",
+          "info": "цеховой",
+          "name": "Андрей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Юрьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Соколова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский мещанин",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Городокский уезд, Старинская волость, деревня Быки",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Семенова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 464,
+        "width": 2790,
+        "x": 922,
+        "y": 1759
+      },
+      "entry_id": "4b9338d4-3499-4a5f-9c45-ffe5ad375757_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дмитриевская мещанка",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудрявцева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Азеев"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Синьковская волость, деревня Ечкино",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Азеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 493,
+        "width": 2818,
+        "x": 922,
+        "y": 2291
+      },
+      "entry_id": "4b9338d4-3499-4a5f-9c45-ffe5ad375757_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Евдокия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Марова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "не имеющий чина почтово-телеграфный чиновник",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Маров"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Синьковская волость, деревня Ечкино",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Орестов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Ковровский уезд",
+          "info": "мещанин",
+          "name": "Михаил",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 555,
+        "width": 2843,
+        "x": 923,
+        "y": 3062
+      },
+      "entry_id": "4b9338d4-3499-4a5f-9c45-ffe5ad375757_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "потомственная гражданка",
+          "name": "Мария",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гаген"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Барашевская слобода №1346",
+          "info": "девица",
+          "name": "Людмила",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Андронова"
+        },
+        {
+          "age": "",
+          "geo": "Сергиевский посад",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Андронова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,163 @@
+{
+  "year": 1914,
+  "page": 249,
+  "node_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 331,
+        "width": 1470,
+        "x": 1003,
+        "y": 792
+      },
+      "entry_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d_4",
+      "people": [
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Столярова"
+        },
+        {
+          "age": "",
+          "geo": "Лихвинский уезд, Богдановская волость, село Крина",
+          "info": "",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Столяров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 405,
+        "width": 1471,
+        "x": 1000,
+        "y": 1259
+      },
+      "entry_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Черняевская волость, деревня Алексеевка",
+          "info": "крестьянка, дочь крестьянина",
+          "name": "Надежда",
+          "other_status": "мать умершего",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Чудакова"
+        },
+        {
+          "age": "6 месяцев 3 недели",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Чудакова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1447,
+        "x": 999,
+        "y": 1799
+      },
+      "entry_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d_3",
+      "people": [
+        {
+          "age": "56",
+          "geo": "Московское у., Зюзинская волость, село Началово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Тихомиров"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 406,
+        "width": 1432,
+        "x": 994,
+        "y": 2241
+      },
+      "entry_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d_1",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Якушев"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Митякинская волость, село Триполи",
+          "info": "крестьянин",
+          "name": "Степан",
+          "other_status": "отец умершего",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Якушев"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 339,
+        "width": 1407,
+        "x": 993,
+        "y": 2865
+      },
+      "entry_id": "641cb5a7-5eda-4bf5-9c8d-4e238b794a1d_2",
+      "people": [
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Карпов"
+        },
+        {
+          "age": "",
+          "geo": "Коломенский уезд, Куртинская волость, село Курта",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Карпов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

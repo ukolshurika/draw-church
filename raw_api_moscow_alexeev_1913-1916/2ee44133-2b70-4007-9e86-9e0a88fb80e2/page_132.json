@@ -1,0 +1,186 @@
+{
+  "year": 1915,
+  "page": 132,
+  "node_id": "40603eac-e2fd-4d0f-91d4-f46df7b4d6c7",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 765,
+        "width": 2763,
+        "x": 948,
+        "y": 1098
+      },
+      "entry_id": "40603eac-e2fd-4d0f-91d4-f46df7b4d6c7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Тридубская волость, село Анненское",
+          "info": "крестьянка",
+          "name": "Евфросиния",
+          "other_status": "муж крестной матери",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Бросалова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ямской уезд, Ямская волость, село Никуличи",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Емельянов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Макшеевская волость, деревня Китаево",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Богомолов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Емельянова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Емельянова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 582,
+        "width": 2778,
+        "x": 941,
+        "y": 1846
+      },
+      "entry_id": "40603eac-e2fd-4d0f-91d4-f46df7b4d6c7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Фирсова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Зайцева"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Малоархангельский уезд, Успенская волость, деревня Каменка",
+          "info": "крестьянин",
+          "name": "Захар",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Зайцев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Марфа",
+          "second_name": "Афанасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Зайцева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 558,
+        "width": 2811,
+        "x": 951,
+        "y": 2652
+      },
+      "entry_id": "40603eac-e2fd-4d0f-91d4-f46df7b4d6c7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Роман",
+          "second_name": "Диев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Левин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Тырновская волость, село Малиницы",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дашин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дашина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Ольга",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дашина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

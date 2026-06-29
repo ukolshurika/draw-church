@@ -1,0 +1,269 @@
+{
+  "year": 1915,
+  "page": 36,
+  "node_id": "f5ea9c2e-33bb-46cc-ae72-2a79b01e899d",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 581,
+        "width": 2782,
+        "x": 900,
+        "y": 1090
+      },
+      "entry_id": "f5ea9c2e-33bb-46cc-ae72-2a79b01e899d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Глевицкая"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь, девица",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Василевская"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Кукаринская волость, деревня Новопокровская",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудрявцев"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Старосельская волость, деревня Заборье",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Глевицкий"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Глевицкая"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 664,
+        "width": 2753,
+        "x": 904,
+        "y": 1691
+      },
+      "entry_id": "f5ea9c2e-33bb-46cc-ae72-2a79b01e899d_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексахина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алексашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бондарева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивинский уезд, Ясенковская волость, деревня Старая Компна",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бондарев"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Гороховецкий уезд, Красносельская волость, деревня Хорошева",
+          "info": "крестьянка",
+          "name": "Ирина",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Алексашина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Бондарев"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Крапивинский уезд, село Езер",
+          "info": "крестьянин",
+          "name": "Иустин",
+          "second_name": "Исаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лосенков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 552,
+        "width": 2781,
+        "x": 902,
+        "y": 2337
+      },
+      "entry_id": "f5ea9c2e-33bb-46cc-ae72-2a79b01e899d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Звездин"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Оршанский уезд, Мошковская волость, деревня Ерошевичи",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Солтанов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния",
+          "info": "мещанин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Корнеев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Марчугово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Звездин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корнеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2801,
+        "x": 911,
+        "y": 2900
+      },
+      "entry_id": "f5ea9c2e-33bb-46cc-ae72-2a79b01e899d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Вязниковский уезд, Палеховская волость, село Кресты",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Туран"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Баклановский уезд, деревня Большая Спицыно",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Онисимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Овсянников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Овсянникова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская мещанка, девица",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кондратьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Овсянникова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

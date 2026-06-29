@@ -1,0 +1,257 @@
+{
+  "year": 1915,
+  "page": 57,
+  "node_id": "01a4da08-d5a8-4c60-b59b-6a196a428680",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 670,
+        "width": 2779,
+        "x": 905,
+        "y": 1125
+      },
+      "entry_id": "01a4da08-d5a8-4c60-b59b-6a196a428680_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Солдатская волость, село Козья",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кренев"
+        },
+        {
+          "age": "",
+          "geo": "Крапивинский уезд, Лопатковская волость, деревня Верхнее Гайково",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мартышева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Стефан",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чеховский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чеховская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 586,
+        "width": 2802,
+        "x": 902,
+        "y": 1849
+      },
+      "entry_id": "01a4da08-d5a8-4c60-b59b-6a196a428680_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Кузьминская волость, село Селец",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Онисимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кандалов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кандалова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, Петровская волость, деревня Ростино",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кандалова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 661,
+        "width": 2833,
+        "x": 891,
+        "y": 2559
+      },
+      "entry_id": "01a4da08-d5a8-4c60-b59b-6a196a428680_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Крестецкий уезд, Карпиногорская волость, село Олоховец",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Иевлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Богданов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Богданова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Богданова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Коробовская волость, деревня Губино",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавров"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, посад Малая Вишера",
+          "info": "мещанка, девица",
+          "name": "Вера",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Белоусова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 528,
+        "width": 2829,
+        "x": 901,
+        "y": 3283
+      },
+      "entry_id": "01a4da08-d5a8-4c60-b59b-6a196a428680_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кнорр"
+        },
+        {
+          "age": "",
+          "geo": "город Урга",
+          "info": "мещанин",
+          "name": "Герман",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кнорр"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ларисса",
+          "second_name": "Германова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Кнорр"
+        },
+        {
+          "age": "",
+          "geo": "город Урга",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Германов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кнорр"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Симбилейская волость, деревня Малемер",
+          "info": "вдова",
+          "name": "Марфа",
+          "second_name": "Игнатова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Денисова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

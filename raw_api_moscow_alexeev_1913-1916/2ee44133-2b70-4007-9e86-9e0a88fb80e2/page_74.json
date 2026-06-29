@@ -1,0 +1,270 @@
+{
+  "year": 1915,
+  "page": 74,
+  "node_id": "1d73c6cf-7059-4b08-a4be-f23e7a74bbe3",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 563,
+        "width": 2768,
+        "x": 914,
+        "y": 1079
+      },
+      "entry_id": "1d73c6cf-7059-4b08-a4be-f23e7a74bbe3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Курская губерния, Тимский уезд, Крестищенская волость, деревня Усть-Грязное",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Тарасов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Казаков"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Круговская волость, село Горки",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кудинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Тамара",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Казакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Казакова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Егорьевский уезд, Круговская волость, село Горки",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кудинова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 613,
+        "width": 2790,
+        "x": 918,
+        "y": 1795
+      },
+      "entry_id": "1d73c6cf-7059-4b08-a4be-f23e7a74bbe3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Токаревская волость, деревня Мошинская",
+          "info": "",
+          "name": "Алексей",
+          "other_status": "отец крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Семлевская волость",
+          "info": "безземельный крестьянин",
+          "name": "Иван",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алексеева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость",
+          "info": "безземельный крестьянин",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Алексеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2753,
+        "x": 929,
+        "y": 2515
+      },
+      "entry_id": "1d73c6cf-7059-4b08-a4be-f23e7a74bbe3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Марія",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Арсеньева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "священник",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сергеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинский уезд, Завидовская волость, деревня Концово",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сергеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 600,
+        "width": 2757,
+        "x": 935,
+        "y": 3212
+      },
+      "entry_id": "1d73c6cf-7059-4b08-a4be-f23e7a74bbe3_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Степанида",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Абаконова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Старицкий уезд, Шеровская волость, село Станишино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Малюгин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Малюгина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Малюгина"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "муж крестной матери",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Малюгин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

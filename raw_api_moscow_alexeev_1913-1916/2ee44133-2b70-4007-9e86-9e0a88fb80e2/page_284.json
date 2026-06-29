@@ -1,0 +1,196 @@
+{
+  "year": 1915,
+  "page": 284,
+  "node_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 287,
+        "width": 1425,
+        "x": 1077,
+        "y": 1108
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Пронский уезд, Соболевская волость, деревня Кореньково",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "other_status": "отец умершего",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Обухов"
+        },
+        {
+          "age": "2 недели",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Обухов"
+        }
+      ],
+      "type": "UNKNOWN_ENTRY_TYPE"
+    },
+    {
+      "bbox": {
+        "height": 277,
+        "width": 1479,
+        "x": 1065,
+        "y": 1527
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Серпуховский уезд, Стремиловская волость, деревня Филипповская",
+          "info": "крестьянка",
+          "name": "Евфимия",
+          "other_status": "мать умершего",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Трифонова"
+        },
+        {
+          "age": "1 день",
+          "geo": "",
+          "info": "",
+          "name": "Феодора",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Трифонова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 292,
+        "width": 1403,
+        "x": 1064,
+        "y": 1919
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_2",
+      "people": [
+        {
+          "age": "3 недели",
+          "geo": "Тульская губерния, Веневский уезд, Боровцинская волость, деревня Алмазово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Михаилов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Зотова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 295,
+        "width": 1398,
+        "x": 1062,
+        "y": 2331
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Протопоповская волость, деревня Михлеева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Жаринов"
+        },
+        {
+          "age": "4 недели",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Жаринов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1448,
+        "x": 1056,
+        "y": 2784
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, село Стафурлово",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Власов"
+        },
+        {
+          "age": "1 1/2 года",
+          "geo": "",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Власов"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 323,
+        "width": 1482,
+        "x": 1052,
+        "y": 3245
+      },
+      "entry_id": "6f733eeb-cb08-4ff4-a6fa-845fa7184c51_0",
+      "people": [
+        {
+          "age": "27",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Харина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд",
+          "info": "Ефремовского управителя",
+          "name": "Петр",
+          "other_status": "муж умершего",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Харин"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,269 @@
+{
+  "year": 1916,
+  "page": 89,
+  "node_id": "4c033264-4137-4448-8755-e519f8e4ba5e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 491,
+        "width": 2708,
+        "x": 928,
+        "y": 1004
+      },
+      "entry_id": "4c033264-4137-4448-8755-e519f8e4ba5e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Кадриковский уезд, Устрицкая волость, деревня Мотюково",
+          "info": "",
+          "name": "Павел",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сухарев"
+        },
+        {
+          "age": "",
+          "geo": "город Иркутск",
+          "info": "мещанин",
+          "name": "Владимир",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Маленников"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вайнунгер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сухарева"
+        },
+        {
+          "age": "",
+          "geo": "город Варшава",
+          "info": "в доме Шмит, мещанин",
+          "name": "Лев",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вайнунгер"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Львов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Вайнунгер"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 586,
+        "width": 2718,
+        "x": 939,
+        "y": 1601
+      },
+      "entry_id": "4c033264-4137-4448-8755-e519f8e4ba5e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Васильевская волость, деревня Уваровка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Артемьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Филимонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Филимонова"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Долговская волость, Воскресенское общество",
+          "info": "крестьянка, девица",
+          "name": "Надежда",
+          "second_name": "Андрианова",
+          "sex": "FEMALE",
+          "status": "FATHER",
+          "surname": "Шавкина"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Мергородский уезд, Зубовская волость, село",
+          "info": "крестьянин",
+          "name": "Феодот",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Жданов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Надеждина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шавкина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 573,
+        "width": 2726,
+        "x": 919,
+        "y": 2199
+      },
+      "entry_id": "4c033264-4137-4448-8755-e519f8e4ba5e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, деревня Чемодорова",
+          "info": "крестьянка, девица",
+          "name": "Анисия",
+          "second_name": "Трофимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лебедева"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Фирсов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сусоев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Дьяконова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Седеновская волость, село Еланское",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Каллистратов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дьяконов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дьяконова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 717,
+        "width": 2711,
+        "x": 932,
+        "y": 2920
+      },
+      "entry_id": "4c033264-4137-4448-8755-e519f8e4ba5e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Костина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Малинская волость, деревня Арина",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Юлина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Касимовский уезд, Тембукинская волость, деревня Бочкари",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Костин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Спасская волость, село Новлянское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коняхов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

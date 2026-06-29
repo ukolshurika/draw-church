@@ -1,0 +1,247 @@
+{
+  "year": 1916,
+  "page": 38,
+  "node_id": "67d64984-f8d5-4779-a91f-9c8dbb3ab6e6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 504,
+        "width": 2740,
+        "x": 909,
+        "y": 1001
+      },
+      "entry_id": "67d64984-f8d5-4779-a91f-9c8dbb3ab6e6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Клеток",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Макаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Карпова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Меридиново",
+          "info": "крестьянка",
+          "name": "Фекла",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарова"
+        },
+        {
+          "age": "",
+          "geo": "Пронский уезд, Чернобаевская волость, деревня Горбачевка",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Голубев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 525,
+        "width": 2746,
+        "x": 912,
+        "y": 1679
+      },
+      "entry_id": "67d64984-f8d5-4779-a91f-9c8dbb3ab6e6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачевский уезд, деревня Хутор, Бахмачевская волость",
+          "info": "крестьянин",
+          "name": "Иларион",
+          "second_name": "Карпов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Давыдов"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Ежавинская волость, деревня Юрино",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Давыдов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Иларионова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Давыдова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Домна",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Ксенофонтова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Давыдова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 659,
+        "width": 2726,
+        "x": 917,
+        "y": 2366
+      },
+      "entry_id": "67d64984-f8d5-4779-a91f-9c8dbb3ab6e6_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Вятская губерния, Якимо-Вачинская волость, деревня Полом",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шулятов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лидия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Артамонова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Луженская волость, село Лужок",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Ефремов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Артамонов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Глинищевская волость, деревня Юшково",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Косолапова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Артамонова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 640,
+        "width": 2721,
+        "x": 919,
+        "y": 3049
+      },
+      "entry_id": "67d64984-f8d5-4779-a91f-9c8dbb3ab6e6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Слонимский уезд, Люшневская волость, село",
+          "info": "крестьянка",
+          "name": "Ольга",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шершневская"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Мологский уезд, Станиловская волость, деревня Похрина",
+          "info": "крестьянка, девица",
+          "name": "Наталия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Попова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Попов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Вяжевская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

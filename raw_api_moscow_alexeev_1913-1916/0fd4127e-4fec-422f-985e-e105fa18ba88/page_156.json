@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 156,
+  "node_id": "4c1dc041-33f6-40ff-a8e1-a242088c01ad",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 551,
+        "width": 2846,
+        "x": 829,
+        "y": 906
+      },
+      "entry_id": "4c1dc041-33f6-40ff-a8e1-a242088c01ad_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Булдина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Булдина"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чернов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Непецинская волость, деревня Борисова",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Борисова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Чаплыженская волость, деревня Свистягино",
+          "info": "",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Булдин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2871,
+        "x": 826,
+        "y": 1545
+      },
+      "entry_id": "4c1dc041-33f6-40ff-a8e1-a242088c01ad_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Харева"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Леоновская волость, деревня Алексина",
+          "info": "крестьянка",
+          "name": "Василисса",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Горбачева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дария",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Харева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Корочаровская волость, деревня Макарова",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федоров"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Каминского уезда, Козьмодемьянская волость, деревня Быково",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Харев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 669,
+        "width": 2849,
+        "x": 805,
+        "y": 2166
+      },
+      "entry_id": "4c1dc041-33f6-40ff-a8e1-a242088c01ad_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Буров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Буров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бурова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Леоново",
+          "info": "в д. Ирашниковой, Запасный рядовой из крестьянской Владимирской губернии, Александровского уезда, Росачевской волости",
+          "name": "Николай",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Буров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Елизарки",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лиходарова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 568,
+        "width": 2812,
+        "x": 804,
+        "y": 2877
+      },
+      "entry_id": "4c1dc041-33f6-40ff-a8e1-a242088c01ad_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Павловская волость, село Ильинское",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Никифоров"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Павловская волость, деревня Вырубова",
+          "info": "крестьянская дочь",
+          "name": "Вера",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Шацкий уезд, Белореченская волость, деревня Герцезная",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Иванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Иванов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

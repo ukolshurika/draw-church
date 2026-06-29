@@ -1,0 +1,279 @@
+{
+  "year": 1915,
+  "page": 197,
+  "node_id": "d6ee04fe-71d9-48b8-9754-3293690fb690",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 640,
+        "width": 2835,
+        "x": 841,
+        "y": 1025
+      },
+      "entry_id": "d6ee04fe-71d9-48b8-9754-3293690fb690_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Дорофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Понкратьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Васильева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Панкратьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Васильев"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Чухломский уезд, Мирохаловская волость, деревня Архарово",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Панкратьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Васильев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 520,
+        "width": 2869,
+        "x": 828,
+        "y": 1790
+      },
+      "entry_id": "d6ee04fe-71d9-48b8-9754-3293690fb690_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская слобода",
+          "info": "мещанская девица",
+          "name": "Антонина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Цветкова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Шмелев"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Бавыкинская волость, село Новоселки",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Шмелев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Людмила",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Шмелева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Шмелева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 642,
+        "width": 2867,
+        "x": 833,
+        "y": 2444
+      },
+      "entry_id": "d6ee04fe-71d9-48b8-9754-3293690fb690_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сазикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сазиков"
+        },
+        {
+          "age": "",
+          "geo": "Донская область, Казанская станица, хутор Озерский",
+          "info": "казак",
+          "name": "Иван",
+          "second_name": "Маркелов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Монастырсков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Троицко-Лобановская волость, деревня Лаптево",
+          "info": "",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Лаптев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лаптева"
+        },
+        {
+          "age": "",
+          "geo": "Московская слобода Устюжская",
+          "info": "московский мещанин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сазиков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 674,
+        "width": 2877,
+        "x": 831,
+        "y": 3009
+      },
+      "entry_id": "d6ee04fe-71d9-48b8-9754-3293690fb690_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Донская область, Казанская станица, хутор Озерский",
+          "info": "казак",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Маркелов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Монастырсков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бобровки",
+          "info": "казак",
+          "name": "Константин",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Феодоров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Сычевский уезд, Баскаковская волость, деревня Белиницы",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Субботин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Субботин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Субботина"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бобровки",
+          "info": "жена крестьянина",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ефимова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

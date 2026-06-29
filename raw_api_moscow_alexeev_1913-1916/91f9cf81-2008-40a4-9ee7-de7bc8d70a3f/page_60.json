@@ -1,0 +1,257 @@
+{
+  "year": 1916,
+  "page": 60,
+  "node_id": "c7e7ae38-8069-4264-9c1a-580c92da7177",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 548,
+        "width": 2839,
+        "x": 910,
+        "y": 1008
+      },
+      "entry_id": "c7e7ae38-8069-4264-9c1a-580c92da7177_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня Бобровки",
+          "info": "крестьянин",
+          "name": "Севастиан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыпкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Владимиров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Гусаров"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Федоровская волость, деревня Бобровки",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гусаров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Вонифатиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гусарова"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Юрьевский уезд, Паршинская волость, село Петровское",
+          "info": "вдова крестьянка",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 576,
+        "width": 2817,
+        "x": 916,
+        "y": 1697
+      },
+      "entry_id": "c7e7ae38-8069-4264-9c1a-580c92da7177_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Потапов"
+        },
+        {
+          "age": "",
+          "geo": "город Ливны",
+          "info": "мещанка, вдова",
+          "name": "Александра",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Солдатова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Коломенский уезд, Непецинская волость, село Карпово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Астахов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, город Ливны",
+          "info": "мещанин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Потапов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Потапова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 561,
+        "width": 2822,
+        "x": 912,
+        "y": 2342
+      },
+      "entry_id": "c7e7ae38-8069-4264-9c1a-580c92da7177_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Феоктистова"
+        },
+        {
+          "age": "",
+          "geo": "Михайловский уезд, Новопанская волость, деревня",
+          "info": "крестьянка, девица",
+          "name": "Мария",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Букоярова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Балов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Плахинская волость, село",
+          "info": "крестьянин",
+          "name": "Филипп",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Феоктистов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Феоктистова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 663,
+        "width": 2809,
+        "x": 914,
+        "y": 3066
+      },
+      "entry_id": "c7e7ae38-8069-4264-9c1a-580c92da7177_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Петроковская волость, сельцо Луховцы",
+          "info": "вдова крестьянка",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дергунова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ледящев"
+        },
+        {
+          "age": "",
+          "geo": "Костромская губерния, Мисковская волость, село Мисково",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ледящев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Бахмачеевская волость, село Алешино",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Назаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Овечкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Агния",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ледящева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

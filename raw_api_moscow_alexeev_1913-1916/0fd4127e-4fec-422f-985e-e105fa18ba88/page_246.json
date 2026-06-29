@@ -1,0 +1,185 @@
+{
+  "year": 1914,
+  "page": 246,
+  "node_id": "e1205fe9-c124-4885-ba14-e828abfd4b41",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 304,
+        "width": 1464,
+        "x": 994,
+        "y": 801
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переславский уезд, Хмельниковская волость, деревня Ермова",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Логгинов"
+        },
+        {
+          "age": "20 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Логгинова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 308,
+        "width": 1473,
+        "x": 988,
+        "y": 1246
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_1",
+      "people": [
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Разоренова"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Акимьянская волость, село Иславское",
+          "info": "",
+          "name": "Александра",
+          "other_status": "мать умершего",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Разоренова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 309,
+        "width": 1428,
+        "x": 982,
+        "y": 1688
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_3",
+      "people": [
+        {
+          "age": "55",
+          "geo": "Владимирская губерния, Переславский уезд, Нагорьевская волость, деревня Меленок",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Бабурин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 317,
+        "width": 1475,
+        "x": 979,
+        "y": 2155
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_0",
+      "people": [
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Крестенский уезд, Негримногорская волость, село Ольховец",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "other_status": "отец умершего",
+          "second_name": "Богданов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 311,
+        "width": 1471,
+        "x": 987,
+        "y": 2601
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_2",
+      "people": [
+        {
+          "age": "1 месяц",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Шовская волость, село Крестьянка",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Лебедянский уезд, Шовская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 305,
+        "width": 1473,
+        "x": 989,
+        "y": 3065
+      },
+      "entry_id": "e1205fe9-c124-4885-ba14-e828abfd4b41_4",
+      "people": [
+        {
+          "age": "67",
+          "geo": "Рязанская губерния, Зарайский уезд, Сенницкая волость, деревня Козьмина",
+          "info": "крестьянка, вдова",
+          "name": "Екатерина",
+          "second_name": "Орестова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Виноградова"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

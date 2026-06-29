@@ -1,0 +1,268 @@
+{
+  "year": 1914,
+  "page": 78,
+  "node_id": "f0a9031c-55b0-442a-97e2-4e0445d274b8",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 623,
+        "width": 2938,
+        "x": 725,
+        "y": 861
+      },
+      "entry_id": "f0a9031c-55b0-442a-97e2-4e0445d274b8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Стопинская волость, деревня Карандышево",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стоскова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, село Красково",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стосков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянка",
+          "name": "Елизавета",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Стакова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Стосков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 599,
+        "width": 2898,
+        "x": 725,
+        "y": 1564
+      },
+      "entry_id": "f0a9031c-55b0-442a-97e2-4e0445d274b8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "то же село, та же волость",
+          "info": "крестьянин",
+          "name": "Иоаким",
+          "second_name": "Симонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чураков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "то же село, та же волость",
+          "info": "вдова",
+          "name": "Параскева",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Костикова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, сельцо Ольховка",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 640,
+        "width": 2917,
+        "x": 707,
+        "y": 2165
+      },
+      "entry_id": "f0a9031c-55b0-442a-97e2-4e0445d274b8_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Богородский уезд, Агеевская волость, деревня Корпуса",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дементьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Домника",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алешина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Бороздинская волость, сельцо Ольховец",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алешин"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Перхушевская волость, деревня Пыхтино",
+          "info": "вдова",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Корчагина"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 614,
+        "width": 2923,
+        "x": 696,
+        "y": 2823
+      },
+      "entry_id": "f0a9031c-55b0-442a-97e2-4e0445d274b8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Константин",
+          "second_name": "Филимонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Журавлев"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Сенноский уезд, Высоко-Городецкая волость, село Косеничи",
+          "info": "крестьянин",
+          "name": "Филимон",
+          "second_name": "Игнатиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Журавлев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Журавлева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Ступинская волость, село Хомяково",
+          "info": "крестьянка",
+          "name": "Параскева",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Тиханова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Антон",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зарко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Тиханова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

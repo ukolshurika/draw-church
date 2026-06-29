@@ -1,0 +1,299 @@
+{
+  "year": 1914,
+  "page": 110,
+  "node_id": "d20f402d-4067-4cff-a3d8-816f4c15857c",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 491,
+        "width": 2820,
+        "x": 763,
+        "y": 852
+      },
+      "entry_id": "d20f402d-4067-4cff-a3d8-816f4c15857c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Ногайская волость, деревня Серьзева",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Ионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кошелева"
+        },
+        {
+          "age": "",
+          "geo": "Олонецкая губерния, Каргопольский уезд, Александровская волость, Лукьяновская крестьянская община",
+          "info": "девица",
+          "name": "Параскева",
+          "second_name": "Прокопиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Коловатчина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Куркинская волость, деревня Сумбурово",
+          "info": "",
+          "name": "Егор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Патков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 434,
+        "width": 2829,
+        "x": 755,
+        "y": 1384
+      },
+      "entry_id": "d20f402d-4067-4cff-a3d8-816f4c15857c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Тюльпанова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Ютаново, Владимирская губерния, город Судогда",
+          "info": "мещанин",
+          "name": "Константин",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Тюльпанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Тюльпанов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанка",
+          "name": "Анна",
+          "second_name": "Космина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лукошкова"
+        },
+        {
+          "age": "",
+          "geo": "город Судогда",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тюльпанов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 464,
+        "width": 2861,
+        "x": 742,
+        "y": 1910
+      },
+      "entry_id": "d20f402d-4067-4cff-a3d8-816f4c15857c_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, деревня Нарель",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скугоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Носаева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Скугорова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Нелязинский уезд, Семендяевская волость, деревня Клухина",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Скугоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Скугорова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2852,
+        "x": 740,
+        "y": 2446
+      },
+      "entry_id": "d20f402d-4067-4cff-a3d8-816f4c15857c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Данковский уезд, Знаменская волость, село Племянниково",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Дометиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Ильининская волость, деревня Рысохоть",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Колосатов"
+        },
+        {
+          "age": "",
+          "geo": "село Племянниково",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 588,
+        "width": 2827,
+        "x": 750,
+        "y": 2909
+      },
+      "entry_id": "d20f402d-4067-4cff-a3d8-816f4c15857c_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгения",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чушкова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Тонкачи",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чушков"
+        },
+        {
+          "age": "",
+          "geo": "село Елшино",
+          "info": "крестьянка",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полянская"
+        },
+        {
+          "age": "",
+          "geo": "деревня Тонкачи",
+          "info": "крестьянин",
+          "name": "Виктор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дуванов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чушков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

@@ -1,0 +1,119 @@
+{
+  "year": 1916,
+  "page": 255,
+  "node_id": "11c8b9fd-2620-4d72-a96f-4e1db42ff962",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 352,
+        "width": 1474,
+        "x": 1054,
+        "y": 1103
+      },
+      "entry_id": "11c8b9fd-2620-4d72-a96f-4e1db42ff962_3",
+      "people": [
+        {
+          "age": "34",
+          "geo": "Московская губерния, город Богородск",
+          "info": "из дома Нарышкиных, мещанка, девица",
+          "name": "Елизавета",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1476,
+        "x": 1050,
+        "y": 1653
+      },
+      "entry_id": "11c8b9fd-2620-4d72-a96f-4e1db42ff962_1",
+      "people": [
+        {
+          "age": "43",
+          "geo": "Петроградская губерния, Царскосельский уезд, город Колпино",
+          "info": "мещанка, вдова",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Семиниченко"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 396,
+        "width": 1461,
+        "x": 1055,
+        "y": 2309
+      },
+      "entry_id": "11c8b9fd-2620-4d72-a96f-4e1db42ff962_2",
+      "people": [
+        {
+          "age": "1 год 9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Георгий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Сироткин"
+        },
+        {
+          "age": "",
+          "geo": "город Москва, Устюжская слобода № 1493",
+          "info": "из дома Скалкина мещанин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сироткин"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 609,
+        "width": 1450,
+        "x": 1053,
+        "y": 2935
+      },
+      "entry_id": "11c8b9fd-2620-4d72-a96f-4e1db42ff962_0",
+      "people": [
+        {
+          "age": "5 недель",
+          "geo": "",
+          "info": "",
+          "name": "Владимир",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Кудрицкий"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Слонимский уезд, Могилевская волость, деревня Цецеровец",
+          "info": "крестьянин",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Кузьмин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Кудрицкий"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

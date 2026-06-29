@@ -1,0 +1,226 @@
+{
+  "year": 1916,
+  "page": 12,
+  "node_id": "48aaf978-30e2-4bc0-befb-f7e88d1fc6e6",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 990,
+        "width": 2918,
+        "x": 898,
+        "y": 1036
+      },
+      "entry_id": "48aaf978-30e2-4bc0-befb-f7e88d1fc6e6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Духовщина",
+          "info": "жена мещанина",
+          "name": "Елизавета",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Ростовский уезд, Воронская волость, деревня Инер",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Абросимов"
+        },
+        {
+          "age": "",
+          "geo": "Подольский уезд, Дубровицкая волость, деревня Рязанова",
+          "info": "жена крестьянина",
+          "name": "Екатерина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Воронцова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Баранова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Подольский уезд, Сухановская волость, деревня Язвы",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Баранов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 665,
+        "width": 2895,
+        "x": 895,
+        "y": 2000
+      },
+      "entry_id": "48aaf978-30e2-4bc0-befb-f7e88d1fc6e6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Остапец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Грибкова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Жирошкинская волость, деревня Патрикеево",
+          "info": "в доме Маттерн, запасной рядовой из крестьян",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Грибков"
+        },
+        {
+          "age": "",
+          "geo": "деревня Патрикеево",
+          "info": "крестьянин",
+          "name": "Анатолий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Грибков"
+        },
+        {
+          "age": "",
+          "geo": "Полтавская губерния, Пирятинский уезд, Черныховская волость, хутор Коптевич",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Остапец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Грибкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 663,
+        "width": 2868,
+        "x": 890,
+        "y": 2888
+      },
+      "entry_id": "48aaf978-30e2-4bc0-befb-f7e88d1fc6e6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Осипова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чаплюк"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Чаплюк"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Озерский уезд, Озерская волость, деревня Конюхи",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чаплюк"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Жирошкинская волость, деревня Образцовая",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Ильин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Романов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Московская цеховая, Сапожного цеха вдова",
+          "name": "Евфросиния",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Бабкина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

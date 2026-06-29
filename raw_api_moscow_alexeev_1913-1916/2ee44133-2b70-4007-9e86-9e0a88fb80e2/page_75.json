@@ -1,0 +1,123 @@
+{
+  "year": 1915,
+  "page": 75,
+  "node_id": "692ed211-c03d-4cbb-b8b0-bdb20856381a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 533,
+        "width": 2747,
+        "x": 923,
+        "y": 1072
+      },
+      "entry_id": "692ed211-c03d-4cbb-b8b0-bdb20856381a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Запольская волость, село Новинки",
+          "info": "крестьянка",
+          "name": "Мария",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Рыбакова"
+        },
+        {
+          "age": "",
+          "geo": "Запольская волость, деревня Васильево",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лавренов"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Федот",
+          "second_name": "Афанасьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сычев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Ермолаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сычев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 610,
+        "width": 2756,
+        "x": 923,
+        "y": 1783
+      },
+      "entry_id": "692ed211-c03d-4cbb-b8b0-bdb20856381a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Озерищенская волость, деревня Федотово",
+          "info": "крестьянин",
+          "name": "Семен",
+          "second_name": "Епифаниев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Коряков"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Логиновская волость, село",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Герасимова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Денисовской волости, село Горшково",
+          "info": "крестьянка, девица",
+          "name": "Иустина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алферова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

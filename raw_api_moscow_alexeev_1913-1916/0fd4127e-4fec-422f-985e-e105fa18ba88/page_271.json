@@ -1,0 +1,108 @@
+{
+  "year": 1914,
+  "page": 271,
+  "node_id": "52655012-3d1e-4a8c-9816-0ceada18643a",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 243,
+        "width": 1511,
+        "x": 992,
+        "y": 878
+      },
+      "entry_id": "52655012-3d1e-4a8c-9816-0ceada18643a_1",
+      "people": [
+        {
+          "age": "77",
+          "geo": "",
+          "info": "монахиня Алексеевского монастыря",
+          "name": "Лидия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 509,
+        "width": 1517,
+        "x": 977,
+        "y": 1282
+      },
+      "entry_id": "52655012-3d1e-4a8c-9816-0ceada18643a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Космодемьянская волость, деревня Павловка",
+          "info": "крестьянская дочь",
+          "name": "Анастасия",
+          "other_status": "мать умершего",
+          "second_name": "Федотова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Воробьева"
+        },
+        {
+          "age": "8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Валентина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Воробьева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 252,
+        "width": 1444,
+        "x": 983,
+        "y": 1979
+      },
+      "entry_id": "52655012-3d1e-4a8c-9816-0ceada18643a_3",
+      "people": [
+        {
+          "age": "22",
+          "geo": "Тверская губерния, Калязинский уезд, Плещеевская волость, деревня Аверькова",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Комков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 301,
+        "width": 1427,
+        "x": 982,
+        "y": 2402
+      },
+      "entry_id": "52655012-3d1e-4a8c-9816-0ceada18643a_2",
+      "people": [
+        {
+          "age": "40",
+          "geo": "Тверская губерния, Калязинский уезд, Плещеевская волость, деревня Аверькова",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Борзов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

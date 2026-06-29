@@ -1,0 +1,152 @@
+{
+  "year": 1916,
+  "page": 302,
+  "node_id": "c22303b7-eb66-4ce5-a1ef-c4aceed6b7cc",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 444,
+        "width": 1453,
+        "x": 1073,
+        "y": 1022
+      },
+      "entry_id": "c22303b7-eb66-4ce5-a1ef-c4aceed6b7cc_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Орловская губерния, Мценский уезд, Тельчинская волость, село Старое",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Старых"
+        },
+        {
+          "age": "6 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Старых"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 458,
+        "width": 1428,
+        "x": 1082,
+        "y": 1676
+      },
+      "entry_id": "c22303b7-eb66-4ce5-a1ef-c4aceed6b7cc_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Угличский уезд, Заозерская волость, деревня Черепенино",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "other_status": "отец умершего",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Масленников"
+        },
+        {
+          "age": "5 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Сергиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Масленникова"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 575,
+        "width": 1424,
+        "x": 1088,
+        "y": 2336
+      },
+      "entry_id": "c22303b7-eb66-4ce5-a1ef-c4aceed6b7cc_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "other_status": "крестный отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Алексеев"
+        },
+        {
+          "age": "",
+          "geo": "Новгородская губерния, Высоковский уезд, Высоковская волость, село Паноротное",
+          "info": "из дома Павлова вдова крестьянка",
+          "name": "Ольга",
+          "other_status": "мать умершего",
+          "second_name": "Антонова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Хорошева"
+        },
+        {
+          "age": "1 год 8 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Хорошева"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 492,
+        "width": 1407,
+        "x": 1092,
+        "y": 3098
+      },
+      "entry_id": "c22303b7-eb66-4ce5-a1ef-c4aceed6b7cc_0",
+      "people": [
+        {
+          "age": "7 дней",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Шубзд"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Горницкая волость, деревня Соломенки",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "отец умершего",
+          "second_name": "Антонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шубзд"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

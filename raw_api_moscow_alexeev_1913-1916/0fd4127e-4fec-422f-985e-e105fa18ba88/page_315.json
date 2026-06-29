@@ -1,0 +1,130 @@
+{
+  "year": 1914,
+  "page": 315,
+  "node_id": "a44c8a6d-dc9c-4525-aa4a-f7fd9023e679",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 405,
+        "width": 1407,
+        "x": 959,
+        "y": 821
+      },
+      "entry_id": "a44c8a6d-dc9c-4525-aa4a-f7fd9023e679_3",
+      "people": [
+        {
+          "age": "8 лет",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Козаков"
+        },
+        {
+          "age": "",
+          "geo": "Зарайский уезд, Кругловская волость, деревня Пенькино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Козаков"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 313,
+        "width": 1472,
+        "x": 960,
+        "y": 1453
+      },
+      "entry_id": "a44c8a6d-dc9c-4525-aa4a-f7fd9023e679_2",
+      "people": [
+        {
+          "age": "30",
+          "geo": "Московская губерния, Напрудная слобода",
+          "info": "вдова",
+          "name": "Пелагия",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 534,
+        "width": 1412,
+        "x": 950,
+        "y": 1941
+      },
+      "entry_id": "a44c8a6d-dc9c-4525-aa4a-f7fd9023e679_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуновская волость, деревня Чигасова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Григорьев (Панфилов)"
+        },
+        {
+          "age": "6 лет",
+          "geo": "",
+          "info": "",
+          "name": "Илия",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Григорьев (Панфилов)"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 398,
+        "width": 1426,
+        "x": 935,
+        "y": 2644
+      },
+      "entry_id": "a44c8a6d-dc9c-4525-aa4a-f7fd9023e679_0",
+      "people": [
+        {
+          "age": "2 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Анатолий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": "Гаврилов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Переяславский уезд, деревня Мишутина",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гаврилов"
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "total_pages": null
+}

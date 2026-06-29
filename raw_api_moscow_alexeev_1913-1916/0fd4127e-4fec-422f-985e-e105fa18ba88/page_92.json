@@ -1,0 +1,321 @@
+{
+  "year": 1914,
+  "page": 92,
+  "node_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 439,
+        "width": 2864,
+        "x": 737,
+        "y": 890
+      },
+      "entry_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "военный фельдшер, кандидат на классную должность",
+          "name": "Михаил",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Туколкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шеренин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сидорова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Петринская волость, деревня Скуратовка",
+          "info": "девица",
+          "name": "Лидия",
+          "second_name": "Ларионова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Калинина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Сидоров"
+        },
+        {
+          "age": "",
+          "geo": "деревня Гордеева",
+          "info": "дворянин",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сидоров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 419,
+        "width": 2867,
+        "x": 735,
+        "y": 1384
+      },
+      "entry_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Галина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Багрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Матвеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Багрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица, дочь мещанина",
+          "name": "Нина",
+          "second_name": "Владимирова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Багрова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Багровы",
+          "info": "московский мещанин, Крымской слободы",
+          "name": "Иван",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Багров"
+        },
+        {
+          "age": "",
+          "geo": "та же слобода",
+          "info": "мещанин",
+          "name": "Владимир",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Багров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 442,
+        "width": 2833,
+        "x": 730,
+        "y": 1893
+      },
+      "entry_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Елена",
+          "second_name": "Флорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Орлова"
+        },
+        {
+          "age": "",
+          "geo": "Тверская губерния, Калязинский уезд, Белгородская волость, деревня Кочнево",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Орлов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фишин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Мартианова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Фишина"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Луховическая волость, село Подлесная слобода",
+          "info": "крестьянин",
+          "name": "Мартиан",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Фишин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 484,
+        "width": 2852,
+        "x": 731,
+        "y": 2397
+      },
+      "entry_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Лосенкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Озерищенская волость, село Подлесная Слобода",
+          "info": "безземельный крестьянин",
+          "name": "Иван",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Лосенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянка",
+          "name": "Евдокия",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Павел",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Лосенков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Серпуховский уезд, Липитенская волость, деревня Астафьева",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 556,
+        "width": 2887,
+        "x": 728,
+        "y": 2907
+      },
+      "entry_id": "cd63e03f-8251-4d9d-982d-e0e36f6408ee_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московский уезд, Зюзинская волость",
+          "info": "причисленный к Зюзинской волости",
+          "name": "Михаил",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Рудин"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Николаевский уезд, Шестаковская волость, деревня Шемячкино",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Евграфова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Непогодьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Анна",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Непогодьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Денежниково",
+          "info": "вдова",
+          "name": "Ксения",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старостина"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

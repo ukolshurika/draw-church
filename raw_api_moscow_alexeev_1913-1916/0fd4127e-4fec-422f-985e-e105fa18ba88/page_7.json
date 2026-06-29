@@ -1,0 +1,299 @@
+{
+  "year": 1914,
+  "page": 7,
+  "node_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 424,
+        "width": 2999,
+        "x": 683,
+        "y": 870
+      },
+      "entry_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Сергиевская волость, деревня Мовенко",
+          "info": "мещанин",
+          "name": "Сергей",
+          "second_name": "Романов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Мироненко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Малахиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Мироненко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Мироненко"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Алексинский уезд, Силинская волость, деревня Климовки",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Артемиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Темнова"
+        },
+        {
+          "age": "",
+          "geo": "село Лубянки",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мещеряков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 427,
+        "width": 2996,
+        "x": 678,
+        "y": 1382
+      },
+      "entry_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Шапошниково, Московская губерния, Кузнецкая слобода",
+          "info": "девица",
+          "name": "Ольга",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "",
+          "geo": "Звенигородский уезд, Аксюнинская волость, деревня Салослово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лисин"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 430,
+        "width": 2961,
+        "x": 675,
+        "y": 1853
+      },
+      "entry_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Борисоглебский уезд, село Березовское",
+          "info": "мещанин, девица",
+          "name": "Анастасий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Балакшин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Балакшина"
+        },
+        {
+          "age": "",
+          "geo": "деревня Кукуля",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Петрова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Анастасиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Балакшин"
+        },
+        {
+          "age": "",
+          "geo": "Московский цех, Медный цех",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Георгиев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Емельянов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 532,
+        "width": 2973,
+        "x": 664,
+        "y": 2302
+      },
+      "entry_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иакимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Корочкина"
+        },
+        {
+          "age": "",
+          "geo": "село Сутки",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Смирнов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, деревня Скворцова",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Корочкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Корочкин"
+        },
+        {
+          "age": "",
+          "geo": "село Сутки",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Константинова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сомова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 571,
+        "width": 2980,
+        "x": 661,
+        "y": 2809
+      },
+      "entry_id": "58d2c0dd-d5ea-4a30-9c64-a4f90bcf2ca9_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Громовская волость, село Каменка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ивчатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Гаврилова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ивчатова"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Пружанский уезд, Масевская волость, деревня Ольховка",
+          "info": "",
+          "name": "Семен",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Зубрицкий"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, деревня Роганово",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Кузнецова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Ивчатова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}

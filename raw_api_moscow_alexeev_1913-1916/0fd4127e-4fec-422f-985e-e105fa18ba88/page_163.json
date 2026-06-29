@@ -1,0 +1,258 @@
+{
+  "year": 1914,
+  "page": 163,
+  "node_id": "e26b7305-ac16-44f8-9dc5-d7c721b0a42e",
+  "has_markup": true,
+  "entries": [
+    {
+      "bbox": {
+        "height": 533,
+        "width": 2837,
+        "x": 727,
+        "y": 860
+      },
+      "entry_id": "e26b7305-ac16-44f8-9dc5-d7c721b0a42e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Дриссенский уезд, Шериковская волость, деревня Новое Село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Моховская волость, село Языково",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Матвеев"
+        },
+        {
+          "age": "",
+          "geo": "Витебская губерния, Дриссенский уезд, Шериковская волость, деревня Новое Село",
+          "info": "крестьянка",
+          "name": "Анастасия",
+          "second_name": "Францева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Опалько"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 453,
+        "width": 2830,
+        "x": 727,
+        "y": 1509
+      },
+      "entry_id": "e26b7305-ac16-44f8-9dc5-d7c721b0a42e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "коллежский советник",
+          "name": "Николай",
+          "second_name": "Константинов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Александрова"
+        },
+        {
+          "age": "",
+          "geo": "деревня Александрова",
+          "info": "сын коллежского советника, имеющий право по образованию по чину ХIV класса",
+          "name": "Виктор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Александров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена врача",
+          "name": "Ольга",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Рейхард"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Александрова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 501,
+        "width": 2820,
+        "x": 728,
+        "y": 2232
+      },
+      "entry_id": "e26b7305-ac16-44f8-9dc5-d7c721b0a42e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алленова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Сухиничский уезд, деревня Чистозвоново",
+          "info": "мещанин",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алленов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Алленова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Озерецкая волость, деревня Писарево",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "мещанская дочь",
+          "name": "Александра",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Алленова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 508,
+        "width": 2828,
+        "x": 721,
+        "y": 2824
+      },
+      "entry_id": "e26b7305-ac16-44f8-9dc5-d7c721b0a42e_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Алленов"
+        },
+        {
+          "age": "",
+          "geo": "деревня Чистозвоново, Калужская губерния, Сухиничский уезд",
+          "info": "сухиничский мещанин",
+          "name": "Василий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Алленов"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Ливенский уезд",
+          "info": "мещанка, вдова",
+          "name": "Александра",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Солдатова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Алленова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивицкая волость, деревня Алехина",
+          "info": "крестьянин",
+          "name": "Максим",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Якушин"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "total_pages": null
+}
