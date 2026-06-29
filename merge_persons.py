@@ -168,13 +168,15 @@ def record_merge(manifest, src, tgt_pre_merge, reason=""):
         "source_id": src["id"],
         "target_id": tgt_pre_merge["id"],
         "source_label": f"{src.get('first_name','')} {src.get('patronymic','')} {src.get('surname','') or ''}".strip(),
-        "target_label": f"{src.get('first_name','')} {src.get('patronymic','')} {src.get('surname','') or ''}".strip(),
+        "target_label": f"{tgt_pre_merge.get('first_name','')} {tgt_pre_merge.get('patronymic','')} {tgt_pre_merge.get('surname','') or ''}".strip(),
         "reason": reason or "(no reason given)",
     }
 
-    # Check for duplicate
+    # Check for duplicate (compare both source AND target entry_ids —
+    # multiple source persons can share the same entry_id, e.g. parent+child in one birth record)
     for existing in manifest:
-        if existing["source_entry_ids"] == record["source_entry_ids"]:
+        if (existing["source_entry_ids"] == record["source_entry_ids"]
+                and existing["target_entry_ids"] == record["target_entry_ids"]):
             print("  ⚠ Merge already recorded, skipping manifest append")
             return
 
