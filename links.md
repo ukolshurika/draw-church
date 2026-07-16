@@ -9,3 +9,6 @@ https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555?sheet_pag
 https://yandex.ru/archive/catalog/13aea4b4-04ba-458c-be7b-40b1ee4bd108?sheet_page_from=414&sheet_page_to=461
 https://yandex.ru/archive/catalog/17011e83-d84e-4fe8-8d50-73b6300b343a?sheet_page_from=71&sheet_page_to=115
 https://yandex.ru/archive/catalog/08053d6c-db0f-48eb-b80f-67619c1ae580?sheet_page_from=404&sheet_page_to=455
+https://yandex.ru/archive/catalog/4ef58466-fb54-481e-af6f-45d2b122e2a6?sheet_page_from=131&sheet_page_to=148
+https://yandex.ru/archive/catalog/1b59534d-8c54-4227-afb8-303164004eef?sheet_page_from=4&sheet_page_to=25
+https://yandex.ru/archive/catalog/5eb5ace5-4308-4a23-b233-7ea868039fa6?sheet_page_from=174&sheet_page_to=195
