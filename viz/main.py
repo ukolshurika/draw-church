@@ -20,7 +20,17 @@ def main():
                         help="Input edges JSON file")
     parser.add_argument("--output", type=Path, default=OUTPUT,
                         help="Output HTML file")
+    parser.add_argument("--prefix", type=str, default=None,
+                        help="Prefix for file naming: reads all-nodes-{prefix}.json / all-edges-{prefix}.json, writes graph-{prefix}.html")
     args = parser.parse_args()
+
+    if args.prefix:
+        if args.nodes == parser.get_default("nodes"):
+            args.nodes = BASE_DIR / f"all-nodes-{args.prefix}.json"
+        if args.edges == parser.get_default("edges"):
+            args.edges = BASE_DIR / f"all-edges-{args.prefix}.json"
+        if args.output == parser.get_default("output"):
+            args.output = BASE_DIR / f"graph-{args.prefix}.html"
 
     all_nodes, all_edges = load_data(args.nodes, args.edges)
 
