@@ -2328,7 +2328,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "князя Шаликова",
-    "settlement": "Село Тверитино",
+    "settlement": "Сельцо Тверитино",
     "id": 59,
     "all_roles": [
       "Родитель"
@@ -4793,7 +4793,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "Кроткова",
-    "settlement": "Серпухово",
+    "settlement": "Город Серпухов",
     "id": 130,
     "all_roles": [
       "Восприемник"
@@ -9887,7 +9887,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "князя Шаликова",
-    "settlement": "Село Тверитино",
+    "settlement": "Сельцо Тверитино",
     "id": 262,
     "all_roles": [
       "Восприемник"
@@ -14649,7 +14649,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Село Тверитино",
+    "settlement": "Сельцо Тверитино",
     "id": 381,
     "all_roles": [
       "Родившийся"
@@ -44650,7 +44650,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Серпухово",
+    "settlement": "Город Серпухов",
     "id": 1182,
     "all_roles": [
       "Родитель"
@@ -48598,7 +48598,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 1284,
     "all_roles": [
       "Свидетель"
@@ -52638,7 +52638,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Село Тверитино",
+    "settlement": "Сельцо Тверитино",
     "id": 1393,
     "all_roles": [
       "Родитель"
@@ -52997,7 +52997,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "княгини Шаликовой",
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 1403,
     "all_roles": [
       "Свидетель"
@@ -54843,7 +54843,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Серпухово",
+    "settlement": "Город Серпухов",
     "id": 1449,
     "all_roles": [
       "Родившийся"
@@ -61005,7 +61005,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "княгини Шаликовой",
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 1623,
     "all_roles": [
       "Свидетель",
@@ -73716,7 +73716,7 @@
     "relation_type": "Невеста",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Село Ботурлино",
+    "settlement": "Село Бутурлино",
     "id": 1987,
     "all_roles": [
       "Невеста",
@@ -76933,7 +76933,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Село Ботурлино",
+    "settlement": "Село Бутурлино",
     "id": 2083,
     "all_roles": [
       "Свидетель"
@@ -89135,7 +89135,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Серпухово",
+    "settlement": "Город Серпухов",
     "id": 2461,
     "all_roles": [
       "Восприемник"
@@ -99445,7 +99445,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Село Ботурлино",
+    "settlement": "Село Бутурлино",
     "id": 2783,
     "all_roles": [
       "Свидетель"
@@ -99505,7 +99505,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Село Ботурлино",
+    "settlement": "Село Бутурлино",
     "id": 2785,
     "all_roles": [
       "Свидетель"
@@ -99565,7 +99565,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Село Ботурлино",
+    "settlement": "Село Бутурлино",
     "id": 2787,
     "all_roles": [
       "Свидетель"
@@ -116006,7 +116006,7 @@
     "relation_type": "Невеста",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 3313,
     "all_roles": [
       "Невеста"
@@ -116036,7 +116036,7 @@
     "relation_type": "Жених",
     "record_type": "Бракосочетание",
     "landowner": "княгини Шаликовой",
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 3314,
     "all_roles": [
       "Жених"
@@ -116066,7 +116066,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "княгини Шаликовой",
-    "settlement": "Сельцо Тверотино",
+    "settlement": "Сельцо Тверитино",
     "id": 3315,
     "all_roles": [
       "Свидетель"
