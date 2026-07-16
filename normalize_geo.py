@@ -38,10 +38,22 @@ MANUAL_SYNONYMS = {
     # === Тверитино ===
     "тверизино": "Тверитино",
     "тверитина": "Тверитино",
+    "тыритино": "Тверитино",
 
     # === Гавшино ===
     "гавшина": "Гавшино",
     "гавшины": "Гавшино",
+    # Полнотекстовые — контекстные ссылки с явным именем
+    "тот же уезд, деревня гавшино": "Деревня Гавшино",
+    "тот же уезд, деревня гавшина": "Деревня Гавшино",
+    "тот же помещик, деревня гавшино": "Деревня Гавшино",
+    "тот же помещик, деревня гавшина": "Деревня Гавшино",
+    "тот же уезд, того же помещика деревня гавшино": "Деревня Гавшино",
+    "та же вотчина, деревня гавшино": "Деревня Гавшино",
+    "та же вотчина, деревня гавшина": "Деревня Гавшино",
+    "та же деревня гавшино": "Деревня Гавшино",
+    "то же сельцо, тверитино": "Сельцо Тверитино",
+    "тот же уезд, сельцо тверитино": "Сельцо Тверитино",
 
     # === Злобино ===
     "злобина": "Злобино",
@@ -709,8 +721,7 @@ def canonicalize_settlement(raw: str | None) -> str | None:
     s_lower = s.lower()
 
     # Context references — can't resolve without original entry context
-    if re.search(r'(та же|то же|тот же|той же)', s_lower):
-        return s
+    is_context_ref = bool(re.search(r'(та же|то же|тот же|той же)', s_lower))
 
     # Normalize full string first
     full_canon = _lookup(s)
@@ -726,7 +737,7 @@ def canonicalize_settlement(raw: str | None) -> str | None:
     for part in reversed(parts):
         part_lower = part.lower()
         for stype in SETTLEMENT_TYPES:
-            m = re.match(rf'({stype})\s+(.+?)$', part_lower)
+            m = re.search(rf'({stype})\s+(.+?)$', part_lower)
             if m:
                 sname = m.group(2).strip()
                 canonical_name = normalize_name(sname)
@@ -742,6 +753,10 @@ def canonicalize_settlement(raw: str | None) -> str | None:
 
     if settlement_part:
         return settlement_part
+
+    # Pure context references without explicit name — can't resolve
+    if is_context_ref:
+        return s
 
     # No settlement type found — normalize whatever we have
     # Check each part for uyezd/volost/guberniya

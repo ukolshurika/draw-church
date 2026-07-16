@@ -40162,7 +40162,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "тот же уезд, Покровская волость, село Нечаево",
+    "settlement": "Село Нечаево",
     "id": 1111,
     "all_roles": [
       "Восприемник"
@@ -50974,7 +50974,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "тот же уезд, Сельцо Пущино",
+    "settlement": "Сельцо Пущино",
     "id": 1409,
     "all_roles": [
       "Восприемник"
@@ -52293,7 +52293,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "тот же уезд и волость, деревня Перцево",
+    "settlement": "Деревня Перцево",
     "id": 1447,
     "all_roles": [
       "Восприемник"

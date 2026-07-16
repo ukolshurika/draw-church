@@ -8,6 +8,7 @@ _SETTLEMENT_SYNONYMS: dict[str, str] = {
     "глазечко": "Глазечня",
     "глазечное": "Глазечня",
     "тверизино": "Тверитино",
+    "тыритино": "Тверитино",
 }
 
 _SYNONYMS_FILE = Path(__file__).parent / "settlement-synonyms.json"
