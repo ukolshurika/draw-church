@@ -3,3 +3,4 @@ __pycache__/
 *.bak
 test-vis.html
 .merge-backups/
+raw_api*/
