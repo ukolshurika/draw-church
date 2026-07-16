@@ -65913,8 +65913,7 @@
     ],
     "archive_urls": [
       "https://yandex.ru/archive/catalog/13aea4b4-04ba-458c-be7b-40b1ee4bd108/416?entry_id=ff7c17c1-5102-4e03-a66a-3890848452c0_1&tab=structured",
-      "https://yandex.ru/archive/catalog/8c06fc57-facb-44ec-8b3a-2b12d89ddf78/414?entry_id=3a609ea7-d141-451e-a256-f030ee39bb4b_3&tab=structured",
-      "https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555/405?entry_id=ce3996b8-5749-49af-bcfd-127f12526c7f_1&tab=structured"
+      "https://yandex.ru/archive/catalog/8c06fc57-facb-44ec-8b3a-2b12d89ddf78/414?entry_id=3a609ea7-d141-451e-a256-f030ee39bb4b_3&tab=structured"
     ],
     "sources": [
       {
@@ -65932,14 +65931,6 @@
         "delo": null,
         "page": 414,
         "url": "https://yandex.ru/archive/catalog/8c06fc57-facb-44ec-8b3a-2b12d89ddf78/414?entry_id=3a609ea7-d141-451e-a256-f030ee39bb4b_3&tab=structured"
-      },
-      {
-        "archive": null,
-        "fund": null,
-        "opis": null,
-        "delo": null,
-        "page": 405,
-        "url": "https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555/405?entry_id=ce3996b8-5749-49af-bcfd-127f12526c7f_1&tab=structured"
       }
     ]
   },
@@ -121088,6 +121079,36 @@
         "delo": null,
         "page": 414,
         "url": "https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555/414?entry_id=5b4b834c-1b65-4e52-86ee-c2977bb1b457_1&tab=structured"
+      }
+    ]
+  },
+  {
+    "first_name": "Евдокия",
+    "patronymic": "Космина",
+    "surname": null,
+    "year": 1855,
+    "relation_type": "Родитель",
+    "record_type": "Родившийся",
+    "landowner": null,
+    "settlement": "Сельцо Глазечня",
+    "id": 3466,
+    "all_roles": [
+      "Родитель"
+    ],
+    "all_record_types": [
+      "Родившийся"
+    ],
+    "archive_urls": [
+      "https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555/405?entry_id=ce3996b8-5749-49af-bcfd-127f12526c7f_1&tab=structured"
+    ],
+    "sources": [
+      {
+        "archive": null,
+        "fund": null,
+        "opis": null,
+        "delo": null,
+        "page": 405,
+        "url": "https://yandex.ru/archive/catalog/c2aab88c-cfbd-4a13-98ba-1d56d5ad4555/405?entry_id=ce3996b8-5749-49af-bcfd-127f12526c7f_1&tab=structured"
       }
     ]
   }
