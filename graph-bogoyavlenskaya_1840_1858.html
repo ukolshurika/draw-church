@@ -19,6 +19,10 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #phys-btn{background:#21262d;color:#8b949e;border:1px solid #30363d;border-radius:6px;padding:3px 6px;cursor:pointer;font-size:14px;line-height:1}
 #phys-btn:hover{color:#c9d1d9;border-color:#58a6ff}
 #phys-btn.active{background:#1f6feb;border-color:#1f6feb;color:#fff}
+#view-toggle{display:flex;border:1px solid #30363d;border-radius:6px;overflow:hidden}
+#view-toggle button{background:#21262d;color:#8b949e;border:none;padding:4px 10px;cursor:pointer;font-size:12px;white-space:nowrap}
+#view-toggle button:hover{color:#c9d1d9}
+#view-toggle button.active{background:#1f6feb;color:#fff}
 #save-btn{background:#21262d;color:#8b949e;border:1px solid #30363d;border-radius:6px;padding:3px 6px;cursor:pointer;font-size:14px;line-height:1}
 #save-btn:hover{color:#c9d1d9;border-color:#58a6ff}
 #stats{font-size:11px;color:#8b949e;margin-left:auto;white-space:nowrap}
@@ -63,6 +67,24 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #focus-bar button:hover{color:#f85149}
 #focus-bar .focus-hint{color:#484f58;font-size:10px}
 
+#timeline-panel{display:none;flex:1;flex-direction:column;overflow:hidden;background:#0d1117}
+#timeline-panel.visible{display:flex}
+#tl-header{padding:10px 16px;border-bottom:1px solid #30363d;flex-shrink:0;font-size:13px;display:flex;align-items:center;gap:12px}
+#tl-header .tl-name{color:#58a6ff;font-weight:bold}
+#tl-header .tl-meta{color:#8b949e;font-size:11px}
+#tl-scroll{flex:1;overflow:auto;padding:24px 20px}
+#tl-columns{display:flex;gap:0;min-width:fit-content;position:relative}
+#tl-axis{position:absolute;top:32px;left:0;right:0;border-top:2px solid #30363d;pointer-events:none;z-index:0}
+.tl-col{min-width:155px;text-align:center;flex-shrink:0;padding:0 8px;display:flex;flex-direction:column;align-items:center}
+.tl-col:last-child{padding-right:20px}
+.tl-col-dot{width:12px;height:12px;border-radius:50%;background:#58a6ff;margin:26px 0 14px;flex-shrink:0;position:relative;z-index:1}
+.tl-year-label{font-size:13px;font-weight:600;color:#8b949e;margin-bottom:8px}
+.tl-persons{display:flex;flex-direction:column;gap:4px;align-items:center;width:100%}
+.tl-person{background:#21262d;border:1px solid #30363d;border-radius:4px;padding:4px 8px;font-size:11px;color:#c9d1d9;cursor:pointer;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:100%;box-sizing:border-box;line-height:1.3}
+.tl-person:hover{border-color:#58a6ff}
+.tl-person .tl-rel{color:#484f58;font-size:9px;overflow:hidden;text-overflow:ellipsis}
+.tl-highlight .tl-col-dot{background:#f0c000;box-shadow:0 0 8px #f0c00088}
+.tl-highlight .tl-year-label{color:#f0c000}
 #right-panel{width:320px;background:#161b22;border-left:1px solid #30363d;display:none;flex-direction:column;flex-shrink:0;font-size:12px;overflow:hidden}
 #right-panel.visible{display:flex}
 #rp-header{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid #30363d;flex-shrink:0}
@@ -293,6 +315,10 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
     <div id="focus-bar"><span class="focus-name"></span><button title="Esc">&times;</button><span class="focus-hint">Esc to exit</span></div>
     <input id="search" type="text" placeholder="Поиск …">
     <button id="phys-btn" title="Toggle physics (P)">&#x26a1;</button>
+    <div id="view-toggle">
+      <button class="active" data-view="graph">Граф</button>
+      <button data-view="timeline">Таймлайн</button>
+    </div>
     <button id="save-btn" title="Save as PNG">&#x1f4be;</button>
     <div id="stats">&mdash;</div>
   </div>
@@ -337,6 +363,12 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
       <div id="loading">Загрузка</div>
       <div id="graph"></div>
     </div>
+    <div id="timeline-panel">
+      <div id="tl-header"></div>
+      <div id="tl-scroll">
+        <div id="tl-columns"><div id="tl-axis"></div></div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -351,6 +383,7 @@ var network = null;
 var allNodesDs = null;
 var allEdgesDs = null;
 var currentCompIdx = -1;
+var viewMode = 'graph';
 
 var box = document.getElementById('graph');
 var loadEl = document.getElementById('loading');
@@ -435,7 +468,85 @@ function exitFocus() {
   focusBar.classList.remove('visible');
   detail.classList.remove('visible');
   hideRightPanel();
+  document.getElementById('timeline-panel').classList.remove('visible');
+  document.getElementById('graph').style.display = '';
+  if (viewMode === 'timeline') setViewMode('graph');
   doFilter();
+}
+// ── view mode toggle ─────────────────────────────────────────────────
+function setViewMode(mode) {
+  viewMode = mode;
+  document.querySelectorAll('#view-toggle button').forEach(function(b) {
+    b.classList.toggle('active', b.dataset.view === mode);
+  });
+  if (mode === 'graph') {
+    document.getElementById('graph').style.display = '';
+    document.getElementById('timeline-panel').classList.remove('visible');
+  } else {
+    document.getElementById('graph').style.display = 'none';
+    document.getElementById('timeline-panel').classList.add('visible');
+    if (focusNodeId !== null) {
+      buildTimeline(focusNodeId);
+    }
+  }
+}
+document.getElementById('view-toggle').addEventListener('click', function(e) {
+  if (e.target.dataset.view) setViewMode(e.target.dataset.view);
+});
+// ── timeline ─────────────────────────────────────────────────────────
+function buildTimeline(nodeId) {
+  var node = allNodesDs.get(nodeId);
+  if (!node) return;
+  focusNodeId = nodeId;
+  document.getElementById('graph').style.display = 'none';
+  document.getElementById('timeline-panel').classList.add('visible');
+  hideRightPanel();
+  var header = document.getElementById('tl-header');
+  header.innerHTML = '<span class="tl-name">' + esc(node.label) + '</span>' +
+    (node._settlement ? '<span class="tl-meta">' + esc(node._settlement) + '</span>' : '') +
+    (node._year ? '<span class="tl-meta">' + node._year + '</span>' : '');
+  var neighbors = {};
+  allEdgesDs.get().forEach(function(e) {
+    var oid = null;
+    if (e.from === nodeId) oid = e.to;
+    else if (e.to === nodeId) oid = e.from;
+    if (oid === null) return;
+    var nb = allNodesDs.get(oid);
+    if (!nb) return;
+    var y = nb._year ? String(nb._year) : '—';
+    if (!neighbors[y]) neighbors[y] = [];
+    neighbors[y].push({
+      id: nb.id, label: nb.label.replace(/\s+\(\d{4}\)$/,''), settc: nb._settc,
+      rel: e._rels ? e._rels.join(', ') : (e.relation || ''),
+      record_type: nb._record_type
+    });
+  });
+  var years = Object.keys(neighbors).sort(function(a, b) {
+    if (a === '—') return 1; if (b === '—') return -1;
+    return parseInt(a) - parseInt(b);
+  });
+  var columnsDiv = document.getElementById('tl-columns');
+  columnsDiv.innerHTML = '<div id="tl-axis"></div>';
+  if (years.length === 0) {
+    columnsDiv.innerHTML += '<div style="color:#8b949e;padding:20px">Нет прямых связей</div>';
+    return;
+  }
+  years.forEach(function(year) {
+    var persons = neighbors[year];
+    var isNodeYear = node._year && String(node._year) === year;
+    var col = document.createElement('div');
+    col.className = 'tl-col' + (isNodeYear ? ' tl-highlight' : '');
+    col.innerHTML = '<div class="tl-col-dot"></div>' +
+      '<div class="tl-year-label">' + year + '</div>' +
+      '<div class="tl-persons">' + persons.map(function(p) {
+        return '<div class="tl-person" data-nid="' + p.id + '" title="' + esc(p.rel) + '">' +
+          esc(p.label) + '<div class="tl-rel">' + esc(p.rel) + '</div></div>';
+      }).join('') + '</div>';
+    columnsDiv.appendChild(col);
+  });
+  columnsDiv.querySelectorAll('.tl-person').forEach(function(el) {
+    el.addEventListener('click', function() { buildTimeline(parseInt(this.dataset.nid)); });
+  });
 }
 
 // ── helpers ─────────────────────────────────────────────────────────
@@ -728,7 +839,11 @@ function makeNetwork(comp) {
 
   network.on('doubleClick', function(params) {
     if (params.nodes.length === 1) {
-      applyFocus(params.nodes[0]);
+      if (viewMode === 'timeline') {
+        buildTimeline(params.nodes[0]);
+      } else {
+        applyFocus(params.nodes[0]);
+      }
     }
   });
 }
@@ -736,6 +851,7 @@ function makeNetwork(comp) {
 // ── load component ──────────────────────────────────────────────────
 function loadComponent(idx) {
   if (focusNodeId !== null) exitFocus();
+  if (viewMode === 'timeline') setViewMode('graph');
   var comp = COMPONENTS[idx];
   if (!comp) return;
   currentCompIdx = idx;
