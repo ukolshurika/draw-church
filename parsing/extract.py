@@ -11,7 +11,7 @@ from .models import (
     RAW_API_DIR,
 )
 from .landowner import extract_landowner
-from .context import resolve_context_settlement
+from .context import resolve_context_settlement, _scan_settlements, _resolve_context_ref
 
 
 def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list[dict]:
@@ -147,6 +147,27 @@ def process_entry(entry: dict, year: int, counter,
                     person["settlement"] = born_settlement
                 elif raw_status == "BORN":
                     person["settlement"] = father_settlement
+
+    # Resolve forward context references: if a person has "то же сельцо"
+    # but another person in the same entry has "сельцо Глазечно",
+    # the reference can be resolved using the full entry context.
+    actual_settlements = [
+        p.get("settlement") for p in persons
+        if p.get("settlement") and not any(
+            x in p["settlement"].lower() for x in ("то же", "тот же", "та же", "той же")
+        )
+    ]
+    if actual_settlements:
+        full_ctx = _scan_settlements(actual_settlements)
+        for person in persons:
+            s = person.get("settlement")
+            if not s:
+                continue
+            s_lower = s.strip().lower()
+            if any(x in s_lower for x in ("то же", "тот же", "та же", "той же")):
+                resolved = _resolve_context_ref(s_lower, full_ctx, global_ctx)
+                if resolved:
+                    person["settlement"] = normalize_settlement(resolved)
 
     edges = build_edges(entry_type, people_by_status)
     return persons, edges
