@@ -3002,7 +3002,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Твердихино",
+    "settlement": "Сельцо Тверитино",
     "id": 77,
     "all_roles": [
       "Родитель"
@@ -9359,7 +9359,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Тверятино",
+    "settlement": "Сельцо Тверитино",
     "id": 245,
     "all_roles": [
       "Родившийся"
@@ -29273,7 +29273,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "князя Шамилова",
-    "settlement": "Сельцо Тверятино",
+    "settlement": "Сельцо Тверитино",
     "id": 751,
     "all_roles": [
       "Родитель",
@@ -47058,7 +47058,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "Куколь Яспопольского",
-    "settlement": "Сельцо Твердихино",
+    "settlement": "Сельцо Тверитино",
     "id": 1227,
     "all_roles": [
       "Родитель",
@@ -47195,7 +47195,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "дворовый человек",
-    "settlement": "Сельцо Твердихино",
+    "settlement": "Сельцо Тверитино",
     "id": 1230,
     "all_roles": [
       "Восприемник"
@@ -47435,7 +47435,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Твердихино",
+    "settlement": "Сельцо Тверитино",
     "id": 1238,
     "all_roles": [
       "Родившийся"
@@ -75438,7 +75438,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "крестьянин",
-    "settlement": "Сельцо Тверятино",
+    "settlement": "Сельцо Тверитино",
     "id": 2022,
     "all_roles": [
       "Восприемник"
@@ -95335,7 +95335,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Тверятино",
+    "settlement": "Сельцо Тверитино",
     "id": 2639,
     "all_roles": [
       "Родитель"
