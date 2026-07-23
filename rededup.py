@@ -15,8 +15,24 @@ NODES_PATH = BASE_DIR / "all-nodes.json"
 EDGES_PATH = BASE_DIR / "all-edges.json"
 
 if __name__ == "__main__":
-    nodes = json.loads(NODES_PATH.read_text(encoding="utf-8"))
-    edges = json.loads(EDGES_PATH.read_text(encoding="utf-8"))
+    nodes_path = NODES_PATH
+    edges_path = EDGES_PATH
+
+    # Parse --nodes and --edges flags
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        if args[i] == "--nodes" and i + 1 < len(args):
+            nodes_path = Path(args[i + 1])
+            i += 2
+        elif args[i] == "--edges" and i + 1 < len(args):
+            edges_path = Path(args[i + 1])
+            i += 2
+        else:
+            i += 1
+
+    nodes = json.loads(nodes_path.read_text(encoding="utf-8"))
+    edges = json.loads(edges_path.read_text(encoding="utf-8"))
 
     print(f"Loaded: {len(nodes)} nodes, {len(edges)} edges")
 
@@ -46,13 +62,13 @@ if __name__ == "__main__":
 
     print(f"Edges: {len(deduped_edges)} (was {len(edges)})")
 
-    NODES_PATH.write_text(
+    nodes_path.write_text(
         json.dumps(unique, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    EDGES_PATH.write_text(
+    edges_path.write_text(
         json.dumps(deduped_edges, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    print(f"Saved: {NODES_PATH.name} ({len(unique)} nodes)")
-    print(f"Saved: {EDGES_PATH.name} ({len(deduped_edges)} edges)")
+    print(f"Saved: {nodes_path.name} ({len(unique)} nodes)")
+    print(f"Saved: {edges_path.name} ({len(deduped_edges)} edges)")
     print("Done!")

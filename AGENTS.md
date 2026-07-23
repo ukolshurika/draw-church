@@ -26,6 +26,15 @@ parse.py  ──(extract, deduplicate, resolve context)──►  all-nodes.json
 normalize_geo.py  ──(canonicalize settlement names)──►  all-nodes.json (нормализован)
   │
   ▼
+rededup.py  ──(re-dedup after geo normalization)──►  all-nodes.json
+  │
+  ▼
+llm_dedup.py apply  ──(LLM-based dedup, DeepSeek API)──►  all-nodes.json
+  │
+  ▼
+merge_persons.py apply  ──(manual merges from manifest)──►  all-nodes.json
+  │
+  ▼
 viz.py  ──(NetworkX, split components, Jinja2)──►  graph.html
 ```
 
@@ -40,6 +49,12 @@ viz.py  ──(NetworkX, split components, Jinja2)──►  graph.html
   Нормализация названий поселений, расширение словаря синонимов,
   разрешение контекстных ссылок. Использовать при проблемах с
   дедупликацией персон или при добавлении данных нового прихода.
+- **llm-dedup** — `.agents/skills/llm-dedup/SKILL.md`
+  LLM-based person deduplication. Uses LLM to classify whether two
+  person records represent the same individual by analyzing relationship
+  context (shared spouses, children, godchildren). Complements the
+  deterministic dedup algorithm by catching false negatives caused by
+  OCR errors, spelling variants, and context-resolution failures.
 - **manual-merging** — `.agents/skills/manual-merging/SKILL.md`
   Ручное объединение дубликатов персон и их связей.
 
