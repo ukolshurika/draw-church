@@ -97,6 +97,7 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 .tl-card-sett{font-size:10px;color:#9eafc4;max-width:160px;overflow:hidden;text-overflow:ellipsis}
 .tl-card-role{font-size:10px;color:#b0b8c4;margin-left:auto;padding:1px 6px;max-width:140px;overflow:hidden;text-overflow:ellipsis;flex-shrink:0;background:#2a3140;border-radius:3px;line-height:1.4}
 .tl-rel-tag{display:inline-block;font-size:9px;padding:1px 6px;border-radius:3px;margin-left:6px;flex-shrink:0;border:1px solid;background:transparent}
+.tl-role-badge{display:inline-block;font-size:9px;padding:1px 5px;border-radius:3px;background:#30363d;color:#c9d1d9;font-weight:500}
 .tl-void-row{font-size:10px;color:#30363d;padding:2px 0 2px 20px;letter-spacing:.04em}
 #tl-outgoing{display:flex;flex-direction:column;gap:0}
 #right-panel{width:320px;background:#161b22;border-left:1px solid #30363d;display:none;flex-direction:column;flex-shrink:0;font-size:12px;overflow:hidden}
@@ -338,8 +339,7 @@ function buildTimeline(nodeId) {
     var y = nb._year ? String(nb._year) : '—';
     tuples.push({ year: y, nbId: nb.id, nbName: nb.label.replace(/\s+\(\d{4}\)$/,''),
       nbSett: nb._settlement || '', nbSettc: nb._settc || '#444',
-      nbRole: (nb._all_roles || [nb._relation_type] || []).join(', '),
-      rels: e._rels ? e._rels : [e.relation || 'other'], dir: dir });
+      nbRole: (nb._relation_type || ''), dir: dir, rels: e._rels ? e._rels : [e.relation || 'other'] });
   });
 
   // Group by year, sort years.
@@ -390,7 +390,8 @@ function buildTimeline(nodeId) {
     fCard.dataset.nid = nodeId;
     fCard.innerHTML = '<span class="tl-card-dot" style="background:' + (node._settc || '#444') + '"></span>' +
       '<span class="tl-card-name">' + esc(nameClean) + '</span>' +
-      '<span class="tl-card-sett">' + esc(node._settlement || '') + '</span>';
+      '<span class="tl-card-sett">' + esc(node._settlement || '') + '</span>' +
+      '<span class="tl-card-role">' + esc(node._all_roles ? node._all_roles.join(', ') : (node._relation_type || '')) + '</span>';
     fRow.appendChild(fCard);
     content.appendChild(fRow);
 
@@ -400,12 +401,30 @@ function buildTimeline(nodeId) {
       var nbNameClean = (nb._first_name || '') + (nb._patronymic ? ' '+nb._patronymic : '') + (nb._surname ? ' '+nb._surname : '');
       if (!nbNameClean.trim()) nbNameClean = t.nbName;
 
-      // Relation tag row (between focus and neighbor)
+      var focusRole = (node._all_roles || []).join(', ') || (node._relation_type || '');
+      var neighborRole = t.nbRole;
+
+      // Relation + role row
       var relRow = document.createElement('div');
       relRow.className = 'tl-card-row';
       relRow.style.paddingLeft = '20px';
       var relContent = document.createElement('div');
-      relContent.style.cssText = 'font-size:10px;color:#484f58;padding:1px 0;display:flex;align-items:center;gap:4px';
+      relContent.style.cssText = 'font-size:10px;color:#8b949e;padding:2px 0 2px 8px;display:flex;align-items:center;gap:3px;flex-wrap:wrap';
+
+      // Focus role badge
+      if (focusRole) {
+        var frTag = document.createElement('span');
+        frTag.className = 'tl-role-badge';
+        frTag.textContent = focusRole;
+        relContent.appendChild(frTag);
+      }
+
+      // Arrow with relation tags
+      var arrow = document.createElement('span');
+      arrow.style.cssText = 'color:#484f58;margin:0 2px';
+      arrow.textContent = '→';
+      relContent.appendChild(arrow);
+
       t.rels.forEach(function(r, ri) {
         if (ri > 0) {
           var sep = document.createElement('span');
@@ -422,6 +441,20 @@ function buildTimeline(nodeId) {
         tag.style.background = color + '11';
         relContent.appendChild(tag);
       });
+
+      arrow = document.createElement('span');
+      arrow.style.cssText = 'color:#484f58;margin:0 2px';
+      arrow.textContent = '→';
+      relContent.appendChild(arrow);
+
+      // Neighbor role badge
+      if (neighborRole) {
+        var nrTag = document.createElement('span');
+        nrTag.className = 'tl-role-badge';
+        nrTag.textContent = neighborRole;
+        relContent.appendChild(nrTag);
+      }
+
       relRow.appendChild(relContent);
       content.appendChild(relRow);
 
