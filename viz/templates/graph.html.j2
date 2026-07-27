@@ -72,19 +72,34 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #tl-header{padding:10px 16px;border-bottom:1px solid #30363d;flex-shrink:0;font-size:13px;display:flex;align-items:center;gap:12px}
 #tl-header .tl-name{color:#58a6ff;font-weight:bold}
 #tl-header .tl-meta{color:#8b949e;font-size:11px}
-#tl-scroll{flex:1;overflow:auto;padding:24px 20px}
-#tl-columns{display:flex;gap:0;min-width:fit-content;position:relative}
-#tl-axis{position:absolute;top:32px;left:0;right:0;border-top:2px solid #30363d;pointer-events:none;z-index:0}
-.tl-col{min-width:155px;text-align:center;flex-shrink:0;padding:0 8px;display:flex;flex-direction:column;align-items:center}
-.tl-col:last-child{padding-right:20px}
-.tl-col-dot{width:12px;height:12px;border-radius:50%;background:#58a6ff;margin:26px 0 14px;flex-shrink:0;position:relative;z-index:1}
-.tl-year-label{font-size:13px;font-weight:600;color:#8b949e;margin-bottom:8px}
-.tl-persons{display:flex;flex-direction:column;gap:4px;align-items:center;width:100%}
-.tl-person{background:#21262d;border:1px solid #30363d;border-radius:4px;padding:4px 8px;font-size:11px;color:#c9d1d9;cursor:pointer;max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:100%;box-sizing:border-box;line-height:1.3}
-.tl-person:hover{border-color:#58a6ff}
-.tl-person .tl-rel{color:#484f58;font-size:9px;overflow:hidden;text-overflow:ellipsis}
-.tl-highlight .tl-col-dot{background:#f0c000;box-shadow:0 0 8px #f0c00088}
-.tl-highlight .tl-year-label{color:#f0c000}
+#tl-scroll{flex:1;overflow:auto;padding:20px 20px 40px 20px}
+
+.tl-year-band{display:flex;align-items:flex-start;position:relative;padding:8px 0}
+.tl-year-band:first-child{padding-top:0}
+.tl-year-col{width:60px;flex-shrink:0;display:flex;flex-direction:column;align-items:center;position:relative}
+.tl-year-pipe{width:2px;flex:1;background:#30363d;min-height:16px}
+.tl-year-band:first-child .tl-year-pipe{background:transparent}
+.tl-year-band:last-child .tl-year-pipe{background:transparent}
+.tl-year-dot{width:12px;height:12px;border-radius:50%;background:#58a6ff;flex-shrink:0;position:relative;z-index:1}
+.tl-year-label{font-size:13px;font-weight:700;color:#8b949e;margin-top:4px;white-space:nowrap}
+.tl-year-band.focus-year .tl-year-dot{background:#f0c000;box-shadow:0 0 10px #f0c00088}
+.tl-year-band.focus-year .tl-year-label{color:#f0c000}
+
+.tl-year-content{flex:1;display:flex;flex-direction:column;gap:2px;padding-left:12px}
+.tl-card-row{display:flex;align-items:center;gap:0;position:relative;min-height:28px}
+.tl-card-connector{width:20px;flex-shrink:0;position:relative}
+.tl-card-connector::before{content:'';position:absolute;left:0;top:50%;width:20px;height:2px;background:#30363d}
+.tl-card-person{background:#21262d;border:1px solid #30363d;border-radius:6px;padding:5px 10px;font-size:11px;color:#c9d1d9;cursor:pointer;display:flex;align-items:center;gap:8px;line-height:1.3;transition:border-color .15s;white-space:nowrap}
+.tl-card-person:hover{border-color:#58a6ff}
+.tl-card-person.focus-card{border-color:#58a6ff88;background:#1a2332}
+.tl-card-person.focus-card .tl-card-dot{box-shadow:0 0 8px #58a6ff88}
+.tl-card-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.tl-card-name{font-weight:500;max-width:220px;overflow:hidden;text-overflow:ellipsis}
+.tl-card-sett{font-size:10px;color:#8b949e;max-width:160px;overflow:hidden;text-overflow:ellipsis}
+.tl-card-role{font-size:10px;color:#484f58;margin-left:auto;padding-left:8px;max-width:120px;overflow:hidden;text-overflow:ellipsis;flex-shrink:0}
+.tl-rel-tag{display:inline-block;font-size:9px;padding:1px 6px;border-radius:3px;margin-left:6px;flex-shrink:0;border:1px solid;background:transparent}
+.tl-void-row{font-size:10px;color:#30363d;padding:2px 0 2px 20px;letter-spacing:.04em}
+#tl-outgoing{display:flex;flex-direction:column;gap:0}
 #right-panel{width:320px;background:#161b22;border-left:1px solid #30363d;display:none;flex-direction:column;flex-shrink:0;font-size:12px;overflow:hidden}
 #right-panel.visible{display:flex}
 #rp-header{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid #30363d;flex-shrink:0}
@@ -169,9 +184,7 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
     </div>
     <div id="timeline-panel">
       <div id="tl-header"></div>
-      <div id="tl-scroll">
-        <div id="tl-columns"><div id="tl-axis"></div></div>
-      </div>
+      <div id="tl-scroll"></div>
     </div>
   </div>
 </div>
@@ -305,51 +318,149 @@ function buildTimeline(nodeId) {
   document.getElementById('graph').style.display = 'none';
   document.getElementById('timeline-panel').classList.add('visible');
   hideRightPanel();
+
+  var nameClean = (node._first_name || '') +
+    (node._patronymic ? ' ' + node._patronymic : '') +
+    (node._surname ? ' ' + node._surname : '');
   var header = document.getElementById('tl-header');
-  header.innerHTML = '<span class="tl-name">' + esc(node.label) + '</span>' +
+  header.innerHTML = '<span class="tl-name">' + esc(nameClean) + '</span>' +
     (node._settlement ? '<span class="tl-meta">' + esc(node._settlement) + '</span>' : '') +
     (node._year ? '<span class="tl-meta">' + node._year + '</span>' : '');
-  var neighbors = {};
+
+  // Collect (year, neighbor, relation) tuples for all edges of focus node.
+  var tuples = [];
   allEdgesDs.get().forEach(function(e) {
-    var oid = null;
-    if (e.from === nodeId) oid = e.to;
-    else if (e.to === nodeId) oid = e.from;
+    var oid = null, dir = '';
+    if (e.from === nodeId) { oid = e.to; dir = '>'; }
+    else if (e.to === nodeId) { oid = e.from; dir = '<'; }
     if (oid === null) return;
     var nb = allNodesDs.get(oid);
     if (!nb) return;
     var y = nb._year ? String(nb._year) : '—';
-    if (!neighbors[y]) neighbors[y] = [];
-    neighbors[y].push({
-      id: nb.id, label: nb.label.replace(/\s+\(\d{4}\)$/,''), settc: nb._settc,
-      rel: e._rels ? e._rels.join(', ') : (e.relation || ''),
-      record_type: nb._record_type
-    });
+    tuples.push({ year: y, nbId: nb.id, nbName: nb.label.replace(/\s+\(\d{4}\)$/,''),
+      nbSett: nb._settlement || '', nbSettc: nb._settc || '#444',
+      nbRole: (nb._all_roles || [nb._relation_type] || []).join(', '),
+      rels: e._rels ? e._rels : [e.relation || 'other'], dir: dir });
   });
-  var years = Object.keys(neighbors).sort(function(a, b) {
+
+  // Group by year, sort years.
+  var groups = {};
+  tuples.forEach(function(t) {
+    if (!groups[t.year]) groups[t.year] = [];
+    groups[t.year].push(t);
+  });
+  var years = Object.keys(groups).sort(function(a, b) {
     if (a === '—') return 1; if (b === '—') return -1;
     return parseInt(a) - parseInt(b);
   });
-  var columnsDiv = document.getElementById('tl-columns');
-  columnsDiv.innerHTML = '<div id="tl-axis"></div>';
+
+  var scrollDiv = document.getElementById('tl-scroll');
+  scrollDiv.innerHTML = '';
   if (years.length === 0) {
-    columnsDiv.innerHTML += '<div style="color:#8b949e;padding:20px">Нет прямых связей</div>';
+    scrollDiv.innerHTML = '<div style="color:#8b949e;padding:20px">Нет прямых связей</div>';
     return;
   }
-  years.forEach(function(year) {
-    var persons = neighbors[year];
+
+  var REL_NAMES = {"child_of":"ребёнок / родитель","godparent_of":"восприемник","married_to":"супруги","witnessed_for":"свидетель","other":"прочее"};
+  var REL_TAGS = {"child_of":"#e74c3c","godparent_of":"#f39c12","married_to":"#e91e63","witnessed_for":"#95a5a6","other":"#7f8c8d"};
+
+  years.forEach(function(year, yi) {
+    var band = document.createElement('div');
+    band.className = 'tl-year-band';
     var isNodeYear = node._year && String(node._year) === year;
-    var col = document.createElement('div');
-    col.className = 'tl-col' + (isNodeYear ? ' tl-highlight' : '');
-    col.innerHTML = '<div class="tl-col-dot"></div>' +
-      '<div class="tl-year-label">' + year + '</div>' +
-      '<div class="tl-persons">' + persons.map(function(p) {
-        return '<div class="tl-person" data-nid="' + p.id + '" title="' + esc(p.rel) + '">' +
-          esc(p.label) + '<div class="tl-rel">' + esc(p.rel) + '</div></div>';
-      }).join('') + '</div>';
-    columnsDiv.appendChild(col);
+    if (isNodeYear) band.classList.add('focus-year');
+
+    // Year column (pipe + dot + label)
+    var yCol = document.createElement('div');
+    yCol.className = 'tl-year-col';
+    if (yi > 0) { var p = document.createElement('div'); p.className = 'tl-year-pipe'; yCol.appendChild(p); }
+    var dot = document.createElement('div'); dot.className = 'tl-year-dot'; yCol.appendChild(dot);
+    var lbl = document.createElement('div'); lbl.className = 'tl-year-label'; lbl.textContent = year; yCol.appendChild(lbl);
+    band.appendChild(yCol);
+
+    // Content column
+    var content = document.createElement('div');
+    content.className = 'tl-year-content';
+
+    // Focus person card (appears in every year band)
+    var fRow = document.createElement('div');
+    fRow.className = 'tl-card-row';
+    var fConn = document.createElement('div');
+    fConn.className = 'tl-card-connector';
+    // override connector color based on first relation
+    var primaryRel = groups[year][0].rels[0];
+    fConn.querySelector('::before');
+    fConn.style.setProperty('--conn-color', REL_TAGS[primaryRel] || '#444');
+    fConn.innerHTML = '<span style="display:inline-block;width:20px;height:2px;background:' + (REL_TAGS[primaryRel] || '#444') + ';vertical-align:middle"></span>';
+    fRow.appendChild(document.createElement('div')); // spacer
+    var fCard = document.createElement('div');
+    fCard.className = 'tl-card-person focus-card';
+    fCard.dataset.nid = nodeId;
+    fCard.innerHTML = '<span class="tl-card-dot" style="background:' + (node._settc || '#444') + '"></span>' +
+      '<span class="tl-card-name">' + esc(nameClean) + '</span>' +
+      '<span class="tl-card-sett">' + esc(node._settlement || '') + '</span>';
+    fRow.appendChild(fCard);
+    content.appendChild(fRow);
+
+    // Neighbor cards
+    groups[year].forEach(function(t) {
+      var nb = allNodesDs.get(t.nbId);
+      var nbNameClean = (nb._first_name || '') + (nb._patronymic ? ' '+nb._patronymic : '') + (nb._surname ? ' '+nb._surname : '');
+      if (!nbNameClean.trim()) nbNameClean = t.nbName;
+
+      // Relation tag row (between focus and neighbor)
+      var relRow = document.createElement('div');
+      relRow.className = 'tl-card-row';
+      relRow.style.paddingLeft = '20px';
+      var relContent = document.createElement('div');
+      relContent.style.cssText = 'font-size:10px;color:#484f58;padding:1px 0;display:flex;align-items:center;gap:4px';
+      var relLine = document.createElement('span');
+      relLine.style.cssText = 'display:inline-block;width:16px;height:2px;border-radius:1px;flex-shrink:0';
+      t.rels.forEach(function(r, ri) {
+        if (ri > 0) {
+          var sep = document.createElement('span');
+          sep.textContent = '·';
+          sep.style.color = '#30363d';
+          relContent.appendChild(sep);
+        }
+        var color = REL_TAGS[r] || '#7f8c8d';
+        var tag = document.createElement('span');
+        tag.className = 'tl-rel-tag';
+        tag.textContent = REL_NAMES[r] || r;
+        tag.style.color = color;
+        tag.style.borderColor = color + '44';
+        tag.style.background = color + '11';
+        relContent.appendChild(tag);
+      });
+      relRow.appendChild(relContent);
+      content.appendChild(relRow);
+
+      // Neighbor card
+      var nRow = document.createElement('div');
+      nRow.className = 'tl-card-row';
+      nRow.style.paddingLeft = '20px';
+      nRow.innerHTML = '<div class="tl-card-connector" style="width:16px"></div>';
+      var nCard = document.createElement('div');
+      nCard.className = 'tl-card-person';
+      nCard.dataset.nid = t.nbId;
+      nCard.innerHTML = '<span class="tl-card-dot" style="background:' + t.nbSettc + '"></span>' +
+        '<span class="tl-card-name">' + esc(nbNameClean) + '</span>' +
+        '<span class="tl-card-sett">' + esc(t.nbSett) + '</span>' +
+        (t.nbRole ? '<span class="tl-card-role">' + esc(t.nbRole) + '</span>' : '');
+      nRow.appendChild(nCard);
+      content.appendChild(nRow);
+    });
+
+    band.appendChild(content);
+    scrollDiv.appendChild(band);
   });
-  columnsDiv.querySelectorAll('.tl-person').forEach(function(el) {
-    el.addEventListener('click', function() { buildTimeline(parseInt(this.dataset.nid)); });
+
+  // Click handlers — navigate to another person's timeline
+  scrollDiv.querySelectorAll('.tl-card-person').forEach(function(el) {
+    el.addEventListener('click', function() {
+      var nid = parseInt(this.dataset.nid);
+      if (nid && nid !== focusNodeId) buildTimeline(nid);
+    });
   });
 }
 
