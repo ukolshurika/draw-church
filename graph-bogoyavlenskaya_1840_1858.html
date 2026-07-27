@@ -90,8 +90,6 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 .tl-card-connector{width:20px;flex-shrink:0;position:relative}
 .tl-card-person{background:#21262d;border:1px solid #30363d;border-radius:6px;padding:5px 10px;font-size:11px;color:#c9d1d9;cursor:pointer;display:flex;align-items:center;gap:8px;line-height:1.3;transition:border-color .15s;white-space:nowrap}
 .tl-card-person:hover{border-color:#58a6ff}
-.tl-card-person.focus-card{border-color:#58a6ff88;background:#1a2332}
-.tl-card-person.focus-card .tl-card-dot{box-shadow:0 0 8px #58a6ff88}
 .tl-card-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .tl-card-name{font-weight:500;max-width:220px;overflow:hidden;text-overflow:ellipsis}
 .tl-card-sett{font-size:10px;color:#9eafc4;max-width:160px;overflow:hidden;text-overflow:ellipsis}
@@ -517,21 +515,7 @@ function buildTimeline(nodeId) {
     var content = document.createElement('div');
     content.className = 'tl-year-content';
 
-    // Focus person card (appears in every year band — same individual across years)
-    var fRow = document.createElement('div');
-    fRow.className = 'tl-card-row';
-    fRow.style.paddingLeft = '20px';
-    var fCard = document.createElement('div');
-    fCard.className = 'tl-card-person focus-card';
-    fCard.dataset.nid = nodeId;
-    fCard.innerHTML = '<span class="tl-card-dot" style="background:' + (node._settc || '#444') + '"></span>' +
-      '<span class="tl-card-name">' + esc(nameClean) + '</span>' +
-      '<span class="tl-card-sett">' + esc(node._settlement || '') + '</span>' +
-      '<span class="tl-card-role">' + esc(node._all_roles ? node._all_roles.join(', ') : (node._relation_type || '')) + '</span>';
-    fRow.appendChild(fCard);
-    content.appendChild(fRow);
-
-    // Neighbor cards
+    // Neighbor cards (focus person shown in sticky header)
     groups[year].forEach(function(t) {
       var nb = allNodesDs.get(t.nbId);
       var nbNameClean = (nb._first_name || '') + (nb._patronymic ? ' '+nb._patronymic : '') + (nb._surname ? ' '+nb._surname : '');
