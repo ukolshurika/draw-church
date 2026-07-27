@@ -88,7 +88,6 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 .tl-year-content{flex:1;display:flex;flex-direction:column;gap:2px;padding-left:12px}
 .tl-card-row{display:flex;align-items:center;gap:0;position:relative;min-height:28px}
 .tl-card-connector{width:20px;flex-shrink:0;position:relative}
-.tl-card-connector::before{content:'';position:absolute;left:0;top:50%;width:20px;height:2px;background:#30363d}
 .tl-card-person{background:#21262d;border:1px solid #30363d;border-radius:6px;padding:5px 10px;font-size:11px;color:#c9d1d9;cursor:pointer;display:flex;align-items:center;gap:8px;line-height:1.3;transition:border-color .15s;white-space:nowrap}
 .tl-card-person:hover{border-color:#58a6ff}
 .tl-card-person.focus-card{border-color:#58a6ff88;background:#1a2332}
@@ -518,17 +517,10 @@ function buildTimeline(nodeId) {
     var content = document.createElement('div');
     content.className = 'tl-year-content';
 
-    // Focus person card (appears in every year band)
+    // Focus person card (appears in every year band — same individual across years)
     var fRow = document.createElement('div');
     fRow.className = 'tl-card-row';
-    var fConn = document.createElement('div');
-    fConn.className = 'tl-card-connector';
-    // override connector color based on first relation
-    var primaryRel = groups[year][0].rels[0];
-    fConn.querySelector('::before');
-    fConn.style.setProperty('--conn-color', REL_TAGS[primaryRel] || '#444');
-    fConn.innerHTML = '<span style="display:inline-block;width:20px;height:2px;background:' + (REL_TAGS[primaryRel] || '#444') + ';vertical-align:middle"></span>';
-    fRow.appendChild(document.createElement('div')); // spacer
+    fRow.style.paddingLeft = '20px';
     var fCard = document.createElement('div');
     fCard.className = 'tl-card-person focus-card';
     fCard.dataset.nid = nodeId;
@@ -550,8 +542,6 @@ function buildTimeline(nodeId) {
       relRow.style.paddingLeft = '20px';
       var relContent = document.createElement('div');
       relContent.style.cssText = 'font-size:10px;color:#484f58;padding:1px 0;display:flex;align-items:center;gap:4px';
-      var relLine = document.createElement('span');
-      relLine.style.cssText = 'display:inline-block;width:16px;height:2px;border-radius:1px;flex-shrink:0';
       t.rels.forEach(function(r, ri) {
         if (ri > 0) {
           var sep = document.createElement('span');
@@ -575,7 +565,11 @@ function buildTimeline(nodeId) {
       var nRow = document.createElement('div');
       nRow.className = 'tl-card-row';
       nRow.style.paddingLeft = '20px';
-      nRow.innerHTML = '<div class="tl-card-connector" style="width:16px"></div>';
+      var nConn = document.createElement('div');
+      nConn.className = 'tl-card-connector';
+      nConn.style.width = '16px';
+      nConn.innerHTML = '<span style="display:block;width:16px;height:2px;background:' + (REL_TAGS[t.rels[0]] || '#444') + ';margin-top:12px;border-radius:1px"></span>';
+      nRow.appendChild(nConn);
       var nCard = document.createElement('div');
       nCard.className = 'tl-card-person';
       nCard.dataset.nid = t.nbId;
