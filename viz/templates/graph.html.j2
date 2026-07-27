@@ -27,7 +27,7 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #save-btn:hover{color:#c9d1d9;border-color:#58a6ff}
 #stats{font-size:11px;color:#8b949e;margin-left:auto;white-space:nowrap}
 
-#main{display:flex;flex:1;min-height:0}
+#main{display:flex;flex:1;min-height:0;position:relative}
 #side{width:260px;background:#161b22;border-right:1px solid #30363d;display:flex;flex-direction:column;flex-shrink:0;overflow-y:auto;font-size:12px}
 #side h3{margin:0;padding:10px 12px 4px;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:#8b949e}
 #side .legend{padding:4px 12px 8px}
@@ -67,7 +67,7 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #focus-bar button:hover{color:#f85149}
 #focus-bar .focus-hint{color:#484f58;font-size:10px}
 
-#timeline-panel{display:none;flex:1;flex-direction:column;overflow:hidden;background:#0d1117}
+#timeline-panel{display:none;position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;flex-direction:column;overflow:hidden;background:#0d1117}
 #timeline-panel.visible{display:flex}
 #tl-header{padding:10px 16px;border-bottom:1px solid #30363d;flex-shrink:0;font-size:13px;display:flex;align-items:center;gap:12px}
 #tl-header .tl-name{color:#58a6ff;font-weight:bold}
@@ -284,7 +284,6 @@ function exitFocus() {
   detail.classList.remove('visible');
   hideRightPanel();
   document.getElementById('timeline-panel').classList.remove('visible');
-  document.getElementById('graph').style.display = '';
   if (viewMode === 'timeline') setViewMode('graph');
   doFilter();
 }
@@ -295,12 +294,8 @@ function setViewMode(mode) {
     b.classList.toggle('active', b.dataset.view === mode);
   });
   if (mode === 'graph') {
-    document.getElementById('side').style.display = '';
-    document.getElementById('graph').style.display = '';
     document.getElementById('timeline-panel').classList.remove('visible');
   } else {
-    document.getElementById('side').style.display = 'none';
-    document.getElementById('graph').style.display = 'none';
     document.getElementById('timeline-panel').classList.add('visible');
     if (focusNodeId !== null) {
       buildTimeline(focusNodeId);
@@ -315,7 +310,6 @@ function buildTimeline(nodeId) {
   var node = allNodesDs.get(nodeId);
   if (!node) return;
   focusNodeId = nodeId;
-  document.getElementById('graph').style.display = 'none';
   document.getElementById('timeline-panel').classList.add('visible');
   hideRightPanel();
 
