@@ -431,9 +431,11 @@ function setViewMode(mode) {
     b.classList.toggle('active', b.dataset.view === mode);
   });
   if (mode === 'graph') {
+    document.getElementById('side').style.display = '';
     document.getElementById('graph').style.display = '';
     document.getElementById('timeline-panel').classList.remove('visible');
   } else {
+    document.getElementById('side').style.display = 'none';
     document.getElementById('graph').style.display = 'none';
     document.getElementById('timeline-panel').classList.add('visible');
     if (focusNodeId !== null) {
