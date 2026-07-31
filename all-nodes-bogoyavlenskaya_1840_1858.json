@@ -2717,7 +2717,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Село Глазечня",
+    "settlement": "Сельцо Глазечня",
     "id": 94,
     "all_roles": [
       "Родитель"
@@ -3255,7 +3255,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 114,
     "all_roles": [
       "Родившийся"
@@ -5855,7 +5855,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "Фейтнера",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 197,
     "all_roles": [
       "Родитель"
@@ -11029,7 +11029,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "крестьянин",
-    "settlement": "Село Глазечня",
+    "settlement": "Сельцо Глазечня",
     "id": 336,
     "all_roles": [
       "Восприемник"
@@ -28927,7 +28927,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "Бобрищева-Пушкина",
-    "settlement": "Сельцо Мокрагое",
+    "settlement": "Сельцо Мокрое",
     "id": 812,
     "all_roles": [
       "Восприемник"
@@ -29007,7 +29007,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Бобрищева Пушкина",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 815,
     "all_roles": [
       "Свидетель",
@@ -31277,7 +31277,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокраг",
+    "settlement": "Сельцо Мокрое",
     "id": 878,
     "all_roles": [
       "Родитель"
@@ -57019,7 +57019,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": "Бобрищева Пушкина",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 1573,
     "all_roles": [
       "Восприемник"
@@ -57089,7 +57089,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокраго",
+    "settlement": "Сельцо Мокрое",
     "id": 1575,
     "all_roles": [
       "Восприемник"
@@ -58302,7 +58302,7 @@
     "relation_type": "Жених",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1612,
     "all_roles": [
       "Жених"
@@ -58332,7 +58332,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1613,
     "all_roles": [
       "Свидетель"
@@ -58392,7 +58392,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1615,
     "all_roles": [
       "Свидетель"
@@ -58422,7 +58422,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1616,
     "all_roles": [
       "Свидетель"
@@ -58482,7 +58482,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1618,
     "all_roles": [
       "Свидетель",
@@ -58523,7 +58523,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1619,
     "all_roles": [
       "Свидетель"
@@ -58583,7 +58583,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрае",
+    "settlement": "Сельцо Мокрое",
     "id": 1621,
     "all_roles": [
       "Свидетель"
@@ -58670,7 +58670,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 1623,
     "all_roles": [
       "Родитель",
@@ -60390,7 +60390,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Бобрищева Пушкина",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 1674,
     "all_roles": [
       "Свидетель",
@@ -60542,7 +60542,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": "Бобрищева Пушкина",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 1679,
     "all_roles": [
       "Свидетель"
@@ -62720,7 +62720,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокрагое",
+    "settlement": "Сельцо Мокрое",
     "id": 1742,
     "all_roles": [
       "Родитель"
@@ -62807,7 +62807,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрагое",
+    "settlement": "Сельцо Мокрое",
     "id": 1744,
     "all_roles": [
       "Родитель"
@@ -66047,7 +66047,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 1836,
     "all_roles": [
       "Родитель"
@@ -75982,7 +75982,7 @@
     "relation_type": "Жених",
     "record_type": "Бракосочетание",
     "landowner": "Бобрищева Пушкина",
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 2127,
     "all_roles": [
       "Жених"
@@ -78732,7 +78732,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 2210,
     "all_roles": [
       "Восприемник"
@@ -102674,7 +102674,7 @@
     "relation_type": "Свидетель",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 2934,
     "all_roles": [
       "Свидетель"
@@ -103749,7 +103749,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Село Глазечня",
+    "settlement": "Сельцо Глазечня",
     "id": 2968,
     "all_roles": [
       "Родитель"
@@ -103881,7 +103881,7 @@
     "relation_type": "Другой",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокраг",
+    "settlement": "Сельцо Мокрое",
     "id": 2972,
     "all_roles": [
       "Другой"
@@ -104194,7 +104194,7 @@
     "relation_type": "Восприемник",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 2980,
     "all_roles": [
       "Восприемник"
@@ -116800,7 +116800,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 3377,
     "all_roles": [
       "Родившийся"
@@ -116979,7 +116979,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 3382,
     "all_roles": [
       "Родившийся"
@@ -120920,7 +120920,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Село Глазечня",
+    "settlement": "Сельцо Глазечня",
     "id": 3509,
     "all_roles": [
       "Родившийся"
@@ -121315,7 +121315,7 @@
     "relation_type": "OTHER",
     "record_type": "Бракосочетание",
     "landowner": null,
-    "settlement": "Сельцо Мокрово",
+    "settlement": "Сельцо Мокрое",
     "id": 3522,
     "all_roles": [
       "OTHER"
@@ -123002,7 +123002,7 @@
     "relation_type": "Родитель",
     "record_type": "Родившийся",
     "landowner": "Григорьевой",
-    "settlement": "Сельцо Мокраго",
+    "settlement": "Сельцо Мокрое",
     "id": 3577,
     "all_roles": [
       "Родитель"
@@ -123032,7 +123032,7 @@
     "relation_type": "Родившийся",
     "record_type": "Родившийся",
     "landowner": null,
-    "settlement": "Сельцо Мокраго",
+    "settlement": "Сельцо Мокрое",
     "id": 3578,
     "all_roles": [
       "Родившийся"
