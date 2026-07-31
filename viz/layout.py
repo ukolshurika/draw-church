@@ -61,20 +61,22 @@ def _group_centers(groups: dict[str | None, list], edges: list[dict]) -> dict:
     centers = {base: np.array(xy) * scale for base, xy in pos.items()}
 
     # de-overlap pass: push centres apart so each group's disc does not overlap
+    # SEPARATION: multiply the required gap so clusters sit visibly far apart
+    separation = 3.0
     radii = {
         base if base is not None else "__none__":
             max(16.0, 3.5 * (len(ids) ** 0.45))
         for base, ids in groups.items()
     }
     keys = list(centers.keys())
-    for _ in range(80):
+    for _ in range(120):
         moved = False
         for i in range(len(keys)):
             for j in range(i + 1, len(keys)):
                 a, b = keys[i], keys[j]
                 d = centers[b] - centers[a]
                 dist = np.linalg.norm(d)
-                min_dist = radii[a] + radii[b] + 30.0
+                min_dist = (radii[a] + radii[b]) * separation + 30.0
                 if dist < min_dist:
                     shift = (min_dist - dist) * d / (dist + 1e-9) * 0.5
                     centers[a] -= shift

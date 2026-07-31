@@ -628,23 +628,26 @@ function buildLegends(comp) {
 }
 
 // ── node size scale ─────────────────────────────────────────────────
+var NODE_SIZE_SCALE = 0.7;
 function nodeSize(deg) {
-  if (deg >= 100) return 58;
-  if (deg >= 70)  return 48;
-  if (deg >= 50)  return 41;
-  if (deg >= 40)  return 36;
-  if (deg >= 30)  return 31;
-  if (deg >= 20)  return 26;
-  if (deg >= 15)  return 22;
-  if (deg >= 10)  return 18;
-  if (deg >= 8)   return 15;
-  if (deg >= 6)   return 13;
-  if (deg >= 5)   return 11;
-  if (deg >= 4)   return 10;
-  if (deg >= 3)   return 9;
-  if (deg >= 2)   return 8;
-  if (deg >= 1)   return 7;
-  return 6;
+  var s;
+  if (deg >= 100) s = 58;
+  else if (deg >= 70)  s = 48;
+  else if (deg >= 50)  s = 41;
+  else if (deg >= 40)  s = 36;
+  else if (deg >= 30)  s = 31;
+  else if (deg >= 20)  s = 26;
+  else if (deg >= 15)  s = 22;
+  else if (deg >= 10)  s = 18;
+  else if (deg >= 8)   s = 15;
+  else if (deg >= 6)   s = 13;
+  else if (deg >= 5)   s = 11;
+  else if (deg >= 4)   s = 10;
+  else if (deg >= 3)   s = 9;
+  else if (deg >= 2)   s = 8;
+  else if (deg >= 1)   s = 7;
+  else                 s = 6;
+  return s * NODE_SIZE_SCALE;
 }
 
 // ── build network ───────────────────────────────────────────────────
@@ -654,7 +657,7 @@ function makeNetwork(comp) {
     var settc = n._settc;
     var deg = n._deg || 0;
     var size = nodeSize(deg);
-    var blw = 1 + Math.min(deg * 0.5, 3.5);
+    var blw = (1 + Math.min(deg * 0.5, 3.5)) * NODE_SIZE_SCALE;
 
     var tip = '<b>'+esc(n.first_name)+'</b>';
     if (n.patronymic) tip += '<br>Отчество: '+esc(n.patronymic);
