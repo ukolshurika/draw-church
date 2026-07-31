@@ -39,6 +39,10 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
 #side .legend-count{color:#484f58;font-size:10px;margin-left:auto}
 #side .legend-rel{display:flex;align-items:center;gap:6px;padding:1px 4px;font-size:11px}
 #side .legend-rel-line{width:14px;height:2px;border-radius:1px;flex-shrink:0}
+#size-legend{display:flex;align-items:flex-end;gap:10px;padding:4px 12px 8px;flex-wrap:wrap}
+#size-legend .size-sample{display:flex;flex-direction:column;align-items:center;gap:2px}
+#size-legend .size-sample .dot{background:#58a6ff;border-radius:50%;border:1px solid #111}
+#size-legend .size-sample .lbl{font-size:9px;color:#8b949e;white-space:nowrap}
 #filters{padding:4px 12px 8px;display:flex;flex-wrap:wrap;gap:4px}
 #filters button{background:#21262d;color:#c9d1d9;border:1px solid #30363d;border-radius:4px;font-size:10px;padding:2px 6px;cursor:pointer}
 #filters button.active{background:#1f6feb;border-color:#1f6feb}
@@ -147,6 +151,8 @@ html,body{height:100%;margin:0;padding:0;font-family:'Segoe UI',system-ui,sans-s
       <div class="legend" id="sett-legend"></div>
       <h3>Связи</h3>
       <div class="legend" id="rel-legend"></div>
+      <h3>Размер узла</h3>
+      <div class="legend" id="size-legend"></div>
       <h3>Радиус фокуса</h3>
       <div id="hop-ctl">
         <input type="range" id="hop-slider" min="1" max="10" value="3" step="1">
@@ -625,6 +631,35 @@ function buildLegends(comp) {
   for (var r in REL_COLORS) {
     rl2.innerHTML += '<div class="legend-rel"><span class="legend-rel-line" style="background:'+REL_COLORS[r]+'"></span>'+esc(r)+'</div>';
   }
+
+  // node size legend
+  var szLegend = document.getElementById('size-legend');
+  szLegend.innerHTML = '';
+  var samples = [[5,'5'],[10,'10'],[20,'20'],[40,'40'],[70,'70'],[100,'100+']];
+  samples.forEach(function(s) {
+    var d = nodeSize(s[0]);
+    szLegend.innerHTML += '<div class="size-sample"><span class="dot" style="width:'+(d*2)+'px;height:'+(d*2)+'px"></span><span class="lbl">'+s[1]+'</span></div>';
+  });
+}
+
+// ── node size scale ─────────────────────────────────────────────────
+function nodeSize(deg) {
+  if (deg >= 100) return 58;
+  if (deg >= 70)  return 48;
+  if (deg >= 50)  return 41;
+  if (deg >= 40)  return 36;
+  if (deg >= 30)  return 31;
+  if (deg >= 20)  return 26;
+  if (deg >= 15)  return 22;
+  if (deg >= 10)  return 18;
+  if (deg >= 8)   return 15;
+  if (deg >= 6)   return 13;
+  if (deg >= 5)   return 11;
+  if (deg >= 4)   return 10;
+  if (deg >= 3)   return 9;
+  if (deg >= 2)   return 8;
+  if (deg >= 1)   return 7;
+  return 6;
 }
 
 // ── build network ───────────────────────────────────────────────────
@@ -633,8 +668,8 @@ function makeNetwork(comp) {
   var ns = comp.nodes.map(function(n) {
     var settc = n._settc;
     var deg = n._deg || 0;
-    var size = 6 + Math.min(deg * 2, 26);
-    var blw = Math.min(deg * 0.5, 3);
+    var size = nodeSize(deg);
+    var blw = 1 + Math.min(deg * 0.5, 3.5);
 
     var tip = '<b>'+esc(n.first_name)+'</b>';
     if (n.patronymic) tip += '<br>Отчество: '+esc(n.patronymic);
