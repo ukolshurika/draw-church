@@ -4,6 +4,7 @@ from pathlib import Path
 from .loader import load_data
 from .splitter import split_components
 from .styler import assign_settlement_colours, assign_degrees
+from .layout import assign_layout
 from .renderer import render
 
 BASE_DIR = Path(__file__).parent.parent
@@ -38,6 +39,7 @@ def main():
 
     colour_map = assign_settlement_colours(components)
     assign_degrees(components, colour_map)
+    assign_layout(components)
 
     print(f"Components: {len(components)}")
     for i, c in enumerate(components):

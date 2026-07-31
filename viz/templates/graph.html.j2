@@ -667,6 +667,8 @@ function makeNetwork(comp) {
 
     return {
       id: n.id,
+      x: n._x !== undefined ? n._x : undefined,
+      y: n._y !== undefined ? n._y : undefined,
       label: n.first_name + (n.patronymic ? ' '+n.patronymic : '') + (n.surname ? ' '+n.surname : '') + (n.year ? ' ('+n.year+')' : ''),
       color: { background: settc, border: '#111' },
       size: size,
@@ -725,8 +727,12 @@ function makeNetwork(comp) {
   allNodesDs = new vis.DataSet(ns);
   allEdgesDs = new vis.DataSet(es);
 
+  var hasFixedLayout = ns.some(function(n){ return n.x !== undefined && n.y !== undefined; });
   var phys = {};
-  if (comp.nodes.length <= 40) {
+  if (hasFixedLayout) {
+    // keep the precomputed patronymic-clustered layout
+    phys = { enabled: false };
+  } else if (comp.nodes.length <= 40) {
     phys = { solver:'barnesHut', barnesHut:{ gravitationalConstant:-3000, centralGravity:0.3, springLength:200, damping:0.09 }, stabilization:{ iterations:200 } };
   } else if (comp.nodes.length <= 200) {
     phys = { solver:'barnesHut', barnesHut:{ gravitationalConstant:-5000, centralGravity:0.3, springLength:180, damping:0.09 }, stabilization:{ iterations:300 } };
@@ -744,6 +750,12 @@ function makeNetwork(comp) {
     edges: { smooth:{ type:'continuous' }, chosen: false },
   });
 
+  if (hasFixedLayout) {
+    // no physics pass — precomputed positions are already final
+    stopLoading();
+    setPhysics(false);
+    network.fit();
+  }
   network.on('stabilizationIterationsDone', function() {
     stopLoading();
     setPhysics(false);
