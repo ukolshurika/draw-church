@@ -119,7 +119,7 @@ class TestStyler:
         assert node_4["_settc"] == colour_map[NONE_SETTLEMENT_KEY]
 
     def test_relation_colors_defined(self):
-        expected = ["child_of", "godparent_of", "married_to", "witnessed_for", "other"]
+        expected = ["child_of", "godparent_of", "kum", "married_to", "witnessed_for", "other"]
         for rel in expected:
             assert rel in RELATION_COLORS
             assert RELATION_COLORS[rel].startswith("#")

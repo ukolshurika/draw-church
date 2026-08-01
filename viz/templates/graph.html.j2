@@ -354,8 +354,8 @@ function buildTimeline(nodeId) {
     return;
   }
 
-  var REL_NAMES = {"child_of":"ребёнок / родитель","godparent_of":"восприемник","married_to":"супруги","witnessed_for":"свидетель","other":"прочее"};
-  var REL_TAGS = {"child_of":"#e74c3c","godparent_of":"#f39c12","married_to":"#e91e63","witnessed_for":"#95a5a6","other":"#7f8c8d"};
+  var REL_NAMES = {"child_of":"ребёнок / родитель","godparent_of":"восприемник","kum":"кум / кума","married_to":"супруги","witnessed_for":"свидетель","other":"прочее"};
+  var REL_TAGS = {"child_of":"#e74c3c","godparent_of":"#f39c12","kum":"#16a085","married_to":"#e91e63","witnessed_for":"#95a5a6","other":"#7f8c8d"};
 
   years.forEach(function(year, yi) {
     var band = document.createElement('div');
@@ -695,7 +695,7 @@ function makeNetwork(comp) {
   });
 
   // edges — merge multi-edges into one thick edge per pair
-  var REL_PRIORITY = ['child_of', 'married_to', 'godparent_of', 'witnessed_for', 'other'];
+  var REL_PRIORITY = ['child_of', 'married_to', 'godparent_of', 'kum', 'witnessed_for', 'other'];
   var pairMap = {};
   comp.edges.forEach(function(e) {
     var k = e.source_id + '|' + e.target_id;
@@ -864,7 +864,7 @@ function doFilter() {
   });
   allNodesDs.update(update);
 
-  var REL_FILTER = { birth: ['child_of','godparent_of'], wedding: ['married_to','witnessed_for'] };
+  var REL_FILTER = { birth: ['child_of','godparent_of','kum'], wedding: ['married_to','witnessed_for'] };
   var hiddenSet = new Set();
   update.forEach(function(u){ if(u.hidden) hiddenSet.add(u.id); });
   var edgeUpdates = allEdgesDs.get().map(function(e) {

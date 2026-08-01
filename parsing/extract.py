@@ -30,6 +30,8 @@ def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list
         for g in gp:
             for b in born:
                 edges.append({"source_id": g, "target_id": b, "relation": "godparent_of"})
+            for p in parents:
+                edges.append({"source_id": g, "target_id": p, "relation": "kum"})
         others = people_by_status.get("OTHER", [])
         for o in others:
             for b in born:

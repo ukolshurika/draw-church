@@ -96,7 +96,7 @@ python3 parse.py
 --dry-run            только вывод статистики, без записи
 ```
 
-Результат: `all-nodes.json` (дедуплицированные персоны), `all-edges.json` (рёбра: `child_of`, `godparent_of`, `married_to`, `witnessed_for`).
+Результат: `all-nodes.json` (дедуплицированные персоны), `all-edges.json` (рёбра: `child_of`, `godparent_of`, `kum`, `married_to`, `witnessed_for`).
 
 ### 4. Geo Normalization — унификация названий
 

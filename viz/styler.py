@@ -3,6 +3,7 @@ from collections import Counter
 RELATION_COLORS = {
     "child_of":       "#e74c3c",
     "godparent_of":   "#f39c12",
+    "kum":            "#16a085",
     "married_to":     "#e91e63",
     "witnessed_for":  "#95a5a6",
     "other":          "#7f8c8d",
