@@ -40,6 +40,22 @@ Constraints:
 
 В целом можно вести свободный диалог о данных, взятых из метрик.
 
+## Пример: экспорт рождений в CSV / Excel
+
+Запрос в `opencode`:
+
+```
+Создай CSV рождений для прихода (Московский Алексеевский, 1913–1916).
+Используй /create-csv с префиксом moscow_alexeev_1913_1916 и ссылками:
+
+https://yandex.ru/archive/catalog/0fd4127e-4fec-422f-985e-e105fa18ba88?sheet_page_from=2&sheet_page_to=343
+https://yandex.ru/archive/catalog/91f9cf81-be8f-45f7-99ea-3a8a91a5e9dd?sheet_page_from=1&sheet_page_to=356
+https://yandex.ru/archive/catalog/2ee44133-2b70-4007-9e86-9e0a88fb80e2?sheet_page_from=1&sheet_page_to=215
+```
+
+Результат: `moscow_alexeev_1913_1916_births.csv` — 22 колонки: имена, сословия,
+поселения, помещик, крёстные, имена причта, ссылки на источник.
+
 Скиллы для кодинга не настроены, поэтому добавление функций может что-то сломать — будьте аккуратны.
 
 ## Как слить персон, которые не соединились автоматом:

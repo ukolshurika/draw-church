@@ -4,3 +4,4 @@ __pycache__/
 test-vis.html
 .merge-backups/
 raw_api*/
+*births.csv
