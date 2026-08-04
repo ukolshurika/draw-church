@@ -12,10 +12,9 @@ import re
 from pathlib import Path
 
 import pytest
-from playwright.sync_api import sync_playwright, expect
+from playwright.sync_api import expect, sync_playwright
 
 from viz.renderer import render
-from viz.styler import NONE_SETTLEMENT_KEY
 
 HERE = Path(__file__).parent
 FIXTURES = HERE / "fixtures"
@@ -23,11 +22,12 @@ FIXTURES = HERE / "fixtures"
 
 # ── helpers ──────────────────────────────────────────────────────────
 
+
 def _build_html():
     """Render graph.html from the small fixture data (no styling needed)."""
     from viz.loader import load_data
     from viz.splitter import split_components
-    from viz.styler import assign_settlement_colours, assign_degrees
+    from viz.styler import assign_degrees, assign_settlement_colours
 
     nodes, edges = load_data(FIXTURES / "small-nodes.json", FIXTURES / "small-edges.json")
     components = split_components(nodes, edges)
@@ -37,6 +37,7 @@ def _build_html():
 
 
 # ── fixtures ────────────────────────────────────────────────────────
+
 
 @pytest.fixture(scope="session")
 def graph_html():
@@ -76,6 +77,7 @@ def page(browser, graph_html_path):
 
 
 # ── structural checks (no browser) ──────────────────────────────────
+
 
 class TestHtmlStructure:
     """Tests on the raw HTML string (fast, no browser)."""
@@ -132,7 +134,9 @@ class TestHtmlStructure:
 
     def test_detail_uses_structured_data(self, graph_html):
         """Detail panel must NOT parse _tip — must use node fields directly."""
-        click_section = graph_html.split("network.on('click'")[1].split("network.on('deselectNode'")[0]
+        click_section = graph_html.split("network.on('click'")[1].split(
+            "network.on('deselectNode'"
+        )[0]
         assert "node._settlement" in click_section
         assert "node._year" in click_section
         assert "node._record_type" in click_section
@@ -144,6 +148,7 @@ class TestHtmlStructure:
 
 
 # ── browser behaviour tests ─────────────────────────────────────────
+
 
 class TestGraphBehaviour:
     """Live browser tests via Playwright."""
@@ -304,7 +309,9 @@ class TestGraphBehaviour:
         page.wait_for_timeout(300)
 
         visible = page.evaluate("""
-            allNodesDs.get().filter(function(n){ return !n.hidden; }).map(function(n){ return n._record_type; })
+            allNodesDs.get()
+                .filter(function(n){ return !n.hidden; })
+                .map(function(n){ return n._record_type; })
         """)
         for rec in visible:
             assert rec == "Родившийся", f"Expected only 'Родившийся', got {rec}"
@@ -317,9 +324,7 @@ class TestGraphBehaviour:
         # Fresh page to avoid state coupling with other tests
         page = browser.new_page(viewport={"width": 1280, "height": 720})
         page.goto(f"file://{graph_html_path}")
-        page.wait_for_function(
-            "typeof network !== 'undefined' && network !== null", timeout=30000
-        )
+        page.wait_for_function("typeof network !== 'undefined' && network !== null", timeout=30000)
         page.wait_for_function(
             "document.getElementById('loading').classList.contains('hidden')", timeout=30000
         )
@@ -332,7 +337,9 @@ class TestGraphBehaviour:
         page.wait_for_timeout(300)
 
         visible_first = page.evaluate("""
-            allNodesDs.get().filter(function(n){ return !n.hidden; }).map(function(n){ return n._first_name; })
+            allNodesDs.get()
+                .filter(function(n){ return !n.hidden; })
+                .map(function(n){ return n._first_name; })
         """)
         assert "Мария" in visible_first
         assert "Иван" not in visible_first

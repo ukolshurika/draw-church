@@ -1,26 +1,52 @@
 from collections import Counter
 
 RELATION_COLORS = {
-    "child_of":       "#e74c3c",
-    "godparent_of":   "#f39c12",
-    "kum":            "#16a085",
-    "married_to":     "#e91e63",
-    "witnessed_for":  "#95a5a6",
-    "other":          "#7f8c8d",
+    "child_of": "#e74c3c",
+    "godparent_of": "#f39c12",
+    "kum": "#16a085",
+    "married_to": "#e91e63",
+    "witnessed_for": "#95a5a6",
+    "other": "#7f8c8d",
 }
 
 RECORD_COLORS = {
-    "Родившийся":      "#3498db",
-    "Бракосочетание":  "#e91e63",
+    "Родившийся": "#3498db",
+    "Бракосочетание": "#e91e63",
 }
 
 SETTLEMENT_PALETTE = [
-    "#2ecc71", "#3498db", "#9b59b6", "#f1c40f", "#e67e22", "#1abc9c",
-    "#e74c3c", "#2980b9", "#8e44ad", "#27ae60", "#f39c12", "#d35400",
-    "#16a085", "#c0392b", "#7f8c8d", "#2c3e50", "#00bcd4", "#ff5722",
-    "#795548", "#607d8b", "#4caf50", "#ff9800", "#cddc39", "#03a9f4",
-    "#e91e63", "#673ab7", "#009688", "#ffc107", "#8bc34a", "#9e9e9e",
-    "#ff5252", "#536dfe",
+    "#2ecc71",
+    "#3498db",
+    "#9b59b6",
+    "#f1c40f",
+    "#e67e22",
+    "#1abc9c",
+    "#e74c3c",
+    "#2980b9",
+    "#8e44ad",
+    "#27ae60",
+    "#f39c12",
+    "#d35400",
+    "#16a085",
+    "#c0392b",
+    "#7f8c8d",
+    "#2c3e50",
+    "#00bcd4",
+    "#ff5722",
+    "#795548",
+    "#607d8b",
+    "#4caf50",
+    "#ff9800",
+    "#cddc39",
+    "#03a9f4",
+    "#e91e63",
+    "#673ab7",
+    "#009688",
+    "#ffc107",
+    "#8bc34a",
+    "#9e9e9e",
+    "#ff5252",
+    "#536dfe",
 ]
 
 NONE_SETTLEMENT_KEY = "__none__"
@@ -45,7 +71,7 @@ def assign_settlement_colours(components: list[dict]) -> dict[str, str]:
 def assign_degrees(components: list[dict], colour_map: dict[str, str]) -> None:
     """Attach _deg and _settc to each node (mutates in-place)."""
     for c in components:
-        degree_counter = Counter()
+        degree_counter: Counter[int] = Counter()
         for e in c["edges"]:
             degree_counter[e["source_id"]] += 1
             degree_counter[e["target_id"]] += 1

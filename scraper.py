@@ -7,8 +7,8 @@ from dataclasses import dataclass, fields
 from pathlib import Path
 from typing import Any
 
-from playwright.sync_api import Page, Browser, sync_playwright
-
+from playwright.sync_api import Browser, Page, sync_playwright
+from playwright.sync_api import Error as PlaywrightError
 
 BASE_DIR = Path(__file__).parent.resolve()
 LINKS_FILE = BASE_DIR / "links.md"
@@ -38,6 +38,7 @@ def _jitter(lo: float, hi: float) -> float:
 
 
 # ── Models ──
+
 
 @dataclass
 class Link:
@@ -87,6 +88,7 @@ class PageData:
 
 
 # ── Services: Link Parsing ──
+
 
 class LinkParser:
     @staticmethod
@@ -140,6 +142,7 @@ class LinkParser:
 
 # ── Services: Yandex API ──
 
+
 class YandexApiClient:
     def fetch_structured_markup(self, page: Page, node_id: int) -> dict[str, Any] | None:
         url = f"https://yandex.ru/archive/api/structuredMarkup?id={node_id}"
@@ -153,8 +156,8 @@ class YandexApiClient:
                         }});
                 }}""")
                 return result
-            except Exception as e:
-                print(f"api fail (attempt {attempt+1}): {e}", end="")
+            except (PlaywrightError, KeyError, TypeError) as e:
+                print(f"api fail (attempt {attempt + 1}): {e}", end="")
                 if attempt < RETRY_ATTEMPTS - 1:
                     delay = _jitter(0.5, 1.0) * (RETRY_BACKOFF**attempt)
                     print(f" retry in {delay:.1f}s")
@@ -165,6 +168,7 @@ class YandexApiClient:
 
 
 # ── Services: Page Data Extraction ──
+
 
 class MetadataExtractor:
     @staticmethod
@@ -198,7 +202,7 @@ class MetadataExtractor:
                 const s = JSON.parse(el.textContent);
                 return s.props.pageProps.breadcrumbs || [];
             }""")
-        except Exception as e:
+        except PlaywrightError as e:
             print(f"    meta extract failed: {e}")
             return None
 
@@ -231,7 +235,7 @@ class PageDataExtractor:
                     totalPages: pp.totalPages || null,
                 };
             }""")
-        except Exception as e:
+        except PlaywrightError as e:
             print(f"    page data extract failed: {e}")
             return None
 
@@ -248,6 +252,7 @@ class PageDataExtractor:
 
 
 # ── Services: File I/O ──
+
 
 class FileStorage:
     def __init__(self, base_dir: Path = RAW_API_DIR) -> None:
@@ -272,7 +277,7 @@ class FileStorage:
     def write_meta(self, uuid: str, meta: ArchiveMeta) -> None:
         self._link_dir(uuid).mkdir(parents=True, exist_ok=True)
         self._meta_path(uuid).write_text(
-            json.dumps(meta.to_dict(), ensure_ascii=False, indent=2),
+            json.dumps(meta.to_dict(), ensure_ascii=False, indent=2, sort_keys=True),
             encoding="utf-8",
         )
 
@@ -288,19 +293,25 @@ class FileStorage:
     def write_page(self, uuid: str, page_num: int, data: PageData) -> None:
         self._link_dir(uuid).mkdir(parents=True, exist_ok=True)
         self._page_path(uuid, page_num).write_text(
-            json.dumps({
-                "year": data.year,
-                "page": data.page,
-                "node_id": data.node_id,
-                "has_markup": data.has_markup,
-                "entries": data.entries,
-                "total_pages": data.total_pages,
-            }, ensure_ascii=False, indent=2),
+            json.dumps(
+                {
+                    "year": data.year,
+                    "page": data.page,
+                    "node_id": data.node_id,
+                    "has_markup": data.has_markup,
+                    "entries": data.entries,
+                    "total_pages": data.total_pages,
+                },
+                ensure_ascii=False,
+                indent=2,
+                sort_keys=True,
+            ),
             encoding="utf-8",
         )
 
 
 # ── Services: Browser Session ──
+
 
 class BrowserSession:
     def __init__(self, browser: Browser) -> None:
@@ -331,12 +342,13 @@ class BrowserSession:
         try:
             self.page.goto(url, wait_until="load", timeout=NAV_TIMEOUT)
             return True
-        except Exception as e:
+        except PlaywrightError as e:
             print(f"    nav failed: {e}")
             return False
 
 
 # ── Orchestration: Per-Link Downloader ──
+
 
 class LinkDownloader:
     def __init__(
@@ -353,7 +365,9 @@ class LinkDownloader:
         uuid = link.uuid
 
         if link.to_page is not None:
-            print(f"\n  {uuid[:8]}.. pages {link.from_page}-{link.to_page} ({link.total_pages} pgs)")
+            print(
+                f"\n  {uuid[:8]}.. pages {link.from_page}-{link.to_page} ({link.total_pages} pgs)"
+            )
         else:
             print(f"\n  {uuid[:8]}.. pages {link.from_page}-? (auto-discover)")
 
@@ -363,7 +377,7 @@ class LinkDownloader:
             if meta is None:
                 meta, total_pages = self._try_extract_first_meta(session, uuid, link.from_page)
                 if meta is None and total_pages is None:
-                    print(f"    could not load first page, skipping")
+                    print("    could not load first page, skipping")
                     return
             else:
                 total_pages = meta.total_pages if meta else None
@@ -375,7 +389,7 @@ class LinkDownloader:
             else:
                 total_pages = self._discover_total_pages(session, uuid, link.from_page)
                 if total_pages is None:
-                    print(f"    could not discover total pages, skipping")
+                    print("    could not discover total pages, skipping")
                     return
                 end_page = total_pages
                 if meta:
@@ -392,7 +406,9 @@ class LinkDownloader:
             return meta
         return None
 
-    def _try_extract_first_meta(self, session: BrowserSession, uuid: str, first_page: int) -> tuple[ArchiveMeta | None, int | None]:
+    def _try_extract_first_meta(
+        self, session: BrowserSession, uuid: str, first_page: int
+    ) -> tuple[ArchiveMeta | None, int | None]:
         url = f"https://yandex.ru/archive/catalog/{uuid}/{first_page}"
         if not session.navigate(url):
             return None, None
@@ -417,7 +433,9 @@ class LinkDownloader:
                     print(f"    _meta.json: {meta}")
             return meta, None
 
-    def _discover_total_pages(self, session: BrowserSession, uuid: str, page_num: int) -> int | None:
+    def _discover_total_pages(
+        self, session: BrowserSession, uuid: str, page_num: int
+    ) -> int | None:
         if self._storage.is_page_cached(uuid, page_num):
             cached = self._storage.read_page(uuid, page_num)
             if cached and cached.get("total_pages"):
@@ -494,6 +512,7 @@ class LinkDownloader:
 
 # ── Orchestration: Main ──
 
+
 class DownloadOrchestrator:
     def run(self, output_dir: Path | None = None) -> None:
         print("=" * 60)
@@ -506,11 +525,11 @@ class DownloadOrchestrator:
             return
 
         print(f"\n{len(links)} links:")
-        for l in links:
-            if l.to_page is not None:
-                print(f"  {l.uuid}: {l.from_page}-{l.to_page} ({l.total_pages}p)")
+        for link in links:
+            if link.to_page is not None:
+                print(f"  {link.uuid}: {link.from_page}-{link.to_page} ({link.total_pages}p)")
             else:
-                print(f"  {l.uuid}: {l.from_page}-? (auto-discover)")
+                print(f"  {link.uuid}: {link.from_page}-? (auto-discover)")
 
         api_client = YandexApiClient()
         storage = FileStorage(output_dir or RAW_API_DIR)
@@ -529,9 +548,14 @@ class DownloadOrchestrator:
 
 def main():
     import argparse
+
     parser = argparse.ArgumentParser(description="Download raw API data from Yandex Archive")
-    parser.add_argument("--output-dir", type=Path, default=None,
-                        help="Output directory for raw API data (default: raw_api/)")
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=None,
+        help="Output directory for raw API data (default: raw_api/)",
+    )
     args = parser.parse_args()
     DownloadOrchestrator().run(output_dir=args.output_dir)
 

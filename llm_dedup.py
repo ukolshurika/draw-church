@@ -45,9 +45,10 @@ import os
 import re
 import sys
 import time
+import urllib.error
+import urllib.request
 from collections import defaultdict
 from pathlib import Path
-from typing import Any
 
 BASE_DIR = Path(__file__).parent
 NODES_PATH = BASE_DIR / "all-nodes.json"
@@ -189,7 +190,8 @@ def _edit_distance(a: str, b: str) -> int:
     return prev[-1]
 
 
-def load_data(nodes_path: Path = NODES_PATH, edges_path: Path = EDGES_PATH
+def load_data(
+    nodes_path: Path = NODES_PATH, edges_path: Path = EDGES_PATH
 ) -> tuple[list[dict], list[dict]]:
     nodes = json.loads(nodes_path.read_text(encoding="utf-8"))
     edges = json.loads(edges_path.read_text(encoding="utf-8"))
@@ -197,6 +199,7 @@ def load_data(nodes_path: Path = NODES_PATH, edges_path: Path = EDGES_PATH
 
 
 # ── Adjacency index ────────────────────────────────────────────────
+
 
 def build_adjacency(edges: list[dict]) -> dict[int, dict[str, list[int]]]:
     adj: dict[int, dict[str, list[int]]] = defaultdict(
@@ -232,16 +235,30 @@ def build_adjacency(edges: list[dict]) -> dict[int, dict[str, list[int]]]:
 
 # ── Candidate generation ───────────────────────────────────────────
 
+
 def _is_social_status(landowner: str) -> bool:
     """Return True if the landowner value is actually a social status, not a landowner."""
     if not landowner:
         return False
     status_words = {
-        "крестьянин", "крестьянка", "крестьянский", "крестьянская",
-        "крестьянские", "дворовый", "дворовая", "дворовые",
-        "солдат", "солдатка", "мещанин", "мещанка",
-        "девица", "отставной", "рядовой", "унтер",
-        "экономический", "экономическая",
+        "крестьянин",
+        "крестьянка",
+        "крестьянский",
+        "крестьянская",
+        "крестьянские",
+        "дворовый",
+        "дворовая",
+        "дворовые",
+        "солдат",
+        "солдатка",
+        "мещанин",
+        "мещанка",
+        "девица",
+        "отставной",
+        "рядовой",
+        "унтер",
+        "экономический",
+        "экономическая",
     }
     lower = landowner.lower().strip()
     for sw in status_words:
@@ -280,7 +297,7 @@ def generate_candidates(
     candidates = []
     seen_pairs = set()
 
-    for key, group in multi.items():
+    for _, group in multi.items():
         for i in range(len(group)):
             for j in range(i + 1, len(group)):
                 a, b = group[i], group[j]
@@ -309,7 +326,9 @@ def generate_candidates(
                 ctx_b = adj.get(id_b, {})
 
                 shared_spouses = list(set(ctx_a.get("spouses", [])) & set(ctx_b.get("spouses", [])))
-                shared_children = list(set(ctx_a.get("children", [])) & set(ctx_b.get("children", [])))
+                shared_children = list(
+                    set(ctx_a.get("children", [])) & set(ctx_b.get("children", []))
+                )
                 shared_godchildren = list(
                     set(ctx_a.get("godchildren", [])) & set(ctx_b.get("godchildren", []))
                 )
@@ -351,8 +370,14 @@ def generate_candidates(
                     {
                         "id_a": id_a,
                         "id_b": id_b,
-                        "label_a": f"{a.get('first_name','')} {a.get('patronymic','')} {sna}".strip(),
-                        "label_b": f"{b.get('first_name','')} {b.get('patronymic','')} {snb}".strip(),
+                        "label_a": (
+                            f"{a.get('first_name', '')}"
+                            f" {a.get('patronymic', '')} {sna}"
+                        ).strip(),
+                        "label_b": (
+                            f"{b.get('first_name', '')}"
+                            f" {b.get('patronymic', '')} {snb}"
+                        ).strip(),
                         "sett_a": sa,
                         "sett_b": sb,
                         "land_a": la or (a.get("landowner") or ""),
@@ -403,7 +428,7 @@ def generate_fuzzy_candidates(
     candidates = []
     seen_pairs = set()
 
-    for fn, group in fn_buckets.items():
+    for _, group in fn_buckets.items():
         # Skip groups with only 1 entry
         if len(group) < 2:
             continue
@@ -449,7 +474,9 @@ def generate_fuzzy_candidates(
                 ctx_a = adj.get(id_a, {})
                 ctx_b = adj.get(id_b, {})
                 shared_spouses = list(set(ctx_a.get("spouses", [])) & set(ctx_b.get("spouses", [])))
-                shared_children = list(set(ctx_a.get("children", [])) & set(ctx_b.get("children", [])))
+                shared_children = list(
+                    set(ctx_a.get("children", [])) & set(ctx_b.get("children", []))
+                )
                 shared_godchildren = list(
                     set(ctx_a.get("godchildren", [])) & set(ctx_b.get("godchildren", []))
                 )
@@ -491,8 +518,8 @@ def generate_fuzzy_candidates(
                     {
                         "id_a": id_a,
                         "id_b": id_b,
-                        "label_a": f"{a.get('first_name','')} {pt_a} {sna}".strip(),
-                        "label_b": f"{b.get('first_name','')} {pt_b} {snb}".strip(),
+                        "label_a": f"{a.get('first_name', '')} {pt_a} {sna}".strip(),
+                        "label_b": f"{b.get('first_name', '')} {pt_b} {snb}".strip(),
                         "sett_a": sa,
                         "sett_b": sb,
                         "land_a": la or (a.get("landowner") or ""),
@@ -515,7 +542,9 @@ def generate_fuzzy_candidates(
                         "shared_parents": shared_parents,
                         "total_score": total_score,
                         "_patronymic_equiv": _names_equivalent(pt_a, pt_b),
-                        "_patronymic_dist": _edit_distance(pt_a, pt_b) if not _names_equivalent(pt_a, pt_b) else 0,
+                        "_patronymic_dist": _edit_distance(pt_a, pt_b)
+                        if not _names_equivalent(pt_a, pt_b)
+                        else 0,
                     }
                 )
 
@@ -525,13 +554,14 @@ def generate_fuzzy_candidates(
 
 # ── Context enrichment ─────────────────────────────────────────────
 
+
 def _resolve_node_label(nodes_by_id: dict[int, dict], nid: int) -> str:
     n = nodes_by_id.get(nid)
     if not n:
         return f"id={nid}"
     return (
-        f"{n.get('first_name','?')} {n.get('patronymic','?')} "
-        f"{n.get('surname','') or ''} ({n.get('settlement','?')})".strip()
+        f"{n.get('first_name', '?')} {n.get('patronymic', '?')} "
+        f"{n.get('surname', '') or ''} ({n.get('settlement', '?')})".strip()
     )
 
 
@@ -564,7 +594,9 @@ def build_candidate_context(
         lines.append(f"- Parents: {', '.join(p_labels)}")
     if ctx_a.get("godchildren"):
         g_labels = [_resolve_node_label(nodes_by_id, s) for s in ctx_a["godchildren"]]
-        lines.append(f"- Godchildren: {', '.join(g_labels[:5])}{'...' if len(g_labels) > 5 else ''}")
+        lines.append(
+            f"- Godchildren: {', '.join(g_labels[:5])}{'...' if len(g_labels) > 5 else ''}"
+        )
 
     lines.append("")
     lines.append(f"## Person B: id={candidate['id_b']} — {candidate['label_b']}")
@@ -588,7 +620,9 @@ def build_candidate_context(
         lines.append(f"- Parents: {', '.join(p_labels)}")
     if ctx_b.get("godchildren"):
         g_labels = [_resolve_node_label(nodes_by_id, s) for s in ctx_b["godchildren"]]
-        lines.append(f"- Godchildren: {', '.join(g_labels[:5])}{'...' if len(g_labels) > 5 else ''}")
+        lines.append(
+            f"- Godchildren: {', '.join(g_labels[:5])}{'...' if len(g_labels) > 5 else ''}"
+        )
 
     # Conflict analysis
     lines.append("")
@@ -601,13 +635,9 @@ def build_candidate_context(
     la_norm = _normalize_landowner(candidate["land_a"])
     lb_norm = _normalize_landowner(candidate["land_b"])
     if la_norm and lb_norm and la_norm != lb_norm:
-        conflicts.append(
-            f"- Landowner conflict: '{la_norm}' vs '{lb_norm}'"
-        )
+        conflicts.append(f"- Landowner conflict: '{la_norm}' vs '{lb_norm}'")
     if candidate["surn_a"] and candidate["surn_b"] and candidate["surn_a"] != candidate["surn_b"]:
-        conflicts.append(
-            f"- Surname conflict: '{candidate['surn_a']}' vs '{candidate['surn_b']}'"
-        )
+        conflicts.append(f"- Surname conflict: '{candidate['surn_a']}' vs '{candidate['surn_b']}'")
     if not conflicts:
         conflicts.append("- (No direct conflict detected; kept separate during initial parsing)")
 
@@ -618,24 +648,16 @@ def build_candidate_context(
     lines.append("")
     lines.append("## Shared Connections")
     if candidate["shared_spouses"]:
-        sp_labels = [
-            _resolve_node_label(nodes_by_id, s) for s in candidate["shared_spouses"]
-        ]
+        sp_labels = [_resolve_node_label(nodes_by_id, s) for s in candidate["shared_spouses"]]
         lines.append(f"- **Shared spouse(s):** {', '.join(sp_labels)} ← STRONGEST signal")
     if candidate["shared_children"]:
-        ch_labels = [
-            _resolve_node_label(nodes_by_id, s) for s in candidate["shared_children"]
-        ]
+        ch_labels = [_resolve_node_label(nodes_by_id, s) for s in candidate["shared_children"]]
         lines.append(f"- Shared children: {', '.join(ch_labels)}")
     if candidate["shared_godchildren"]:
-        g_labels = [
-            _resolve_node_label(nodes_by_id, s) for s in candidate["shared_godchildren"]
-        ]
+        g_labels = [_resolve_node_label(nodes_by_id, s) for s in candidate["shared_godchildren"]]
         lines.append(f"- Shared godchildren: {', '.join(g_labels)}")
     if candidate["shared_parents"]:
-        p_labels = [
-            _resolve_node_label(nodes_by_id, s) for s in candidate["shared_parents"]
-        ]
+        p_labels = [_resolve_node_label(nodes_by_id, s) for s in candidate["shared_parents"]]
         lines.append(f"- Shared parents: {', '.join(p_labels)}")
     if not any(
         [
@@ -647,29 +669,33 @@ def build_candidate_context(
     ):
         lines.append("- No shared connections found.")
         if candidate["shares_settlement"]:
-            lines.append("- BUT they share the same settlement — possible same person with missing data.")
+            lines.append(
+                "- BUT they share the same settlement — possible same person with missing data."
+            )
 
     return "\n".join(lines)
 
 
 # ── LLM interaction ────────────────────────────────────────────────
 
+
 def _call_llm(prompt: str) -> str:
     """Call the LLM API. Returns the response text."""
-    import urllib.request
-    import urllib.error
-
     if not API_KEY:
-        raise RuntimeError(
-            "LLM_DEDUP_API_KEY not set. Set it via environment variable."
-        )
+        raise RuntimeError("LLM_DEDUP_API_KEY not set. Set it via environment variable.")
 
     url = f"{API_BASE.rstrip('/')}/chat/completions"
     body = json.dumps(
         {
             "model": MODEL,
             "messages": [
-                {"role": "system", "content": "You are a historian specializing in 19th-century Russian genealogy. Answer concisely and precisely."},
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a historian specializing in 19th-century"
+                        " Russian genealogy. Answer concisely and precisely."
+                    ),
+                },
                 {"role": "user", "content": prompt},
             ],
             "temperature": 0.1,
@@ -693,10 +719,10 @@ def _call_llm(prompt: str) -> str:
                 return result["choices"][0]["message"]["content"]
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < 2:
-                time.sleep(2 ** attempt * 5)
+                time.sleep(2**attempt * 5)
                 continue
             raise
-        except Exception:
+        except (urllib.error.URLError, OSError, json.JSONDecodeError, KeyError):
             if attempt < 2:
                 time.sleep(2)
                 continue
@@ -778,6 +804,7 @@ def classify_candidates(
     """
     nodes_by_id = {n["id"]: n for n in nodes}
     results = []
+    api_errors: list[dict] = []
 
     for batch_start in range(0, len(candidates), batch_size):
         batch = candidates[batch_start : batch_start + batch_size]
@@ -792,8 +819,15 @@ def classify_candidates(
 
         try:
             response = _call_llm(prompt)
-        except Exception as e:
+        except (urllib.error.URLError, OSError, json.JSONDecodeError, RuntimeError) as e:
             print(f"  ERROR: {e}", file=sys.stderr)
+            api_errors.append(
+                {
+                    "batch_start": batch_start,
+                    "batch_size": len(batch),
+                    "error": str(e),
+                }
+            )
             continue
 
         parsed = _parse_llm_response(response, len(batch))
@@ -824,10 +858,21 @@ def classify_candidates(
 
         time.sleep(1)  # Rate limiting
 
+    if api_errors:
+        print(
+            f"  {len(api_errors)} batch(es) failed due to API errors",
+            file=sys.stderr,
+        )
+        for ae in api_errors:
+            print(
+                f"    batch starting at index {ae['batch_start']}: {ae['error']}", file=sys.stderr
+            )
+
     return results
 
 
 # ── Output / Apply ─────────────────────────────────────────────────
+
 
 def build_merge_groups(classified: list[dict]) -> list[dict]:
     """Group transitive SAME pairs into merge clusters."""
@@ -861,7 +906,7 @@ def build_merge_groups(classified: list[dict]) -> list[dict]:
         groups[find(nid)].append(nid)
 
     merge_suggestions = []
-    for root, members in groups.items():
+    for _, members in groups.items():
         if len(members) < 2:
             continue
         # Target = lowest ID, sources = rest
@@ -897,7 +942,7 @@ def apply_merges(
 ):
     """Apply merge suggestions by directly merging in-memory data and writing back."""
     sys.path.insert(0, str(BASE_DIR))
-    from merge_persons import merge_persons, backup, dump_json, load_json, record_merge
+    from merge_persons import backup, dump_json, load_json, merge_persons, record_merge
 
     manifest_path = BASE_DIR / "manual-merges.json"
 
@@ -920,16 +965,17 @@ def apply_merges(
     if not dry_run:
         dump_json(nodes, nodes_path)
         dump_json(edges, edges_path)
-        print(f"\n  Saved: {nodes_path.name} ({len(nodes)} nodes), "
-              f"{edges_path.name} ({len(edges)} edges)")
+        print(
+            f"\n  Saved: {nodes_path.name} ({len(nodes)} nodes), "
+            f"{edges_path.name} ({len(edges)} edges)"
+        )
 
 
 # ── Commands ───────────────────────────────────────────────────────
 
+
 def cmd_stats():
-    # Parse optional --nodes/--edges flags
-    import sys as _sys
-    nodes_path, edges_path = _parse_io_paths(_sys.argv[2:])
+    nodes_path, edges_path = _parse_io_paths(sys.argv[2:])
     nodes, edges = load_data(nodes_path, edges_path)
     adj = build_adjacency(edges)
 
@@ -957,13 +1003,13 @@ def cmd_stats():
     print(f"Total buckets:      {len(buckets)}")
     print(f"Multi-entry buckets: {len(multi)}")
     print(f"Persons in multi:   {total_multi} ({100 * total_multi / len(nodes):.1f}%)")
-    print(f"---")
+    print("---")
     print(f"Same-bucket candidates:    {len(candidates)}")
     print(f"  High-score (≥3):          {len(high_score)}")
     print(f"  With shared spouse(s):    {len(with_spouse)}")
     print(f"  With shared child(ren):   {len(with_children)}")
     print(f"  With shared godchild(ren): {len(with_godchildren)}")
-    print(f"---")
+    print("---")
     print(f"Fuzzy-name candidates:     {len(fuzzy)}")
     print(f"  High-score (≥3):          {len(fuzzy_high)}")
     print(f"  With shared spouse(s):    {len(fuzzy_spouse)}")
@@ -976,9 +1022,11 @@ def _parse_io_paths(args: list[str]) -> tuple[Path, Path]:
     i = 0
     while i < len(args):
         if args[i] == "--nodes" and i + 1 < len(args):
-            nodes_path = Path(args[i + 1]); i += 2
+            nodes_path = Path(args[i + 1])
+            i += 2
         elif args[i] == "--edges" and i + 1 < len(args):
-            edges_path = Path(args[i + 1]); i += 2
+            edges_path = Path(args[i + 1])
+            i += 2
         else:
             i += 1
     return nodes_path, edges_path
@@ -1016,13 +1064,16 @@ def cmd_candidates(args: list[str]):
     i = 0
     while i < len(args):
         if args[i] == "--limit" and i + 1 < len(args):
-            limit = int(args[i + 1]); i += 2
+            limit = int(args[i + 1])
+            i += 2
         elif args[i] == "--min-score" and i + 1 < len(args):
-            min_score = int(args[i + 1]); i += 2
+            min_score = int(args[i + 1])
+            i += 2
         elif args[i] == "--strategy":
             i += 2
         elif args[i] == "--json":
-            output_json = True; i += 1
+            output_json = True
+            i += 1
         else:
             i += 1
 
@@ -1054,8 +1105,10 @@ def cmd_candidates(args: list[str]):
                 extra = " [PATRONYMIC EQUIVALENT]"
             elif c.get("_patronymic_dist"):
                 extra = f" [patr.dist={c['_patronymic_dist']}]"
-            print(f"[{i+1}] score={c['total_score']} edge={c['edge_score']} | "
-                  f"{c['label_a']} (id={c['id_a']}) vs {c['label_b']} (id={c['id_b']}){extra}")
+            print(
+                f"[{i + 1}] score={c['total_score']} edge={c['edge_score']} | "
+                f"{c['label_a']} (id={c['id_a']}) vs {c['label_b']} (id={c['id_b']}){extra}"
+            )
             if c["shared_spouses"]:
                 print(f"    SHARED SPOUSE: {c['shared_spouses']}")
             if c["shared_children"]:
@@ -1082,13 +1135,17 @@ def cmd_classify(args: list[str]):
     i = 0
     while i < len(args):
         if args[i] == "--limit" and i + 1 < len(args):
-            limit = int(args[i + 1]); i += 2
+            limit = int(args[i + 1])
+            i += 2
         elif args[i] == "--min-score" and i + 1 < len(args):
-            min_score = int(args[i + 1]); i += 2
+            min_score = int(args[i + 1])
+            i += 2
         elif args[i] == "--batch-size" and i + 1 < len(args):
-            batch_size = int(args[i + 1]); i += 2
+            batch_size = int(args[i + 1])
+            i += 2
         elif args[i] == "--output" and i + 1 < len(args):
-            output_file = args[i + 1]; i += 2
+            output_file = args[i + 1]
+            i += 2
         elif args[i] == "--strategy":
             i += 2
         else:
@@ -1117,15 +1174,19 @@ def cmd_classify(args: list[str]):
             unique.append(c)
     candidates = unique[:limit]
 
-    print(f"Generated {len(candidates)} candidates (min_score={min_score}, limit={limit})",
-          file=sys.stderr)
+    print(
+        f"Generated {len(candidates)} candidates (min_score={min_score}, limit={limit})",
+        file=sys.stderr,
+    )
     print(f"Using model: {MODEL} at {API_BASE}", file=sys.stderr)
 
     results = classify_candidates(candidates, nodes, adj, batch_size=batch_size)
 
     same = [r for r in results if r["decision"] == "SAME"]
-    print(f"\nResults: {len(same)} SAME, {len(results) - len(same)} DIFFERENT out of {len(results)}",
-          file=sys.stderr)
+    print(
+        f"\nResults: {len(same)} SAME, {len(results) - len(same)} DIFFERENT out of {len(results)}",
+        file=sys.stderr,
+    )
 
     merge_groups = build_merge_groups(results)
     print(f"Merge groups: {len(merge_groups)}", file=sys.stderr)
@@ -1161,13 +1222,17 @@ def cmd_apply(args: list[str]):
     i = 0
     while i < len(args):
         if args[i] == "--limit" and i + 1 < len(args):
-            limit = int(args[i + 1]); i += 2
+            limit = int(args[i + 1])
+            i += 2
         elif args[i] == "--min-score" and i + 1 < len(args):
-            min_score = int(args[i + 1]); i += 2
+            min_score = int(args[i + 1])
+            i += 2
         elif args[i] == "--batch-size" and i + 1 < len(args):
-            batch_size = int(args[i + 1]); i += 2
+            batch_size = int(args[i + 1])
+            i += 2
         elif args[i] == "--dry-run":
-            dry_run = True; i += 1
+            dry_run = True
+            i += 1
         elif args[i] == "--strategy":
             i += 2
         else:
@@ -1212,6 +1277,7 @@ def cmd_apply(args: list[str]):
 
 
 # ── Main ───────────────────────────────────────────────────────────
+
 
 def main():
     if len(sys.argv) < 2:

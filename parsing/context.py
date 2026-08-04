@@ -5,7 +5,7 @@ from .models import _UYEZD_RE
 
 def _scan_settlements(settlements: list[str | None]) -> dict:
     """Scan a list of settlements and return last-known values."""
-    ctx = {
+    ctx: dict[str, str | None] = {
         "uyezd": None,
         "selo": None,
         "selsco": None,
@@ -29,12 +29,13 @@ def _scan_settlements(settlements: list[str | None]) -> dict:
 
 
 def _resolve_context_ref(s_lower: str, entry_ctx: dict, global_ctx: dict) -> str | None:
-    """Try to resolve a 'то же / тоот же / та же / той же' reference using entry then global context."""
+    """Try to resolve a 'то же / тоот же / та же / той же' reference
+    using entry then global context."""
     # Detect prefix: "тот же", "того же", "той же", "то же", "та же"
     ref_type = None
     for prefix in ("тот же", "того же", "той же", "то же", "та же"):
         if s_lower.startswith(prefix):
-            ref_type = s_lower[len(prefix):].strip()
+            ref_type = s_lower[len(prefix) :].strip()
             if ref_type.startswith(","):
                 ref_type = ref_type[1:].strip()
             break
@@ -118,14 +119,20 @@ def _resolve_context_ref(s_lower: str, entry_ctx: dict, global_ctx: dict) -> str
 def resolve_context_settlement(
     settlement: str | None,
     entry_settlements: list[str | None],
-    global_ctx: dict | None = None,
+    global_ctx: dict[str, str | None] | None = None,
 ) -> str | None:
     if settlement is None:
         return None
 
     entry_ctx = _scan_settlements(entry_settlements)
     if global_ctx is None:
-        global_ctx = {"uyezd": None, "selo": None, "selsco": None, "derevnya": None, "settlement": None}
+        global_ctx = {
+            "uyezd": None,
+            "selo": None,
+            "selsco": None,
+            "derevnya": None,
+            "settlement": None,
+        }
 
     s_lower = settlement.lower().strip()
     resolved = _resolve_context_ref(s_lower, entry_ctx, global_ctx)

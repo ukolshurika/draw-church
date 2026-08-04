@@ -2,7 +2,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
-from .styler import RELATION_COLORS, RECORD_COLORS, NONE_SETTLEMENT_KEY
+from .styler import NONE_SETTLEMENT_KEY, RECORD_COLORS, RELATION_COLORS
 
 TEMPLATE_DIR = Path(__file__).parent / "templates"
 env = Environment(loader=FileSystemLoader(str(TEMPLATE_DIR)))

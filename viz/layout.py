@@ -14,13 +14,25 @@ Two-level layout that uses only distances to separate clusters:
 
 from __future__ import annotations
 
-import numpy as np
 import networkx as nx
+import numpy as np
 
 # Suffixes ordered longest-first so a single pass keeps the most of the stem.
 _PATRONYMIC_SUFFIXES = (
-    "инична", "овична", "инич", "ович", "овна", "евна", "ична",
-    "ова", "ева", "ина", "ич", "ов", "ев", "ин",
+    "инична",
+    "овична",
+    "инич",
+    "ович",
+    "овна",
+    "евна",
+    "ична",
+    "ова",
+    "ева",
+    "ина",
+    "ич",
+    "ов",
+    "ев",
+    "ин",
 )
 
 
@@ -64,8 +76,7 @@ def _group_centers(groups: dict[str | None, list], edges: list[dict]) -> dict:
     # SEPARATION: multiply the required gap so clusters sit visibly far apart
     separation = 3.0
     radii = {
-        base if base is not None else "__none__":
-            max(16.0, 3.5 * (len(ids) ** 0.45))
+        base if base is not None else "__none__": max(16.0, 3.5 * (len(ids) ** 0.45))
         for base, ids in groups.items()
     }
     keys = list(centers.keys())
@@ -88,8 +99,9 @@ def _group_centers(groups: dict[str | None, list], edges: list[dict]) -> dict:
     return {base: centers[base if base is not None else "__none__"] for base in groups}
 
 
-def _place_members(ids: list, center: np.ndarray, node_map: dict,
-                   intra_edges: list[tuple], radius: float) -> None:
+def _place_members(
+    ids: list, center: np.ndarray, node_map: dict, intra_edges: list[tuple], radius: float
+) -> None:
     """Relax members of one group around the center (deterministic)."""
     m = len(ids)
     if m == 1:
@@ -103,9 +115,9 @@ def _place_members(ids: list, center: np.ndarray, node_map: dict,
     temp = radius
     dt = 0.05
 
-    for it in range(90):
+    for _ in range(90):
         delta = pos[:, None, :] - pos[None, :, :]
-        dist = np.sqrt(np.sum(delta ** 2, axis=2)) + 1e-6
+        dist = np.sqrt(np.sum(delta**2, axis=2)) + 1e-6
         force = np.zeros_like(pos)
 
         # intra-group repulsion (cutoff for speed)
@@ -116,7 +128,7 @@ def _place_members(ids: list, center: np.ndarray, node_map: dict,
 
         # springs on real intra-group edges
         if intra_edges:
-            for (i, j) in intra_edges:
+            for i, j in intra_edges:
                 d = dist[i, j]
                 f = (d - k) * 0.05
                 vec = delta[i, j] / d
@@ -168,8 +180,7 @@ def assign_layout(components: list[dict]) -> None:
             center = centers.get(base, np.zeros(2))
             m = len(ids)
             # cluster radius grows slowly with group size
-            radius = max(16.0, 3.5 * (m ** 0.45))
-            idset = set(ids)
+            radius = max(16.0, 3.5 * (m**0.45))
             idx = {nid: k for k, nid in enumerate(ids)}
             intra = []
             for e in comp["edges"]:

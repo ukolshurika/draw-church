@@ -1,1 +1,2 @@
-from .cli import main, run
+from .cli import main as main
+from .cli import run as run

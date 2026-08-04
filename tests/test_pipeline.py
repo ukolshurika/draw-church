@@ -4,12 +4,12 @@ from pathlib import Path
 from viz.loader import load_data
 from viz.splitter import split_components
 from viz.styler import (
-    assign_settlement_colours,
-    assign_degrees,
-    RELATION_COLORS,
-    RECORD_COLORS,
-    SETTLEMENT_PALETTE,
     NONE_SETTLEMENT_KEY,
+    RECORD_COLORS,
+    RELATION_COLORS,
+    SETTLEMENT_PALETTE,
+    assign_degrees,
+    assign_settlement_colours,
 )
 
 
@@ -134,6 +134,7 @@ class TestStyler:
 class TestRenderOutput:
     def test_html_contains_components(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert "var COMPONENTS =" in html
         assert "var REL_COLORS =" in html
@@ -142,12 +143,13 @@ class TestRenderOutput:
 
     def test_html_comp_data(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         # Extract COMPONENTS JS variable
         import re
-        m = re.search(r'var COMPONENTS = (\[.*?\]);', html, re.DOTALL)
+
+        m = re.search(r"var COMPONENTS = (\[.*?\]);", html, re.DOTALL)
         assert m, "COMPONENTS not found in HTML"
-        import json
         comps = json.loads(m.group(1))
         assert len(comps) == 2
         assert comps[0]["size"] == 4
@@ -155,6 +157,7 @@ class TestRenderOutput:
 
     def test_html_has_event_handlers(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert "network.on('click'" in html, "Click handler missing"
         assert "network.on('doubleClick'" in html, "DoubleClick handler missing"
@@ -162,37 +165,43 @@ class TestRenderOutput:
 
     def test_html_has_detail_elements(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         for el in ["det-name", "det-sett", "det-year", "det-type", "det-role"]:
             assert f'id="{el}"' in html, f"Missing {el}"
 
     def test_html_has_none_key(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert NONE_SETTLEMENT_KEY in html or "__none__" in html
 
     def test_html_degrees_attached(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert '"_deg":' in html or '"_deg"' in html
 
     def test_html_settc_attached(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert '"_settc":' in html or '"_settc"' in html
 
     def test_no_stale_jinja2_tags(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         assert "{{" not in html
         assert "{%" not in html
 
     def test_settc_colors_has_none(self, styled_small_components, small_colour_map):
         from viz.renderer import render
+
         html = render(styled_small_components, small_colour_map)
         import re
-        m = re.search(r'var SETT_COLORS = (\{.*?\});', html, re.DOTALL)
+
+        m = re.search(r"var SETT_COLORS = (\{.*?\});", html, re.DOTALL)
         assert m
-        import json
         sett = json.loads(m.group(1))
         assert NONE_SETTLEMENT_KEY in sett or "__none__" in sett

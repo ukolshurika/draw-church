@@ -4,15 +4,21 @@
 Uses curl + __NEXT_DATA__ from HTML to avoid Playwright dependency.
 """
 
-import json, re, subprocess, sys
+import json
+import re
+import subprocess
+import sys
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 RAW_API_DIR = BASE_DIR / "raw_api"
 
 CURL_HEADERS = [
-    "-sL", "--max-time", "15",
-    "-H", "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+    "-sL",
+    "--max-time",
+    "15",
+    "-H",
+    "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
 ]
 
 
@@ -34,16 +40,16 @@ def extract_archive_meta(breadcrumbs: list[dict]) -> dict:
 def fetch_breadcrumbs(uuid: str, page: int = 0) -> list[dict] | None:
     url = f"https://yandex.ru/archive/catalog/{uuid}/{page}"
     try:
-        html = subprocess.check_output(
-            ["curl", *CURL_HEADERS, url], timeout=20
-        ).decode("utf-8", errors="replace")
+        html = subprocess.check_output(["curl", *CURL_HEADERS, url], timeout=20).decode(
+            "utf-8", errors="replace"
+        )
     except Exception as e:
         print(f"  curl error: {e}", file=sys.stderr)
         return None
 
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>({.*?})</script>', html, re.DOTALL)
     if not m:
-        print(f"  __NEXT_DATA__ not found", file=sys.stderr)
+        print("  __NEXT_DATA__ not found", file=sys.stderr)
         return None
 
     try:
@@ -94,7 +100,7 @@ def main():
             continue
 
         meta_path.write_text(
-            json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
+            json.dumps(meta, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
         )
         print(f"OK: {meta}")
 

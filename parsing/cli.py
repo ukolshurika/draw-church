@@ -1,17 +1,15 @@
 import argparse
 import json
 import re
-import sys
 from itertools import count
 from pathlib import Path
 
-from .models import OUTPUT_NODES, OUTPUT_EDGES, RAW_API_DIR
-from .extract import process_page_data, read_page_file
 from .dedup import deduplicate
+from .extract import process_page_data, read_page_file
+from .models import OUTPUT_EDGES, OUTPUT_NODES, RAW_API_DIR
 
 
-def run(input_dir: Path, output_nodes: Path, output_edges: Path,
-        dry_run: bool = False):
+def run(input_dir: Path, output_nodes: Path, output_edges: Path, dry_run: bool = False):
     """Core logic — callable from code with explicit paths."""
     raw_dirs = sorted(input_dir.iterdir()) if input_dir.exists() else []
     if not raw_dirs:
@@ -21,6 +19,7 @@ def run(input_dir: Path, output_nodes: Path, output_edges: Path,
     all_persons = []
     all_edges = []
     temp_id_counter = count(1)
+    errors: list[dict] = []
 
     for uuid_dir in raw_dirs:
         if not uuid_dir.is_dir():
@@ -44,10 +43,16 @@ def run(input_dir: Path, output_nodes: Path, output_edges: Path,
                 print(f"  pg {page_num}: {len(persons)}p {len(edges)}e")
                 all_persons.extend(persons)
                 all_edges.extend(edges)
-            except Exception as exc:
+            except (json.JSONDecodeError, OSError, ValueError, KeyError) as exc:
                 print(f"  SKIP {fpath}: {exc}")
+                errors.append({"file": str(fpath), "error": str(exc)})
 
-    print(f"\n{'='*60}")
+    if errors:
+        print(f"\n  {len(errors)} file(s) skipped due to errors:")
+        for err in errors:
+            print(f"    {err['file']}: {err['error']}")
+
+    print(f"\n{'=' * 60}")
     print(f"Raw: {len(all_persons)} persons, {len(all_edges)} edges")
 
     if not all_persons:
@@ -70,10 +75,11 @@ def run(input_dir: Path, output_nodes: Path, output_edges: Path,
         print(f"[DRY RUN] Would write: {output_edges.name} ({len(final_edges)} edges)")
     else:
         output_nodes.write_text(
-            json.dumps(unique_persons, ensure_ascii=False, indent=2), encoding="utf-8"
+            json.dumps(unique_persons, ensure_ascii=False, indent=2, sort_keys=True),
+            encoding="utf-8",
         )
         output_edges.write_text(
-            json.dumps(final_edges, ensure_ascii=False, indent=2), encoding="utf-8"
+            json.dumps(final_edges, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
         )
         print(f"\nSaved: {output_nodes.name} ({len(unique_persons)} nodes)")
         print(f"Saved: {output_edges.name} ({len(final_edges)} edges)")
@@ -83,14 +89,16 @@ def run(input_dir: Path, output_nodes: Path, output_edges: Path,
 
 def main():
     parser = argparse.ArgumentParser(description="Parse raw API → nodes + edges")
-    parser.add_argument("--input-dir", type=Path, default=RAW_API_DIR,
-                        help="Directory with raw API JSON files")
-    parser.add_argument("--output-nodes", type=Path, default=OUTPUT_NODES,
-                        help="Output nodes JSON file")
-    parser.add_argument("--output-edges", type=Path, default=OUTPUT_EDGES,
-                        help="Output edges JSON file")
-    parser.add_argument("--dry-run", action="store_true",
-                        help="Parse without writing output files")
+    parser.add_argument(
+        "--input-dir", type=Path, default=RAW_API_DIR, help="Directory with raw API JSON files"
+    )
+    parser.add_argument(
+        "--output-nodes", type=Path, default=OUTPUT_NODES, help="Output nodes JSON file"
+    )
+    parser.add_argument(
+        "--output-edges", type=Path, default=OUTPUT_EDGES, help="Output edges JSON file"
+    )
+    parser.add_argument("--dry-run", action="store_true", help="Parse without writing output files")
     args = parser.parse_args()
 
     print("=" * 60)

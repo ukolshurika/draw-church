@@ -83,9 +83,7 @@ def deduplicate(persons: list[dict]) -> tuple[list[dict], dict[int, int]]:
                 p.setdefault(
                     "all_record_types", [p.get("record_type")] if p.get("record_type") else []
                 )
-                p.setdefault(
-                    "archive_urls", [p["_archive_url"]] if p.get("_archive_url") else []
-                )
+                p.setdefault("archive_urls", [p["_archive_url"]] if p.get("_archive_url") else [])
                 p.setdefault("sources", [p["_source"]] if p.get("_source") else [])
                 if p_rt == ROLE_BORN and p.get("year"):
                     p["birth_year"] = p["year"]

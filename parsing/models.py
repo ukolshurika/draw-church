@@ -28,4 +28,3 @@ ROLE_PARENT = "Родитель"
 ROLE_GODPARENT = "Восприемник"
 ROLE_GROOM = "Жених"
 ROLE_BRIDE = "Невеста"
-

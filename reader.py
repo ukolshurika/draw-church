@@ -1,5 +1,5 @@
-import re
 import json
+import re
 from pathlib import Path
 
 _SETTLEMENT_SYNONYMS: dict[str, str] = {

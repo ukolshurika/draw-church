@@ -1,17 +1,17 @@
-import json, re
-from itertools import count
+import json
+import re
 from pathlib import Path
 
 from reader import normalize_settlement
 
+from .context import _resolve_context_ref, _scan_settlements, resolve_context_settlement
+from .landowner import extract_landowner
 from .models import (
-    STATUS_TO_RELATION,
-    WEDDING_STATUS_TO_RELATION,
     _UYEZD_RE,
     RAW_API_DIR,
+    STATUS_TO_RELATION,
+    WEDDING_STATUS_TO_RELATION,
 )
-from .landowner import extract_landowner
-from .context import resolve_context_settlement, _scan_settlements, _resolve_context_ref
 
 
 def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list[dict]:
@@ -25,7 +25,9 @@ def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list
         mothers = people_by_status.get("MOTHER", [])
         fathers = people_by_status.get("FATHER", [])
         if len(fathers) == 1 and len(mothers) == 1:
-            edges.append({"source_id": fathers[0], "target_id": mothers[0], "relation": "married_to"})
+            edges.append(
+                {"source_id": fathers[0], "target_id": mothers[0], "relation": "married_to"}
+            )
         gp = people_by_status.get("GODFATHER", []) + people_by_status.get("GODMOTHER", [])
         for g in gp:
             for b in born:
@@ -51,18 +53,30 @@ def build_edges(entry_type: str, people_by_status: dict[str, list[int]]) -> list
     return edges
 
 
-def process_entry(entry: dict, year: int, counter,
-                  archive_url: str,
-                  archive_meta: dict | None = None,
-                  page: int = 0,
-                  global_ctx: dict | None = None
+def process_entry(
+    entry: dict,
+    year: int,
+    counter,
+    archive_url: str,
+    archive_meta: dict | None = None,
+    page: int = 0,
+    global_ctx: dict[str, str | None] | None = None,
 ) -> tuple[list[dict], list[dict]]:
     entry_type = entry.get("type")
     if entry_type not in ("BIRTH", "WEDDING"):
         return [], []
 
+    global_ctx_inner: dict[str, str | None]
     if global_ctx is None:
-        global_ctx = {"uyezd": None, "selo": None, "selsco": None, "derevnya": None, "settlement": None}
+        global_ctx_inner = {
+            "uyezd": None,
+            "selo": None,
+            "selsco": None,
+            "derevnya": None,
+            "settlement": None,
+        }
+    else:
+        global_ctx_inner = global_ctx
 
     raw_people = entry.get("people", [])
     persons = []
@@ -85,7 +99,7 @@ def process_entry(entry: dict, year: int, counter,
         elif "той же помещиц" in info.lower() or "того же помещик" in info.lower():
             landowner = last_landowner
 
-        settlement = resolve_context_settlement(settlement, raw_settlements[:idx], global_ctx)
+        settlement = resolve_context_settlement(settlement, raw_settlements[:idx], global_ctx_inner)
         if settlement:
             settlement = normalize_settlement(settlement)
 
@@ -107,20 +121,22 @@ def process_entry(entry: dict, year: int, counter,
             "url": archive_url,
         }
 
-        persons.append({
-            "_temp_id": temp_id,
-            "_archive_url": archive_url,
-            "_source": source,
-            "_raw_status": status,
-            "first_name": name,
-            "patronymic": second_name,
-            "surname": surname,
-            "year": year,
-            "relation_type": relation_type,
-            "record_type": record_type,
-            "landowner": landowner,
-            "settlement": settlement,
-        })
+        persons.append(
+            {
+                "_temp_id": temp_id,
+                "_archive_url": archive_url,
+                "_source": source,
+                "_raw_status": status,
+                "first_name": name,
+                "patronymic": second_name,
+                "surname": surname,
+                "year": year,
+                "relation_type": relation_type,
+                "record_type": record_type,
+                "landowner": landowner,
+                "settlement": settlement,
+            }
+        )
 
         people_by_status.setdefault(status, []).append(temp_id)
 
@@ -154,10 +170,10 @@ def process_entry(entry: dict, year: int, counter,
     # but another person in the same entry has "сельцо Глазечно",
     # the reference can be resolved using the full entry context.
     actual_settlements = [
-        p.get("settlement") for p in persons
-        if p.get("settlement") and not any(
-            x in p["settlement"].lower() for x in ("то же", "тот же", "та же", "той же")
-        )
+        p.get("settlement")
+        for p in persons
+        if p.get("settlement")
+        and not any(x in p["settlement"].lower() for x in ("то же", "тот же", "та же", "той же"))
     ]
     if actual_settlements:
         full_ctx = _scan_settlements(actual_settlements)
@@ -167,7 +183,7 @@ def process_entry(entry: dict, year: int, counter,
                 continue
             s_lower = s.strip().lower()
             if any(x in s_lower for x in ("то же", "тот же", "та же", "той же")):
-                resolved = _resolve_context_ref(s_lower, full_ctx, global_ctx)
+                resolved = _resolve_context_ref(s_lower, full_ctx, global_ctx_inner)
                 if resolved:
                     person["settlement"] = normalize_settlement(resolved)
 
@@ -182,16 +198,24 @@ def load_archive_meta(uuid: str) -> dict | None:
     return None
 
 
-def process_page_data(data: dict, year: int, counter,
-                       uuid: str = "", page: int = 0
+def process_page_data(
+    data: dict, year: int, counter, uuid: str = "", page: int = 0
 ) -> tuple[list[dict], list[dict]]:
     all_persons = []
     all_edges = []
     archive_meta = load_archive_meta(uuid)
-    global_ctx = {"uyezd": None, "selo": None, "selsco": None, "derevnya": None, "settlement": None}
+    global_ctx: dict[str, str | None] = {
+        "uyezd": None,
+        "selo": None,
+        "selsco": None,
+        "derevnya": None,
+        "settlement": None,
+    }
     for entry in data.get("entries", []):
         entry_id = entry.get("entry_id", "")
-        archive_url = f"https://yandex.ru/archive/catalog/{uuid}/{page}?entry_id={entry_id}&tab=structured"
+        archive_url = (
+            f"https://yandex.ru/archive/catalog/{uuid}/{page}?entry_id={entry_id}&tab=structured"
+        )
         p, e = process_entry(entry, year, counter, archive_url, archive_meta, page, global_ctx)
         all_persons.extend(p)
         all_edges.extend(e)

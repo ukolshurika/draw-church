@@ -14,6 +14,7 @@ out pairings that only exist because a born person aggregated several records.
 Usage:
   python3 add_kum_edges.py --nodes all-nodes.json --edges all-edges.json [--dry-run]
 """
+
 import argparse
 import json
 import re
@@ -86,7 +87,7 @@ def main():
 
     edges.extend(new_edges)
     args.edges.write_text(
-        json.dumps(edges, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(edges, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
     )
     print(f"Saved: {args.edges} ({len(edges)} edges)")
 

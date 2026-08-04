@@ -1,11 +1,11 @@
 import argparse
 from pathlib import Path
 
-from .loader import load_data
-from .splitter import split_components
-from .styler import assign_settlement_colours, assign_degrees
 from .layout import assign_layout
+from .loader import load_data
 from .renderer import render
+from .splitter import split_components
+from .styler import assign_degrees, assign_settlement_colours
 
 BASE_DIR = Path(__file__).parent.parent
 NODES_FILE = BASE_DIR / "all-nodes.json"
@@ -15,14 +15,18 @@ OUTPUT = BASE_DIR / "graph.html"
 
 def main():
     parser = argparse.ArgumentParser(description="Build graph HTML from nodes+edges")
-    parser.add_argument("--nodes", type=Path, default=NODES_FILE,
-                        help="Input nodes JSON file")
-    parser.add_argument("--edges", type=Path, default=EDGES_FILE,
-                        help="Input edges JSON file")
-    parser.add_argument("--output", type=Path, default=OUTPUT,
-                        help="Output HTML file")
-    parser.add_argument("--prefix", type=str, default=None,
-                        help="Prefix for file naming: reads all-nodes-{prefix}.json / all-edges-{prefix}.json, writes graph-{prefix}.html")
+    parser.add_argument("--nodes", type=Path, default=NODES_FILE, help="Input nodes JSON file")
+    parser.add_argument("--edges", type=Path, default=EDGES_FILE, help="Input edges JSON file")
+    parser.add_argument("--output", type=Path, default=OUTPUT, help="Output HTML file")
+    parser.add_argument(
+        "--prefix",
+        type=str,
+        default=None,
+        help=(
+            "Prefix for file naming: reads all-nodes-{prefix}.json /"
+            " all-edges-{prefix}.json, writes graph-{prefix}.html"
+        ),
+    )
     args = parser.parse_args()
 
     if args.prefix:
@@ -44,7 +48,7 @@ def main():
     print(f"Components: {len(components)}")
     for i, c in enumerate(components):
         tag = " (heavy)" if c["size"] > 200 else ""
-        print(f"  #{i+1}: {c['size']} nodes, {c['edge_count']} edges{tag}")
+        print(f"  #{i + 1}: {c['size']} nodes, {c['edge_count']} edges{tag}")
 
     html = render(components, colour_map)
     args.output.write_text(html, encoding="utf-8")

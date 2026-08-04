@@ -5,9 +5,11 @@ Run this AFTER normalize_geo.py to merge persons whose settlement names
 became identical after normalization (previously different raw strings
 blocked dedup during the initial parse.py run).
 """
+
 import json
 import sys
 from pathlib import Path
+
 from parsing.dedup import deduplicate
 
 BASE_DIR = Path(__file__).parent
@@ -63,10 +65,10 @@ if __name__ == "__main__":
     print(f"Edges: {len(deduped_edges)} (was {len(edges)})")
 
     nodes_path.write_text(
-        json.dumps(unique, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(unique, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
     )
     edges_path.write_text(
-        json.dumps(deduped_edges, ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(deduped_edges, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8"
     )
 
     print(f"Saved: {nodes_path.name} ({len(unique)} nodes)")

@@ -18,7 +18,12 @@ Usage:
 Manifest file: manual-merges.json — stores merges keyed by stable entry_id
 so they can be re-applied after `python3 parse.py` rerun.
 """
-import json, re, sys, shutil
+
+import datetime
+import json
+import re
+import shutil
+import sys
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
@@ -31,6 +36,7 @@ ENTRY_ID_RE = re.compile(r"entry_id=([\w-]+)")
 
 
 # ── helpers ──────────────────────────────────────────────────────
+
 
 def load_json(path):
     return json.loads(path.read_text(encoding="utf-8"))
@@ -61,7 +67,6 @@ def find_node_by_entry_id(nodes, entry_ids):
 def backup():
     """Backup current data files before modifying."""
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)
-    import datetime
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     for fname in ("all-nodes.json", "all-edges.json", "manual-merges.json"):
         src = BASE_DIR / fname
@@ -72,6 +77,7 @@ def backup():
 
 
 # ── merge logic ──────────────────────────────────────────────────
+
 
 def merge_persons(nodes, edges, source_id, target_id):
     """Merge source into target in-place. Returns (source_node, target_info_pre_merge)."""
@@ -102,8 +108,16 @@ def merge_persons(nodes, edges, source_id, target_id):
     }
 
     # Merge scalar fields (keep target's, fill nulls from source)
-    for field in ("first_name", "patronymic", "surname", "year",
-                  "relation_type", "record_type", "landowner", "settlement"):
+    for field in (
+        "first_name",
+        "patronymic",
+        "surname",
+        "year",
+        "relation_type",
+        "record_type",
+        "landowner",
+        "settlement",
+    ):
         if tgt.get(field) in (None, "", 0) and src.get(field) not in (None, "", 0):
             tgt[field] = src[field]
 
@@ -148,7 +162,10 @@ def merge_persons(nodes, edges, source_id, target_id):
     edges[:] = new_edges
 
     print(f"  ✓ Merged id={source_id} → id={target_id}")
-    print(f"    Target now: {tgt.get('first_name')} {tgt.get('patronymic')} {tgt.get('surname') or ''}")
+    print(
+        f"    Target now: {tgt.get('first_name')}"
+        f" {tgt.get('patronymic')} {tgt.get('surname') or ''}"
+    )
     print(f"    Roles: {tgt['all_roles']}")
     return src, tgt_pre
 
@@ -158,25 +175,41 @@ def record_merge(manifest, src, tgt_pre_merge, reason=""):
     src_ids = entry_ids_from_node(src)
     tgt_ids = entry_ids_from_node(tgt_pre_merge)
     if not src_ids:
-        print(f"  ⚠ Source id={src['id']} has no entry_ids; merge will not be reproducible after rebuild")
+        print(
+            f"  \u26a0 Source id={src['id']} has no entry_ids;"
+            " merge will not be reproducible after rebuild"
+        )
     if not tgt_ids:
-        print(f"  ⚠ Target id={tgt_pre_merge['id']} has no entry_ids; merge will not be reproducible after rebuild")
+        print(
+            f"  \u26a0 Target id={tgt_pre_merge['id']} has no entry_ids;"
+            " merge will not be reproducible after rebuild"
+        )
 
     record = {
         "source_entry_ids": sorted(src_ids),
         "target_entry_ids": sorted(tgt_ids),
         "source_id": src["id"],
         "target_id": tgt_pre_merge["id"],
-        "source_label": f"{src.get('first_name','')} {src.get('patronymic','')} {src.get('surname','') or ''}".strip(),
-        "target_label": f"{tgt_pre_merge.get('first_name','')} {tgt_pre_merge.get('patronymic','')} {tgt_pre_merge.get('surname','') or ''}".strip(),
+        "source_label": (
+            f"{src.get('first_name', '')}"
+            f" {src.get('patronymic', '')}"
+            f" {src.get('surname', '') or ''}".strip()
+        ),
+        "target_label": (
+            f"{tgt_pre_merge.get('first_name', '')}"
+            f" {tgt_pre_merge.get('patronymic', '')}"
+            f" {tgt_pre_merge.get('surname', '') or ''}".strip()
+        ),
         "reason": reason or "(no reason given)",
     }
 
     # Check for duplicate (compare both source AND target entry_ids —
     # multiple source persons can share the same entry_id, e.g. parent+child in one birth record)
     for existing in manifest:
-        if (existing["source_entry_ids"] == record["source_entry_ids"]
-                and existing["target_entry_ids"] == record["target_entry_ids"]):
+        if (
+            existing["source_entry_ids"] == record["source_entry_ids"]
+            and existing["target_entry_ids"] == record["target_entry_ids"]
+        ):
             print("  ⚠ Merge already recorded, skipping manifest append")
             return
 
@@ -186,6 +219,7 @@ def record_merge(manifest, src, tgt_pre_merge, reason=""):
 
 
 # ── commands ────────────────────────────────────────────────────
+
 
 def cmd_merge(args):
     if len(args) < 2:
@@ -244,23 +278,26 @@ def cmd_apply(args):
         tgt_node = find_node_by_entry_id(nodes, tgt_entry_ids)
 
         if not src_node and not tgt_node:
-            print(f"  [{i+1}] ✗ Neither source nor target found — skip")
+            print(f"  [{i + 1}] ✗ Neither source nor target found — skip")
             skipped += 1
             continue
         if not src_node:
-            print(f"  [{i+1}] ✗ Source not found (entry_ids: {src_entry_ids}) — skip")
+            print(f"  [{i + 1}] ✗ Source not found (entry_ids: {src_entry_ids}) — skip")
             skipped += 1
             continue
         if not tgt_node:
-            print(f"  [{i+1}] ✗ Target not found (entry_ids: {tgt_entry_ids}) — skip")
+            print(f"  [{i + 1}] ✗ Target not found (entry_ids: {tgt_entry_ids}) — skip")
             skipped += 1
             continue
         if src_node["id"] == tgt_node["id"]:
-            print(f"  [{i+1}] → Already merged (source==target id={src_node['id']}) — skip")
+            print(f"  [{i + 1}] → Already merged (source==target id={src_node['id']}) — skip")
             skipped += 1
             continue
 
-        print(f"  [{i+1}] Merging id={src_node['id']} → id={tgt_node['id']} ({record.get('reason','')})")
+        print(
+            f"  [{i + 1}] Merging id={src_node['id']} → id={tgt_node['id']}"
+            f" ({record.get('reason', '')})"
+        )
         merge_persons(nodes, edges, src_node["id"], tgt_node["id"])
         applied += 1
 
@@ -280,9 +317,9 @@ def cmd_list(args):
         return
     print(f"Recorded merges ({len(manifest)}):\n")
     for i, rec in enumerate(manifest):
-        print(f"  [{i+1}] id={rec['source_id']} → id={rec['target_id']}")
-        print(f"        {rec.get('source_label','?')} → {rec.get('target_label','?')}")
-        print(f"        Reason: {rec.get('reason','')}")
+        print(f"  [{i + 1}] id={rec['source_id']} → id={rec['target_id']}")
+        print(f"        {rec.get('source_label', '?')} → {rec.get('target_label', '?')}")
+        print(f"        Reason: {rec.get('reason', '')}")
         print()
 
 
@@ -324,7 +361,7 @@ def cmd_undo(args):
             # Remove this record from manifest
             manifest.pop(idx)
             dump_json(manifest, MANIFEST_PATH)
-            print(f"  ✓ Undone and removed from manifest")
+            print("  ✓ Undone and removed from manifest")
         else:
             print("  Canceled")
     else:
@@ -333,6 +370,7 @@ def cmd_undo(args):
 
 
 # ── main ────────────────────────────────────────────────────────
+
 
 def main():
     if len(sys.argv) < 2:
