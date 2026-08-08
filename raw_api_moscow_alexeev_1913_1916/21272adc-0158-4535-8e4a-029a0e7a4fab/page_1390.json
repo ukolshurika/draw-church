@@ -1,0 +1,240 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 196,
+        "width": 1210,
+        "x": 874,
+        "y": 1133
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_3",
+      "people": [
+        {
+          "age": "30",
+          "geo": "сельцо Мисюрево",
+          "info": "вдова",
+          "name": "Анна",
+          "second_name": "Мисюрева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 206,
+        "width": 1207,
+        "x": 853,
+        "y": 1501
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Алексей",
+          "other_status": "муж умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "35",
+          "geo": "",
+          "info": "",
+          "name": "Марья",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 210,
+        "width": 1211,
+        "x": 853,
+        "y": 1874
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Ямщик",
+          "other_status": "муж умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "32",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Филиппова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 213,
+        "width": 1207,
+        "x": 838,
+        "y": 2221
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_5",
+      "people": [
+        {
+          "age": "20",
+          "geo": "то же сельцо",
+          "info": "ямщика жена",
+          "name": "Васса",
+          "second_name": "Викторова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 237,
+        "width": 1253,
+        "x": 833,
+        "y": 2552
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_1",
+      "people": [
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Иакова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Иаков",
+          "other_status": "отец умершего",
+          "second_name": "Стратоников",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 238,
+        "width": 1246,
+        "x": 817,
+        "y": 2891
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Николай",
+          "other_status": "отец умершего",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 264,
+        "width": 1221,
+        "x": 796,
+        "y": 3609
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_0",
+      "people": [
+        {
+          "age": "18",
+          "geo": "село Милорево",
+          "info": "ямщикова дочь",
+          "name": "Праскева",
+          "second_name": "Козмина",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 228,
+        "width": 1209,
+        "x": 787,
+        "y": 4000
+      },
+      "entry_id": "1259906b-6bf1-4487-be41-4c01adc8e902_7",
+      "people": [
+        {
+          "age": "40",
+          "geo": "",
+          "info": "",
+          "name": "Васса",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Алексей",
+          "other_status": "муж умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "1259906b-6bf1-4487-be41-4c01adc8e902",
+  "page": 1390,
+  "total_pages": null,
+  "year": 1853
+}

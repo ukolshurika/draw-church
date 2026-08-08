@@ -1,0 +1,175 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 540,
+        "width": 2750,
+        "x": 927,
+        "y": 1065
+      },
+      "entry_id": "641b9781-230b-48ec-bafe-0bda0692aac8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Волынский уезд, деревня Елизаветинка",
+          "info": "крестьянин",
+          "name": "Лаврентий",
+          "second_name": "Иерофеевич",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Лаврентиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Титов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Родионова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Титова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "девица, мещанка",
+          "name": "Юлия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Красовская"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 545,
+        "width": 2738,
+        "x": 932,
+        "y": 1838
+      },
+      "entry_id": "641b9781-230b-48ec-bafe-0bda0692aac8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Бронницкий уезд, Салтыковская волость, деревня Денежниково",
+          "info": "вдова крестьянина",
+          "name": "Ксения",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Старостина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Винокурова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Винокурова"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Темниковский уезд, Аторевская волость, деревня Камешки",
+          "info": "крестьянин",
+          "name": "Георгий",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Винокуров"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 684,
+        "width": 2750,
+        "x": 933,
+        "y": 2523
+      },
+      "entry_id": "641b9781-230b-48ec-bafe-0bda0692aac8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Екимовская волость, село Грандуки",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Евсеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Овчинникова"
+        },
+        {
+          "age": "",
+          "geo": "Москва",
+          "info": "мещанка",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Леонова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Веневский уезд, Аксиньинская волость, деревня",
+          "info": "крестьянин",
+          "name": "Игнатий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тихонов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Овчинников"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "641b9781-230b-48ec-bafe-0bda0692aac8",
+  "page": 150,
+  "total_pages": null,
+  "year": 1915
+}

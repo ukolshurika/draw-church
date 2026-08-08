@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 949,
+        "width": 2807,
+        "x": 848,
+        "y": 1131
+      },
+      "entry_id": "bc394b39-60d2-42dc-9f12-e4cb77534323_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ряснянский"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Буинский уезд, Бурундуковская волость, село Крестьянка",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Антонина",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ряснянская"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Кругловская волость, село Городня",
+          "info": "жена крестьянина",
+          "name": "Наталия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каменская"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Новохоперский мещанский округ",
+          "info": "мещанин",
+          "name": "Петр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ряснянский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "bc394b39-60d2-42dc-9f12-e4cb77534323",
+  "page": 198,
+  "total_pages": null,
+  "year": 1915
+}

@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 1041,
+        "width": 2878,
+        "x": 910,
+        "y": 1189
+      },
+      "entry_id": "1a31fef0-499d-4386-88f0-f5889b760ea5_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Мамошинская волость, деревня Скирманово",
+          "info": "крестьянин",
+          "name": "Никита",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Коротков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Березовская волость, деревня Островское",
+          "info": "крестьянин",
+          "name": "",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Денисов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Денисова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Насонова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "1a31fef0-499d-4386-88f0-f5889b760ea5",
+  "page": 114,
+  "total_pages": null,
+  "year": 1915
+}

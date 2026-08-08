@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 692,
+        "width": 2748,
+        "x": 937,
+        "y": 1058
+      },
+      "entry_id": "9d3f3213-6f27-4d80-a1f2-7fd3c01bb129_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Варварин",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Солопенская волость, деревня Шипово",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Поклепов"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Чернский уезд, Скородненская волость, село Ольховец",
+          "info": "крестьянская девица",
+          "name": "Варвара",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Котова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Слободская волость, село",
+          "info": "крестьянская девица",
+          "name": "Матрона",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Базыкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 710,
+        "width": 2778,
+        "x": 933,
+        "y": 1876
+      },
+      "entry_id": "9d3f3213-6f27-4d80-a1f2-7fd3c01bb129_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дюков"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Покровский уезд, Покров-Слободская волость, деревня Дамашнево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дюков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дюкова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Дюков"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Дюков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Дюкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 743,
+        "width": 2825,
+        "x": 933,
+        "y": 2790
+      },
+      "entry_id": "9d3f3213-6f27-4d80-a1f2-7fd3c01bb129_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Кирсановский уезд, Парижская волость, село",
+          "info": "вдова крестьянина",
+          "name": "Евдокия",
+          "second_name": "Варламова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пятых"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Махина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Савватиевич",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Махин"
+        },
+        {
+          "age": "",
+          "geo": "Вологодская губерния, Устюжский уезд, Приводинская волость, деревня Пралье",
+          "info": "крестьянин",
+          "name": "Савватий",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Махин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворцовый гренадер",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Долгополов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "9d3f3213-6f27-4d80-a1f2-7fd3c01bb129",
+  "page": 123,
+  "total_pages": null,
+  "year": 1915
+}

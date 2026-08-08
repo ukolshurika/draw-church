@@ -1,0 +1,207 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 219,
+        "width": 1099,
+        "x": 1067,
+        "y": 1260
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_2",
+      "people": [
+        {
+          "age": "64",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Андрей",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 198,
+        "width": 1090,
+        "x": 1078,
+        "y": 1665
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Леонтий",
+          "other_status": "отец умершего",
+          "second_name": "Фокиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Леонтьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1181,
+        "x": 1097,
+        "y": 2596
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_1",
+      "people": [
+        {
+          "age": "70",
+          "geo": "деревня Покровское",
+          "info": "вдова",
+          "name": "Агрипина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 270,
+        "width": 1097,
+        "x": 1104,
+        "y": 3032
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Власов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Алексей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 170,
+        "width": 1295,
+        "x": 1111,
+        "y": 3458
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_5",
+      "people": [
+        {
+          "age": "1 год 2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Агрипина",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Никитская",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 179,
+        "width": 1248,
+        "x": 1120,
+        "y": 3738
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_6",
+      "people": [
+        {
+          "age": "1 1/2 года",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Никитская",
+          "info": "крестьянка",
+          "name": "Феодосия",
+          "other_status": "мать умершего",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 212,
+        "width": 1185,
+        "x": 1127,
+        "y": 4005
+      },
+      "entry_id": "3ac08dea-2680-4ea9-960d-df40a7127eba_3",
+      "people": [
+        {
+          "age": "1 год и 8 месяцев",
+          "geo": "сельцо Милорево",
+          "info": "ямщик Ивана Сергиева",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "3ac08dea-2680-4ea9-960d-df40a7127eba",
+  "page": 1401,
+  "total_pages": null,
+  "year": 1857
+}

@@ -1,0 +1,217 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 709,
+        "width": 2816,
+        "x": 901,
+        "y": 1078
+      },
+      "entry_id": "72bdf375-6d1c-4e3b-9620-01765d8a6150_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, город Верея",
+          "info": "мещанин",
+          "name": "Андрей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Карасев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Смоленская волость, деревня Смолеево",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Трофимов"
+        },
+        {
+          "age": "",
+          "geo": "Екатеринославская губерния, Мариупольский уезд, Уремьевская волость, деревня Нескучная",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Мирошниченко"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трофимова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Карасева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 841,
+        "width": 2823,
+        "x": 898,
+        "y": 1833
+      },
+      "entry_id": "72bdf375-6d1c-4e3b-9620-01765d8a6150_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ярославская губерния, Романо-Борисоглебский уезд, Памфиловская волость, деревня Михалово",
+          "info": "крестьянин",
+          "name": "Константин",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Канаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ерохина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Красногорская волость, сельцо Лесок",
+          "info": "крестьянин",
+          "name": "Прокопий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ерохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Прокопиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ерохин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Надежда",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Михайлова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Богородская волость, деревня Пашново",
+          "info": "крестьянин",
+          "name": "***",
+          "other_status": "муж крестной матери",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Пашнов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 656,
+        "width": 2870,
+        "x": 882,
+        "y": 2732
+      },
+      "entry_id": "72bdf375-6d1c-4e3b-9620-01765d8a6150_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Солдатская волость, село Козья",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кренев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Покровская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антипенков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кренев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кренева"
+        },
+        {
+          "age": "",
+          "geo": "Москва, Гостинная слобода",
+          "info": "мещанка",
+          "name": "Мария",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Байкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "72bdf375-6d1c-4e3b-9620-01765d8a6150",
+  "page": 130,
+  "total_pages": null,
+  "year": 1915
+}

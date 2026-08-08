@@ -1,0 +1,185 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 698,
+        "width": 2889,
+        "x": 897,
+        "y": 1122
+      },
+      "entry_id": "0f2a0c58-1c14-4ae8-ab65-4f25f0461a2c_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, город Ельня",
+          "info": "мещанка, девица",
+          "name": "Александра",
+          "second_name": "Арсеньева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маслова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ранков"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Каширский уезд, Ростовецкая волость, сельцо Гратчина",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Тимашев"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Ардатовский уезд, Тархановская волость, село",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ранков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 684,
+        "width": 2861,
+        "x": 892,
+        "y": 1920
+      },
+      "entry_id": "0f2a0c58-1c14-4ae8-ab65-4f25f0461a2c_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "город Москва",
+          "info": "ремесленник Башмачного цеха",
+          "name": "Василий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Саратовская губерния, Липовский уезд, Липовская волость, село Липовка",
+          "info": "крестьянская девица",
+          "name": "Дария",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шарова"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Малоярославецкий уезд, Недвелнинская волость, село",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Барыкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 626,
+        "width": 2837,
+        "x": 902,
+        "y": 2645
+      },
+      "entry_id": "0f2a0c58-1c14-4ae8-ab65-4f25f0461a2c_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село Пиково",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Давыдов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Безсонов"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянская девица",
+          "name": "Вера",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Свиридова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Безсонова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "губернский секретарь",
+          "name": "Андрей",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Перов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Безсонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "0f2a0c58-1c14-4ae8-ab65-4f25f0461a2c",
+  "page": 141,
+  "total_pages": null,
+  "year": 1915
+}

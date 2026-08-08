@@ -1,0 +1,185 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1158,
+        "x": 1081,
+        "y": 1247
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_1",
+      "people": [
+        {
+          "age": "57",
+          "geo": "",
+          "info": "",
+          "name": "Агапия",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Иоаким",
+          "other_status": "муж умершего",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 200,
+        "width": 1160,
+        "x": 1081,
+        "y": 1647
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_4",
+      "people": [
+        {
+          "age": "7",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 207,
+        "width": 1090,
+        "x": 1095,
+        "y": 2381
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_5",
+      "people": [
+        {
+          "age": "60",
+          "geo": "деревня Покров",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 233,
+        "width": 1109,
+        "x": 1107,
+        "y": 2768
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_2",
+      "people": [
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Кирилл",
+          "second_name": "Иоаннов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "other_status": "отец умершего",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 210,
+        "width": 1170,
+        "x": 1111,
+        "y": 3208
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_0",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": "Стританикова"
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Яков",
+          "other_status": "отец умершего",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стритаников"
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 221,
+        "width": 1095,
+        "x": 1132,
+        "y": 3628
+      },
+      "entry_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175_3",
+      "people": [
+        {
+          "age": "80",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Харитоний",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "29af7fa3-da9b-43ec-9ed1-ac655fd28175",
+  "page": 1400,
+  "total_pages": null,
+  "year": 1857
+}

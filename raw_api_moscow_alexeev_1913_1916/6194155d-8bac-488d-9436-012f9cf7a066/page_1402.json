@@ -1,0 +1,240 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 175,
+        "width": 1167,
+        "x": 1018,
+        "y": 1174
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_5",
+      "people": [
+        {
+          "age": "49",
+          "geo": "деревня Покрова",
+          "info": "вдова",
+          "name": "Матрена",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 163,
+        "width": 1113,
+        "x": 1013,
+        "y": 1516
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 165,
+        "width": 1187,
+        "x": 1015,
+        "y": 1844
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_1",
+      "people": [
+        {
+          "age": "1/2",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Рубчиха",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "отец умершего",
+          "second_name": "Давидов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 172,
+        "width": 1125,
+        "x": 1013,
+        "y": 2189
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Иларион",
+          "other_status": "отец умершего",
+          "second_name": "Арсентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "28",
+          "geo": "",
+          "info": "",
+          "name": "Петр",
+          "second_name": "Иларионов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 158,
+        "width": 1113,
+        "x": 1018,
+        "y": 2764
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_7",
+      "people": [
+        {
+          "age": "1 1/2",
+          "geo": "",
+          "info": "",
+          "name": "Иван",
+          "second_name": "Евфимиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Евфимий",
+          "other_status": "отец умершего",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 175,
+        "width": 1176,
+        "x": 1004,
+        "y": 3114
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_2",
+      "people": [
+        {
+          "age": "63",
+          "geo": "село Флоровское",
+          "info": "вдова, солдатка",
+          "name": "Анна",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 156,
+        "width": 1085,
+        "x": 1015,
+        "y": 3442
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_3",
+      "people": [
+        {
+          "age": "73",
+          "geo": "деревня Рубчиха",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Зиновьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 247,
+        "width": 1153,
+        "x": 1004,
+        "y": 3980
+      },
+      "entry_id": "44263866-4a69-4aef-93af-5c87e75ce835_0",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Афонасий",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "44263866-4a69-4aef-93af-5c87e75ce835",
+  "page": 1402,
+  "total_pages": null,
+  "year": 1857
+}

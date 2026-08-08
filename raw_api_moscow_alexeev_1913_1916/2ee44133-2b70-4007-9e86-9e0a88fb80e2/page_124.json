@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 958,
+        "width": 2767,
+        "x": 954,
+        "y": 1076
+      },
+      "entry_id": "35adec52-8c34-457d-94ff-20cb76918d5d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Городищенская волость, деревня Плеснево",
+          "info": "крестьянин",
+          "name": "Павел",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Солянинов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Борисова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Солянинова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Юхновский уезд, Лапнинская волость, деревня Слободка",
+          "info": "вдова крестьянина",
+          "name": "Олимпиада",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сергеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Солянинова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Вяземский уезд, Воронцовская волость, деревня Привалье",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Голубев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 777,
+        "width": 2791,
+        "x": 968,
+        "y": 2072
+      },
+      "entry_id": "35adec52-8c34-457d-94ff-20cb76918d5d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Крючковская волость, село Климово",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Фролов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Надежда",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "та же волость, село Долбино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "other_status": "муж крестной матери",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Федосеев"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Лихвинский уезд, Долбинская волость, деревня Ретюнь",
+          "info": "крестьянин",
+          "name": "Илья",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Голубев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодосия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Голубева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федосеева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 526,
+        "width": 2751,
+        "x": 972,
+        "y": 2847
+      },
+      "entry_id": "35adec52-8c34-457d-94ff-20cb76918d5d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Анна",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Ильина"
+        },
+        {
+          "age": "",
+          "geo": "город Тверь",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Игнатьев"
+        },
+        {
+          "age": "",
+          "geo": "город Тверь",
+          "info": "мещанин",
+          "name": "Александр",
+          "second_name": "Александров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Игнатьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Игнатьева"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "35adec52-8c34-457d-94ff-20cb76918d5d",
+  "page": 124,
+  "total_pages": null,
+  "year": 1915
+}

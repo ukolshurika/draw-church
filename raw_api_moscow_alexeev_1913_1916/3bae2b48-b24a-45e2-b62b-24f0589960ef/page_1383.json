@@ -1,0 +1,260 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 368,
+        "width": 1872,
+        "x": 1013,
+        "y": 1016
+      },
+      "entry_id": "a584a700-c27b-4813-b805-c599f9bd08b9_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Иоанн",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Ксения",
+          "second_name": "Яфимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Никонор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 385,
+        "width": 1848,
+        "x": 1018,
+        "y": 2013
+      },
+      "entry_id": "a584a700-c27b-4813-b805-c599f9bd08b9_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марья",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Иоаннов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "дворовой человек",
+          "name": "Александр",
+          "second_name": "Федотов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена дворового человека",
+          "name": "Праскева",
+          "other_status": "муж крестной матери",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Иоанн",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 373,
+        "width": 1841,
+        "x": 1039,
+        "y": 2616
+      },
+      "entry_id": "a584a700-c27b-4813-b805-c599f9bd08b9_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Иаков",
+          "second_name": "Стратоников",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Ананиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщицкая жена",
+          "name": "Агрипена",
+          "other_status": "муж крестной матери",
+          "second_name": "Прохорова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Яфимов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Яфим",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 375,
+        "width": 1865,
+        "x": 1023,
+        "y": 3179
+      },
+      "entry_id": "a584a700-c27b-4813-b805-c599f9bd08b9_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Мовсеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Андрей",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "ямщицкая жена",
+          "name": "Вера",
+          "other_status": "жена крестного отца",
+          "second_name": "Никонова",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "a584a700-c27b-4813-b805-c599f9bd08b9",
+  "page": 1383,
+  "total_pages": null,
+  "year": 1854
+}

@@ -1,0 +1,163 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 212,
+        "width": 1340,
+        "x": 923,
+        "y": 1169
+      },
+      "entry_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d_0",
+      "people": [
+        {
+          "age": "4 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Татиана",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 212,
+        "width": 1174,
+        "x": 928,
+        "y": 2005
+      },
+      "entry_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d_1",
+      "people": [
+        {
+          "age": "9 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Лукьянова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Лукьян",
+          "other_status": "отец умершего",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 207,
+        "width": 1098,
+        "x": 923,
+        "y": 2493
+      },
+      "entry_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d_3",
+      "people": [
+        {
+          "age": "55",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Матфиев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 196,
+        "width": 1128,
+        "x": 925,
+        "y": 3545
+      },
+      "entry_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Никитское",
+          "info": "крестьянин",
+          "name": "Стефан",
+          "other_status": "отец умершего",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 месяц",
+          "geo": "",
+          "info": "",
+          "name": "Агрипена",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 214,
+        "width": 1109,
+        "x": 932,
+        "y": 3874
+      },
+      "entry_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d_2",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Иаков",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Михаил",
+          "other_status": "отец умершего",
+          "second_name": "Иоакимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "5c4adb5f-4685-4d1a-adcd-5269bea4c03d",
+  "page": 1395,
+  "total_pages": null,
+  "year": 1854
+}

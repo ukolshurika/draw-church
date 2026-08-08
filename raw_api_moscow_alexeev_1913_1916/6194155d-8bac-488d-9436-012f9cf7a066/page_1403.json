@@ -1,0 +1,75 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1340,
+        "x": 1027,
+        "y": 1060
+      },
+      "entry_id": "5e75d541-0f41-4fd9-9cec-85f2a1111eca_0",
+      "people": [
+        {
+          "age": "11 месяцев",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 247,
+        "width": 1193,
+        "x": 1020,
+        "y": 1512
+      },
+      "entry_id": "5e75d541-0f41-4fd9-9cec-85f2a1111eca_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1 год и 6 недель",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Никифорова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "5e75d541-0f41-4fd9-9cec-85f2a1111eca",
+  "page": 1403,
+  "total_pages": null,
+  "year": 1857
+}

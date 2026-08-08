@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 530,
+        "width": 2726,
+        "x": 918,
+        "y": 1067
+      },
+      "entry_id": "e9812c3a-2b68-49b0-b4f3-a4efe1c7d3d6_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Карнеева"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Егор",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Карнеев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская девица",
+          "name": "Параскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Полякова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Чернобаевская волость, деревня Михалково",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Карнеев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Карнеев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 668,
+        "width": 2747,
+        "x": 907,
+        "y": 1801
+      },
+      "entry_id": "e9812c3a-2b68-49b0-b4f3-a4efe1c7d3d6_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Чикурникова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, деревня Николаевка",
+          "info": "крестьянин",
+          "name": "Сергей",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Чикурников"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Озерецкий уезд, Никольское сельцо",
+          "info": "крестьянин",
+          "name": "Прохор",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Калинин"
+        },
+        {
+          "age": "",
+          "geo": "Архангельская губерния, Рикасовский уезд, деревня Перхачево",
+          "info": "вдова, крестьянка",
+          "name": "Параскева",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Лисина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Чикурникова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 894,
+        "width": 2770,
+        "x": 908,
+        "y": 2642
+      },
+      "entry_id": "e9812c3a-2b68-49b0-b4f3-a4efe1c7d3d6_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Латуновская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сафонова"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Хорошеводская волость, село Скородное",
+          "info": "крестьянин",
+          "name": "Сергий",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чернышев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Раненбургский уезд, Ломовская волость, село",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Латуновский"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Латуновская"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Трупчевский уезд, Кокинская волость, деревня Нижняя Слобода",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "other_status": "муж крестной матери",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Сафонов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "e9812c3a-2b68-49b0-b4f3-a4efe1c7d3d6",
+  "page": 149,
+  "total_pages": null,
+  "year": 1915
+}

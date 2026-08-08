@@ -1,0 +1,185 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 186,
+        "width": 1208,
+        "x": 944,
+        "y": 1256
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_0",
+      "people": [
+        {
+          "age": "1 1/2 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Феодор",
+          "second_name": "Яфимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Яфим",
+          "other_status": "отец умершего",
+          "second_name": "Абрамов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1063,
+        "x": 941,
+        "y": 1572
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Никитское",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "other_status": "отец умершего",
+          "second_name": "Лукьянов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Михаил",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1173,
+        "x": 939,
+        "y": 2286
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_2",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Наталья",
+          "second_name": "Даниилова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Даниил",
+          "other_status": "отец умершего",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 191,
+        "width": 1159,
+        "x": 946,
+        "y": 2626
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_3",
+      "people": [
+        {
+          "age": "91",
+          "geo": "сельцо Милорево",
+          "info": "вдова",
+          "name": "Евфимия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 209,
+        "width": 1086,
+        "x": 930,
+        "y": 3703
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_1",
+      "people": [
+        {
+          "age": "2",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "дворовой человек",
+          "name": "Никифор",
+          "other_status": "отец умершего",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 188,
+        "width": 1127,
+        "x": 928,
+        "y": 4088
+      },
+      "entry_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84_5",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "9aa4c1c1-9824-41af-9974-80b4f14f6b84",
+  "page": 1396,
+  "total_pages": null,
+  "year": 1854
+}

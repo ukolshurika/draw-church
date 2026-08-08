@@ -485,6 +485,13 @@ class LinkDownloader:
 
         if not raw.has_markup:
             print("∅")
+            self._storage.write_page(uuid, pn, PageData(
+                year=raw.year,
+                page=pn,
+                node_id=raw.node_id or 0,
+                has_markup=False,
+                entries=[],
+            ))
             time.sleep(_jitter(*DELAYS["after_err"]))
             return meta
 

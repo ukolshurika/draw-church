@@ -1,0 +1,207 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 748,
+        "width": 2764,
+        "x": 896,
+        "y": 1106
+      },
+      "entry_id": "e0e1325e-3999-4cc5-b5f7-565dfc0f168a_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "орловский мещанин",
+          "name": "Никифор",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Николаев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гизина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Силяев"
+        },
+        {
+          "age": "",
+          "geo": "Орловская губерния, Елецкий уезд, Краснополянская волость, село Красное",
+          "info": "крестьянин",
+          "name": "Петр",
+          "other_status": "муж крестной матери",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гизин"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Дорогобужский уезд, Сафоновская волость, деревня Ведосы",
+          "info": "крестьянская девица",
+          "name": "Феодотия",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Силяева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 886,
+        "width": 2778,
+        "x": 905,
+        "y": 2038
+      },
+      "entry_id": "e0e1325e-3999-4cc5-b5f7-565dfc0f168a_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Агрипина",
+          "second_name": "Порфирьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Слесарева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Волоколамский уезд, Яропольская волость, село",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Скочков"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Мамотинская волость, селение Сычи",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Григорьев"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Михайловский уезд, Митятинская волость, деревня Якимовка",
+          "info": "крестьянин",
+          "name": "Агрипин",
+          "other_status": "муж крестной матери",
+          "second_name": "Порфирьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Слесарев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "София",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Григорьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Алексеева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Григорьева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 578,
+        "width": 2786,
+        "x": 896,
+        "y": 2848
+      },
+      "entry_id": "e0e1325e-3999-4cc5-b5f7-565dfc0f168a_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Валентина",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Максимова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Григорьева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Новикова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Владимирский мещанин",
+          "name": "Василий",
+          "second_name": "Григорьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Новиков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Владимирский мещанин",
+          "name": "Григорий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Новиков"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "e0e1325e-3999-4cc5-b5f7-565dfc0f168a",
+  "page": 181,
+  "total_pages": null,
+  "year": 1915
+}

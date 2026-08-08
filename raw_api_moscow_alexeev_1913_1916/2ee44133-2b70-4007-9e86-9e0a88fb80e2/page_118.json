@@ -1,0 +1,197 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 632,
+        "width": 2832,
+        "x": 904,
+        "y": 1124
+      },
+      "entry_id": "73889924-1bb1-464b-9d10-2e46c69760c8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Стоскова"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Стосков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Крошенский уезд, Сестринская волость, село",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Стосков"
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "жена крестьянина",
+          "name": "Екатерина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Маркова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Любовь",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Стоскова"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Рогачевская волость, село",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Стосков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 664,
+        "width": 2838,
+        "x": 907,
+        "y": 1989
+      },
+      "entry_id": "73889924-1bb1-464b-9d10-2e46c69760c8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елизавета",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Чекалина"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Можайский уезд, Бородинская волость, деревня Артемки",
+          "info": "жена крестьянина",
+          "name": "Павел",
+          "other_status": "муж крестной матери",
+          "second_name": "Савельев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ветра",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Рысева"
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Белянинская волость, село Белякино",
+          "info": "по паспорту, выданному волостным правлением за № 677 от 28 мая 1915 года крестьянка",
+          "name": "Вера",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Рысева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 665,
+        "width": 2859,
+        "x": 897,
+        "y": 2893
+      },
+      "entry_id": "73889924-1bb1-464b-9d10-2e46c69760c8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Ардатовский уезд, Верхнежелезненская волость, деревня Проволочки",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Цыпленков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Зинаида",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Антипова"
+        },
+        {
+          "age": "",
+          "geo": "Нижегородская губерния, Ардатовский уезд, Выксунская волость, село Цыксы",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Антипов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евгений",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Антипов"
+        },
+        {
+          "age": "",
+          "geo": "Ардатовский уезд, Верхнежелезненская волость, деревня Проволочки",
+          "info": "девица",
+          "name": "Мария",
+          "second_name": "Герасимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Цыпленкова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "73889924-1bb1-464b-9d10-2e46c69760c8",
+  "page": 118,
+  "total_pages": null,
+  "year": 1915
+}

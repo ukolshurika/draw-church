@@ -1,0 +1,82 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 913,
+        "width": 2670,
+        "x": 959,
+        "y": 1244
+      },
+      "entry_id": "539ba86d-3fce-4f85-9c41-e10d2bef49f7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Лев",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Вахнов"
+        },
+        {
+          "age": "",
+          "geo": "Симбирская губерния, Буинский уезд, Бурундуковская волость, село Крестьянино",
+          "info": "крестьянин",
+          "name": "Афанасий",
+          "second_name": "Гаврилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Герасимов"
+        },
+        {
+          "age": "",
+          "geo": "Владимирская губерния, Суздальский уезд, Торчинская волость, деревня Погибельцево",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Вахнов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Вахнова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Зарайский уезд, Кругловская волость, село Городня",
+          "info": "жена крестьянина",
+          "name": "Наталия",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Каменская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянин",
+          "name": "Владимир",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Форманов"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "539ba86d-3fce-4f85-9c41-e10d2bef49f7",
+  "page": 184,
+  "total_pages": null,
+  "year": 1915
+}

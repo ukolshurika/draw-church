@@ -1,0 +1,207 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 184,
+        "width": 1011,
+        "x": 1037,
+        "y": 1113
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_3",
+      "people": [
+        {
+          "age": "56",
+          "geo": "деревня Рубчиха",
+          "info": "крестьянин",
+          "name": "Алексий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 172,
+        "width": 1111,
+        "x": 1051,
+        "y": 1463
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_2",
+      "people": [
+        {
+          "age": "54",
+          "geo": "сельцо Милорово",
+          "info": "солдатка",
+          "name": "Евдокия",
+          "second_name": "Георгиева",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 182,
+        "width": 1034,
+        "x": 1046,
+        "y": 1845
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_6",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Симеон",
+          "other_status": "отец умершего",
+          "second_name": "Алексиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "2 года",
+          "geo": "",
+          "info": "",
+          "name": "Андрей",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 189,
+        "width": 1011,
+        "x": 1044,
+        "y": 2222
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_5",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Стефан",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Малорево",
+          "info": "ямщик",
+          "name": "Василий",
+          "other_status": "отец умершего",
+          "second_name": "Алексиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 179,
+        "width": 1116,
+        "x": 1048,
+        "y": 2609
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_0",
+      "people": [
+        {
+          "age": "22",
+          "geo": "",
+          "info": "при отпевании железной дороги рядового солдата жена",
+          "name": "Матрона",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 189,
+        "width": 1114,
+        "x": 1065,
+        "y": 3564
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "other_status": "мать умершего",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "3 месяца",
+          "geo": "",
+          "info": "",
+          "name": "Праскева",
+          "second_name": "Михайлова",
+          "sex": "FEMALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    },
+    {
+      "bbox": {
+        "height": 193,
+        "width": 1046,
+        "x": 1069,
+        "y": 3946
+      },
+      "entry_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83_4",
+      "people": [
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Иоанн",
+          "second_name": "Яфимов",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Яфим",
+          "other_status": "отец умершего",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "b5d67c86-ce7e-4dd9-8d1d-5c4af0974b83",
+  "page": 1399,
+  "total_pages": null,
+  "year": 1857
+}

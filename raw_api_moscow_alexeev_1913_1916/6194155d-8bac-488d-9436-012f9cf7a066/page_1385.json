@@ -1,0 +1,319 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 413,
+        "width": 1879,
+        "x": 1002,
+        "y": 858
+      },
+      "entry_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мелания",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Кодратов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Рубчиха",
+          "info": "крестьянин",
+          "name": "Кодрат",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "крестьянская жена",
+          "name": "Дарья",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 357,
+        "width": 1893,
+        "x": 991,
+        "y": 1902
+      },
+      "entry_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Феодосиева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марфа",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Петр",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "солдатка",
+          "name": "Ксения",
+          "second_name": "Ефимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Иоанн",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 303,
+        "width": 1928,
+        "x": 974,
+        "y": 2466
+      },
+      "entry_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Иоанн",
+          "second_name": "Иоаннов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Прокопий",
+          "second_name": "Леонтиев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Леонтий",
+          "second_name": "Фокиев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "солдатка",
+          "name": "Анисья",
+          "second_name": "Фокиева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 368,
+        "width": 1888,
+        "x": 981,
+        "y": 2988
+      },
+      "entry_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Рубанки",
+          "info": "крестьянин",
+          "name": "Герасим",
+          "second_name": "Кононов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Козмина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Ермолаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "солдатка",
+          "name": "Анна",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 357,
+        "width": 1916,
+        "x": 979,
+        "y": 3611
+      },
+      "entry_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Михаил",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "солдатка",
+          "name": "Стефанида",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Милорево",
+          "info": "ямщик",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "a5d07335-7060-4e9c-99df-f0a74a9b51a7",
+  "page": 1385,
+  "total_pages": null,
+  "year": 1857
+}

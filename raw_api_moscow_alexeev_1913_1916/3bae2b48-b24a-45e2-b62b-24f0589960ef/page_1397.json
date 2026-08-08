@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 211,
+        "width": 1101,
+        "x": 922,
+        "y": 1151
+      },
+      "entry_id": "8b55aaeb-8049-4183-bef2-23fb821bc994_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Алексей",
+          "other_status": "отец умершего",
+          "second_name": "Филимонов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": ""
+        },
+        {
+          "age": "1",
+          "geo": "",
+          "info": "",
+          "name": "Василий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "DECEASED",
+          "surname": ""
+        }
+      ],
+      "type": "DEATH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "8b55aaeb-8049-4183-bef2-23fb821bc994",
+  "page": 1397,
+  "total_pages": null,
+  "year": 1854
+}

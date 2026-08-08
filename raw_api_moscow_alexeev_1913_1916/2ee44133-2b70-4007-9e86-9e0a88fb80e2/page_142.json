@@ -1,0 +1,195 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 889,
+        "width": 2889,
+        "x": 911,
+        "y": 1115
+      },
+      "entry_id": "74ac20db-a9f3-493c-9661-2e6a0c684a48_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Одоевский уезд, Ивановская волость, деревня Астапово",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Егоров"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Евдокия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Игнатьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Черкизовский уезд, село Петровское-Лобаново",
+          "info": "крестьянская девица",
+          "name": "Евдокия",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Извольская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дмитрий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Игнатьев"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Крапивенский уезд, Спасская волость, село Спасское",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Степанов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Игнатьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 813,
+        "width": 2927,
+        "x": 910,
+        "y": 2140
+      },
+      "entry_id": "74ac20db-a9f3-493c-9661-2e6a0c684a48_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Вязово",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Филатов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Тихонов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Филатов"
+        },
+        {
+          "age": "",
+          "geo": "Ефремовский уезд, Ступинская волость, деревня Ишутино",
+          "info": "крестьянская девица",
+          "name": "Мария",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Матвеева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ирина",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Филатова"
+        },
+        {
+          "age": "",
+          "geo": "Курская губерния, Грайворонский уезд, Красноярушская волость, село Илек-Пеньковка",
+          "info": "крестьянин",
+          "name": "Тихон",
+          "second_name": "Ефимов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чехунов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 883,
+        "width": 2966,
+        "x": 891,
+        "y": 3023
+      },
+      "entry_id": "74ac20db-a9f3-493c-9661-2e6a0c684a48_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Якимовская волость, деревня Кондаково",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Осипов"
+        },
+        {
+          "age": "",
+          "geo": "Воронежская губерния, Землянской уезд, Фомино-Негачевская волость, село Александровка",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Сергеев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Панков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ольга",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Панкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Панкова"
+        },
+        {
+          "age": "",
+          "geo": "Херсонская губерния, Елисаветградский уезд, Хмелевский уезд, деревня Ново-Николаевка",
+          "info": "жена крестьянина",
+          "name": "Александра",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Яворчук"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "74ac20db-a9f3-493c-9661-2e6a0c684a48",
+  "page": 142,
+  "total_pages": null,
+  "year": 1915
+}

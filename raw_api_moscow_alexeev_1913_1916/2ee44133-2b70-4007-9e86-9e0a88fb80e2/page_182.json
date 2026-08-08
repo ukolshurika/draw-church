@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 890,
+        "width": 2758,
+        "x": 937,
+        "y": 1085
+      },
+      "entry_id": "5c9bd5df-1f19-47a9-bc4c-e464b5fcfe2d_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Моршанский уезд, Покровско-Васильевская волость, село Покровское",
+          "info": "крестьянин",
+          "name": "Анастасий",
+          "other_status": "муж крестной матери",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Шишкин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Звенигородский уезд, Перхутковская волость, село Акулово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Дмитриев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Кузнецов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анастасия",
+          "second_name": "Дмитриева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Шишкина"
+        },
+        {
+          "age": "",
+          "geo": "Тамбовская губерния, Татарщинский уезд, Шатилово",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Федякин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Фомина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Кузнецова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 716,
+        "width": 2746,
+        "x": 963,
+        "y": 2084
+      },
+      "entry_id": "5c9bd5df-1f19-47a9-bc4c-e464b5fcfe2d_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "Калужская губерния, Тарусский уезд, Белинская волость, сельцо Уткино",
+          "info": "дворянка",
+          "name": "Евфимия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Макарьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Александрова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Цыганова"
+        },
+        {
+          "age": "",
+          "geo": "Московский уезд, Серебрянный цех",
+          "info": "московский цеховой",
+          "name": "Василий",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Кутейников"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Мясницкая слобода, № 1861",
+          "info": "московский мещанин",
+          "name": "Николай",
+          "second_name": "Никаноров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Цыганов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Цыганова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 731,
+        "width": 2778,
+        "x": 963,
+        "y": 2816
+      },
+      "entry_id": "5c9bd5df-1f19-47a9-bc4c-e464b5fcfe2d_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Епифанский уезд, Клекотовская волость, село Клекоток",
+          "info": "крестьянская девица",
+          "name": "Варвара",
+          "second_name": "Митрофанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Руднева"
+        },
+        {
+          "age": "",
+          "geo": "село Клекоток",
+          "info": "крестьянин",
+          "name": "Димитрий",
+          "second_name": "Митрофанов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Руднев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Клекоток",
+          "info": "жена крестьянина",
+          "name": "Василиса",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Трифонова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "5c9bd5df-1f19-47a9-bc4c-e464b5fcfe2d",
+  "page": 182,
+  "total_pages": null,
+  "year": 1915
+}

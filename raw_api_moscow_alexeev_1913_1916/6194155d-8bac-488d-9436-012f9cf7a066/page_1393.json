@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 424,
+        "width": 3818,
+        "x": 888,
+        "y": 1150
+      },
+      "entry_id": "486389e7-a564-48fc-b9e2-0a052b9a0506_1",
+      "people": [
+        {
+          "age": "38",
+          "geo": "Клинское ямское село",
+          "info": "ямщик",
+          "name": "Емельян",
+          "second_name": "Адрианов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Андрей",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Гавриил",
+          "second_name": "Адрианов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Герасим",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "35",
+          "geo": "то же сельцо",
+          "info": "вдова",
+          "name": "Евдокия",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 424,
+        "width": 3853,
+        "x": 879,
+        "y": 1767
+      },
+      "entry_id": "486389e7-a564-48fc-b9e2-0a052b9a0506_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Конон",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "17",
+          "geo": "та же деревня",
+          "info": "крестьянская дочь, девица",
+          "name": "Александра",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Максимково",
+          "info": "ямщик",
+          "name": "Максим",
+          "second_name": "Спиридонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "Покровская волость, деревня Покрова",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Кирилл",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Максимково",
+          "info": "ямщик",
+          "name": "Елеазар",
+          "second_name": "Сергиев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 438,
+        "width": 3862,
+        "x": 884,
+        "y": 2370
+      },
+      "entry_id": "486389e7-a564-48fc-b9e2-0a052b9a0506_2",
+      "people": [
+        {
+          "age": "18",
+          "geo": "село Флоровское",
+          "info": "дьячек",
+          "name": "Георгий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": "Лебедев"
+        },
+        {
+          "age": "",
+          "geo": "село Чернеево",
+          "info": "дьячек",
+          "name": "Михаил",
+          "second_name": "Беляев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же село",
+          "info": "умерший дьячок",
+          "name": "Иоанн",
+          "other_status": "отец невесты",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Соколов"
+        },
+        {
+          "age": "17",
+          "geo": "",
+          "info": "девица",
+          "name": "Елисавета",
+          "second_name": "Иоаннова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": "Лебедева (Соколова)"
+        },
+        {
+          "age": "",
+          "geo": "село Соголево",
+          "info": "пономарь",
+          "name": "Феодор",
+          "second_name": "Сахаров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Соколов"
+        },
+        {
+          "age": "",
+          "geo": "село Обухово",
+          "info": "дьячек",
+          "name": "Феодор",
+          "second_name": "Филиппов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": "Соколов"
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "486389e7-a564-48fc-b9e2-0a052b9a0506",
+  "page": 1393,
+  "total_pages": null,
+  "year": 1857
+}

@@ -1,0 +1,225 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 510,
+        "width": 3783,
+        "x": 855,
+        "y": 1000
+      },
+      "entry_id": "b0494fb6-ceb5-4659-9df2-85125e2c3da8_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Николай",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "18",
+          "geo": "то же сельцо",
+          "info": "ямщицкая дочь",
+          "name": "Анна",
+          "second_name": "Анисимова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Василий",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Алексей",
+          "second_name": "Стефанов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "23",
+          "geo": "Клинское ямское сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Петр",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Тимофей",
+          "second_name": "Якимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 559,
+        "width": 3779,
+        "x": 841,
+        "y": 1574
+      },
+      "entry_id": "b0494fb6-ceb5-4659-9df2-85125e2c3da8_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Напругово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Напругово",
+          "info": "крестьянин",
+          "name": "Тимофей",
+          "second_name": "Семенов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Покровская волость, деревня Напругово",
+          "info": "крестьянская дочь, девица",
+          "name": "Татьяна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Мисюрево",
+          "info": "ямщик",
+          "name": "Иван",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "23",
+          "geo": "Клинское село",
+          "info": "ямщик",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Мисюрево",
+          "info": "ямщик",
+          "name": "Михаил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 492,
+        "width": 3799,
+        "x": 811,
+        "y": 2308
+      },
+      "entry_id": "b0494fb6-ceb5-4659-9df2-85125e2c3da8_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Стефан",
+          "second_name": "Павлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "19",
+          "geo": "то же сельцо",
+          "info": "ямщицкая дочь, девица",
+          "name": "Агапия",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Алексей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Герасим",
+          "second_name": "Захаров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "22",
+          "geo": "Клинское ямское сельцо Милорево",
+          "info": "ямщик",
+          "name": "Алексей",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "ямщик",
+          "name": "Козма",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "b0494fb6-ceb5-4659-9df2-85125e2c3da8",
+  "page": 1391,
+  "total_pages": null,
+  "year": 1854
+}

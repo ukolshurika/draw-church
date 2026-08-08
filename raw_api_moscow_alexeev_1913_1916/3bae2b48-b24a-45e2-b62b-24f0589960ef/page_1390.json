@@ -1,0 +1,369 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 528,
+        "width": 3830,
+        "x": 837,
+        "y": 1152
+      },
+      "entry_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0_3",
+      "people": [
+        {
+          "age": "24",
+          "geo": "сельцо Никитское",
+          "info": "той же вотчины и того же сельца крестьянская дочь, девица",
+          "name": "Ирина",
+          "second_name": "Феодосиева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Никитское",
+          "info": "крестьянин",
+          "name": "Лука",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Феодосий",
+          "second_name": "Никитин",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "42",
+          "geo": "сельцо Никитское",
+          "info": "вотчины господина Черея крестьянин",
+          "name": "Алексей",
+          "second_name": "Каллинин",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Никитское",
+          "info": "крестьянин",
+          "name": "Григорий",
+          "second_name": "Михеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "то же сельцо",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 491,
+        "width": 3807,
+        "x": 839,
+        "y": 1865
+      },
+      "entry_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "село Минярево",
+          "info": "ямщик",
+          "name": "Арсений",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "рядовой",
+          "name": "Пахом",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Минярево",
+          "info": "ямщик",
+          "name": "Алексей",
+          "second_name": "Алексеев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "рядовой",
+          "name": "Василий",
+          "second_name": "Иродионов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "34",
+          "geo": "",
+          "info": "при линии железной дороги военно-рабочей роты рядовой",
+          "name": "Антоний",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Клинское село Минярево",
+          "info": "ямщицкая дочь, девица",
+          "name": "Дарья",
+          "second_name": "Алексиева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 443,
+        "width": 3837,
+        "x": 837,
+        "y": 2510
+      },
+      "entry_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0_1",
+      "people": [
+        {
+          "age": "18",
+          "geo": "то же село",
+          "info": "крестьянская дочь, девица",
+          "name": "Марфа",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Данила",
+          "second_name": "Герасимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "20",
+          "geo": "село Флоровское",
+          "info": "вотчины госпожи Черкиль крестьянин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Борисов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Дионисий",
+          "second_name": "Иосифов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Лука",
+          "second_name": "Максимов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 516,
+        "width": 3862,
+        "x": 844,
+        "y": 3099
+      },
+      "entry_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "волдский купец",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворовой человек князя Мелик-Агаева",
+          "name": "Василий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "дворовой человек князя Мелик-Агаева",
+          "name": "Николай",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "волдский купец",
+          "name": "Петр",
+          "second_name": "Михайлов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "вотчина князя Мелик-Агаева, сельцо Кузнецово",
+          "info": "дворовая девица",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "34",
+          "geo": "город Кинеш",
+          "info": "мещанин",
+          "name": "Григорий",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    },
+    {
+      "bbox": {
+        "height": 479,
+        "width": 3888,
+        "x": 844,
+        "y": 3778
+      },
+      "entry_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0_4",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "военно-рабочей роты рядовой",
+          "name": "Вонифатий",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "26",
+          "geo": "",
+          "info": "при линии женской дороги военно-рабочей роты рядовой",
+          "name": "Дементий",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "GROOM",
+          "surname": ""
+        },
+        {
+          "age": "21",
+          "geo": "Клинское село",
+          "info": "сельца Мисюрева Салдатка, вдова",
+          "name": "Марья",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BRIDE",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Алексей",
+          "second_name": "Малахьев",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "сельцо Мисюрево",
+          "info": "ямщик",
+          "name": "Стефан",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "военно-рабочей роты рядовой",
+          "name": "Иван",
+          "second_name": "Симеонов",
+          "sex": "MALE",
+          "status": "WITNESS",
+          "surname": ""
+        }
+      ],
+      "type": "WEDDING"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "8d8cc9cf-08ed-43c8-b98b-33d3d26687d0",
+  "page": 1390,
+  "total_pages": null,
+  "year": 1854
+}

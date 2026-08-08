@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 627,
+        "width": 2813,
+        "x": 899,
+        "y": 1062
+      },
+      "entry_id": "e8301f5f-f3fa-48e4-be0f-a700554b2459_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Московская губерния, Дмитровский уезд, Богословская волость, деревня Якшина",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "Дмитровский уезд, Ильинская волость, село Суворова",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Курышкин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Яков",
+          "other_status": "муж крестной матери",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Волков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Волкова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Клавдия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Волкова"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 659,
+        "width": 2834,
+        "x": 900,
+        "y": 1869
+      },
+      "entry_id": "e8301f5f-f3fa-48e4-be0f-a700554b2459_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Запольская волость, деревня Куркино",
+          "info": "крестьянин",
+          "name": "Филимон",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Сычев"
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Платонов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Сычев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Филимонова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Сычева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Матрона",
+          "second_name": "Симеонова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Сычева"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 604,
+        "width": 2875,
+        "x": 888,
+        "y": 2839
+      },
+      "entry_id": "e8301f5f-f3fa-48e4-be0f-a700554b2459_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Борис",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Дипнер"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Клинской уезд, Борщевская волость, деревня Трехденево",
+          "info": "крестьянин",
+          "name": "Дмитрий",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чугин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Леонидова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Дипнер"
+        },
+        {
+          "age": "",
+          "geo": "город Нарва",
+          "info": "гражданин",
+          "name": "Феодор",
+          "second_name": "Федоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Дипнер"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "e8301f5f-f3fa-48e4-be0f-a700554b2459",
+  "page": 116,
+  "total_pages": null,
+  "year": 1915
+}

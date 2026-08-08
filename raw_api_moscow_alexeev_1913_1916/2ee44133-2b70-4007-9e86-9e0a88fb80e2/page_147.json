@@ -1,0 +1,198 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 746,
+        "width": 2772,
+        "x": 938,
+        "y": 1073
+      },
+      "entry_id": "aa5dcee5-cf62-4b14-9c0a-ff1b285930e3_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Тульская губерния, Новосильский уезд, Толатенская волость, деревня Хворостянка",
+          "info": "крестьянин",
+          "name": "Александр",
+          "other_status": "муж крестной матери",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Казарин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александра",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Казарина"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, город Чернь",
+          "info": "мещанин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Деев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Сергий",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Козлов"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Параскева",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Козлова"
+        },
+        {
+          "age": "",
+          "geo": "Могилевская губерния, Мстиславский уезд, Соинская волость, деревня Корниловка",
+          "info": "крестьянин",
+          "name": "Феодор",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Козлов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 754,
+        "width": 2750,
+        "x": 951,
+        "y": 2038
+      },
+      "entry_id": "aa5dcee5-cf62-4b14-9c0a-ff1b285930e3_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Екатерина",
+          "second_name": "Семенова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Рузский уезд, Ащеринская волость, село Лихачево",
+          "info": "крестьянин",
+          "name": "Василий",
+          "other_status": "муж крестной матери",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Гурьев"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Таисия",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гурьева"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Верейский уезд, Ивановская волость, деревня Еськино",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гурьев"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 793,
+        "width": 2744,
+        "x": 954,
+        "y": 2786
+      },
+      "entry_id": "aa5dcee5-cf62-4b14-9c0a-ff1b285930e3_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "личная почетная гражданка",
+          "name": "Евдокия",
+          "other_status": "жена крестного отца",
+          "second_name": "Сергеева",
+          "sex": "FEMALE",
+          "status": "OTHER",
+          "surname": "Лазарева"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Виктор",
+          "second_name": "",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Калужская губерния, Козельский уезд, Дешевская волость, сельцо",
+          "info": "крестьянка, девица",
+          "name": "Параскева",
+          "second_name": "Захарова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Золотарева"
+        },
+        {
+          "age": "",
+          "geo": "Тульская губерния, Ефремовский уезд, Стрелецкая волость, село Язевка",
+          "info": "крестьянин",
+          "name": "Степан",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Чиховский"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "aa5dcee5-cf62-4b14-9c0a-ff1b285930e3",
+  "page": 147,
+  "total_pages": null,
+  "year": 1915
+}

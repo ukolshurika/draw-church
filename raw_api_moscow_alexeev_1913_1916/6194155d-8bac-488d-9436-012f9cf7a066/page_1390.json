@@ -1,0 +1,247 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 356,
+        "width": 1898,
+        "x": 1066,
+        "y": 1057
+      },
+      "entry_id": "1e006d74-8881-4bff-8bcb-e3b197a18b5f_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Гликерия",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Варвара",
+          "second_name": "Гавриилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Никитская",
+          "info": "крестьянин",
+          "name": "Евграф",
+          "second_name": "Егоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянская жена",
+          "name": "Анастасия",
+          "second_name": "Афонасьева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Гавриил",
+          "second_name": "Галактионов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 391,
+        "width": 1872,
+        "x": 1055,
+        "y": 1858
+      },
+      "entry_id": "1e006d74-8881-4bff-8bcb-e3b197a18b5f_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянская женка",
+          "name": "Ксения",
+          "second_name": "Павлова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Ксения",
+          "second_name": "Стефанова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Петрова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Покрова",
+          "info": "крестьянин",
+          "name": "Петр",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 341,
+        "width": 1894,
+        "x": 1040,
+        "y": 2351
+      },
+      "entry_id": "1e006d74-8881-4bff-8bcb-e3b197a18b5f_3",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Дарья",
+          "second_name": "Егорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Данилов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Даниил",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Рубчиха",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Никифоров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянка",
+          "name": "Анисия",
+          "second_name": "Данилова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 346,
+        "width": 1903,
+        "x": 1038,
+        "y": 2797
+      },
+      "entry_id": "1e006d74-8881-4bff-8bcb-e3b197a18b5f_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "деревня Никитская",
+          "info": "крестьянин",
+          "name": "Яков",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Феоктист",
+          "second_name": "Яковлев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "село Флоровское",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Феодоров",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "деревня Никитская",
+          "info": "крестьянка",
+          "name": "Александра",
+          "second_name": "Ильина",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Марина",
+          "second_name": "Феодорова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "1e006d74-8881-4bff-8bcb-e3b197a18b5f",
+  "page": 1390,
+  "total_pages": null,
+  "year": 1857
+}

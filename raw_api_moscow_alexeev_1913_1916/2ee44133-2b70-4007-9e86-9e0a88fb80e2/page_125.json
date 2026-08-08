@@ -1,0 +1,206 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 702,
+        "width": 2729,
+        "x": 924,
+        "y": 1107
+      },
+      "entry_id": "3e095c52-1666-4acb-b551-2212b2e7278e_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Ряжский уезд, Троице-Лесуховская волость, село Незнаново",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Митин"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Васильева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Митина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "девица",
+          "name": "Елизавета",
+          "second_name": "Степанова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Антонова"
+        },
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Пронский уезд, Юраковская волость, село Филатово",
+          "info": "крестьянин",
+          "name": "Иван",
+          "second_name": "Васильев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Антонов"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 741,
+        "width": 2786,
+        "x": 912,
+        "y": 2067
+      },
+      "entry_id": "3e095c52-1666-4acb-b551-2212b2e7278e_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Архип",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Ромашков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Татьяна",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Ромашкова"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Гжатский уезд, Боскаковская волость, деревня Зарубино",
+          "info": "крестьянин",
+          "name": "Архип",
+          "other_status": "муж крестной матери",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "OTHER",
+          "surname": "Ромашков"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "жена крестьянина",
+          "name": "Акилина",
+          "second_name": "Евдокимова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Иванова"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Александр",
+          "second_name": "Николаев",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Ромашков"
+        },
+        {
+          "age": "",
+          "geo": "Смоленская губерния, Ельнинский уезд, Арнишицкая волость, деревня Никольская",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Лаврентьев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Ромашков"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 668,
+        "width": 2799,
+        "x": 907,
+        "y": 2924
+      },
+      "entry_id": "3e095c52-1666-4acb-b551-2212b2e7278e_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "та же деревня",
+          "info": "крестьянин",
+          "name": "Василий",
+          "second_name": "Тимофеев",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Бекасов"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Марфинский уезд, Пестовская волость, деревня Пестово",
+          "info": "крестьянин",
+          "name": "Николай",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Наталия",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Вера",
+          "second_name": "Николаева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": ""
+        },
+        {
+          "age": "",
+          "geo": "Рузский уезд, деревня Сальково",
+          "info": "крестьянская девица",
+          "name": "Вера",
+          "second_name": "Федорова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Федорова"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "3e095c52-1666-4acb-b551-2212b2e7278e",
+  "page": 125,
+  "total_pages": null,
+  "year": 1915
+}

@@ -1,0 +1,195 @@
+{
+  "entries": [
+    {
+      "bbox": {
+        "height": 755,
+        "width": 2743,
+        "x": 941,
+        "y": 1115
+      },
+      "entry_id": "f8c2503d-edea-4efb-a163-6becee23cf48_0",
+      "people": [
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Пружанский уезд, Добученская волость, село",
+          "info": "крестьянин",
+          "name": "Макарій",
+          "second_name": "Николаевъ",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Петранъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "Екатеринославская мещанка",
+          "name": "Марія",
+          "second_name": "Яковлева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Пятигорская"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Елена",
+          "second_name": "Киприянова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Петранъ"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Михаилъ",
+          "second_name": "Макаровъ",
+          "sex": "MALE",
+          "status": "BORN",
+          "surname": "Петранъ"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Слонімскій уезд, Боркинская волость, деревня Стайки",
+          "info": "крестьянин",
+          "name": "Никифоръ",
+          "second_name": "Степановъ",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Петухъ"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 880,
+        "width": 2754,
+        "x": 948,
+        "y": 1982
+      },
+      "entry_id": "f8c2503d-edea-4efb-a163-6becee23cf48_2",
+      "people": [
+        {
+          "age": "",
+          "geo": "Рязанская губерния, Спасский уезд, Деревенская волость, село Дегтяново",
+          "info": "крестьянин",
+          "name": "Михаил",
+          "second_name": "Петров",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Гуркин"
+        },
+        {
+          "age": "",
+          "geo": "Московская губерния, Сергиевский посад",
+          "info": "мещанка",
+          "name": "Александра",
+          "second_name": "Тимофеева",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Мухина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Мария",
+          "second_name": "Михаилова",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Гуркина"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Пелагия",
+          "second_name": "Миронова",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Гуркина"
+        },
+        {
+          "age": "",
+          "geo": "Гродненская губерния, Брест-Литовский уезд, Радваническая волость, деревня Франополь",
+          "info": "крестьянин",
+          "name": "Роман",
+          "second_name": "Осипов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Панасюк"
+        }
+      ],
+      "type": "BIRTH"
+    },
+    {
+      "bbox": {
+        "height": 828,
+        "width": 2751,
+        "x": 935,
+        "y": 2828
+      },
+      "entry_id": "f8c2503d-edea-4efb-a163-6becee23cf48_1",
+      "people": [
+        {
+          "age": "",
+          "geo": "",
+          "info": "полтавская мещанка",
+          "name": "Анна",
+          "second_name": "Иванова",
+          "sex": "FEMALE",
+          "status": "GODMOTHER",
+          "surname": "Баржицкая"
+        },
+        {
+          "age": "",
+          "geo": "Сумский уезд, Степановская волость, село Аннинское",
+          "info": "крестьянин",
+          "name": "Евстигней",
+          "second_name": "Иванов",
+          "sex": "MALE",
+          "status": "GODFATHER",
+          "surname": "Телихов"
+        },
+        {
+          "age": "",
+          "geo": "Харьковская губерния, Сумский уезд, Белопольская волость",
+          "info": "крестьянин",
+          "name": "Андрей",
+          "second_name": "Андреев",
+          "sex": "MALE",
+          "status": "FATHER",
+          "surname": "Бугаец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Нина",
+          "second_name": "Андреева",
+          "sex": "FEMALE",
+          "status": "BORN",
+          "surname": "Бугаец"
+        },
+        {
+          "age": "",
+          "geo": "",
+          "info": "",
+          "name": "Анна",
+          "second_name": "Никитина",
+          "sex": "FEMALE",
+          "status": "MOTHER",
+          "surname": "Бугаец"
+        }
+      ],
+      "type": "BIRTH"
+    }
+  ],
+  "has_markup": true,
+  "node_id": "f8c2503d-edea-4efb-a163-6becee23cf48",
+  "page": 183,
+  "total_pages": null,
+  "year": 1915
+}
